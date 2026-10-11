@@ -36,6 +36,7 @@ ciphers/<slug>/
   DONE1, REVIEWED1, FINAL …   state markers (see below)
 
 scripts/watch.sh   the watcher that wakes the agent whose turn it is
+skip.txt           cryptogram numbers that are already solved and must be skipped
 ```
 
 ## Protocol: state markers
@@ -76,7 +77,24 @@ Look at which markers exist in `ciphers/<slug>/`:
 
 ## Instructions for the solver
 
+**0. Skip what is already solved.** Do not work on a cryptogram from crypto.hcportal.eu if either holds:
+
+- its number is listed in `skip.txt` in the repo root, or
+- its page on the portal shows the status `Solved`.
+
+In that case create no directory for it, tell the human which rule applied, and move to the next number if you were given a range. When working through a range, go downwards from the highest number.
+
 **1. Setup.** If `ciphers/<slug>/source/` is missing or empty, download the cipher (transcription and scans, if available) and its historical context: who, when, to whom, in what language, and which ciphers were in use at that time and place. Record every file in `SOURCES.md`. Do not edit files in `source/` afterwards – working copies belong in `work/`. Then start the watcher (see the protocol above) so the handover later needs no human.
+
+For cryptograms from crypto.hcportal.eu, read the page `https://crypto.hcportal.eu/dashboard/cryptograms/<number>` in a browser – it is rendered by JavaScript, so a plain HTTP fetch returns an empty shell. There is no data API to use; do not look for one or try to get around access controls. The page has three tabs, and you need all of them:
+
+- **General** – metadata (name, date, language, archive, sender, recipient); save it as `source/metadata.md`. Note the status and tags at the top (e.g. `Solved`, `Unsolvable`) in `SOURCES.md`.
+- **Description** – free-text notes; save them with the metadata.
+- **Attachments** – the cryptogram image, plus any transcriptions and solutions. Save the image to `source/`. If a transcription is attached, save it too; if not, transcribe the image yourself into `work/` and say so in `SOLUTION.md`.
+
+If the portal already attaches a solution, step 3 applies: record it and do not present it as your own.
+
+The [ManuLab API](https://manulab.hcportal.eu/apidoc/index.html) is a public text-statistics service (n-gram frequencies, index of coincidence, entropy, language guess). You may use it as a helper, but it does not serve cryptograms.
 
 **2. Solving.** Keep `NOTES.md` up to date as you go, dead ends included – both the reviewer and you, after being woken, rely on it. Do everything you can with a script in `work/`, not by hand.
 

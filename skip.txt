@@ -1,0 +1,2 @@
+# Cryptograms from crypto.hcportal.eu that must not be worked on (already solved).
+# One cryptogram number per line; anything after # is a comment.
