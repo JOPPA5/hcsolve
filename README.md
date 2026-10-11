@@ -1,113 +1,113 @@
 # hcsolve
 
-Repo na lúštenie historických šifier dvojicou AI agentov:
+A repo for solving historical ciphers with a pair of AI agents:
 
-- **Solver** – hlavný agent, predvolene **GPT**. Zoženie šifru a kontext, lúšti a na konci vyrobí PDF správu.
-- **Reviewer** – druhý agent od iného poskytovateľa, predvolene **Claude**. Nezávisle preverí, čo solver tvrdí.
+- **Solver** – the main agent, **GPT** by default. Fetches the cipher and its context, solves it, and produces a PDF report at the end.
+- **Reviewer** – a second agent from a different provider, **Claude** by default. Independently checks what the solver claims.
 
-Solver po review svoje riešenie opraví a až potom ho uzavrie.
+After the review, the solver corrects its solution and only then closes it.
 
-> **Ak si agent a práve si načítal toto repo:** tento súbor je tvoje zadanie. Najprv si urči rolu (nižšie), potom zisti stav šifry a pokračuj presne od neho.
+> **If you are an agent and have just loaded this repo:** this file is your brief. First determine your role (below), then find the state of the cipher and continue exactly from there.
 
-## Ktorá rola som
+## Which role am I
 
-1. Ak ti rolu určil prompt, ktorým ťa spustili (`solver` / `reviewer`), platí prompt.
-2. Inak platí predvolená rola zo súboru, ktorý si tvoj nástroj načítal pri štarte: `AGENTS.md` → **solver**, `CLAUDE.md` → **reviewer**.
-3. Ak si nenačítal ani jeden, rolu neháď a opýtaj sa.
+1. If the prompt that started you names a role (`solver` / `reviewer`), the prompt wins.
+2. Otherwise use the default role from the file your tool loaded at startup: `AGENTS.md` → **solver**, `CLAUDE.md` → **reviewer**.
+3. If you loaded neither, do not guess your role – ask.
 
-Rola musí sedieť so stavom šifry (tabuľka nižšie). Ak nie si na ťahu, nič nerob a povedz to.
+Your role must match the state of the cipher (table below). If it is not your turn, do nothing and say so.
 
-Ak nevieš, na ktorej šifre robiť, a prompt to nehovorí, opýtaj sa. Nevyberaj si sám.
+If you do not know which cipher to work on and the prompt does not say, ask. Do not pick one yourself.
 
-## Štruktúra
+## Layout
 
-Každá šifra má vlastný priečinok `ciphers/<slug>/` (slug malými písmenami s pomlčkami, napr. `ciphers/copiale/`):
+Each cipher has its own directory `ciphers/<slug>/` (slug in lowercase with hyphens, e.g. `ciphers/copiale/`):
 
 ```
 ciphers/<slug>/
-  source/        pôvodná šifra a kontext – po stiahnutí sa nemení
-  SOURCES.md     odkiaľ pochádza každý súbor v source/ (URL, dátum, čo to je)
-  work/          skripty, pokusy, medzivýsledky
-  NOTES.md       priebežný denník: hypotézy, čo sa skúšalo, čo zlyhalo a prečo
-  SOLUTION.md    aktuálne tvrdenie solvera
-  review/        REVIEW1.md, REVIEW2.md … – píše sem iba reviewer
-  report/        report.pdf a jeho zdroj
-  DONE1, REVIEWED1, FINAL …   značky stavu (pozri nižšie)
+  source/        the original cipher and context – never modified after download
+  SOURCES.md     where each file in source/ came from (URL, date, what it is)
+  work/          scripts, attempts, intermediate results
+  NOTES.md       running log: hypotheses, what was tried, what failed and why
+  SOLUTION.md    the solver's current claim
+  review/        REVIEW1.md, REVIEW2.md … – only the reviewer writes here
+  report/        report.pdf and its source
+  DONE1, REVIEWED1, FINAL …   state markers (see below)
 ```
 
-## Protokol: značky stavu
+## Protocol: state markers
 
-Agenti si odovzdávajú prácu **prázdnymi súbormi-značkami** v priečinku šifry. Na ich vznik počúva externý watcher a zobudí druhého agenta. Značka je teda signál aj záznam stavu.
+Agents hand work over using **empty marker files** in the cipher directory. An external watcher listens for their creation and wakes the other agent. A marker is therefore both the signal and the record of state.
 
-| Značka | Kto ju vytvorí | Čo znamená | Koho zobudí |
+| Marker | Created by | Meaning | Wakes |
 |---|---|---|---|
-| `DONEn` | solver | „myslím si, že mám hotovo, kolo *n*" | reviewera |
-| `REVIEWEDn` | reviewer | „`review/REVIEWn.md` je dopísané" | solvera |
-| `FINAL` | solver | pripomienky zapracované, `report/report.pdf` existuje | nikoho – koniec |
+| `DONEn` | solver | "I think I am done, round *n*" | the reviewer |
+| `REVIEWEDn` | reviewer | "`review/REVIEWn.md` is complete" | the solver |
+| `FINAL` | solver | review addressed, `report/report.pdf` exists | nobody – the end |
 
-Pravidlá pre značky:
+Rules for markers:
 
-- **Značka sa vytvára ako úplne posledný krok.** Najprv dopíš všetky súbory, až potom značku. Watcher zobudí druhého agenta okamžite a ten nesmie nájsť rozpísanú prácu.
-- Do značky napíš jeden riadok: čas v UTC a svoj model (napr. `2026-10-11T19:20Z claude-opus-5-5`).
-- Po vytvorení značky **skonči ťah a nič ďalšie v priečinku nemeň**. Nečakaj v slučke, nespúšťaj druhého agenta sám – zobudí ťa watcher.
-- Značky sa nemažú ani neprepisujú. Ďalšie kolo má ďalšie číslo.
+- **Create the marker as the very last step.** Finish writing every file first, then create the marker. The watcher wakes the other agent immediately, and it must not find half-written work.
+- Write one line into the marker: the UTC time and your model (e.g. `2026-10-11T19:20Z claude-opus-5-5`).
+- After creating a marker, **end your turn and change nothing else in the directory**. Do not wait in a loop and do not start the other agent yourself – the watcher will wake you.
+- Markers are never deleted or overwritten. The next round gets the next number.
 
-### Ako zistiť stav po načítaní repa
+### How to find the state after loading the repo
 
-Pozri sa, ktoré značky v `ciphers/<slug>/` existujú:
+Look at which markers exist in `ciphers/<slug>/`:
 
-| Stav | Na ťahu | Čo robiť |
+| State | Whose turn | What to do |
 |---|---|---|
-| priečinok neexistuje alebo je bez značiek | solver | lúštiť |
-| najvyššie je `DONEn`, chýba `REVIEWEDn` | reviewer | spraviť review kola *n* |
-| najvyššie je `REVIEWEDn` | solver | zapracovať review, potom `FINAL` alebo `DONEn+1` |
-| existuje `FINAL` | nikto | hotovo, nič nemeň bez pokynu človeka |
+| directory missing or has no markers | solver | solve |
+| highest is `DONEn`, no `REVIEWEDn` | reviewer | review round *n* |
+| highest is `REVIEWEDn` | solver | address the review, then `FINAL` or `DONEn+1` |
+| `FINAL` exists | nobody | done; change nothing without an instruction from a human |
 
-## Inštrukcie pre solvera
+## Instructions for the solver
 
-**1. Príprava.** Ak `ciphers/<slug>/source/` neexistuje alebo je prázdny, stiahni šifru (prepis aj skeny, ak sú) a historický kontext: kto, kedy, komu, v akom jazyku, aké šifry sa vtedy a tam používali. Každý súbor zapíš do `SOURCES.md`. Súbory v `source/` potom už neupravuj – pracovné kópie patria do `work/`.
+**1. Setup.** If `ciphers/<slug>/source/` is missing or empty, download the cipher (transcription and scans, if available) and its historical context: who, when, to whom, in what language, and which ciphers were in use at that time and place. Record every file in `SOURCES.md`. Do not edit files in `source/` afterwards – working copies belong in `work/`.
 
-**2. Lúštenie.** Priebežne píš `NOTES.md`, vrátane slepých uličiek – reviewer aj ty po prebudení z nich vychádzate. Všetko, čo sa dá, rob skriptom vo `work/`, nie ručne.
+**2. Solving.** Keep `NOTES.md` up to date as you go, dead ends included – both the reviewer and you, after being woken, rely on it. Do everything you can with a script in `work/`, not by hand.
 
-**3. Čestnosť voči zdrojom.** Ak pri hľadaní kontextu narazíš na už publikované riešenie, zapíš to do `SOURCES.md` a `SOLUTION.md` a nevydávaj ho za vlastné. Čiastočné riešenie označ ako čiastočné.
+**3. Honesty about sources.** If you come across an already published solution while gathering context, record it in `SOURCES.md` and `SOLUTION.md` and do not present it as your own. Label a partial solution as partial.
 
-**4. Odovzdanie (`DONEn`).** Keď si myslíš, že si hotový, napíš `SOLUTION.md`:
+**4. Handover (`DONEn`).** When you think you are done, write `SOLUTION.md`:
 
-- typ šifry a kľúč (tabuľka substitúcie, nomenklátor, kľúčové slovo…)
-- plaintext v pôvodnom jazyku a jeho preklad
-- **jeden príkaz**, ktorý zo súboru v `source/` a kľúča vyrobí celý plaintext
-- čo ostáva neisté: nerozlúštené znaky, hádané slová, alternatívne čítania
-- prečo si myslíš, že je to správne (pokrytie textu, zmysluplnosť, zhoda s kontextom)
+- the cipher type and the key (substitution table, nomenclator, keyword…)
+- the plaintext in the original language and its translation
+- **a single command** that produces the full plaintext from the file in `source/` and the key
+- what remains uncertain: undeciphered symbols, guessed words, alternative readings
+- why you believe it is correct (coverage of the text, coherence, agreement with the context)
 
-Až potom vytvor `DONEn` a skonči.
+Only then create `DONEn` and stop.
 
-**5. Po prebudení (`REVIEWEDn`).** Prečítaj `review/REVIEWn.md` a pridaj do `SOLUTION.md` sekciu `## Odpoveď na review n`, kde ku každej pripomienke uvedieš, čo si opravil, alebo prečo s ňou nesúhlasíš (s dôkazom). Potom:
+**5. After being woken (`REVIEWEDn`).** Read `review/REVIEWn.md` and add a section `## Response to review n` to `SOLUTION.md`, stating for each finding what you fixed or why you disagree (with evidence). Then:
 
-- verdikt `ACCEPT`, alebo `REVISE` a pripomienky si zapracoval → vyrob PDF a vytvor `FINAL`
-- verdikt `REJECT`, alebo si riešenie podstatne zmenil → vytvor `DONEn+1` a nechaj to preveriť znova
+- verdict `ACCEPT`, or `REVISE` and you have addressed the findings → produce the PDF and create `FINAL`
+- verdict `REJECT`, or you changed the solution substantially → create `DONEn+1` and have it checked again
 
-**6. PDF správa.** `report/report.pdf` (zdroj nechaj vedľa, napr. `report/report.md`) obsahuje: pôvod a kontext šifry, postup, kľúč, plaintext a preklad, čo ostalo neisté, zhrnutie review a čo sa po ňom zmenilo. Píš ju pre človeka, ktorý nevidel nič z `work/`.
+**6. PDF report.** `report/report.pdf` (keep its source next to it, e.g. `report/report.md`) contains: the origin and context of the cipher, the method, the key, the plaintext and translation, what remains uncertain, and a summary of the review and what changed because of it. Write it for a person who has seen nothing in `work/`.
 
-## Inštrukcie pre reviewera
+## Instructions for the reviewer
 
-Tvoja úloha je **pokúsiť sa riešenie vyvrátiť**, nie ho potvrdiť. Solverovým tvrdeniam never, kým si ich sám neoveríš.
+Your job is to **try to refute the solution**, not to confirm it. Do not trust the solver's claims until you have verified them yourself.
 
-- Zapisuješ **iba** do `review/`. Solverove súbory ani `source/` nemeň; vlastné overovacie skripty daj do `review/work/`.
-- Spusti príkaz zo `SOLUTION.md` a porovnaj výstup s tvrdeným plaintextom. Ak sa dá, dešifruj aj vlastným nezávislým skriptom.
-- Over, že kľúč je konzistentný a pokrýva **celý** šifrový text, nie len vybrané pasáže.
-- Over prepis proti skenom v `source/`, ak sú.
-- Posúď plaintext: je to skutočný jazyk danej doby, alebo náhodné slová natlačené na šum? Sedia mená, dátumy a miesta s kontextom?
-- Skontroluj, či solver priznal všetky neistoty a či nepoužil publikované riešenie bez uvedenia.
+- Write **only** to `review/`. Do not change the solver's files or `source/`; put your own verification scripts in `review/work/`.
+- Run the command from `SOLUTION.md` and compare its output with the claimed plaintext. Where possible, also decrypt with your own independent script.
+- Check that the key is consistent and covers the **entire** ciphertext, not just selected passages.
+- Check the transcription against the scans in `source/`, if there are any.
+- Judge the plaintext: is it real language of that period, or random words forced onto noise? Do names, dates and places fit the context?
+- Check that the solver disclosed every uncertainty and did not use a published solution without saying so.
 
-Výsledok napíš do `review/REVIEWn.md`:
+Write the result to `review/REVIEWn.md`:
 
-- **Verdikt** na prvom riadku: `ACCEPT`, `REVISE` alebo `REJECT`
-- čo si overil a ako (príkazy, výstupy)
-- číslované pripomienky, každá s dôkazom a závažnosťou (`blocker` / `major` / `minor`)
-- čo si overiť nevedel
+- **Verdict** on the first line: `ACCEPT`, `REVISE` or `REJECT`
+- what you verified and how (commands, outputs)
+- numbered findings, each with evidence and a severity (`blocker` / `major` / `minor`)
+- what you could not verify
 
-Až potom vytvor `REVIEWEDn` a skonči. Riešenie neopravuj sám – to je práca solvera.
+Only then create `REVIEWEDn` and stop. Do not fix the solution yourself – that is the solver's job.
 
-## Pre človeka: watcher
+## For the human: the watcher
 
-Repo watcher neobsahuje. Stačí čokoľvek, čo sleduje `ciphers/*/` a pri vzniku `DONE*` spustí reviewera, pri vzniku `REVIEWED*` solvera – s promptom, ktorý uvedie rolu a cestu k šifre.
+This repo does not contain the watcher. Anything that watches `ciphers/*/` will do: when a `DONE*` file appears, start the reviewer; when a `REVIEWED*` file appears, start the solver – with a prompt that states the role and the path to the cipher.

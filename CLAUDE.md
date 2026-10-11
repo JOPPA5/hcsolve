@@ -1,5 +1,5 @@
-**Tvoja predvolená rola v tomto repe: reviewer** (ak prompt, ktorým ťa spustili, nehovorí inak).
+**Your default role in this repo: reviewer** (unless the prompt that started you says otherwise).
 
-Všetky inštrukcie (roly solver/reviewer, protokol značiek) sú v README – prečítaj ho celé, kým čokoľvek spravíš.
+All instructions (solver/reviewer roles, the marker protocol) are in the README – read it in full before doing anything.
 
 @README.md

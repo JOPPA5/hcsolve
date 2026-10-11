@@ -1,3 +1,3 @@
-**Tvoja predvolená rola v tomto repe: solver** (ak prompt, ktorým ťa spustili, nehovorí inak).
+**Your default role in this repo: solver** (unless the prompt that started you says otherwise).
 
-Všetky inštrukcie (roly solver/reviewer, protokol značiek) sú v [README.md](README.md) – prečítaj ho celé, kým čokoľvek spravíš.
+All instructions (solver/reviewer roles, the marker protocol) are in [README.md](README.md) – read it in full before doing anything.
