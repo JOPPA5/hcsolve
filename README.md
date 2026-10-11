@@ -61,7 +61,8 @@ Rules for markers:
 
 - **Create the marker as the very last step.** Finish writing every file first, check the watcher is running, then create the marker. The watcher wakes the other agent immediately, and it must not find half-written work.
 - Write one line into the marker: the UTC time and your model (e.g. `2026-10-11T19:20Z claude-opus-5-5`).
-- After creating a marker, **end your turn and change nothing else in the directory**. Do not wait in a loop and do not start the other agent yourself – the watcher starts it, and later starts you again in a fresh session.
+- After creating a marker, **change nothing else in that cipher's directory**. Do not wait in a loop and do not start the other agent yourself – the watcher starts it, and later starts you again in a fresh session.
+- If you were given a single cipher, end your turn after creating the marker. **If you are the solver working through a range, do not end your turn: go on to the next number.** The review of each cipher is handled by the fresh session the watcher starts, so several ciphers can be in review while you keep solving.
 - Markers are never deleted or overwritten. The next round gets the next number.
 
 ### How to find the state after loading the repo
@@ -108,7 +109,7 @@ The [ManuLab API](https://manulab.hcportal.eu/apidoc/index.html) is a public tex
 - what remains uncertain: undeciphered symbols, guessed words, alternative readings
 - why you believe it is correct (coverage of the text, coherence, agreement with the context)
 
-Only then create `DONEn` and stop.
+Only then create `DONEn`. Stop there for a single cipher; in a range, continue with the next number.
 
 **5. After being woken (`REVIEWEDn`).** Read `review/REVIEWn.md` and add a section `## Response to review n` to `SOLUTION.md`, stating for each finding what you fixed or why you disagree (with evidence). Then:
 
