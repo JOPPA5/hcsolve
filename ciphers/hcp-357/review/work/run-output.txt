@@ -1,0 +1,28 @@
+== reproduction of the solver's stored results
+IDENTICAL baseline.json
+IDENTICAL cipher.txt
+IDENTICAL cipher-full.txt
+IDENTICAL results.txt
+IDENTICAL results-reverse.txt
+IDENTICAL results-full.txt
+IDENTICAL multistage-results.txt
+IDENTICAL multistage-full-results.txt
+== planted-plaintext control
+
+== plaintext 1: ministerstvozahranicnychvecioznamujezevyznamenaniabuduodovzdanevyslancovidnadvad
+   true-plaintext score under solver's model: 234.1
+   single w=11 : recovered=True  best line score=234.051
+   2-stage w=18: recovered=False  best score=181.6  best text=nomnadausudodivanasmvnychlanejenymnezaciiobudnychratiestvonievazdrzavezacovzdniv
+   3-stage w=18: recovered=False  best score=176.2  best text=yuznetividlacianadazataschodemnedmanovzvonusianaodnichovcernymnejuzdravizvysnevb
+
+== plaintext 2: ziadametelegrafickuodpovedcivladasuhlasisnavrhomnaodovzdanieradovclenomdelegacie
+   true-plaintext score under solver's model: 198.6
+   single w=11 : recovered=True  best line score=198.591
+   2-stage w=18: recovered=False  best score=187.6  best text=fgelkedalaviaahrudapresizvievedodovelmaciednaziadvetnarolachodcesanomusilnomodcg
+   3-stage w=18: recovered=False  best score=168.6  best text=hverivladosachciatalamikednozadliadevesvedeniafcgodvsemdoponaucilalaznedomrogeru
+
+== plaintext 3: vyslanectvodostaloinstrukciuabyvyznamenaniaodovzdaloosobnepriprilezitostistatneh
+   true-plaintext score under solver's model: 243.0
+   single w=11 : recovered=True  best line score=242.969
+   2-stage w=18: recovered=False  best score=183.5  best text=prasiltdautoslevychodolostincentotininazapriatziavskobolavobysavysenimzednetorun
+   3-stage w=18: recovered=False  best score=202.7  best text=iouprislislaktonenzovetolnarotvastvznatenicibysavynadietychorazostenimdabudopols
