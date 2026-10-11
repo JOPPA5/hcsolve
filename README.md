@@ -32,12 +32,23 @@ ciphers/<slug>/
   SOLUTION.md    the solver's current claim
   review/        REVIEW1.md, REVIEW2.md … – only the reviewer writes here
   report/        report.pdf and its source
+  register-entry.txt   the entry for the AI Decipherment Register (solver, step 7)
   DONE1, REVIEWED1, FINAL …   state markers (see below)
+
+scripts/watch.sh   the watcher that wakes the agent whose turn it is
 ```
 
 ## Protocol: state markers
 
-Agents hand work over using **empty marker files** in the cipher directory. An external watcher listens for their creation and wakes the other agent. A marker is therefore both the signal and the record of state.
+Agents hand work over using **marker files** in the cipher directory. A watcher (`scripts/watch.sh`) listens for them and wakes the other agent. A marker is therefore both the signal and the record of state.
+
+**Starting the watcher is the agent's job, not the human's.** Before you create any marker, make sure it is running for your cipher:
+
+```bash
+nohup scripts/watch.sh ciphers/<slug> >/dev/null 2>&1 &
+```
+
+The script is safe to start repeatedly – if a watcher for that cipher is already running, the new one exits at once. It logs to `ciphers/<slug>/.watch.log` and stops by itself once `FINAL` exists. If the other agent does not seem to have been woken, read that log before doing anything else.
 
 | Marker | Created by | Meaning | Wakes |
 |---|---|---|---|
@@ -47,9 +58,9 @@ Agents hand work over using **empty marker files** in the cipher directory. An e
 
 Rules for markers:
 
-- **Create the marker as the very last step.** Finish writing every file first, then create the marker. The watcher wakes the other agent immediately, and it must not find half-written work.
+- **Create the marker as the very last step.** Finish writing every file first, check the watcher is running, then create the marker. The watcher wakes the other agent immediately, and it must not find half-written work.
 - Write one line into the marker: the UTC time and your model (e.g. `2026-10-11T19:20Z claude-opus-5-5`).
-- After creating a marker, **end your turn and change nothing else in the directory**. Do not wait in a loop and do not start the other agent yourself – the watcher will wake you.
+- After creating a marker, **end your turn and change nothing else in the directory**. Do not wait in a loop and do not start the other agent yourself – the watcher starts it, and later starts you again in a fresh session.
 - Markers are never deleted or overwritten. The next round gets the next number.
 
 ### How to find the state after loading the repo
@@ -65,7 +76,7 @@ Look at which markers exist in `ciphers/<slug>/`:
 
 ## Instructions for the solver
 
-**1. Setup.** If `ciphers/<slug>/source/` is missing or empty, download the cipher (transcription and scans, if available) and its historical context: who, when, to whom, in what language, and which ciphers were in use at that time and place. Record every file in `SOURCES.md`. Do not edit files in `source/` afterwards – working copies belong in `work/`.
+**1. Setup.** If `ciphers/<slug>/source/` is missing or empty, download the cipher (transcription and scans, if available) and its historical context: who, when, to whom, in what language, and which ciphers were in use at that time and place. Record every file in `SOURCES.md`. Do not edit files in `source/` afterwards – working copies belong in `work/`. Then start the watcher (see the protocol above) so the handover later needs no human.
 
 **2. Solving.** Keep `NOTES.md` up to date as you go, dead ends included – both the reviewer and you, after being woken, rely on it. Do everything you can with a script in `work/`, not by hand.
 
@@ -83,10 +94,27 @@ Only then create `DONEn` and stop.
 
 **5. After being woken (`REVIEWEDn`).** Read `review/REVIEWn.md` and add a section `## Response to review n` to `SOLUTION.md`, stating for each finding what you fixed or why you disagree (with evidence). Then:
 
-- verdict `ACCEPT`, or `REVISE` and you have addressed the findings → produce the PDF and create `FINAL`
+- verdict `ACCEPT`, or `REVISE` and you have addressed the findings → produce the PDF and the register entry, then create `FINAL`
 - verdict `REJECT`, or you changed the solution substantially → create `DONEn+1` and have it checked again
 
 **6. PDF report.** `report/report.pdf` (keep its source next to it, e.g. `report/report.md`) contains: the origin and context of the cipher, the method, the key, the plaintext and translation, what remains uncertain, and a summary of the review and what changed because of it. Write it for a person who has seen nothing in `work/`.
+
+**7. Register entry.** Solved cryptograms are submitted to the [AI Decipherment Register](https://ai.hcportal.eu/register/). Before creating `FINAL`, write `ciphers/<slug>/register-entry.txt` containing exactly one entry in this format:
+
+```
+{submitted: "2026-10-11", solver: "<name given by the human>", source: "https://crypto.hcportal.eu/dashboard/cryptograms/489", name: "pc_hcp_489", type: "MASC", model: "OpenAI GPT", version: "GPT-6 Astra", role: "transcription, analysis, decipherment; independent review by Claude Opus 5.5", agents: "YES", documentation: "https://github.com/JOPPA5/hcsolve/tree/main/ciphers/hcp-489"},
+```
+
+- `submitted` – the UTC date you create `FINAL`
+- `solver` – the person's name as given by the human; if you were not given one, write `"TODO"` and say so in your final message
+- `source` – the cryptogram's page; `name` – its name as used on the portal
+- `type` – the cipher type you established (e.g. `MASC`, `Mirror writing`, `Nomenclator`)
+- `model` / `version` – the solver's own vendor and model, stated truthfully
+- `role` – what the AI actually did, plus the reviewer's model
+- `agents` – `"YES"` in this workflow
+- `documentation` – the URL of the cipher directory in this repo
+
+Cryptograms from crypto.hcportal.eu use the slug `hcp-<number>`. Only write an entry for a solution the review accepted; for a partial or rejected one, write no entry.
 
 ## Instructions for the reviewer
 
@@ -110,4 +138,13 @@ Only then create `REVIEWEDn` and stop. Do not fix the solution yourself – that
 
 ## For the human: the watcher
 
-This repo does not contain the watcher. Anything that watches `ciphers/*/` will do: when a `DONE*` file appears, start the reviewer; when a `REVIEWED*` file appears, start the solver – with a prompt that states the role and the path to the cipher.
+You do not need to start anything – the agents start `scripts/watch.sh` themselves. You only choose how the agents are launched. The defaults are:
+
+```bash
+SOLVER_CMD="codex exec --full-auto"
+REVIEWER_CMD="claude -p --allowedTools Read,Write,Edit,Glob,Grep,Bash"
+```
+
+To change them (another model, other flags), put the overrides in a `watch.conf` file in the repo root. The watcher appends the prompt as the last argument; it states the role and the path to the cipher.
+
+Both agents run unattended with permission to run commands, on content that includes files downloaded from the internet. Run this on a machine and account where that is acceptable.

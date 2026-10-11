@@ -1,2 +1,5 @@
 .memsearch/.index-state.json
 .DS_Store
+.watch.pid
+.watch.log
+watch.conf
