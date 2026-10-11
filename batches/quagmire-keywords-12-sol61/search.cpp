@@ -1,0 +1,18 @@
+#include <algorithm>
+#include <cmath>
+#include <fstream>
+#include <iostream>
+#include <numeric>
+#include <random>
+#include <string>
+#include <vector>
+using namespace std;
+vector<float>q4(26*26*26*26,-4),q5(26*26*26*26*26,-5);double uni[26];mt19937 rng(334330061);vector<int>ct;int T;int kind;
+struct Candidate{string word,slots;vector<int>A,R;int lookup[26][26];float score;};
+void setup(Candidate&x){x.A.resize(26);for(int i=0;i<26;i++)x.A[x.slots[i]-'a']=i;for(int c=0;c<26;c++)for(int r=0;r<26;r++)x.lookup[c][r]=kind==1?x.slots[(c-r+26)%26]-'a':(x.A[c]-r+26)%26;}
+vector<int>plain(const Candidate&x,const vector<int>&R){vector<int>p(ct.size());for(int i=0;i<ct.size();i++)p[i]=ct[i]<0?-1:x.lookup[ct[i]][R[i%T]];return p;}
+float score(const Candidate&x,const vector<int>&R,int n){auto p=plain(x,R);float s=0;for(int i=0;i+n<=p.size();i++){int id=0;bool erased=false;for(int j=0;j<n;j++){if(p[i+j]<0){erased=true;break;}id=id*26+p[i+j];}if(!erased)s+=(n==4?q4[id]:q5[id]);}return s;}
+vector<int>greedy(const Candidate&x,vector<int>R,int n,int passes){float current=score(x,R,n);for(int pass=0;pass<passes;pass++){bool changed=false;for(int phase=0;phase<T;phase++){auto best=R;float high=current;for(int r=0;r<26;r++){auto trial=R;trial[phase]=r;float z=score(x,trial,n);if(z>high+1e-5){high=z;best=trial;}}if(high>current+1e-5)changed=true;R=best;current=high;}if(!changed)break;}return R;}
+void refine(Candidate&x,int n,int restarts,int moves){auto seed=x.R;auto best=seed;float high=score(x,seed,n);for(int k=0;k<restarts;k++){auto R=seed;if(k)for(int&r:R)r=rng()%26;R=greedy(x,R,n,3);float current=score(x,R,n);for(int it=0;it<moves;it++){auto trial=R;trial[rng()%T]=rng()%26;float z=score(x,trial,n),temp=.2+9*(1-(it%5000)/5000.0);if(z>=current||uniform_real_distribution<float>(0,1)(rng)<exp((z-current)/temp)){R=trial;current=z;}if(it%250==0){R=greedy(x,R,n,2);current=score(x,R,n);}if(current>high){high=current;best=R;}}}x.R=best;x.score=high;}
+void emit(const vector<Candidate>&candidates,const string&filename,int n){ofstream f(filename);for(auto&x:candidates){f<<x.score<<" "<<x.word<<" "<<x.slots<<" ";for(int r:x.R)f<<r<<",";f<<" ";for(int c:plain(x,x.R))f<<(c<0?'?':char('a'+c));f<<"\n";}}
+int main(int argc,char**argv){kind=stoi(argv[6]);string models=argv[1];for(int n:{4,5}){ifstream f(models+"/ring-"+to_string(n)+"grams.tsv");string g;float v;while(f>>g>>v){int id=0;for(char c:g)id=id*26+c-'a';(n==4?q4:q5)[id]=v;}}ifstream f(models+"/ring-unigrams.tsv");string letter;double value;while(f>>letter>>value)uni[letter[0]-'a']=value;ifstream cipher(argv[2]);string s;cipher>>s;for(char c:s)ct.push_back(c=='?'?-1:c-'a');T=stoi(argv[3]);int H[32][26]={};for(int i=0;i<ct.size();i++)if(ct[i]>=0)H[i%T][ct[i]]++;ifstream words(argv[4]);vector<Candidate>best;Candidate x;int count=0;while(words>>x.word>>x.slots){setup(x);x.R.assign(T,0);for(int phase=0;phase<T;phase++){double high=-1e30;for(int r=0;r<26;r++){double z=0;for(int c=0;c<26;c++)z+=H[phase][c]*uni[x.lookup[c][r]];if(z>high){high=z;x.R[phase]=r;}}}x.R=greedy(x,x.R,4,6);x.score=score(x,x.R,4);best.push_back(x);if(best.size()>128){auto worst=min_element(best.begin(),best.end(),[](auto&a,auto&b){return a.score<b.score;});best.erase(worst);}if(++count%2000==0)cerr<<count<<"\n";}sort(best.begin(),best.end(),[](auto&a,auto&b){return a.score>b.score;});emit(best,string(argv[5])+"-screen.txt",4);for(auto&x:best)refine(x,4,4,5000);sort(best.begin(),best.end(),[](auto&a,auto&b){return a.score>b.score;});emit(best,string(argv[5])+"-four.txt",4);best.resize(min(64,(int)best.size()));for(auto&x:best)refine(x,5,4,10000);sort(best.begin(),best.end(),[](auto&a,auto&b){return a.score>b.score;});emit(best,string(argv[5])+"-five.txt",5);cerr<<"complete "<<count<<" alphabets\n";return 0;}

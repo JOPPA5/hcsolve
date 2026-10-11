@@ -1,0 +1,13 @@
+# Published R key reuse scout — main OpenAI GPT
+
+A primary published method example supplies physical label arrays of widths21,19,20. The example is historical context, not a plaintext of any target in this batch. Its exact intermediate grids and inverse were independently verified in batches/historical-context/r-example-verification.json, citing Antal/Zajac/Grosek HistoCrypt2020 Fig.5 p.28 (immutable PDF batches/analysis-395-396/context-paper.pdf). Reuse of its historical daily key on another date is unsupported; this is an explicit cheap hypothesis, not a complete R search.
+
+For each candidate, rotate each physical label array to start with daily n, then standard row-write/read-ascending-label columnar encryption. All six orders of the three arrays, constant n and progressive n,n+1,n+2, with only valid per-stage labels, produce221 candidate triple keys. Decrypt in reverse stage order. Forward/reverse literal texts are separate cases. Frozen3/4/5gram weights .15/.4/.8 rank whole plaintexts.
+
+Two fresh held-out Slovak UD TEST windows,115/100 letters, independently selected absent TRAIN, with constant11 and progressive7 starting positions, recover all plaintext at rank0. These use the same published base arrays, since the test is finite key reuse, not discovery of arbitrary base arrays. Controls are in controls.json.
+
+Initial278 cases span396/345/393/367/374/369/371/399/395/363/364, with single-group omission hypotheses for short candidates, explicit396 C/O branches. All10 retained candidates per case re-encrypt exactly. Unknown symbols remain dots. The initial393/371/399 full variants included unencrypted numeric header characters as erasures; those artificial extra slots are NOT the letter payload. A separate body-scout.py removes each printed all-numeric initial header, preserves all ragged letter groups, and records44 new cases (full bodies plus every393 letter-group omission, both orders), skipping inputs already tested exactly. The header-bearing initial cases remain preserved for transparency.363 literal4/8/? erasures are retained; no source edits.
+
+No best full candidate in these322 cases is coherent. Algebraic checks validate transformations only. This excludes no historical family or unknown historical base key. The published key/date applicability, indicator omission, alphabet/preprocessing, segmentation and stage model remain unestablished. No markers or register entries.
+
+Reproduce: python3 batches/r-published-keys/scout.py ; python3 batches/r-published-keys/body-scout.py. Models remain frozen in batches/scoring-sol61/frequency; both scripts, exact keys, all10 whole candidates/case and controls are preserved.

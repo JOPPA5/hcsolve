@@ -1,0 +1,3 @@
+# Algorithm provenance
+
+American Cryptogram Association, LANAKI Lesson16, PDF page35 (zero-based34), Myszkowski rules and FICTION/PAPILLA worked examples. https://www.cryptogram.org/downloads/LANAKI%20Crypto%20Lessons/LESSON16.pdf accessed2026-10-11. Repeated keyword columns share rank and are read by rows left-to-right within their rank group; unique ranks produce ordinary column readout. Initial flattened PDF row transcription was mistaken and reconstructed from readable whole sentence. All discrepancies in published vectors are preserved in primary-vector.json, not silently corrected. These are algorithm calibration examples, not target solutions. No historical use on these targets is established.

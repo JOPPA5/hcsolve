@@ -1,0 +1,3 @@
+Primary ACA LANAKI Lesson16: https://www.cryptogram.org/downloads/LANAKI%20Crypto%20Lessons/LESSON16.pdf . Downloaded on2026-10-11; source/lesson16.pdf preserved, relevant printed36/37 renderings visually inspected. Example verification records the PDF hash and complete worked-grid agreement. This is a generic Cadenus description, not evidence of the MZV telegram system.
+
+Read-only frozen model sources and hashes: model-provenance.json. Own copies change literal backslash-t separators to tabs only. Parent requested pause before blind controls or actual targets. No target solution source was searched or used.

@@ -1,0 +1,3 @@
+Unresolved targets; no decipherment claim.
+
+A genuine blind 385-letter held-out control was recovered exactly under unknown bijective input/output rings and progressive d_i=i, with both 26-position rings correct up to common rotation. The independently keyed 115-letter control failed. Exploratory whole forward/reverse HCP350,351,369 branches all remain incoherent, including generic 4-/5-gram winners and saved input-ring neighbors. All keys/plaintexts independently reencrypt, but that only verifies algebraic consistency. No family exclusion, source modification or marker. See REPORT.md, checks.json and inspection.txt.

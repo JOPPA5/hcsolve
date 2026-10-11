@@ -1,0 +1,13 @@
+#include "language.hpp"
+#include <iostream>
+#include <vector>
+#include <array>
+#include <algorithm>
+#include <cmath>
+#include <queue>
+using namespace std;int mod(int x){return(x%26+26)%26;}using Node=pair<int,int>;struct Winner{double s;vector<Node>h;bool operator<(const Winner&o)const{return s>o.s;}};priority_queue<Winner>top;int n=23,a0,b0,requiredK;vector<int>c(104),prefix(24);array<array<int,26>,23>H{};array<double,26>lp;vector<vector<Node>>layers;vector<Node>path;long long pathcount=0;vector<vector<char>>can;double profile(){d.clear();for(int side=0;side<2;side++){vector<int>x;int base=side?b0:a0;for(int i=0;i<cipher[side].size();i++){int off=side?path[i%23].second:path[i%23].first;x.push_back(mod(c[base+off]-c[base]+23*(i/23)+(side?requiredK:0)));}d.push_back(x);}return score(P,project(O));}
+
+void dfs(int j,int a,int b){if(j==n){if(mod(c[b0+52]-c[b0+b])!=requiredK)return;pathcount++;double s=profile();if(top.size()<100||s>top.top().s){auto abs=path;for(auto &v:abs){v.first=(v.first+a0)%52;v.second=(v.second+b0)%52;}top.push({s,abs});if(top.size()>100)top.pop();}return;}for(int k=0;k<(int)layers[j].size();k++){auto[x,y]=layers[j][k];if(x>a&&y>b&&can[j][k]){path[j]={x,y};dfs(j+1,x,y);}}}
+int main(int argc,char**argv){requiredK=stoi(argv[1]);load("batches/kryha-two-mask-reset-sol61/dummy-pair.txt","batches/kryha-two-mask-reset-sol61/zero-schedule.txt","batches/kryha-mask-sol61","ciphers/hcp-350/work");ifstream data(argv[2]);string sa,sb;data>>sa>>sb;cipher.clear();for(auto &ss:{sa,sb}){vector<int>v;for(char ch:ss)v.push_back(ch-97);cipher.push_back(v);}for(int&x:O)data>>x;for(int&x:P)data>>x;vector<int>d(52),delta(23);for(auto&x:d)cin>>x;for(auto&x:delta)cin>>x;for(auto&x:lp)cin>>x;sort(lp.begin(),lp.end(),greater<double>());for(auto&r:H)for(auto&x:r)cin>>x;for(int i=1;i<104;i++)c[i]=c[i-1]+d[(i-1)%52];for(int j=0;j<23;j++)prefix[j+1]=mod(prefix[j]+delta[j]);for(a0=0;a0<52;a0++)for(b0=0;b0<52;b0++){layers.assign(n,{});can.assign(n,{});for(int j=1;j<n;j++)for(int a=j;a<=52-(n-j);a++)for(int b=j;b<=52-(n-j);b++)if(mod(c[b0+b]-c[a0+a]-c[b0]+c[a0])==prefix[j])layers[j].push_back({a,b});for(int j=n-1;j>0;j--){can[j].assign(layers[j].size(),0);for(int k=0;k<(int)layers[j].size();k++){if(j==n-1){can[j][k]=1;continue;}auto[a,b]=layers[j][k];for(int l=0;l<(int)layers[j+1].size();l++){auto[x,y]=layers[j+1][l];if(can[j+1][l]&&x>a&&y>b){can[j][k]=1;break;}}}}path.assign(n,{0,0});dfs(1,0,0);}
+vector<Winner>w;while(top.size()){w.push_back(top.top());top.pop();}reverse(w.begin(),w.end());cout.precision(15);cout<<"COUNT "<<pathcount<<'\n';// paths stored need absolute anchors; fix below
+for(auto&r:w){cout<<r.s;for(auto[a,b]:r.h)cout<<' '<<a<<' '<<b;cout<<'\n';}}

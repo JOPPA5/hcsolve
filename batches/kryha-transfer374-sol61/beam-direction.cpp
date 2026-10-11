@@ -1,0 +1,11 @@
+#include <algorithm>
+#include <array>
+#include <fstream>
+#include <iostream>
+#include <string>
+#include <vector>
+using namespace std;
+vector<float> model[6]; int P[26],O[26],coord[52]; int m,B,S;
+float gram(const array<unsigned char,160>&p,int end,int n){int z=0;for(int i=end-n+1;i<=end;i++)z=z*26+(p[i]==9?23:p[i]);return model[n][z];}
+struct Node{float score=0;int last=0;array<unsigned char,30> h{};array<unsigned char,160> p{};};
+int main(int ac,char**av){if(ac!=7)return 2;ifstream cfg(av[1]);for(int&i:P)cfg>>i;for(int&i:O)cfg>>i;for(int&i:coord)cfg>>i;cfg>>S;ifstream cf(av[2]);string ct;cf>>ct;int N=ct.size();m=stoi(av[3]);B=stoi(av[4]);string root=av[5];for(int n=2;n<=5;n++){int sz=1;for(int i=0;i<n;i++)sz*=26;model[n].assign(sz,-n);string file=n<4?root+"/batches/kryha-mask-sol61/model"+to_string(n)+".tsv":root+"/ciphers/hcp-350/work/ring-"+to_string(n)+"grams.tsv";ifstream f(file);if(!f)return 3;string s;float v;while(f>>s>>v){int z=0;for(char c:s)z=z*26+c-'a';model[n][z]=v;}}float w[]={0,0,.1,.15,.4,.8};vector<pair<float,string>> wins;ofstream out(av[6]);for(int a=0;a<52;a++)for(int d=0;d<26;d++){unsigned char tab[30][52][8]{};for(int j=0;j<m;j++)for(int t=0;t<52;t++){int dist=coord[(a+t)%52]+(a+t>=52?179:0)-coord[a];for(int r=0;j+r*m<N;r++){int k=j+r*m;tab[j][t][r]=P[(O[ct[k]-'a']-d-S*dist-S*179*r+1040)%26];}}vector<Node>beam(1);for(int r=0;r*m<N;r++)beam[0].p[r*m]=tab[0][0][r];for(int j=1;j<m;j++){vector<Node>next;next.reserve(beam.size()*32);for(auto &q:beam)for(int t=q.last+1;t<=51-(m-1-j);t++){Node z=q;z.last=t;z.h[j]=t;for(int r=0;j+r*m<N;r++){int k=j+r*m;z.p[k]=tab[j][t][r];for(int n=2;n<=5;n++)if(j>=n-1)z.score+=w[n]*gram(z.p,k,n);}if(j==m-1){z.score=0;for(int k=0;k<N;k++)for(int n=2;n<=5;n++)if(k>=n-1)z.score+=w[n]*gram(z.p,k,n);}next.push_back(z);}if(next.size()>size_t(B)){nth_element(next.begin(),next.begin()+B,next.end(),[](auto&a,auto&b){return a.score>b.score;});next.resize(B);}beam.swap(next);}for(auto&q:beam){float s=0;for(int i=0;i<N;i++)for(int n=2;n<=5;n++)if(i>=n-1)s+=w[n]*gram(q.p,i,n);q.score=s;}sort(beam.begin(),beam.end(),[](auto&a,auto&b){return a.score>b.score;});auto&q=beam[0];out<<q.score<<' '<<a<<' '<<d<<' ';for(int j=0;j<m;j++)out<<(a+q.h[j])%52<<',';out<<' ';for(int i=0;i<N;i++)out<<char('a'+q.p[i]);out<<'\n';} }

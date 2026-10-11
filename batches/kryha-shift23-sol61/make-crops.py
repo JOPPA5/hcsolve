@@ -1,0 +1,7 @@
+from pathlib import Path
+import subprocess,json
+b=Path(__file__).resolve().parent;r=b.parents[1]
+items=[('351-g6',351,1,410,680,48,170),('351-g10-12',351,1,453,170,48,340),('351-g15-17',351,1,453,530,48,325),('351-ekwjz',351,1,450,95,47,150),('351-gvpzh-rfpff',351,1,450,720,47,220),('351-zsbbr',351,1,490,440,47,150),('351-hrlzo',351,1,525,175,48,180),('351-eljoy',351,1,525,670,48,180),('351-lvbnf-iihuu-bbxob',351,1,560,470,48,340),('351-ubxqv',351,1,598,290,47,140),('351-eyjhq-nnwcs',351,1,598,535,47,300),('351-zoaca-exuvc',351,1,633,180,47,250),('351-jxfhl',351,1,633,710,47,170),('350-gmiag',350,1,475,720,47,230),('350-lghfn',350,1,516,570,46,180),('350-pckgg-jdmlt',350,1,591,535,47,310),('350-nkmxk',350,1,591,780,47,190),('350-fqmvn',350,1,629,545,47,200),('350-jeuno-plusw-gwjcb',350,2,387,275,48,370),('350-glrie',350,2,387,760,48,210),('350-tlldu',350,2,433,375,48,210)]
+for name,n,page,y,x,h,w in items:
+ p=b/(name+'.jpg');src=r/(f'ciphers/hcp-350/source/cryptogram-{page}.jpg' if n==350 else 'ciphers/hcp-351/source/cryptogram.jpg');subprocess.run(['sips','-c',str(h),str(w),'--cropOffset',str(y),str(x),str(src),'--out',str(p)],check=True,stdout=subprocess.DEVNULL);subprocess.run(['sips','-z',str(h*4),str(w*4),str(p)],check=True,stdout=subprocess.DEVNULL)
+(b/'crop-geometry.json').write_text(json.dumps([dict(label=z[0],cipher=z[1],page=z[2],y=z[3],x=z[4],height=z[5],width=z[6],zoom=4,interpolation='sips standard; no enhancement/AI reconstruction') for z in items],indent=2)+'\n')

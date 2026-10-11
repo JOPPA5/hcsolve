@@ -1,0 +1,7 @@
+{
+  "ciphertext.txt": "cfa88ead014408d35c348ddb33e3ff8e70addc71965ea160ffed13f5a4f867c5",
+  "ciphertext-moderate.txt": "fdb0d1aa31ceed0de4c1fc5a1bbc08433b566b6e468f873f838eddaa9dc0e0cb",
+  "ciphertext-strong.txt": "6beedc0750bef628b1db66bc524189cd53268268577b2233bac50e5a1036c0be",
+  "ciphertext-collated-moderate.txt": "d24d453366383de9d1ca6e4e2a2ed0ca67c32e107a2adde25753cf4f6194cf0a",
+  "ciphertext-before-review1.txt": "397e340ba8a24c29dd1a0891b65608d02301480e3f38407db0e3a66a11f2e64b"
+}

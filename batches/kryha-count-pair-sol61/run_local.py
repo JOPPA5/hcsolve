@@ -1,0 +1,7 @@
+from codec import *
+import sys,subprocess
+folder=Path(sys.argv[1]).resolve();rows=json.loads((folder/'bridge-results.json').read_text());seed=max(rows,key=lambda z:z['score']);out=folder/'local-joint';out.mkdir(exist_ok=True);(out/'seed.json').write_text(json.dumps(seed,indent=2));rings=out/'rings.txt';rings.write_text(' '.join(map(str,seed['input_slots']+seed['output_positions']))+'\n');holes=out/'holes.txt';holes.write_text(' '.join(map(str,seed['holes']))+'\n');sf=out/'schedule.txt';sf.write_text(' '.join(map(str,schedule(seed['holes'])))+'\n')
+if not(out/'result.txt').exists():
+ with(out/'result.partial').open('w')as stdout,(out/'search.log').open('w')as stderr:subprocess.run([str(B/'pair-local-mask'),str(folder/'ciphertexts.txt'),str(sf),str(SMALL),str(LARGE),str(B/'coordinates.txt'),str(rings),str(holes)],stdout=stdout,stderr=stderr,check=True)
+ (out/'result.partial').rename(out/'result.txt')
+lines=(out/'result.txt').read_text().splitlines();keys=list(map(int,lines[1].split()));r=dict(score=float(lines[0]),input_slots=keys[:26],output_positions=keys[26:],plaintexts=lines[2:4],holes=list(map(int,lines[4].split())),seed_selection='unchanged highest complete language score across four blind final seeds',truth_used_for_search=False,objective='joint exhaustive admissible one-hole/start neighbors times all325 input swaps, plus26 cyclic rotations; full2/3/4/5gram score');check(r,(folder/'ciphertexts.txt').read_text().split(),models());(out/'result.json').write_text(json.dumps(r,indent=2));print(folder.name,r['score'])

@@ -1,0 +1,18 @@
+{
+  "checked_on": "2026-10-11",
+  "url": "https://crypto.hcportal.eu/dashboard/cipher-keys",
+  "method": "Rendered browser UI; selected All, then Full Filters; all320 rows includingheader read via visible table DOM",
+  "displayed_record_count": 319,
+  "matching_rows": 0,
+  "terms": [
+    "Slovak",
+    "MZV",
+    "Bratislava",
+    "1938",
+    "1939",
+    "1940-1945",
+    "Kryha",
+    "SVERK"
+  ],
+  "limitation": "Only public displayed metadata searched. No matching public dailykey found; this does not establish that archivalkeys do not exist."
+}

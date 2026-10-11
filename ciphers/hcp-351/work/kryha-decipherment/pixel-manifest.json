@@ -1,0 +1,611 @@
+[
+  {
+    "label": "pixel-strong",
+    "pair": [
+      "350-pixel-strong.txt",
+      "351-pixel-strong.txt"
+    ],
+    "edits": [
+      {
+        "cipher": 350,
+        "edits": [
+          {
+            "position_one_based": 232,
+            "group_one_based": 47,
+            "within_group": 2,
+            "before": "d",
+            "after": "b",
+            "crop": "350-pckgg-jdmlt.jpg",
+            "confidence": "strong",
+            "evidence": "JBMLT has a second-character B with two lobes; blue stamp crosses it."
+          },
+          {
+            "position_one_based": 280,
+            "group_one_based": 56,
+            "within_group": 5,
+            "before": "n",
+            "after": "h",
+            "crop": "350-fqmvn.jpg",
+            "confidence": "strong",
+            "evidence": "FQMVH final H has two vertical strokes and a crossbar."
+          },
+          {
+            "position_one_based": 320,
+            "group_one_based": 64,
+            "within_group": 5,
+            "before": "w",
+            "after": "n",
+            "crop": "350-jeuno-plusw-gwjcb.jpg",
+            "confidence": "strong",
+            "evidence": "PLUSN final N has two stems and diagonal, not W."
+          },
+          {
+            "position_one_based": 321,
+            "group_one_based": 65,
+            "within_group": 1,
+            "before": "g",
+            "after": "c",
+            "crop": "350-jeuno-plusw-gwjcb.jpg",
+            "confidence": "strong",
+            "evidence": "CWJCB first C is open without G crossbar."
+          }
+        ]
+      },
+      {
+        "cipher": 351,
+        "edits": [
+          {
+            "position_one_based": 27,
+            "group_one_based": 6,
+            "within_group": 2,
+            "before": "e",
+            "after": "f",
+            "crop": "351-g6.jpg",
+            "confidence": "strong",
+            "evidence": "OFMFS second F lacks bottom E bar."
+          },
+          {
+            "position_one_based": 33,
+            "group_one_based": 7,
+            "within_group": 3,
+            "before": "o",
+            "after": "u",
+            "crop": "351-g6.jpg",
+            "confidence": "strong",
+            "evidence": "ULULL third U open at top."
+          },
+          {
+            "position_one_based": 48,
+            "group_one_based": 10,
+            "within_group": 3,
+            "before": "w",
+            "after": "m",
+            "crop": "351-ekwjz.jpg",
+            "confidence": "strong",
+            "evidence": "EKMJZ third M has vertical stems."
+          },
+          {
+            "position_one_based": 53,
+            "group_one_based": 11,
+            "within_group": 3,
+            "before": "o",
+            "after": "q",
+            "crop": "351-g10-12.jpg",
+            "confidence": "strong",
+            "evidence": "XXQQH first Q has descending tail."
+          },
+          {
+            "position_one_based": 54,
+            "group_one_based": 11,
+            "within_group": 4,
+            "before": "o",
+            "after": "q",
+            "crop": "351-g10-12.jpg",
+            "confidence": "strong",
+            "evidence": "XXQQH second Q has descending tail."
+          },
+          {
+            "position_one_based": 58,
+            "group_one_based": 12,
+            "within_group": 3,
+            "before": "n",
+            "after": "u",
+            "crop": "351-g10-12.jpg",
+            "confidence": "strong",
+            "evidence": "HAUEN third U open-top curved base."
+          },
+          {
+            "position_one_based": 73,
+            "group_one_based": 15,
+            "within_group": 3,
+            "before": "c",
+            "after": "o",
+            "crop": "351-g15-17.jpg",
+            "confidence": "strong",
+            "evidence": "XUOMC third O closed."
+          },
+          {
+            "position_one_based": 74,
+            "group_one_based": 15,
+            "within_group": 4,
+            "before": "n",
+            "after": "m",
+            "crop": "351-g15-17.jpg",
+            "confidence": "strong",
+            "evidence": "XUOMC fourth M has middle notch."
+          },
+          {
+            "position_one_based": 90,
+            "group_one_based": 18,
+            "within_group": 5,
+            "before": "f",
+            "after": "n",
+            "crop": "351-gvpzh-rfpff.jpg",
+            "confidence": "strong",
+            "evidence": "RFPFN final N has diagonal and right stem."
+          },
+          {
+            "position_one_based": 157,
+            "group_one_based": 32,
+            "within_group": 2,
+            "before": "r",
+            "after": "p",
+            "crop": "351-hrlzo.jpg",
+            "confidence": "strong",
+            "evidence": "HPJZO second P has no R leg."
+          },
+          {
+            "position_one_based": 158,
+            "group_one_based": 32,
+            "within_group": 3,
+            "before": "l",
+            "after": "j",
+            "crop": "351-hrlzo.jpg",
+            "confidence": "strong",
+            "evidence": "HPJZO third J hooks left at bottom."
+          },
+          {
+            "position_one_based": 188,
+            "group_one_based": 38,
+            "within_group": 3,
+            "before": "j",
+            "after": "i",
+            "crop": "351-eljoy.jpg",
+            "confidence": "strong",
+            "evidence": "ELIQY third I straight, no hook."
+          },
+          {
+            "position_one_based": 189,
+            "group_one_based": 38,
+            "within_group": 4,
+            "before": "o",
+            "after": "q",
+            "crop": "351-eljoy.jpg",
+            "confidence": "strong",
+            "evidence": "ELIQY fourth Q tail below oval."
+          },
+          {
+            "position_one_based": 234,
+            "group_one_based": 47,
+            "within_group": 4,
+            "before": "n",
+            "after": "m",
+            "crop": "351-lvbnf-iihuu-bbxob.jpg",
+            "confidence": "strong",
+            "evidence": "LVBMF fourth M has center notch."
+          },
+          {
+            "position_one_based": 241,
+            "group_one_based": 49,
+            "within_group": 1,
+            "before": "b",
+            "after": "u",
+            "crop": "351-lvbnf-iihuu-bbxob.jpg",
+            "confidence": "strong",
+            "evidence": "UBXCB first U open at top."
+          },
+          {
+            "position_one_based": 244,
+            "group_one_based": 49,
+            "within_group": 4,
+            "before": "o",
+            "after": "c",
+            "crop": "351-lvbnf-iihuu-bbxob.jpg",
+            "confidence": "strong",
+            "evidence": "UBXCB fourth C open right."
+          },
+          {
+            "position_one_based": 268,
+            "group_one_based": 54,
+            "within_group": 3,
+            "before": "x",
+            "after": "y",
+            "crop": "351-ubxqv.jpg",
+            "confidence": "strong",
+            "evidence": "UBYQV third Y stem below fork."
+          },
+          {
+            "position_one_based": 291,
+            "group_one_based": 59,
+            "within_group": 1,
+            "before": "n",
+            "after": "y",
+            "crop": "351-eyjhq-nnwcs.jpg",
+            "confidence": "strong",
+            "evidence": "YWWCS first Y has lower single stem."
+          },
+          {
+            "position_one_based": 292,
+            "group_one_based": 59,
+            "within_group": 2,
+            "before": "n",
+            "after": "w",
+            "crop": "351-eyjhq-nnwcs.jpg",
+            "confidence": "strong",
+            "evidence": "YWWCS second W zigzag, obscured by blue stamp."
+          },
+          {
+            "position_one_based": 342,
+            "group_one_based": 69,
+            "within_group": 2,
+            "before": "x",
+            "after": "y",
+            "crop": "351-eyjhq-nnwcs.jpg",
+            "confidence": "strong",
+            "evidence": "JYFHL second Y stem below fork."
+          }
+        ]
+      }
+    ],
+    "matched_cells": 347,
+    "remaining_mismatch_indices350_zero": [
+      80,
+      84,
+      121,
+      229,
+      238,
+      314,
+      374
+    ],
+    "reading_process": "prediction-assisted independent pixel inspection, not blind; no correction made solely to force cycle",
+    "source_sha256": {
+      "ciphers/hcp-350/source/cryptogram-1.jpg": "b446dd08644ecae8fa197dba8c40d722a7e51cb6fb4de88ca64673568d966bb6",
+      "ciphers/hcp-350/source/cryptogram-2.jpg": "b6afa52f39067bc8a04a698b506788c1084f7c7aa0957c31b01d3bf5329cb0e1",
+      "ciphers/hcp-351/source/cryptogram.jpg": "19c2e3280caf245493590fe1f0c65381b3ed843859586a3645a64c2ba507fd48"
+    }
+  },
+  {
+    "label": "pixel-strong-plus-moderate",
+    "pair": [
+      "350-pixel-strong-plus-moderate.txt",
+      "351-pixel-strong-plus-moderate.txt"
+    ],
+    "edits": [
+      {
+        "cipher": 350,
+        "edits": [
+          {
+            "position_one_based": 232,
+            "group_one_based": 47,
+            "within_group": 2,
+            "before": "d",
+            "after": "b",
+            "crop": "350-pckgg-jdmlt.jpg",
+            "confidence": "strong",
+            "evidence": "JBMLT has a second-character B with two lobes; blue stamp crosses it."
+          },
+          {
+            "position_one_based": 280,
+            "group_one_based": 56,
+            "within_group": 5,
+            "before": "n",
+            "after": "h",
+            "crop": "350-fqmvn.jpg",
+            "confidence": "strong",
+            "evidence": "FQMVH final H has two vertical strokes and a crossbar."
+          },
+          {
+            "position_one_based": 320,
+            "group_one_based": 64,
+            "within_group": 5,
+            "before": "w",
+            "after": "n",
+            "crop": "350-jeuno-plusw-gwjcb.jpg",
+            "confidence": "strong",
+            "evidence": "PLUSN final N has two stems and diagonal, not W."
+          },
+          {
+            "position_one_based": 321,
+            "group_one_based": 65,
+            "within_group": 1,
+            "before": "g",
+            "after": "c",
+            "crop": "350-jeuno-plusw-gwjcb.jpg",
+            "confidence": "strong",
+            "evidence": "CWJCB first C is open without G crossbar."
+          }
+        ]
+      },
+      {
+        "cipher": 351,
+        "edits": [
+          {
+            "position_one_based": 27,
+            "group_one_based": 6,
+            "within_group": 2,
+            "before": "e",
+            "after": "f",
+            "crop": "351-g6.jpg",
+            "confidence": "strong",
+            "evidence": "OFMFS second F lacks bottom E bar."
+          },
+          {
+            "position_one_based": 33,
+            "group_one_based": 7,
+            "within_group": 3,
+            "before": "o",
+            "after": "u",
+            "crop": "351-g6.jpg",
+            "confidence": "strong",
+            "evidence": "ULULL third U open at top."
+          },
+          {
+            "position_one_based": 48,
+            "group_one_based": 10,
+            "within_group": 3,
+            "before": "w",
+            "after": "m",
+            "crop": "351-ekwjz.jpg",
+            "confidence": "strong",
+            "evidence": "EKMJZ third M has vertical stems."
+          },
+          {
+            "position_one_based": 53,
+            "group_one_based": 11,
+            "within_group": 3,
+            "before": "o",
+            "after": "q",
+            "crop": "351-g10-12.jpg",
+            "confidence": "strong",
+            "evidence": "XXQQH first Q has descending tail."
+          },
+          {
+            "position_one_based": 54,
+            "group_one_based": 11,
+            "within_group": 4,
+            "before": "o",
+            "after": "q",
+            "crop": "351-g10-12.jpg",
+            "confidence": "strong",
+            "evidence": "XXQQH second Q has descending tail."
+          },
+          {
+            "position_one_based": 58,
+            "group_one_based": 12,
+            "within_group": 3,
+            "before": "n",
+            "after": "u",
+            "crop": "351-g10-12.jpg",
+            "confidence": "strong",
+            "evidence": "HAUEN third U open-top curved base."
+          },
+          {
+            "position_one_based": 73,
+            "group_one_based": 15,
+            "within_group": 3,
+            "before": "c",
+            "after": "o",
+            "crop": "351-g15-17.jpg",
+            "confidence": "strong",
+            "evidence": "XUOMC third O closed."
+          },
+          {
+            "position_one_based": 74,
+            "group_one_based": 15,
+            "within_group": 4,
+            "before": "n",
+            "after": "m",
+            "crop": "351-g15-17.jpg",
+            "confidence": "strong",
+            "evidence": "XUOMC fourth M has middle notch."
+          },
+          {
+            "position_one_based": 90,
+            "group_one_based": 18,
+            "within_group": 5,
+            "before": "f",
+            "after": "n",
+            "crop": "351-gvpzh-rfpff.jpg",
+            "confidence": "strong",
+            "evidence": "RFPFN final N has diagonal and right stem."
+          },
+          {
+            "position_one_based": 157,
+            "group_one_based": 32,
+            "within_group": 2,
+            "before": "r",
+            "after": "p",
+            "crop": "351-hrlzo.jpg",
+            "confidence": "strong",
+            "evidence": "HPJZO second P has no R leg."
+          },
+          {
+            "position_one_based": 158,
+            "group_one_based": 32,
+            "within_group": 3,
+            "before": "l",
+            "after": "j",
+            "crop": "351-hrlzo.jpg",
+            "confidence": "strong",
+            "evidence": "HPJZO third J hooks left at bottom."
+          },
+          {
+            "position_one_based": 188,
+            "group_one_based": 38,
+            "within_group": 3,
+            "before": "j",
+            "after": "i",
+            "crop": "351-eljoy.jpg",
+            "confidence": "strong",
+            "evidence": "ELIQY third I straight, no hook."
+          },
+          {
+            "position_one_based": 189,
+            "group_one_based": 38,
+            "within_group": 4,
+            "before": "o",
+            "after": "q",
+            "crop": "351-eljoy.jpg",
+            "confidence": "strong",
+            "evidence": "ELIQY fourth Q tail below oval."
+          },
+          {
+            "position_one_based": 234,
+            "group_one_based": 47,
+            "within_group": 4,
+            "before": "n",
+            "after": "m",
+            "crop": "351-lvbnf-iihuu-bbxob.jpg",
+            "confidence": "strong",
+            "evidence": "LVBMF fourth M has center notch."
+          },
+          {
+            "position_one_based": 241,
+            "group_one_based": 49,
+            "within_group": 1,
+            "before": "b",
+            "after": "u",
+            "crop": "351-lvbnf-iihuu-bbxob.jpg",
+            "confidence": "strong",
+            "evidence": "UBXCB first U open at top."
+          },
+          {
+            "position_one_based": 244,
+            "group_one_based": 49,
+            "within_group": 4,
+            "before": "o",
+            "after": "c",
+            "crop": "351-lvbnf-iihuu-bbxob.jpg",
+            "confidence": "strong",
+            "evidence": "UBXCB fourth C open right."
+          },
+          {
+            "position_one_based": 268,
+            "group_one_based": 54,
+            "within_group": 3,
+            "before": "x",
+            "after": "y",
+            "crop": "351-ubxqv.jpg",
+            "confidence": "strong",
+            "evidence": "UBYQV third Y stem below fork."
+          },
+          {
+            "position_one_based": 291,
+            "group_one_based": 59,
+            "within_group": 1,
+            "before": "n",
+            "after": "y",
+            "crop": "351-eyjhq-nnwcs.jpg",
+            "confidence": "strong",
+            "evidence": "YWWCS first Y has lower single stem."
+          },
+          {
+            "position_one_based": 292,
+            "group_one_based": 59,
+            "within_group": 2,
+            "before": "n",
+            "after": "w",
+            "crop": "351-eyjhq-nnwcs.jpg",
+            "confidence": "strong",
+            "evidence": "YWWCS second W zigzag, obscured by blue stamp."
+          },
+          {
+            "position_one_based": 342,
+            "group_one_based": 69,
+            "within_group": 2,
+            "before": "x",
+            "after": "y",
+            "crop": "351-eyjhq-nnwcs.jpg",
+            "confidence": "strong",
+            "evidence": "JYFHL second Y stem below fork."
+          },
+          {
+            "position_one_based": 82,
+            "group_one_based": 17,
+            "within_group": 2,
+            "before": "v",
+            "after": "n",
+            "crop": "351-gvpzh-rfpff.jpg",
+            "confidence": "moderate",
+            "evidence": "GNPZH second glyph is obscured by stamp; N plausible, V also remains defensible."
+          },
+          {
+            "position_one_based": 86,
+            "group_one_based": 18,
+            "within_group": 1,
+            "before": "r",
+            "after": "p",
+            "crop": "351-gvpzh-rfpff.jpg",
+            "confidence": "moderate",
+            "evidence": "PFPFN first glyph lower right covered by stamp; P plausible, R not decisively excluded."
+          }
+        ]
+      }
+    ],
+    "matched_cells": 349,
+    "remaining_mismatch_indices350_zero": [
+      121,
+      229,
+      238,
+      314,
+      374
+    ],
+    "reading_process": "prediction-assisted independent pixel inspection, not blind; no correction made solely to force cycle",
+    "source_sha256": {
+      "ciphers/hcp-350/source/cryptogram-1.jpg": "b446dd08644ecae8fa197dba8c40d722a7e51cb6fb4de88ca64673568d966bb6",
+      "ciphers/hcp-350/source/cryptogram-2.jpg": "b6afa52f39067bc8a04a698b506788c1084f7c7aa0957c31b01d3bf5329cb0e1",
+      "ciphers/hcp-351/source/cryptogram.jpg": "19c2e3280caf245493590fe1f0c65381b3ed843859586a3645a64c2ba507fd48"
+    }
+  },
+  {
+    "label": "post-review1-default",
+    "reading_process": "Prose-assisted source reinspection after review; agrees with pre-recovery blind Claude for 11,12,231. Not a new blind reading.",
+    "edits": [
+      {
+        "position_one_based": 11,
+        "before": "r",
+        "after": "p",
+        "confidence": "moderate",
+        "evidence": "Group3 has a printed P bowl; the apparent diagonal leg overlaps the blue stamp. P is preferred; R remains an obscured alternative."
+      },
+      {
+        "position_one_based": 12,
+        "before": "w",
+        "after": "m",
+        "confidence": "moderate",
+        "evidence": "Group3 has vertical outer strokes consistent with M; the stamp crosses the middle. M is preferred; W remains an obscured alternative."
+      },
+      {
+        "position_one_based": 231,
+        "before": "l",
+        "after": "i",
+        "confidence": "moderate",
+        "evidence": "Group47 first glyph is a straight I; the lower portion overlaps the blue stamp. Adopt I with blind-reader agreement, retain L alternative in pre-review snapshots."
+      }
+    ],
+    "retained": [
+      {
+        "position_one_based": 86,
+        "letter": "r",
+        "alternative": "p",
+        "evidence": "Visible diagonal leg favors R. P is the blind-reader/lexically correct alternative; retained raw PSEDAVAIUCI is disclosed as a garble."
+      },
+      {
+        "position_one_based": 73,
+        "letter": "o",
+        "alternative": "u",
+        "evidence": "Closed oval favors O; blind reader marked U uncertain."
+      }
+    ]
+  }
+]

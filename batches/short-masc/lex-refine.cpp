@@ -1,0 +1,9 @@
+#define main monoOriginalMain
+#include "mono.cpp"
+#undef main
+#include "frozen-lex.hpp"
+#include <sstream>
+#include <unordered_map>
+unordered_map<string,float>cache;
+float combined(vector<int>k){string p=decode(k);auto i=cache.find(p);if(i!=cache.end())return i->second;float v=score(p)+2*lex(p);cache[p]=v;return v;}
+int main(int argc,char**argv){load(argv[1]);loadLex(argv[1]);if(string(argv[3])=="score"){ifstream f(argv[2]);string p;while(f>>p)cout<<score(p)<<" lex="<<lex(p)<<" combined="<<score(p)+2*lex(p)<<" plain="<<p<<'\n';return 0;}ifstream f(argv[2]),results(argv[3]);f>>ct;N=stoi(argv[4]);string line;vector<Candidate>candidates;set<string>seen;while(getline(results,line)){auto at=line.find("key=");if(at==string::npos)continue;string text=line.substr(at+4,N);vector<int>k;for(char c:text)k.push_back(c-'a');for(int a=0;a<N;a++)for(int b=a;b<N;b++){auto kk=k;swap(kk[a],kk[b]);string sig=decode(kk,false);if(seen.insert(sig).second)candidates.push_back({combined(kk),kk});}}auto order=[](auto&a,auto&b){return a.sc>b.sc;};sort(candidates.begin(),candidates.end(),order);auto starts=candidates;starts.resize(min(8,(int)starts.size()));for(auto c:starts){for(int pass=0;pass<8;pass++){auto best=c;for(int a=0;a<N;a++)for(int b=a+1;b<N;b++){auto k=c.key;swap(k[a],k[b]);float ns=combined(k);if(ns>best.sc+.001)best={ns,k};}if(best.sc<=c.sc+.001)break;c=best;}candidates.push_back(c);}sort(candidates.begin(),candidates.end(),order);seen.clear();int rank=0;for(auto c:candidates){auto raw=decode(c.key,false);if(!seen.insert(raw).second)continue;cout<<rank++<<" score="<<c.sc<<" key=";for(int v:c.key)cout<<char('a'+v);cout<<" plain="<<decode(c.key)<<" raw="<<raw<<'\n';if(rank==64)break;}cerr<<"neighbors "<<candidates.size()-starts.size()<<" lexical starts "<<starts.size()<<" distinct_folded_scores "<<cache.size()<<'\n';}

@@ -1,0 +1,2 @@
+#include "language.hpp"
+int main(int argc,char**argv){load(argv[1],argv[2],argv[3],argv[4]);ifstream seed(argv[5]);for(int&x:P)seed>>x;for(int&x:O)seed>>x;int steps=stoi(argv[6]);mt19937 rng(52770131);float now=score(P,project(O)),best=now;auto bp=P,bo=O;for(int it=0;it<steps;it++){auto pp=P,oo=O;int a=rng()%26,b=rng()%26;if((it/2500)%2==0)swap(pp[a],pp[b]);else swap(oo[a],oo[b]);float next=score(pp,project(oo)),temp=.2+12*(1.-(it%10000)/10000.);if(next>=now||log((rng()+1.)/4294967297.)<(next-now)/temp){P=pp;O=oo;now=next;if(now>best){best=now;bp=P;bo=O;}}}emit(best,bp,bo);}

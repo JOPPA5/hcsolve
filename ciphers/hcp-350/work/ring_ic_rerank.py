@@ -1,0 +1,5 @@
+from pathlib import Path
+import json,subprocess
+p=Path(__file__).resolve().parent;rows=json.loads((p/'ring-ic-control-report.json').read_text())['rows'];results=[];plain=(p/'ring-control-plain.txt').read_text().strip()
+for i,row in enumerate(rows):
+ key=p/f'ring-ic-control-output-{i:03}.txt';key.write_text(' '.join(map(str,row['output_positions']))+'\n');out=subprocess.check_output([str(p/'ring_ic_masc'),str(p),str(p/'ring-control-cipher.txt'),'6','-1',str(key)],text=True);(p/f'ring-ic-control-masc-{i:03}.txt').write_text(out);lines=out.splitlines();r=dict(ic_candidate_index=i,concentration=row['concentration'],language_score=float(lines[0].split()[0]),plaintext=lines[0].split()[1],input_slots=[int(x)for x in lines[1].split(',')if x],output_positions=row['output_positions']);r['control_match_count']=sum(x==y for x,y in zip(r['plaintext'],plain));results.append(r);print(i,r['language_score'],r['control_match_count'],flush=True);(p/'ring-ic-control-reranked.json').write_text(json.dumps(sorted(results,key=lambda r:r['language_score'],reverse=True),indent=2))

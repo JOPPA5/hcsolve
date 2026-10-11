@@ -1,0 +1,6 @@
+from pathlib import Path
+from collections import Counter
+import json
+p=Path(__file__).resolve().parent
+rows=[json.loads(x)for x in (p/'results.jsonl').read_text().splitlines()];known=[json.loads(x)for x in (p/'all-alignment-encoding-checks.jsonl').read_text().splitlines()];targets=[r for r in rows if r['stage']=='conditional-target'];controls=[r for r in rows if r['stage']=='fresh-blind-control'];report=dict(widths=[21,19,20],fixed_key_encoding_checks=len(known),all_encoding_checks_pass=all(r['status']=='sat' and r['re_encryption_exact']and r['independent_inverse_exact']for r in known),blind_controls=[dict(mode=r['mode'],status=r['status'],seconds=r['seconds'])for r in controls],target_cases_completed=len(targets),target_cases_planned=74,target_status_counts=dict(Counter(r['status']for r in targets)),total_target_solver_seconds=sum(r['seconds']for r in targets),sat_witnesses=[r for r in targets if r['status']=='sat'],complete=len({(r['mode'],r['n'],r['reading'])for r in targets})==74,no_duplicate_completed_cases=len({(r['mode'],r['n'],r['reading'])for r in targets})==len(targets),scope='unproved quote, fixed four sentence X, final arbitrary filler, omit3, primary example widths and assumed constant/progressive daily ranks',unknown_means_no_exclusion=True)
+(p/'summary.json').write_text(json.dumps(report,indent=2)+'\n');print(json.dumps(report,indent=2))

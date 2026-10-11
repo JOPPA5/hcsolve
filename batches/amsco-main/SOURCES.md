@@ -1,0 +1,3 @@
+# Algorithm provenance
+
+American Cryptogram Association, LANAKI Lesson16, PDF page33 (zero-based32), AMSCO repeated single/double cells and example matrices. https://www.cryptogram.org/downloads/LANAKI%20Crypto%20Lessons/LESSON16.pdf accessed2026-10-11. Two declared cell parity conventions: continuous across cells, and row+column parity (row starts alternate). Both start lengths1/2 are covered. Cells are allocated in plaintext row order and whole columns extracted in unique numeric order; equal keyword letters receive stable left-to-right numerical ranks. No historical target use or known key is asserted.

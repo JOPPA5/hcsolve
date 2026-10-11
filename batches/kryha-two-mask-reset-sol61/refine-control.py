@@ -1,0 +1,8 @@
+from pathlib import Path
+import json,subprocess,time
+b=Path(__file__).resolve().parent;inp=json.load(open(b/'control-input.json'));vals=json.load(open(b/'../kryha-wheel-sol61/wheel52.json'))['adjacent_distances']+inp['delta']+[0]*26+[0]*(23*26);logs=[]
+for iteration in range(3):
+ name='control' if iteration==0 else f'control-refine{iteration-1}';ls=(b/f'{name}-masc.txt').read_text().splitlines();winner=max(range(len(ls)//4),key=lambda ix:float(ls[4*ix].split()[1]));P=list(map(int,ls[4*winner+1].split()));seed=dict(iteration=iteration,blind_best_language_rank=winner,P=P,truth_used=False);(b/f'control-refine{iteration}-seed.json').write_text(json.dumps(seed,indent=2));(b/'fixed-data.txt').write_text(inp['ciphertexts'][0][:-1]+'\n'+inp['ciphertexts'][1][1:]+'\n'+' '.join(map(str,inp['O']+P))+'\n');t=time.monotonic();run=subprocess.run([str(b/'enumerate-language'),str(inp['K'][0]),str(b/'fixed-data.txt')],input=' '.join(map(str,vals)),capture_output=True,text=True,check=True);name=f'control-refine{iteration}';(b/f'{name}-profile.txt').write_text(run.stdout);print(name,run.stdout.splitlines()[0],time.monotonic()-t,flush=True)
+ subprocess.run(['python3',str(b/'project.py'),str(b/'control-input.json'),f'{name}-profile.txt',f'{name}-projected.txt','10'],check=True)
+ with (b/f'{name}-masc.txt').open('w') as f:subprocess.run([str(b/'masc'),str(b/'dummy-pair.txt'),str(b/'zero-schedule.txt'),'batches/kryha-mask-sol61','ciphers/hcp-350/work',str(b/f'{name}-projected.txt')],stdout=f,check=True)
+ subprocess.run(['python3',str(b/'neighbors.py'),str(b/'control-input.json'),f'{name}-masc.txt',f'{name}-projected.txt',f'{name}-neighbors.json'],check=True)

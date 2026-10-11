@@ -1,0 +1,10 @@
+# Evidence and work log
+
+1. Read repository README and audited existing six target work/NOTES. No duplicate ordinary periodic scout found. HCP332's old quadgram period attacks remain read-only; unrelated periodic-IC work concerned unknown Kryha rings.
+2. Built frozen multi-gram scorer and standard family transforms. Primary Porta vector fixes keyword-class sign. Exhaustive periods 1–3, blind monogram/random starts, annealing and residue coordinate refinement for 4–16. Weights, seeds and budgets are in README/code.
+3. Fresh held-out sentences from UD TEST, excluding verbatim normalized TRAIN overlap and previously used short-MASC source sentences. Whole sentence(s) at exact lengths, independent keys. No true words/keys used as optimizer seeds. `controls.json` records provenance, truth and keys for evaluation only; optimizer reads ciphertext TSV plus TRAIN frequencies and frozen models.
+4. Primary Porta vector and 12,800 full-rescoring mutation checks passed. The independent Python alphabet-table encoder validates every output, including erasure phase. All 48 controls recovered exactly; rank zero at planted period. Identical plaintext at period multiples represents key-period ambiguity.
+5. Completed all 714 target/model cases. Retained 182,784 candidate rows, plus 3,072 control rows. Independent reencryption passed all 185,856. Highest whole candidates and leading conditional candidates remained incoherent. No supported target key/plaintext.
+6. Reproducible artifacts: prepare.py, periodic.cpp, verify.cpp, run.py, check.py; source/model provenance.json; audit.json; controls.json; targets.json; raw control/target result TSVs and progress logs; checks.json, summary.json and inspection.txt. Source cipher files and markers were not modified.
+
+A partial-line snapshot check initially failed while the writer was still emitting its last row. The checker now processes only newline-terminated rows; after process completion every row verified. This was an output race, not an accepted inconsistent cryptographic candidate.

@@ -1,0 +1,170 @@
+{
+  "warning": "Interpretative comparison only: removes first5 and literal J, not proof every J is a separator. Not exact historical plaintext.",
+  "removed_J_onebased_positions": [
+    67,
+    84,
+    117,
+    227,
+    285,
+    332,
+    355
+  ],
+  "differences": [
+    {
+      "tag": "delete",
+      "raw_span": [
+        15,
+        16
+      ],
+      "editorial_span": [
+        15,
+        15
+      ],
+      "raw": "t",
+      "editorial": ""
+    },
+    {
+      "tag": "replace",
+      "raw_span": [
+        28,
+        29
+      ],
+      "editorial_span": [
+        27,
+        28
+      ],
+      "raw": "i",
+      "editorial": "j"
+    },
+    {
+      "tag": "replace",
+      "raw_span": [
+        34,
+        35
+      ],
+      "editorial_span": [
+        33,
+        34
+      ],
+      "raw": "i",
+      "editorial": "j"
+    },
+    {
+      "tag": "replace",
+      "raw_span": [
+        38,
+        39
+      ],
+      "editorial_span": [
+        37,
+        38
+      ],
+      "raw": "i",
+      "editorial": "j"
+    },
+    {
+      "tag": "insert",
+      "raw_span": [
+        48,
+        48
+      ],
+      "editorial_span": [
+        47,
+        48
+      ],
+      "raw": "",
+      "editorial": "i"
+    },
+    {
+      "tag": "replace",
+      "raw_span": [
+        78,
+        79
+      ],
+      "editorial_span": [
+        78,
+        79
+      ],
+      "raw": "s",
+      "editorial": "r"
+    },
+    {
+      "tag": "replace",
+      "raw_span": [
+        84,
+        85
+      ],
+      "editorial_span": [
+        84,
+        85
+      ],
+      "raw": "i",
+      "editorial": "j"
+    },
+    {
+      "tag": "replace",
+      "raw_span": [
+        211,
+        212
+      ],
+      "editorial_span": [
+        211,
+        212
+      ],
+      "raw": "i",
+      "editorial": "j"
+    },
+    {
+      "tag": "replace",
+      "raw_span": [
+        224,
+        225
+      ],
+      "editorial_span": [
+        224,
+        225
+      ],
+      "raw": "i",
+      "editorial": "j"
+    },
+    {
+      "tag": "replace",
+      "raw_span": [
+        231,
+        232
+      ],
+      "editorial_span": [
+        231,
+        232
+      ],
+      "raw": "i",
+      "editorial": "j"
+    },
+    {
+      "tag": "replace",
+      "raw_span": [
+        352,
+        353
+      ],
+      "editorial_span": [
+        352,
+        353
+      ],
+      "raw": "i",
+      "editorial": "j"
+    },
+    {
+      "tag": "insert",
+      "raw_span": [
+        363,
+        363
+      ],
+      "editorial_span": [
+        363,
+        364
+      ],
+      "raw": "",
+      "editorial": "e"
+    }
+  ]
+}

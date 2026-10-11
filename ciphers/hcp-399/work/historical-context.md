@@ -1,0 +1,6 @@
+# Historical hypothesis, not identification
+Consulted: Antal, Zajac and Grošek, *Diplomatic Ciphers Used by Slovak Attaché During the WW2*, HistoCrypt2020, pp22–23, https://ep.liu.se/ecp/171/004/ecp2020_171_004.pdf . No target decipherment searched.
+
+The paper describes R/XQ as three columnar transpositions. R uses widths16–22 and messages up to250 letters. Daily permutations were rotated using an alignment number; a separately enciphered five-letter alignment group was inserted at a position known to correspondents. Its daily substitution table mapped digits to two or three letter alternatives. A one-digit alignment n becomes n,n+1,…,n+4 modulo10; a two-digit n becomes the five digits of n,0,n+1. The indicator's daily table and location are not available here.
+
+Our inferences: the245-letter length is compatible, not diagnostic. Removing a possible indicator leaves240 letters. Equal ciphertext letters must encode equal indicator digits; indicator.py applies that necessary constraint but cannot identify the table. Unknown daily permutations remain unconstrained by an unknown rotation. A fixed-width triple key has (w!)³ combinations before equivalences: approximately133 bits at w16 and210 at w22. This count does not prove cryptanalytic security.

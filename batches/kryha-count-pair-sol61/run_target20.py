@@ -1,0 +1,6 @@
+from codec import *
+import hashlib,subprocess
+m=20;folder=B/'actual-preferred-forward-m20';folder.mkdir(exist_ok=True);sources=[R/f'batches/source-variants-350-351/{n}-source-preferred.txt'for n in [350,351]];cts=[''.join(c.lower()for c in p.read_text()if c.isascii()and c.isalpha())for p in sources];assert all(len(t)==385 for t in cts);(folder/'ciphertexts.txt').write_text('\n'.join(cts)+'\n');(folder/'input-provenance.json').write_text(json.dumps(dict(count=m,sources=[str(p)for p in sources],sha256=[hashlib.sha256(p.read_bytes()).hexdigest()for p in sources],reading='fixed complete source-preferred',direction='forward',source_manifest=str(R/'batches/source-variants-350-351/manifest.json'),assumptions='shared unknown mixed rings/physical20-stop mask/start, reset each full385 body; ordinary one-stop includingJ; conditional Slovak score'),indent=2));(folder/'variant-manifest.json').write_text((R/'batches/source-variants-350-351/manifest.json').read_text())
+with(folder/'run.log').open('w')as out:subprocess.run(['python3',str(B/'run_case.py'),str(folder),str(m)],stdout=out,stderr=subprocess.STDOUT,check=True)
+subprocess.run(['python3',str(B/'run_local.py'),str(folder)],check=True)
+subprocess.run(['python3',str(B/'verify_case.py'),str(folder),str(m)],check=True)

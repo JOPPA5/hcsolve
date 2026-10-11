@@ -1,0 +1,7 @@
+# Read-only evidence and code inputs
+
+Antal, Zajac and Grošek, HistoCrypt 2020, printed pp. 21–30: [publisher PDF](https://ep.liu.se/ecp/171/004/ecp2020_171_004.pdf), already preserved at `batches/analysis-395-396/context-paper.pdf`. Figure 5 (printed p. 28) reproduces a historical worked R example with widths 21/19/20. The independent prior `batches/historical-context/verify-r-example.py` and `r-example-verification.json` verify its intermediate grids and inverse. This experiment uses only the dimensions/mechanism, not its published plaintext as a target crib or its example keys as historical 1944 keys. The specific example-key attack was previously finished elsewhere and was not repeated.
+
+`ciphers/hcp-364/NOTES.md` supplies the conditional cover quote, literal transcription ambiguities and prior experiment scope. The source quote is context, not recovered target plaintext. `batches/constraint-sol61/target-cases.json` supplies the explicit unchanged literal/glyph branches; `SUMMARY.md` and `exact_cover.py` supply the already verified Boolean model. Model code is copied into this batch, while all prior files remain read-only.
+
+No source downloads, browser queries, hidden APIs or published HC target solutions were used for this continuation. All fixed-key and blind controls are newly independent synthetic 65-letter examples, with their exact planted values disclosed in records.

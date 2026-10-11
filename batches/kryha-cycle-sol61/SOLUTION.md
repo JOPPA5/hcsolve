@@ -1,0 +1,1 @@
+Unresolved. Blind output-ring recovery fails all three independent385-letter controls despite correct +23-per-cycle structure. Pair and consistent-triple objectives both prefer optimized incorrect rings to truth. No target ciphertext searched, no decipherment or family exclusion claimed. See REPORT.md and diagnostics.json.

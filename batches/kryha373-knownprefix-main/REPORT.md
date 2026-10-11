@@ -1,0 +1,7 @@
+# Conditional transferred-ring prefix check
+
+No exact full-prefix match under the transferred350 rings. The independently read published373 prefix before first numeral6.000 contains93 letters. Ninety-six preparation/source cases cover initial cipher omission0/5, comma boundary omitted/J/X, natural J retained/merged toI, both source glyph alternatives53L/I and90E/A, and retaining or omitting the visibly handwritten D in Ústredni. The unamended typed-word branch is a chronological preparation hypothesis, not a change to the published source. Each tests both ring directions, both signs of displacement and every selected-stop count2–52. Only these finite assumptions are refuted; different rings, plaintext preparation, errors or selective extra pressing remain outside this test.
+
+One fresh independent physical23-stop control with a randomized selector/start/displacement satisfies all70 recurrence checks at period23, uniquely among tested counts/directions/signs. The model uses D=O(cipher)-P_inverse(plaintext); after each complete selected-stop cycle the full52-hole physical walk adds179 units, regardless of initial relative displacement or selected hole. This is a necessary test, not complete ring/mask recovery. Every source hash is recorded. Published plaintext373 is archival context, not our new decipherment.
+
+Reproduce: `python3 batches/kryha373-knownprefix-main/check.py`. Sources remain unchanged, no cipher or marker edited.

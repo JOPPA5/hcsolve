@@ -1,0 +1,1 @@
+No target plaintext or key claimed. Blind discovery fails both complete-rectangle 240-letter controls using two different strategies. The irregular 245-letter case remains unsupported by this consistent-path objective. Known-outer exact recovery is a diagnostic only. See README.md, results.json, landscape.json and complete logs. No target attack or exclusion claim, no marker.

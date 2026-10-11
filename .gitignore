@@ -3,3 +3,30 @@
 .watch.pid
 .watch.log
 watch.conf
+
+# Solver work: track code, notes, keys, markers and reports.
+# Search dumps, compiled programs, corpora, portal scans and third-party PDFs stay local.
+ciphers/**/*
+batches/**/*
+!ciphers/**/
+!batches/**/
+!ciphers/**/*.md
+!batches/**/*.md
+!ciphers/**/*.py
+!batches/**/*.py
+!ciphers/**/*.cpp
+!batches/**/*.cpp
+!ciphers/**/*.sh
+!batches/**/*.sh
+!batches/*.json
+!ciphers/*/DONE*
+!ciphers/*/REVIEWED*
+!ciphers/*/FINAL
+!ciphers/*/register-entry.txt
+!ciphers/*/report/**
+!ciphers/*/review/**
+!ciphers/*/work/transcription*.txt
+!ciphers/*/work/cipher*.txt
+!ciphers/*/work/kryha-decipherment/**
+__pycache__/
+ciphers/*/work/kryha-decipherment/handover-sha256.json

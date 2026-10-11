@@ -1,0 +1,7 @@
+from codec import *
+import random,subprocess
+T=models();out=[]
+for m in range(20,31):
+ rng=random.Random(52773000+m);holes=sorted(rng.sample(range(52),m));phase=rng.randrange(m);holes=holes[phase:]+holes[:phase];P=rng.sample(range(26),26);O=rng.sample(range(26),26);texts=[''.join(chr(97+rng.randrange(26))for _ in range(385))for j in range(2)];cts=[encode(t,P,O,holes)for t in texts];assert [inverse(ct,P,O,holes)for ct in cts]==texts
+ folder=B/'mechanics'/f'm{m}';folder.mkdir(parents=True,exist_ok=True);ct=folder/'cipher.txt';ct.write_text('\n'.join(cts)+'\n');sf=folder/'schedule.txt';sf.write_text(' '.join(map(str,schedule(holes)))+'\n');rings=folder/'rings.txt';rings.write_text(' '.join(map(str,P+O))+'\n');lines=subprocess.check_output([str(B/'pair-joint'),str(ct),str(sf),str(SMALL),str(LARGE),str(rings),'0'],text=True).splitlines();key=list(map(int,lines[1].split()));v=dict(score=float(lines[0]),input_slots=key[:26],output_positions=key[26:],plaintexts=lines[2:4],holes=holes);err=check(v,cts,T);assert v['plaintexts']==texts;out.append(dict(count=m,plaintext_exact_770=True,reencryption_exact=True,cycle_distance179=sum(schedule(holes))==179,score_error=err,known_key_test_not_blind_search=True));(folder/'result.json').write_text(json.dumps(v,indent=2))
+(B/'mechanics-verification.json').write_text(json.dumps(out,indent=2));print('PASS all eleven m20..30 mechanical loader/encoder/inverse checks; no m26 discovery search')

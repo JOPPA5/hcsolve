@@ -1,0 +1,4 @@
+#define main scout_main
+#include "periodic.cpp"
+#undef main
+int main(int argc,char**argv){load(argv[1],argv[2]);assert(transform(6,5,"porta")==14);string p="geheimnis",c="opvztnfte";int k[]={5,2,12};for(int i=0;i<9;i++)assert(transform(c[i]-'a',k[i%3],"porta")==p[i]-'a');for(string mode:{"vigenere","variant","beaufort","porta"})for(int t=1;t<=16;t++){Task x("abcdefghijklmnopqrstuvwxyz.abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz",mode,t);vector<int>key(t);for(int&v:key)v=rng()%x.A;x.initialize(key);for(int j=0;j<200;j++){int r=rng()%t,v=rng()%x.A;float score=x.change(r,v);key[r]=v;Task independent(x.ct,mode,t);independent.initialize(key);assert(x.text()==independent.text());assert(abs(score-independent.total)<.04);x.commit(r,score);}}cout<<"Primary Porta vector and 12800 independent full-score mutation checks passed\n";}

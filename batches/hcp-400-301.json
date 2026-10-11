@@ -1,0 +1,894 @@
+{
+  "range": {
+    "highest": 400,
+    "lowest": 301,
+    "count": 100
+  },
+  "requested_parallel_ciphers": 5,
+  "available_agent_slots_including_main": 4,
+  "entries": [
+    {
+      "number": 400,
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "name": "MZV message No. 80240/1944",
+      "checked_on": "2026-10-11",
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/400",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 399,
+      "status": "attempted_unsolved",
+      "agent": "astra_399",
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/399",
+      "portal_status": "Not solved",
+      "checked_on": "2026-10-11",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "directory": "ciphers/hcp-399",
+      "claim": "Attributed unchanged repeat ofSolved391; full245glyph collation has6uncertain positions; no newly recovered key/decipherment",
+      "phase": "published_repeat_identified_key_unresolved"
+    },
+    {
+      "number": 398,
+      "status": "skipped_solved",
+      "agent": "astra_398",
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/398",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 397,
+      "status": "skipped_solved",
+      "agent": "astra_397",
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/397",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 396,
+      "status": "attempted_unsolved",
+      "agent": "main",
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/396",
+      "portal_status": "Not solved",
+      "checked_on": "2026-10-11",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "directory": "ciphers/hcp-396",
+      "claim": "Published original387 identified, preferred53/55 cipher agreement; conditional50-letter pair needs F/P error; no recovered key",
+      "phase": "published_original_knownpair_key_attack"
+    },
+    {
+      "number": 395,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/395",
+      "status": "attempted_unsolved",
+      "portal_status": "Not solved",
+      "checked_on": "2026-10-11",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "directory": "ciphers/hcp-395",
+      "claim": "No verified key or full plaintext recovered",
+      "phase": "open_unresolved_attempt"
+    },
+    {
+      "number": 394,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/394",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 393,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/393",
+      "status": "attempted_unsolved",
+      "portal_status": "Not solved",
+      "checked_on": "2026-10-11",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "directory": "ciphers/hcp-393",
+      "claim": "No verified key or full plaintext recovered",
+      "phase": "open_unresolved_attempt"
+    },
+    {
+      "number": 392,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/392",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 391,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/391",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 390,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/390",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 389,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/389",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 388,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/388",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 387,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/387",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 386,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/386",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 385,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/385",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 384,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/384",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 383,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/383",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 382,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/382",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 381,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/381",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 380,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/380",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 379,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/379",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 378,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/378",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 377,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/377",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 376,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/376",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 375,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/375",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 374,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/374",
+      "status": "attempted_unsolved",
+      "portal_status": "Not solved",
+      "checked_on": "2026-10-11",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "directory": "ciphers/hcp-374",
+      "claim": "No verified key or full plaintext recovered",
+      "phase": "open_unresolved_attempt"
+    },
+    {
+      "number": 373,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/373",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 372,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/372",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 371,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/371",
+      "status": "attempted_unsolved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "portal_status": "Not solved",
+      "name": "MZV message No. 1/3 T /1944",
+      "checked_on": "2026-10-11",
+      "directory": "ciphers/hcp-371",
+      "claim": "No verified key or full plaintext recovered",
+      "phase": "open_unresolved_attempt"
+    },
+    {
+      "number": 370,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/370",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 369,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/369",
+      "status": "attempted_unsolved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Not solved",
+      "directory": "ciphers/hcp-369",
+      "claim": "No verified key or full plaintext recovered",
+      "phase": "open_unresolved_attempt"
+    },
+    {
+      "number": 368,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/368",
+      "status": "unavailable_on_portal",
+      "evidence": "Detail page repeatedly rendered blank; IDs absent from rendered full public cryptogram table (All, 1875 records). No status inferred.",
+      "checked_on": "2026-10-11"
+    },
+    {
+      "number": 367,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/367",
+      "status": "attempted_unsolved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Not solved",
+      "directory": "ciphers/hcp-367",
+      "claim": "No verified key or full plaintext recovered",
+      "phase": "open_unresolved_attempt"
+    },
+    {
+      "number": 366,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/366",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 365,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/365",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 364,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/364",
+      "status": "attempted_unsolved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Not solved",
+      "directory": "ciphers/hcp-364",
+      "claim": "No verified key or full plaintext recovered",
+      "phase": "open_unresolved_attempt"
+    },
+    {
+      "number": 363,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/363",
+      "status": "attempted_unsolved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Not solved",
+      "directory": "ciphers/hcp-363",
+      "claim": "No verified key or full plaintext recovered",
+      "phase": "open_unresolved_attempt"
+    },
+    {
+      "number": 362,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/362",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 361,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/361",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 360,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/360",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 359,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/359",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 358,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/358",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 357,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/357",
+      "status": "attempted_unsolved",
+      "portal_status": "Not solved",
+      "checked_on": "2026-10-11",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "directory": "ciphers/hcp-357",
+      "claim": "No verified key or full plaintext recovered",
+      "phase": "reviewed_failed_attempt_closed"
+    },
+    {
+      "number": 356,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/356",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 355,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/355",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 354,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/354",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 353,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/353",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 352,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/352",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 351,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/351",
+      "status": "attempted_unsolved",
+      "portal_status": "Not solved",
+      "checked_on": "2026-10-11",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "directory": "ciphers/hcp-351",
+      "claim": "23-stop Kryha content recovery, full385 working-transcription key/reencryption; first5 and historical preparation unresolved; no register entry",
+      "phase": "final_reviewed_content_and_working_key",
+      "review_verdict": "REVISE_addressed_key_unchanged",
+      "report": "ciphers/hcp-351/report/report.pdf",
+      "remaining": "SOSOL meaning, exact historical preparation and rare input labels; no register entry"
+    },
+    {
+      "number": 350,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/350",
+      "status": "attempted_unsolved",
+      "portal_status": "Not solved",
+      "checked_on": "2026-10-11",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "directory": "ciphers/hcp-350",
+      "claim": "23-stop Kryha content recovery, full385 working-transcription key/reencryption; first5 and historical preparation unresolved; no register entry",
+      "phase": "final_reviewed_content_and_working_key",
+      "review_verdict": "ACCEPT",
+      "report": "ciphers/hcp-350/report/report.pdf",
+      "remaining": "SOSOL meaning, exact historical preparation and rare input labels; no register entry"
+    },
+    {
+      "number": 349,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/349",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 348,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/348",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 347,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/347",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 346,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/346",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 345,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/345",
+      "status": "attempted_unsolved",
+      "portal_status": "Not solved",
+      "checked_on": "2026-10-11",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "directory": "ciphers/hcp-345",
+      "claim": "All65ct letters matchSolved486, attributedpublishedPT withconditionalDVE PAT givesexact60letterinventory omittingHFEBM; keynotyetrecovered",
+      "phase": "published_repeat_knownpair_key_attack"
+    },
+    {
+      "number": 344,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/344",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 343,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/343",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 342,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/342",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 341,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/341",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 340,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/340",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 339,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/339",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 338,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/338",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 337,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/337",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 336,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/336",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 335,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/335",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 334,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/334",
+      "status": "attempted_unsolved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Not solved",
+      "directory": "ciphers/hcp-334",
+      "claim": "No verified key or full plaintext recovered",
+      "phase": "open_unresolved_attempt"
+    },
+    {
+      "number": 333,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/333",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 332,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/332",
+      "status": "attempted_unsolved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Not solved",
+      "directory": "ciphers/hcp-332",
+      "claim": "No verified key or full plaintext recovered",
+      "phase": "open_unresolved_attempt"
+    },
+    {
+      "number": 331,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/331",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 330,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/330",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 329,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/329",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 328,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/328",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 327,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/327",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 326,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/326",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 325,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/325",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 324,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/324",
+      "status": "unavailable_on_portal",
+      "checked_on": "2026-10-11",
+      "evidence": "Detail page repeatedly rendered blank; IDs absent from rendered full public cryptogram table (All, 1875 records). No status inferred."
+    },
+    {
+      "number": 323,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/323",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 322,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/322",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 321,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/321",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 320,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/320",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 319,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/319",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 318,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/318",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 317,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/317",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 316,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/316",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 315,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/315",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 314,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/314",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 313,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/313",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 312,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/312",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 311,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/311",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 310,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/310",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 309,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/309",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 308,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/308",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 307,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/307",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 306,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/306",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 305,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/305",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 304,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/304",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 303,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/303",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 302,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/302",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    },
+    {
+      "number": 301,
+      "url": "https://crypto.hcportal.eu/dashboard/cryptograms/301",
+      "status": "skipped_solved",
+      "evidence": "Rendered detail page and final rendered public table agree on status; public table checked using All (1875 records).",
+      "checked_on": "2026-10-11",
+      "portal_status": "Solved"
+    }
+  ],
+  "review_protocol": "External Claude polls DONE; no sandbox watchers; main polls REVIEWED and finalizes.",
+  "summary": {
+    "range_entries": 100,
+    "portal_records_verified": 98,
+    "skipped_already_solved": 82,
+    "attempted_unresolved": 16,
+    "unavailable_record_ids": [
+      368,
+      324
+    ],
+    "new_verified_decipherments": 0,
+    "reviewed_failed_attempts_closed": [
+      357
+    ],
+    "pending_reviews": [],
+    "partial_content_recoveries_awaiting_review": [],
+    "reviewed_content_recoveries_final": [
+      350,
+      351
+    ],
+    "distinct_new_message_contents_recovered": 1,
+    "complete_historical_procedures_verified": 0
+  },
+  "subagent_policy": "GPT-6.1 Sol for future solver subagents, per human request; earlier Astra attempts retained with their actual attribution.",
+  "coverage_note": "Range first pass complete. New connected content and working key recovered for350/351, two copies of one telegram. External Claude350ACCEPT/351REVISE source corrections addressed without key changes; bothFINAL with PDFs. Initial SOSOL and exact historical preparation remain open, no register entries. Complete historical-procedure decipherments remain zero; reviewed content recovery is recorded separately."
+}

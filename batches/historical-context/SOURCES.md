@@ -1,0 +1,12 @@
+# Historical context inspected 2026-10-11
+
+Antal, Grošek, Zajac, Prehľad šifier používaných na Slovensku počas druhej svetovej vojny: 2. časť – diplomatické šifry. Vojenská história 24(3), 2020, pp95–108. Public author article hosted by VHÚ: https://www.vhu.sk/data/att/178/20273.07b25c.pdf . Downloaded unchanged; all14pages inspected visually because only first page has extractable text.
+
+Relevant findings: p97 keys/pre-encipherment rules changed over years; p99 K is unidentified former-Czechoslovak machine with crank and cylinders, not established Enigma; p101 archival message contents were required to be reformulated, so cover labels are semantic clues rather than verbatim cribs; p107 published C key has28letters, retaining Č and Š. Generic A–Z MASC searches therefore do not cover that C orthography after folding accents.
+
+Published examples: p107 Zagreb 80291, 2October1944, includes C key (published sourced key, not our discovery). p108 Budapest80303,10October1944 includes plaintext. These are contextual examples; neither is an independently discovered solution. No published plaintext was imported for a current unsolved target.
+
+
+PrimaryWWII SSA memo NR2417 (transcription hosted by FrodeWeierud): https://cryptocellar.org/kryha/nr2417.pdf . Readall15pages viawebtext. Late1941 Germancommercialtraffic:20–30active screwstops; enciphered J wordspacer causes additionalleverpress, so selectiveextraadvance depends onplaintext. OtherchangesserialnumberZZ wrappers andmonthlyrings. These are Germancase rules, not evidence ofSlovakadoption; cannotassume17fixedsteps oruniformdoublepress covers1944Standard. PublishedGermanmessages/keys inthismemo are contextualexamples, notsolutions toHCtargets.
+
+Antal/Zajac ThefirstCzechoslovakciphermachine, publishedonline2021, Cryptologia47(3)2023pp239–260, primaryabstract https://www.tandfonline.com/doi/abs/10.1080/01611194.2021.1998809 : reconstructedŠtolba pneumaticmachine, partialunknownconfiguration. CryptoMuseumfirsthandcorrespondence withauthor andarchivalreconstructionhttps://www.cryptomuseum.com/crypto/stolba/ : known25-symbolrotorwirings excludingW,6cipher+3controlrotors, unknownblockingpins/selector. Laterstudy is more specific than2020unidentifiedCzechmachinecontext. HCP332containsnoW inourliteralreading; HCP334hasclearW atFWXX and possibleV/W ambiguity atVCNXK. Necessaryalphabetcompatibilityalone identifiesneither machine. No targetplaintext imported.

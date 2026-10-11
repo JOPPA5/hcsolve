@@ -1,0 +1,9 @@
+from pathlib import Path
+import json,hashlib
+P=Path(__file__).resolve().parent;R=P.parents[1]
+rows334=['HQLKR LTOXP OKTQS FOSZO','JCKUM UBABP HKPZB UVJPT TNGXT HKYTB TNECS','IGOST BOAJY HXSUN ?DZQR HSFPX TZHMG RDIBX FWXX?','FQXXQ SLMQJ VCNXK IVZGU ZNXVY HLLQS GMJHE','SGNAN HSPRG IVPRS BVBDE']
+body332='KDUFA VHSFC OYAUB EJFNK QTNZE UG{O|D}ZR UBCIE GZZYK'
+boxes={'334-row1':[30,398,550,449],'334-row2':[24,449,953,496],'334-row3':[32,494,940,549],'334-row4':[130,544,940,587],'334-row5':[42,582,800,627],'334-flap-detail':[383,492,485,539],'334-W-detail':[827,497,950,555],'334-I-digit':[730,502,826,546],'332-OD-comparison':[90,436,668,485],'332-left-edge':[23,433,181,495],'332-service':[278,340,791,403]}
+out=dict(source_size=[1024,768],coordinate_convention='original image pixels, x from left and y from top; rectangles left,top,right,bottom, right/bottom exclusive; inspection regions not precise glyph bounds',inspection_rectangles=boxes,source334=dict(independent_rows=rows334,visible_groups_per_row=[4,7,8,7,4],group_slots_if_regular_fives=150,read_letter_count_under_existing_two_unknown_hypothesis=148,unknown_positions_if_regular_fives=[71,95],W_position_if_regular_fives=92,missing_positions_not_established_as_exactly_two=True,preferred_W_reading='W; V not supported by the visible two-valley shape',I_digit_position_if_regular_fives=88),source332=dict(prefix='TRC',independent_body_with_explicit_alternative=body332,prefix_letters=3,body_groups=8,body_letters=40,total_visible_letters=43,ambiguous_O_D_position_body=28,ambiguous_O_D_position_with_TRC=31,indicator_identity_unproved=True),source_hashes={str(f):hashlib.sha256(f.read_bytes()).hexdigest() for f in [R/f'ciphers/hcp-{n}/source/{name}' for n in [332,334] for name in ['cryptogram.jpg','metadata.md']]},source_working_files_unchanged=True,no_solution_lookup=True)
+assert len(''.join(' '.join(rows334).split()))==150
+(P/'evidence.json').write_text(json.dumps(out,indent=2)+'\n')

@@ -1,0 +1,1 @@
+See README.md for the algorithm, independent controls, conditional structural deductions, exact reproduction and failures. results.json records every baseline run; compound logs preserve the structurally changed neighborhood results. No target plaintext recovered. No source cipher was modified.
