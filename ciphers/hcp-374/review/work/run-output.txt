@@ -1,0 +1,11 @@
+permutations: True True | arcs sum: 179 over 23 stops
+solver, collated reading         differs from collated at []
+                                 AUPOZORNUIESPANLELSKEPROTIBODVVKYUZPEVNEKUPENENAZAKLADEPOVODNYCHCIENCELULOZYXXXX
+solver, original reading         differs from collated at [9, 25, 35, 60]
+                                 AUPPZORNUIESPANLELSIEPROTIBODAVKYUZPEVNEKUPENENAZAKLADJPOVODNYCHCIENCELULOZYXXXX
+reviewer's second reader, blind  differs from collated at [35]
+                                 AUPOZORNUIESPANLELSKEPROTIBODAVKYUZPEVNEKUPENENAZAKLADEPOVODNYCHCIENCELULOZYXXXX
+all 598 phase/displacement settings, letters agreeing with the published sentence (of 76):
+  best three: [(74, 0, 1), (21, 22, 1), (20, 1, 1)] | median: 3
+373 (650 letters) with the same rings and stops, best start offset=0 phase=18 displacement=8:
+  ...ZATIETOCENYXVYSETRINEOBVYKLYPOSTUPSYNDIKATULEBOUSTREDJATRVADODRZATPLATNYPOVODNYKONTRAKTBEZOHLADUNAPOZDEISIULACNEISIUPONUKUAUPOZORNUIESPANIELSKEPROTIDODAVKYUZPEVNEKUPENENAZAKLADEPOVODNYCHCIENCELULOZYXX

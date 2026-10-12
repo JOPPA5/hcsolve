@@ -1,0 +1,11 @@
+# HCP374: published Madrid context with Q-marked proper names
+
+HCP374 remains Not solved, rechecked in the rendered portal General tab. This is a context attack toward its key, using the already published HCP373 draft and ciphertext. It is not a new decipherment of373, and no directory for373 is created.
+
+The primary HistoCrypt2020 R instructions, printed23, describe Q delimiters for proper nouns and abbreviations. Their adoption by the Madrid machine is unproved. The previous exact known-prefix machine test did not include Q around the explicitly printed names Roessner and Madrid. This new finite branch preserves every source word and tests separate Q wrappers or a shared adjacent boundary, the typed USTRENI versus handwritten-D-amended USTREDNI, natural J retained versus J→I, zero versus five initial cipher symbols omitted, and the four previously source-supported glyph alternatives at53 L/I and90 E/A. No other spelling or address is guessed.
+
+Two fresh independently encrypted Q-prefix controls pass exact mixed-ring/schedule recovery without supplied keys. They cover the two natural-J preparations. The controls validate the algebraic implementation, not the source preparation. Output/input rings remain arbitrary permutations, displacement period2–52 and full-cycle advance179; no physical mask is enforced. This contains ordinary adjustable Kryha with fixed179 wheel only under the stated preparation/alignment assumptions.
+
+All3264 new context cases are exact UNSAT, no SAT or UNKNOWN, in54.3seconds. This rejects only these finite Q/preparation/source branches in that algebraic family. It does not reject Kryha generally, other cycle advances, a different plaintext draft, unenumerated source errors or operational framing. No key became available for transfer to374. No target ciphertext letter or source image changed.
+
+Reproduce: `python3 batches/kryha374-qcontext-main/run.py`. Declared inputs, fresh controls, every finite result and counts are in preparations.json, controls.json, results.json and summary.json. Original sources are attributed in batches/solved-context-main/373/SOURCES.md and ciphers/hcp-374/SOURCES.md. No watcher, reviewer, marker or register entry was created.

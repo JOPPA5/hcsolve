@@ -76,3 +76,47 @@ Main solver replaced intermediate character variables with complete occurrence t
 ### Corrected double sweep
 
 See `batches/r364-corrected-double-sol61/REPORT.md`: 49 ordered width pairs 16–22, both EXCUV/EXCVU alternatives, free fifth-X position, omit group 3: all UNSAT. Three fresh blind controls pass exact full encoding/inversion. This is the first valid exclusion for this precise corrected-input double family; older ERC tests do not exclude the corrected text. No historical R exclusion follows.
+
+
+### Direct endpoint triple-key constraints and primary alignment (2026-10-12)
+
+GPT-6.1 Sol tested a genuinely different exact21/19/20 model in `batches/r364-triple-next-sol61/REPORT.md`: both intermediate character arrays and occurrence trajectories are eliminated. First and second selected column starts directly restrict final matching-letter positions; reverse endpoint supports add redundant propagation. Fresh65-letter full-alphabet and quote-pattern controls remain UNKNOWN60s. A fresh quote-pattern control generated with a common unknown physical-column-zero readout rank also remains UNKNOWN60s. Native incremental decomposition over all19 ranks gives UNKNOWN8s each; an explicit necessary start = q*rank + preceding-long-count support still gives UNKNOWN60s. No planted keys/rank enter search.
+
+Every model version passes20 small cases against independent exhaustive288 unrestricted or24 common-rank key triples, including same-inventory negative cases. These finite audits do not establish historical-width recovery. No actual target was run because the whole65 positive-control gate failed; the target's free fifth-X position is harder than the fully supplied control plaintext. No new exclusion, key, plaintext or marker. Source and source variants remain unchanged. An earlier progress inference about a rank1 leading-letter contradiction was explicitly withdrawn: the control starts N/N, unlike the target's conditional N/I.
+
+
+### Equal21 two-long-column closed-form calibration (2026-10-12)
+
+GPT-6.1 Sol used N65 = 3*21+2 to remove generic packing: start(c)=3*rank(c)+[rank(0)<rank(c)]+[rank(1)<rank(c)]. A fresh65 quote-pattern control with source-motivated fixed endX and common unknown alignment received four different formulations: CP-SAT ranks/inverse permutation; Boolean permutation/prefix offsets; forced exceptional-pattern-first search; full occurrence trajectories through the closed formula. All UNKNOWN60s. No true keys, n, exceptional ranks or intermediate plaintext seed search. This is one fixture/four algorithm variants, not four independent controls.
+
+Each representation agrees with20 small cases against all32 exhaustive common/progressive key triples for analogous N8/w3 two-long mechanics. These finite audits do not validate historical-width recovery. No actual corrected target, progressive65 control or freeX target was attempted under the failed whole65 control gate. No key, decipherment or family exclusion. Full artifacts/reproduction: `batches/r364-equal21-next-sol61/REPORT.md`. Sources and markers unchanged.
+
+
+### Corrected equal16 R triple: real input gap closed (2026-10-12)
+
+The old equal16 triple negatives used group12 ERCUV and an unknown suffix filler. They do not cover corrected EXCUV/EXCVU and a fifthX anywhere. Fresh `batches/r364-equal16-corrected-sol61/REPORT.md` now tests both corrected readings as a finite union, omitgroup3, the64-letter four-sentence-X visible reply plus one freely placedX, and all16 constant common alignments of three width16 stages. Every actual case is exact UNSAT (0.06–1.33s). This includes the fixed-endX preparation as a subset, without a redundant second run.
+
+Three independently encrypted full65 controls at n1/8/16 and extraX0/37/64 all recover exact planted plaintext and ciphertext alternative, with independent complete physical encoding/inversion. At N65,w16, only column0 islong (5vs4); its aligned rank fixes all chunk boundaries. An independent audit agrees on18 small unknown-insertion/UV-union cases against all168 insertion/keysets in the analogous N7,w3 family. This excludes only the precise corrected equal16 common-alignment preparation, not unequal widths, progressive alignment, another plaintext or historical R overall. No key, decipherment or marker.
+
+
+## Corrected equal16 progressive alignment
+A new, separately calibrated extension tests n,n+1,n+2 for all14 legal initial n values without wrap, equalwidth16 at each stage. The same corrected EXCUV/EXCVU union, omitted group3 ITPKA and freely inserted fifthX remain explicit. Three fresh65-letter blind controls recover full plaintext/encoders and hidden n10/1/14 without supplied n/keys; independent full encoding/inversion and20 small exhaustive cases pass. All14 actual cases are exactUNSAT (0.08–2.62s). This is separate from the16 common-alignment cases, not a rejection of mixed-widthR, other preparation or other plaintext. No key recovered. Full report, reproduction and hashes: batches/r364-equal16-progressive-sol61/REPORT.md.
+
+## Corrected unequal16/17/18, chosen common n11 (GPT-6.1 Sol)
+
+The old sustained600s ERCUV/ERCUU tests do not cover the corrected EXCUV/EXCVU source union. A new batch uses that literal union, omitgroup3ITPKA, the64-character four-sentence-X reply template and widths16/17/18, with n11 explicitly conditional rather than inferred from1170. Sixteen small unequal-width insertion/UV-union cases agree with independent enumeration of168 insertion/key triples. Fresh free-fifth-X control seed364617181201 is UNKNOWN120.02s, so no free-X actual branch ran. Fresh fixed-end-X subset control seed364617181202 recovers all three planted keys, complete65plaintext and correct hidden U/V alternative at SAT68.04s; separate full encoder/inverse verifies equality. True keys/variant were never supplied to search; terminal X is part of this restricted model, not evidence for arbitrary X recovery.
+
+The gated corrected fixed-end-X union actual branch is UNKNOWN180.12s. No target witness, no exclusion, no source/marker change. Free-X unequal actual remains untested after failed calibration; other alignments/widths/preparations remain open. Full records, source hashes and independent verification: `batches/r364-corrected-unequal-sol61/REPORT.md`. This bounded corrected-source attempt is distinct from old wrong-ERC inputs and does not claim a decipherment.
+## Source-preserving preparation and U/V branches (2026-10-12)
+
+Two completed checks extend the corrected-input work. `batches/r364-raw-U-error-sol61/REPORT.md` retains literal EXCUU and places the conditional V→U error at body position 37 or 38, yielding TVUTE/TUVTE in original group 9. Three fresh blind controls pass complete encoding and inversion. All 16 common and 14 progressive width-16 triple cases are UNSAT with a freely inserted fifth X. These are error hypotheses, not asserted corrections to the scans.
+
+`batches/r364-optional-X16-sol61/REPORT.md` constructs all sixteen subsets of optional sentence markers and ordinary padding to a multiple of five. Fifteen subsets produce eight distinct 65-letter preparations; the previously tested internal mask 111 is excluded. The other seven strings include the valid unmarked internal sentences with five terminal preparation Xs. The natural X in TEXTOM remains. Each string is tested against all four conditional raw-U→V positions, 37/38/54/55, at 16 common and 14 progressive alignments. All 210 cases are UNSAT, without UNKNOWN; two fresh blind controls with hidden alignment pass full encoding/inversion.
+
+These exclusions concern the visible reply hypothesis, omitted ITPKA, the stated one-letter error alternatives and three width-16 stages. They do not reject mixed-width R or establish the reply as plaintext. No historical key or plaintext witness was found.
+## Two single-long stages and one irregular stage (2026-10-12)
+
+A new exact width order 16/16/17 uses the explicit one-long-column packing of both first stages and a prefix path only in the third. Complete endpoint support runs in both directions. A fresh full 65-letter blind control recovers all three keys, hidden common alignment n15 and the source alternative, with independent complete encoding/inversion. The corrected EXCUV/EXCVU union, omitted ITPKA and fixed-end fifth X then give exact UNSAT at all sixteen common alignments, 4.57 seconds total. This is a new calibrated mixed-width exclusion within that preparation, not a rejection of other width orders, progressive alignment or a free fifth X. No target key recovered. Evidence: `batches/r364-two16-one17-sol61/REPORT.md`.
+## Completed third-width extensions (2026-10-12)
+
+The calibrated 16/16/17 model was extended to third widths18–22, preserving source/frame/fixed-end-X assumptions. Fresh full65 blind controls recover every key and hidden alignment at widths18/19/21/22; their corrected target unions are exact UNSAT at all16 common n values (64 further cases, no UNKNOWN). Width20's control remains UNKNOWN30s, so its target was not run. Two separate24-case finite audits and independent whole-control encoding/inversion pass. No historical key is found and mixed-stage orders/progressive/free-X alternatives remain open. Full report: `batches/r364-two16-one17-sol61/extension/REPORT.md`.

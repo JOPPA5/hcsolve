@@ -1,0 +1,17 @@
+#include <algorithm>
+#include <array>
+#include <cmath>
+#include <fstream>
+#include <iostream>
+#include <numeric>
+#include <random>
+#include <string>
+#include <vector>
+using namespace std;
+string enc(const string&p,const vector<int>&k){string o;for(int j:k)for(int i=j;i<(int)p.size();i+=k.size())o+=p[i];return o;}
+struct Fit{int score,matches;vector<int>k;};
+vector<int> hung(const int a[12][12], int size){int u[13]={},v[13]={},p[13]={},way[13]={};for(int i=1;i<=size;i++){p[0]=i;int j0=0,minv[13];bool used[13]={};fill(minv,minv+13,99999);do{used[j0]=true;int i0=p[j0],d=99999,j1=0;for(int j=1;j<=size;j++)if(!used[j]){int cur=-a[i0-1][j-1]-u[i0]-v[j];if(cur<minv[j])minv[j]=cur,way[j]=j0;if(minv[j]<d)d=minv[j],j1=j;}for(int j=0;j<=size;j++)if(used[j])u[p[j]]+=d,v[j]-=d;else minv[j]-=d;j0=j1;}while(p[j0]);do{int j1=way[j0];p[j0]=p[j1];j0=j1;}while(j0);}vector<int>r(size);for(int j=1;j<=size;j++)r[j-1]=p[j]-1;return r;}
+string inverse(const string&s,const vector<int>&key){string out(s.size(),' ');int at=0;for(int col:key)for(int i=col;i<(int)s.size();i+=key.size())out[i]=s[at++];return out;}
+Fit fit(const string&z,const string&c,const vector<int>&pattern,const int*freq,int mode){vector<int>start(19);int at=0;for(int j=0;j<19;j++){start[j]=at;at+=pattern[j]?3:2;}vector<int>k(19);int score=0;for(int length:{3,2}){int count=length==3?12:7;vector<int>ranks;for(int j=0;j<19;j++)if((pattern[j]?3:2)==length)ranks.push_back(j);int cost[12][12]={};for(int col=0;col<count;col++)for(int j=0;j<count;j++){int n=0,rare=0;for(int r=0;r<length;r++)if(z[col+(length==2?12:0)+19*r]==c[start[ranks[j]]+r]){n++;rare+=freq[c[start[ranks[j]]+r]-'a']==1;}cost[col][j]=(mode==0?n*n:mode==1?n*n*n:n*4)+2*rare;}auto a=hung(cost,count);for(int j=0;j<count;j++)k[ranks[j]]=a[j]+(length==2?12:0),score+=cost[a[j]][j];}string x=enc(z,k);int n=0;for(int i=0;i<50;i++)n+=x[i]==c[i];return {score,n,k};}
+void mutate(vector<int>&v,mt19937&r){int a=r()%v.size(),b=r()%v.size();if(r()%12==0){if(a>b)swap(a,b);rotate(v.begin()+a,v.begin()+a+1,v.begin()+b+1);}else swap(v[a],v[b]);}
+int main(int argc,char**argv){ifstream f(argv[1]);string p,c;f>>p>>c;if(p.size()!=50||c.size()!=50)return 2;int seed=stoi(argv[2]),restarts=stoi(argv[3]),steps=stoi(argv[4]);mt19937 rng(seed);int freq[26]={};for(char a:p)freq[a-'a']++;int bestmatches=0,bestscore=-1;vector<int>best1,best2,best3;for(int rr=0;rr<restarts;rr++){vector<int>a(21),b(20),pat(19);iota(a.begin(),a.end(),0);iota(b.begin(),b.end(),0);fill(pat.begin(),pat.begin()+12,1);shuffle(a.begin(),a.end(),rng);shuffle(b.begin(),b.end(),rng);shuffle(pat.begin(),pat.end(),rng);int mode=rr%3;auto now=fit(enc(p,a),inverse(c,b),pat,freq,mode);for(int it=0;it<steps;it++){auto aa=a,bb=b,pp=pat;int choice=rng()%5;if(choice<2)mutate(aa,rng);else if(choice<4)mutate(bb,rng);else{int i,j;do{i=rng()%19;j=rng()%19;}while(pp[i]==pp[j]);swap(pp[i],pp[j]);}if(rng()%25==0){mutate(aa,rng);mutate(bb,rng);}auto q=fit(enc(p,aa),inverse(c,bb),pp,freq,mode);double temp=.1+(mode==1?9.:3.)*(1.-double(it%4000)/4000.);if(q.score>=now.score||log((rng()+1.)/4294967297.)<(q.score-now.score)/temp)a=aa,b=bb,pat=pp,now=q;if(now.matches>bestmatches){bestmatches=now.matches;best1=a;best2=now.k;best3=b;bestscore=now.score;cerr<<rr<<' '<<it<<' '<<bestmatches<<' '<<mode<<'\n';}if(now.matches==50)goto done;}}done:cout<<bestmatches<<' '<<bestscore<<'\n';for(auto k:{best1,best2,best3}){for(int x:k)cout<<x<<' ';cout<<'\n';}cout<<enc(enc(enc(p,best1),best2),best3)<<'\n';}

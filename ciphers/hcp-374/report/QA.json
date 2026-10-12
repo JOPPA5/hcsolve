@@ -1,0 +1,22 @@
+{
+  "review_verdict": "ACCEPT",
+  "updated_review_sha256": "2e3cd298c635947540a50a3bb62ecf18b951fae8c897697e6ee98056d5b35a78",
+  "all_six_findings_addressed": true,
+  "physical_key_unchanged_from_DONE1": true,
+  "default35": "N, M alternative retained",
+  "source_image_unchanged": true,
+  "report_pages": 3,
+  "images_per_page": [
+    0,
+    0,
+    1
+  ],
+  "latest_all_pages_visually_inspected": true,
+  "indicator_role": "shared starting-state indicator; encoding open",
+  "register_entry": "not written; previously public content, human authorization required",
+  "pdf_sha256": "dd810d6ae415f07c4ef3e0e91d353ba6fde86da22baff5871c98366497f78605",
+  "report_language": "English; original Slovak plaintext preserved",
+  "authorized_report_edit": "Human requested reports in English after FINAL",
+  "protected_cipher_files_unchanged": true,
+  "english_report_verified_utc": "2026-10-12T06:31:44.633480+00:00"
+}

@@ -1,0 +1,1013 @@
+{
+  "independent_key_triples": 72,
+  "cases": [
+    {
+      "plaintext": "annbcd",
+      "ciphertext": "udabnc",
+      "expected_sat": true,
+      "result": {
+        "plaintext": "annbcd",
+        "ciphertext": "udabnc",
+        "widths": [
+          3,
+          3,
+          4
+        ],
+        "construction_seconds": 0.011534417018992826,
+        "clauses": 162,
+        "rows": [
+          {
+            "n": 1,
+            "status": "unsat",
+            "seconds": 0.0005127499753143638
+          },
+          {
+            "n": 2,
+            "status": "sat",
+            "seconds": 7.841698243282735e-05,
+            "keys": [
+              [
+                2,
+                0,
+                1
+              ],
+              [
+                1,
+                0,
+                2
+              ],
+              [
+                2,
+                0,
+                3,
+                1
+              ]
+            ],
+            "predicted_ciphertext": "ndabnc",
+            "literal_plaintext": "anubcd",
+            "mismatch_position1": 1,
+            "full_encoder_inverse_exact": true
+          }
+        ]
+      }
+    },
+    {
+      "plaintext": "annbcd",
+      "ciphertext": "udabnc",
+      "expected_sat": true,
+      "result": {
+        "plaintext": "annbcd",
+        "ciphertext": "udabnc",
+        "widths": [
+          3,
+          3,
+          4
+        ],
+        "construction_seconds": 0.009775749989785254,
+        "clauses": 162,
+        "rows": [
+          {
+            "n": 1,
+            "status": "unsat",
+            "seconds": 0.00035924999974668026
+          },
+          {
+            "n": 2,
+            "status": "sat",
+            "seconds": 5.216698627918959e-05,
+            "keys": [
+              [
+                2,
+                0,
+                1
+              ],
+              [
+                1,
+                0,
+                2
+              ],
+              [
+                2,
+                0,
+                3,
+                1
+              ]
+            ],
+            "predicted_ciphertext": "ndabnc",
+            "literal_plaintext": "anubcd",
+            "mismatch_position1": 1,
+            "full_encoder_inverse_exact": true
+          }
+        ]
+      }
+    },
+    {
+      "plaintext": "annbcd",
+      "ciphertext": "acnubd",
+      "expected_sat": true,
+      "result": {
+        "plaintext": "annbcd",
+        "ciphertext": "acnubd",
+        "widths": [
+          3,
+          3,
+          4
+        ],
+        "construction_seconds": 0.01017162497737445,
+        "clauses": 162,
+        "rows": [
+          {
+            "n": 1,
+            "status": "unsat",
+            "seconds": 0.0003667499986477196
+          },
+          {
+            "n": 2,
+            "status": "unsat",
+            "seconds": 2.6249996153637767e-05
+          },
+          {
+            "n": 3,
+            "status": "sat",
+            "seconds": 4.937499761581421e-05,
+            "keys": [
+              [
+                1,
+                2,
+                0
+              ],
+              [
+                2,
+                1,
+                0
+              ],
+              [
+                3,
+                2,
+                0,
+                1
+              ]
+            ],
+            "predicted_ciphertext": "acnnbd",
+            "literal_plaintext": "aunbcd",
+            "mismatch_position1": 4,
+            "full_encoder_inverse_exact": true
+          }
+        ]
+      }
+    },
+    {
+      "plaintext": "annbcd",
+      "ciphertext": "ncdabu",
+      "expected_sat": true,
+      "result": {
+        "plaintext": "annbcd",
+        "ciphertext": "ncdabu",
+        "widths": [
+          3,
+          3,
+          4
+        ],
+        "construction_seconds": 0.00960020799539052,
+        "clauses": 162,
+        "rows": [
+          {
+            "n": 1,
+            "status": "unsat",
+            "seconds": 0.00034591599251143634
+          },
+          {
+            "n": 2,
+            "status": "sat",
+            "seconds": 5.2458985010161996e-05,
+            "keys": [
+              [
+                2,
+                0,
+                1
+              ],
+              [
+                1,
+                0,
+                2
+              ],
+              [
+                1,
+                0,
+                3,
+                2
+              ]
+            ],
+            "predicted_ciphertext": "ncdabn",
+            "literal_plaintext": "anubcd",
+            "mismatch_position1": 6,
+            "full_encoder_inverse_exact": true
+          }
+        ]
+      }
+    },
+    {
+      "plaintext": "annbcd",
+      "ciphertext": "bcanud",
+      "expected_sat": true,
+      "result": {
+        "plaintext": "annbcd",
+        "ciphertext": "bcanud",
+        "widths": [
+          3,
+          3,
+          4
+        ],
+        "construction_seconds": 0.010089209012221545,
+        "clauses": 162,
+        "rows": [
+          {
+            "n": 1,
+            "status": "unsat",
+            "seconds": 0.00035937500069849193
+          },
+          {
+            "n": 2,
+            "status": "sat",
+            "seconds": 7.108401041477919e-05,
+            "keys": [
+              [
+                1,
+                0,
+                2
+              ],
+              [
+                1,
+                0,
+                2
+              ],
+              [
+                3,
+                0,
+                2,
+                1
+              ]
+            ],
+            "predicted_ciphertext": "bcannd",
+            "literal_plaintext": "anubcd",
+            "mismatch_position1": 5,
+            "full_encoder_inverse_exact": true
+          }
+        ]
+      }
+    },
+    {
+      "plaintext": "annbcd",
+      "ciphertext": "cuadnb",
+      "expected_sat": true,
+      "result": {
+        "plaintext": "annbcd",
+        "ciphertext": "cuadnb",
+        "widths": [
+          3,
+          3,
+          4
+        ],
+        "construction_seconds": 0.009806666988879442,
+        "clauses": 162,
+        "rows": [
+          {
+            "n": 1,
+            "status": "unsat",
+            "seconds": 0.0003459999861661345
+          },
+          {
+            "n": 2,
+            "status": "sat",
+            "seconds": 5.0125003326684237e-05,
+            "keys": [
+              [
+                2,
+                0,
+                1
+              ],
+              [
+                2,
+                0,
+                1
+              ],
+              [
+                1,
+                0,
+                2,
+                3
+              ]
+            ],
+            "predicted_ciphertext": "cnadnb",
+            "literal_plaintext": "aunbcd",
+            "mismatch_position1": 2,
+            "full_encoder_inverse_exact": true
+          }
+        ]
+      }
+    },
+    {
+      "plaintext": "annbcd",
+      "ciphertext": "acudnb",
+      "expected_sat": true,
+      "result": {
+        "plaintext": "annbcd",
+        "ciphertext": "acudnb",
+        "widths": [
+          3,
+          3,
+          4
+        ],
+        "construction_seconds": 0.010089749994222075,
+        "clauses": 162,
+        "rows": [
+          {
+            "n": 1,
+            "status": "unsat",
+            "seconds": 0.00038708298234269023
+          },
+          {
+            "n": 2,
+            "status": "unsat",
+            "seconds": 3.091699909418821e-05
+          },
+          {
+            "n": 3,
+            "status": "sat",
+            "seconds": 4.516699118539691e-05,
+            "keys": [
+              [
+                2,
+                1,
+                0
+              ],
+              [
+                1,
+                2,
+                0
+              ],
+              [
+                1,
+                2,
+                0,
+                3
+              ]
+            ],
+            "predicted_ciphertext": "acndnb",
+            "literal_plaintext": "aunbcd",
+            "mismatch_position1": 3,
+            "full_encoder_inverse_exact": true
+          }
+        ]
+      }
+    },
+    {
+      "plaintext": "annbcd",
+      "ciphertext": "abcdnu",
+      "expected_sat": true,
+      "result": {
+        "plaintext": "annbcd",
+        "ciphertext": "abcdnu",
+        "widths": [
+          3,
+          3,
+          4
+        ],
+        "construction_seconds": 0.00986433299840428,
+        "clauses": 162,
+        "rows": [
+          {
+            "n": 1,
+            "status": "sat",
+            "seconds": 0.00039883400313556194,
+            "keys": [
+              [
+                0,
+                2,
+                1
+              ],
+              [
+                0,
+                2,
+                1
+              ],
+              [
+                0,
+                3,
+                1,
+                2
+              ]
+            ],
+            "predicted_ciphertext": "abcdnn",
+            "literal_plaintext": "anubcd",
+            "mismatch_position1": 6,
+            "full_encoder_inverse_exact": true
+          }
+        ]
+      }
+    },
+    {
+      "plaintext": "annbcd",
+      "ciphertext": "bdancu",
+      "expected_sat": true,
+      "result": {
+        "plaintext": "annbcd",
+        "ciphertext": "bdancu",
+        "widths": [
+          3,
+          3,
+          4
+        ],
+        "construction_seconds": 0.00985387500259094,
+        "clauses": 162,
+        "rows": [
+          {
+            "n": 1,
+            "status": "unsat",
+            "seconds": 0.00038091602618806064
+          },
+          {
+            "n": 2,
+            "status": "sat",
+            "seconds": 5.549998604692519e-05,
+            "keys": [
+              [
+                2,
+                0,
+                1
+              ],
+              [
+                1,
+                0,
+                2
+              ],
+              [
+                3,
+                0,
+                1,
+                2
+              ]
+            ],
+            "predicted_ciphertext": "bdancn",
+            "literal_plaintext": "anubcd",
+            "mismatch_position1": 6,
+            "full_encoder_inverse_exact": true
+          }
+        ]
+      }
+    },
+    {
+      "plaintext": "annbcd",
+      "ciphertext": "ncaudb",
+      "expected_sat": true,
+      "result": {
+        "plaintext": "annbcd",
+        "ciphertext": "ncaudb",
+        "widths": [
+          3,
+          3,
+          4
+        ],
+        "construction_seconds": 0.010103624983457848,
+        "clauses": 162,
+        "rows": [
+          {
+            "n": 1,
+            "status": "unsat",
+            "seconds": 0.00042612498509697616
+          },
+          {
+            "n": 2,
+            "status": "sat",
+            "seconds": 4.845901275984943e-05,
+            "keys": [
+              [
+                1,
+                0,
+                2
+              ],
+              [
+                1,
+                0,
+                2
+              ],
+              [
+                2,
+                0,
+                1,
+                3
+              ]
+            ],
+            "predicted_ciphertext": "ncandb",
+            "literal_plaintext": "anubcd",
+            "mismatch_position1": 4,
+            "full_encoder_inverse_exact": true
+          }
+        ]
+      }
+    },
+    {
+      "plaintext": "annbcd",
+      "ciphertext": "abncdu",
+      "expected_sat": true,
+      "result": {
+        "plaintext": "annbcd",
+        "ciphertext": "abncdu",
+        "widths": [
+          3,
+          3,
+          4
+        ],
+        "construction_seconds": 0.010333582991734147,
+        "clauses": 162,
+        "rows": [
+          {
+            "n": 1,
+            "status": "sat",
+            "seconds": 0.0003982079797424376,
+            "keys": [
+              [
+                0,
+                2,
+                1
+              ],
+              [
+                0,
+                2,
+                1
+              ],
+              [
+                0,
+                2,
+                3,
+                1
+              ]
+            ],
+            "predicted_ciphertext": "abncdn",
+            "literal_plaintext": "aunbcd",
+            "mismatch_position1": 6,
+            "full_encoder_inverse_exact": true
+          }
+        ]
+      }
+    },
+    {
+      "plaintext": "annbcd",
+      "ciphertext": "bdancu",
+      "expected_sat": true,
+      "result": {
+        "plaintext": "annbcd",
+        "ciphertext": "bdancu",
+        "widths": [
+          3,
+          3,
+          4
+        ],
+        "construction_seconds": 0.010076000005938113,
+        "clauses": 162,
+        "rows": [
+          {
+            "n": 1,
+            "status": "unsat",
+            "seconds": 0.00044408300891518593
+          },
+          {
+            "n": 2,
+            "status": "sat",
+            "seconds": 5.1790993893519044e-05,
+            "keys": [
+              [
+                2,
+                0,
+                1
+              ],
+              [
+                1,
+                0,
+                2
+              ],
+              [
+                3,
+                0,
+                1,
+                2
+              ]
+            ],
+            "predicted_ciphertext": "bdancn",
+            "literal_plaintext": "anubcd",
+            "mismatch_position1": 6,
+            "full_encoder_inverse_exact": true
+          }
+        ]
+      }
+    },
+    {
+      "plaintext": "annbcd",
+      "ciphertext": "adncbu",
+      "expected_sat": false,
+      "result": {
+        "plaintext": "annbcd",
+        "ciphertext": "adncbu",
+        "widths": [
+          3,
+          3,
+          4
+        ],
+        "construction_seconds": 0.0098072919936385,
+        "clauses": 162,
+        "rows": [
+          {
+            "n": 1,
+            "status": "unsat",
+            "seconds": 0.00033275000168941915
+          },
+          {
+            "n": 2,
+            "status": "unsat",
+            "seconds": 2.4375010980293155e-05
+          },
+          {
+            "n": 3,
+            "status": "unsat",
+            "seconds": 2.9457994969561696e-05
+          }
+        ]
+      }
+    },
+    {
+      "plaintext": "annbcd",
+      "ciphertext": "nucadb",
+      "expected_sat": false,
+      "result": {
+        "plaintext": "annbcd",
+        "ciphertext": "nucadb",
+        "widths": [
+          3,
+          3,
+          4
+        ],
+        "construction_seconds": 0.009928459010552615,
+        "clauses": 162,
+        "rows": [
+          {
+            "n": 1,
+            "status": "unsat",
+            "seconds": 0.0003792080096900463
+          },
+          {
+            "n": 2,
+            "status": "unsat",
+            "seconds": 3.500000457279384e-05
+          },
+          {
+            "n": 3,
+            "status": "unsat",
+            "seconds": 2.5874993298202753e-05
+          }
+        ]
+      }
+    },
+    {
+      "plaintext": "annbcd",
+      "ciphertext": "cadunb",
+      "expected_sat": false,
+      "result": {
+        "plaintext": "annbcd",
+        "ciphertext": "cadunb",
+        "widths": [
+          3,
+          3,
+          4
+        ],
+        "construction_seconds": 0.01014041600865312,
+        "clauses": 162,
+        "rows": [
+          {
+            "n": 1,
+            "status": "unsat",
+            "seconds": 0.0003512919938657433
+          },
+          {
+            "n": 2,
+            "status": "unsat",
+            "seconds": 4.170800093561411e-05
+          },
+          {
+            "n": 3,
+            "status": "unsat",
+            "seconds": 3.383398870937526e-05
+          }
+        ]
+      }
+    },
+    {
+      "plaintext": "annbcd",
+      "ciphertext": "uncadb",
+      "expected_sat": false,
+      "result": {
+        "plaintext": "annbcd",
+        "ciphertext": "uncadb",
+        "widths": [
+          3,
+          3,
+          4
+        ],
+        "construction_seconds": 0.010536041983868927,
+        "clauses": 162,
+        "rows": [
+          {
+            "n": 1,
+            "status": "unsat",
+            "seconds": 0.00033554199035279453
+          },
+          {
+            "n": 2,
+            "status": "unsat",
+            "seconds": 2.9749993700534105e-05
+          },
+          {
+            "n": 3,
+            "status": "unsat",
+            "seconds": 2.300000051036477e-05
+          }
+        ]
+      }
+    },
+    {
+      "plaintext": "annbcd",
+      "ciphertext": "anucdb",
+      "expected_sat": true,
+      "result": {
+        "plaintext": "annbcd",
+        "ciphertext": "anucdb",
+        "widths": [
+          3,
+          3,
+          4
+        ],
+        "construction_seconds": 0.010182583006098866,
+        "clauses": 162,
+        "rows": [
+          {
+            "n": 1,
+            "status": "sat",
+            "seconds": 0.0003658749919850379,
+            "keys": [
+              [
+                0,
+                1,
+                2
+              ],
+              [
+                0,
+                1,
+                2
+              ],
+              [
+                0,
+                3,
+                1,
+                2
+              ]
+            ],
+            "predicted_ciphertext": "anncdb",
+            "literal_plaintext": "anubcd",
+            "mismatch_position1": 3,
+            "full_encoder_inverse_exact": true
+          }
+        ]
+      }
+    },
+    {
+      "plaintext": "annbcd",
+      "ciphertext": "cundab",
+      "expected_sat": false,
+      "result": {
+        "plaintext": "annbcd",
+        "ciphertext": "cundab",
+        "widths": [
+          3,
+          3,
+          4
+        ],
+        "construction_seconds": 0.010218167008133605,
+        "clauses": 162,
+        "rows": [
+          {
+            "n": 1,
+            "status": "unsat",
+            "seconds": 0.0003625410026870668
+          },
+          {
+            "n": 2,
+            "status": "unsat",
+            "seconds": 3.479100996628404e-05
+          },
+          {
+            "n": 3,
+            "status": "unsat",
+            "seconds": 4.258297849446535e-05
+          }
+        ]
+      }
+    },
+    {
+      "plaintext": "annbcd",
+      "ciphertext": "nabcdu",
+      "expected_sat": false,
+      "result": {
+        "plaintext": "annbcd",
+        "ciphertext": "nabcdu",
+        "widths": [
+          3,
+          3,
+          4
+        ],
+        "construction_seconds": 0.010070082993479446,
+        "clauses": 162,
+        "rows": [
+          {
+            "n": 1,
+            "status": "unsat",
+            "seconds": 0.00034766699536703527
+          },
+          {
+            "n": 2,
+            "status": "unsat",
+            "seconds": 2.695797593332827e-05
+          },
+          {
+            "n": 3,
+            "status": "unsat",
+            "seconds": 2.5540997739881277e-05
+          }
+        ]
+      }
+    },
+    {
+      "plaintext": "annbcd",
+      "ciphertext": "cbnuad",
+      "expected_sat": false,
+      "result": {
+        "plaintext": "annbcd",
+        "ciphertext": "cbnuad",
+        "widths": [
+          3,
+          3,
+          4
+        ],
+        "construction_seconds": 0.010051499994006008,
+        "clauses": 162,
+        "rows": [
+          {
+            "n": 1,
+            "status": "unsat",
+            "seconds": 0.0003482920001260936
+          },
+          {
+            "n": 2,
+            "status": "unsat",
+            "seconds": 3.708299482241273e-05
+          },
+          {
+            "n": 3,
+            "status": "unsat",
+            "seconds": 2.845900598913431e-05
+          }
+        ]
+      }
+    },
+    {
+      "plaintext": "annbcd",
+      "ciphertext": "ncadub",
+      "expected_sat": false,
+      "result": {
+        "plaintext": "annbcd",
+        "ciphertext": "ncadub",
+        "widths": [
+          3,
+          3,
+          4
+        ],
+        "construction_seconds": 0.009889500011922792,
+        "clauses": 162,
+        "rows": [
+          {
+            "n": 1,
+            "status": "unsat",
+            "seconds": 0.000320708000799641
+          },
+          {
+            "n": 2,
+            "status": "unsat",
+            "seconds": 5.416598287411034e-05
+          },
+          {
+            "n": 3,
+            "status": "unsat",
+            "seconds": 2.274999860674143e-05
+          }
+        ]
+      }
+    },
+    {
+      "plaintext": "annbcd",
+      "ciphertext": "nucabd",
+      "expected_sat": false,
+      "result": {
+        "plaintext": "annbcd",
+        "ciphertext": "nucabd",
+        "widths": [
+          3,
+          3,
+          4
+        ],
+        "construction_seconds": 0.00977645898819901,
+        "clauses": 162,
+        "rows": [
+          {
+            "n": 1,
+            "status": "unsat",
+            "seconds": 0.0003149159892927855
+          },
+          {
+            "n": 2,
+            "status": "unsat",
+            "seconds": 2.9250018997117877e-05
+          },
+          {
+            "n": 3,
+            "status": "unsat",
+            "seconds": 2.3958011297509074e-05
+          }
+        ]
+      }
+    },
+    {
+      "plaintext": "annbcd",
+      "ciphertext": "ucabdn",
+      "expected_sat": false,
+      "result": {
+        "plaintext": "annbcd",
+        "ciphertext": "ucabdn",
+        "widths": [
+          3,
+          3,
+          4
+        ],
+        "construction_seconds": 0.009716792003018782,
+        "clauses": 162,
+        "rows": [
+          {
+            "n": 1,
+            "status": "unsat",
+            "seconds": 0.00034966698149219155
+          },
+          {
+            "n": 2,
+            "status": "unsat",
+            "seconds": 2.8417009161785245e-05
+          },
+          {
+            "n": 3,
+            "status": "unsat",
+            "seconds": 2.274999860674143e-05
+          }
+        ]
+      }
+    },
+    {
+      "plaintext": "annbcd",
+      "ciphertext": "cnbadu",
+      "expected_sat": false,
+      "result": {
+        "plaintext": "annbcd",
+        "ciphertext": "cnbadu",
+        "widths": [
+          3,
+          3,
+          4
+        ],
+        "construction_seconds": 0.009724208008265123,
+        "clauses": 162,
+        "rows": [
+          {
+            "n": 1,
+            "status": "unsat",
+            "seconds": 0.0003215409815311432
+          },
+          {
+            "n": 2,
+            "status": "unsat",
+            "seconds": 2.9167014872655272e-05
+          },
+          {
+            "n": 3,
+            "status": "unsat",
+            "seconds": 4.066701512783766e-05
+          }
+        ]
+      }
+    }
+  ]
+}

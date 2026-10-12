@@ -41,3 +41,15 @@ The 50-letter normalized draft contains F in ŠIFROU; both 55-letter source read
 ## Actual worked-example validation of the R core
 
 An independent visual transcription and fresh encoder reproduce both full intermediate grids in the published HistoCrypt2020 Figure5 example. Existing 21/19/20 encoders and inverses also pass the actual fixture, including physical alignment. The final indicator spelling and whether ip=5 means insertion before or after payload group5 are not unambiguously verified. A targeted code audit found no actual target result requiring rerun solely for that boundary ambiguity. This supports the transposition implementation, not its applicability to396 or a recovered key. Evidence: `batches/r-primary-example-audit-sol61/REPORT.md`.
+
+
+## Key-search continuation — GPT-6.1 Sol, 2026-10-12
+
+The independent 50-letter calibration in `batches/r396-key-next-sol61/REPORT.md` did not recover a complete key. Exact Hungarian decompositions, global position/rank CP, constrained repairs and legitimate known-crib fragment scoring reached at most43/50 letters. This is not nearly recovered key evidence: the two best controls agree with only13/50 and12/50 planted position mappings. A distinct rank-conditioned repair and globally free unique-letter-endpoint repair also failed. Equal17 closed-form constant/progressive controls pass known-key fixtures but remain UNKNOWN under the declared blind bounds. No actual target key searches followed these failed recovery calibrations; there is no negative target inference.
+
+`python3 batches/r396-key-next-sol61/verify.py` independently checks15 saved candidate key sets and finds zero complete observed-ciphertext witnesses. Prediction round trips are explicitly distinguished from decryption of observed ciphertext; earlier partial-candidate inverse labels were clarified without changing keys. Published387 plaintext remains attributed context, and P→F alternatives remain hypothetical errors rather than source corrections.
+
+Public Solved386 was inspected only as same-day/channel context. Its source audit (`batches/solved-context-main/386/AUDIT.md`) finds280 cipher letters versus574–591 draft letters and no exact inventory across declared contiguous windows, minimal padding or group omissions. Best preferred gap is22 substitutions; loose source-variant bounds still require at least15. Thus no valid386 known pair or shared-key constraint was established or used. Daily-key sharing is unproved. Full methods, bounds, failures, provenance and source-only crops are preserved in the new batch. No source, marker, watcher or review changes were made.
+## Exact backend continuation (2026-10-12)
+
+Two CaDiCaL engines recover whole50-letter equal17 controls with unknown keys and a conditioned n. The source387oneP/F context union, common/progressive all32 legal n cases, gives4 UNSAT and28 UNKNOWN, no actual key. Generic21/19/20 remains uncalibrated at its full50 control; no mixed-width source-context target followed. The true source glyphs and published plaintext attribution remain explicit. Reports: `batches/r396-cadical17-sol61/REPORT.md`, `batches/r396-mixed-cadical-sol61/REPORT.md`.
