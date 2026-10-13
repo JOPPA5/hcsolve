@@ -1,0 +1,8 @@
+{
+  "pages": 5,
+  "sha256": "328d38747ae9affadda8b937b5889806df066cc6084b096f13f2422296aa7cee",
+  "visual_qa": "All pages inspected; source-page layout compacted and empty trailing page removed.",
+  "status": "partial decipherment, first independent review requested",
+  "literal_decoder_matches": true,
+  "source_hashes_unchanged": true
+}

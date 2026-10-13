@@ -1,0 +1,8 @@
+{
+  "pages": 4,
+  "sha256": "9a4f77956f47b05822cd41c90ce8029ca6233ed8da9679b302ff31c4060bfde9",
+  "visual_qa": "All four rendered pages inspected; no clipping or overlap observed.",
+  "literal_decoder_matches": true,
+  "protected_source_review_files_unchanged": true,
+  "status": "review 1 corrections incorporated"
+}

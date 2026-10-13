@@ -1,0 +1,122 @@
+[
+  {
+    "submitted": "2026-09-18",
+    "solver": "Carter Church",
+    "source": "https://www.persee.fr/doc/rharm_0035-3299_1969_num_25_4_8686",
+    "name": "Letter to Marmont, 1809",
+    "type": "Homophonic substitution",
+    "model": "OpenAI GPT",
+    "version": "GPT-6 Astra",
+    "role": "transcription, analysis, decipherment",
+    "agents": "Not reported",
+    "documentation": "https://carter.church/writeups/the-letter-to-marmont/"
+  },
+  {
+    "submitted": "2026-10-01",
+    "solver": "Satoru (satorunet)",
+    "source": "https://gallica.bnf.fr/ark:/12148/btv1b9061541x/f295.item",
+    "name": "Vizani to Césy, 8 October 1637 (BnF Français 16158, f.292)",
+    "type": "Homophonic substitution with word signs and name codes",
+    "model": "Anthropic Claude",
+    "version": "Claude Opus 5.5",
+    "role": "transcription, code, decipherment, checks",
+    "agents": "YES",
+    "documentation": "https://satoru.net/crypt/vizani1637/"
+  },
+  {
+    "submitted": "2026-09-28",
+    "solver": "Jack Willis",
+    "source": "https://cryptocellar.org/bgac/spruch/31071941-285-in.pdf",
+    "name": "Enigma message Nr. 285 FMNGI, 31 July 1941",
+    "type": "Enigma",
+    "model": "Anthropic Claude",
+    "version": "Claude Opus 5",
+    "role": "transcription, message key search, decipherment",
+    "agents": "Not reported",
+    "documentation": "https://cryptocellar.org/bgac/the-fmngi-break.html"
+  },
+  {
+    "submitted": "2026-10-04",
+    "solver": "Maxim Egorov",
+    "source": "https://crypto.hcportal.eu/dashboard/cryptograms/1517",
+    "name": "Anna Tichá postcards (pc_hcp_198)",
+    "type": "Substitution (partial key)",
+    "model": "Model not reported",
+    "version": "Version not reported",
+    "role": "transcription, linguistic assessment of the readings, image review",
+    "agents": "Not reported",
+    "documentation": "https://maxim-egorov.dev/research/anna-ticha-postcards/"
+  },
+  {
+    "submitted": "Not reported",
+    "solver": "Not reported",
+    "source": "https://cryptocellar.org/bgac/spruch/10071941-088-061-out-nf.pdf",
+    "name": "Enigma message MVUEH (NF 88/61), 10 July 1941",
+    "type": "Enigma",
+    "model": "OpenAI GPT",
+    "version": "GPT-6 Astra",
+    "role": "source examination, building search programs, experiments, review",
+    "agents": "YES",
+    "documentation": "https://mvueh-enigma-solved.carterl.chatgpt.site/"
+  },
+  {
+    "submitted": "2026-10-01",
+    "solver": "Paolo Rosson",
+    "source": "BnF ms. français 3984, ff. 186 and 189 (gallica.bnf.fr)",
+    "name": "Desportes letters, 22 July 1593",
+    "type": "Polyphonic substitution with word and name signs (partial reading)",
+    "model": "Anthropic Claude",
+    "version": "Claude Opus 5.5",
+    "role": "sign recognition, decipherment, checks against the page images",
+    "agents": "YES",
+    "documentation": "https://github.com/pangoleen/desportes-1593"
+  },
+  {
+    "submitted": "2026-09-28",
+    "solver": "Daniel Bourdeau",
+    "source": "https://crypto.hcportal.eu/dashboard/cryptograms/496",
+    "name": "Malsburg to Landgrave Wilhelm V, 1637 (numerical cipher)",
+    "type": "Homophonic two-digit cipher with digraph signs and a small code",
+    "model": "Model not reported",
+    "version": "Version not reported",
+    "role": "Not reported",
+    "agents": "Not reported",
+    "documentation": "https://dbourdeau.github.io/cyphersolver/malsburg1637.html"
+  },
+  {
+    "submitted": "2026-10-11",
+    "solver": "Tomáš Pavuk",
+    "source": "https://crypto.hcportal.eu/dashboard/cryptograms/350",
+    "name": "MZV message No. 3001/1944",
+    "type": "Kryha cipher machine",
+    "model": "OpenAI GPT",
+    "version": "GPT-6.1 Sol",
+    "role": "transcription, key recovery, decipherment (GPT-6.1 Sol); pairing of the two copies and independent review by Claude Opus 5.5",
+    "agents": "YES",
+    "documentation": "https://github.com/JOPPA5/hcsolve/tree/main/ciphers/hcp-350"
+  },
+  {
+    "submitted": "2026-10-11",
+    "solver": "Tomáš Pavuk",
+    "source": "https://crypto.hcportal.eu/dashboard/cryptograms/351",
+    "name": "MZV message No. 3002/1944",
+    "type": "Kryha cipher machine",
+    "model": "OpenAI GPT",
+    "version": "GPT-6.1 Sol",
+    "role": "transcription, key recovery, decipherment (GPT-6.1 Sol); pairing of the two copies and independent review by Claude Opus 5.5",
+    "agents": "YES",
+    "documentation": "https://github.com/JOPPA5/hcsolve/tree/main/ciphers/hcp-351"
+  },
+  {
+    "submitted": "2026-10-12",
+    "solver": "Tomáš Pavuk",
+    "source": "https://crypto.hcportal.eu/dashboard/cryptograms/374",
+    "name": "MZV message No. 80174/1944",
+    "type": "Kryha cipher machine",
+    "model": "OpenAI GPT",
+    "version": "GPT-6.1 Sol",
+    "role": "key recovery by known plaintext from the published telegram 80172 (portal record 373), key transfer and verification (GPT-6.1 Sol); independent review by Claude Opus 5.5; the plaintext is the end of the already published 80172",
+    "agents": "YES",
+    "documentation": "https://github.com/JOPPA5/hcsolve/tree/main/ciphers/hcp-374"
+  }
+]

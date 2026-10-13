@@ -1,0 +1,62 @@
+[
+  {
+    "submitted": "2026-10-12",
+    "solver": "Tomáš Pavuk",
+    "source": "https://crypto.hcportal.eu/dashboard/cryptograms/1301",
+    "name": "cpc_1912-06-04_HU__HU_Jasz Arokszalas_jolanka-23",
+    "type": "MASC",
+    "model": "OpenAI GPT",
+    "version": "GPT-6 Astra",
+    "role": "manual transcription, analysis, decipherment; independent review by Claude Opus 5.5; review corrections incorporated",
+    "agents": "YES",
+    "documentation": "https://github.com/JOPPA5/hcsolve/tree/main/ciphers/hcp-1301"
+  },
+  {
+    "submitted": "2026-10-12",
+    "solver": "Tomáš Pavuk",
+    "source": "https://crypto.hcportal.eu/dashboard/cryptograms/1243",
+    "name": "cpc_1912-05-17_HU__HU_Jasz Arokszalas_jolanka-22",
+    "type": "MASC",
+    "model": "OpenAI GPT",
+    "version": "GPT-6 Astra",
+    "role": "manual transcription, analysis, decipherment; independent review by Claude Opus 5.5; review corrections incorporated",
+    "agents": "YES",
+    "documentation": "https://github.com/JOPPA5/hcsolve/tree/main/ciphers/hcp-1243"
+  },
+  {
+    "submitted": "2026-10-13",
+    "solver": "Tomáš Pavuk",
+    "source": "https://crypto.hcportal.eu/dashboard/cryptograms/1218",
+    "name": "cpc_1912-09-_HU__HU_Jasz Arokszalas_jolanka-106",
+    "type": "MASC",
+    "model": "OpenAI GPT",
+    "version": "GPT-6 Astra",
+    "role": "key transfer, manual transcription, analysis and decipherment; independent review by Claude Opus 5.5, who supplied the A15 reading; accepted in round 2",
+    "agents": "YES",
+    "documentation": "https://github.com/JOPPA5/hcsolve/tree/main/ciphers/hcp-1218"
+  },
+  {
+    "submitted": "2026-10-13",
+    "solver": "Tomáš Pavuk",
+    "source": "https://crypto.hcportal.eu/dashboard/cryptograms/1217",
+    "name": "cpc_1912-10-02_HU__HU_Jasz Arokszalas_jolanka-31",
+    "type": "MASC",
+    "model": "OpenAI GPT",
+    "version": "GPT-6 Astra",
+    "role": "manual transcription, analysis, decipherment; independent review by Claude Opus 5.5; required review corrections incorporated",
+    "agents": "YES",
+    "documentation": "https://github.com/JOPPA5/hcsolve/tree/main/ciphers/hcp-1217"
+  },
+  {
+    "submitted": "2026-10-13",
+    "solver": "Tomáš Pavuk",
+    "source": "https://crypto.hcportal.eu/dashboard/cryptograms/1213",
+    "name": "cpc_1913--_HU__HU_Jasz Arokszalas_jolanka-108",
+    "type": "MASC",
+    "model": "OpenAI GPT",
+    "version": "GPT-6 Astra",
+    "role": "manual transcription, analysis, decipherment; independent review by Claude Opus 5.5, accepted in round 2",
+    "agents": "YES",
+    "documentation": "https://github.com/JOPPA5/hcsolve/tree/main/ciphers/hcp-1213"
+  }
+]

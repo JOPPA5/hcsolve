@@ -1,2 +1,5 @@
-# Cryptograms from crypto.hcportal.eu that must not be worked on (already solved).
+# Cryptograms from crypto.hcportal.eu that must not be worked on (already solved or explicitly skipped by the user).
 # One cryptogram number per line; anything after # is a comment.
+917 # User requested skipping the remaining unresolved items, 2026-10-12.
+1000 # User requested skipping the remaining unresolved items, 2026-10-12.
+975 # Exact prior solution by Thomas, 2016; not a new target.
