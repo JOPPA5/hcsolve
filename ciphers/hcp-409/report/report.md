@@ -84,4 +84,4 @@ AWETOV and DAKONCUIE remain literal. They are supported source readings under th
 5. Made numbering explicit. The original solver JSON already listed its first-pass changes one-based (including 164); the review used zero-based 163 in its table. The new manifest labels the convention directly.
 6. Retained the limited prior-solution search wording and the attribution of the transferred key to the published 373 context.
 
-The original review and REVIEWED1 marker are unchanged. The final PDF records the corrected text, working key, source scans, limitations and review response. A local register entry uses solver TODO because no human solver name was supplied. Nothing has been submitted online.
+The original review and REVIEWED1 marker are unchanged. The final PDF records the corrected text, working key, source scans, limitations and review response. The register entry names Tomáš Pavuk as the solver; it is submitted to the AI Decipherment Register by him.

@@ -109,4 +109,4 @@ Claude Opus 5.5 returned ACCEPT on 2026-10-14 after verifying the revised ledger
 2. Changed the English wording to “whenever I arrived at night”. The tense mixture reflects the source; no claim about additional journeys is inferred.
 3. Re-examined the archived HCP1243 address-side stamp note without editing that finalized card. Its short cursive signature is compatible with Feri, including a possible capital F, but this cross-card suggestion does not establish the name or the writer’s identity. The present card’s cipher signature Feri remains the direct evidence.
 
-The English report is rebuilt with this acceptance and the remaining qualifications. The local register entry uses solver TODO because no personal name was supplied. No external register submission, commit or push was performed.
+The English report is rebuilt with this acceptance and the remaining qualifications. The register entry names Tomáš Pavuk as the solver.

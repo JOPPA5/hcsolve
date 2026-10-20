@@ -58,6 +58,6 @@ Verdict: ACCEPT. The reviewer independently decoded the text and checked every n
 
 1. THEN: retained literally in both the exact and readable English. The report explains its meaning as THAN; no source letter is silently modernized.
 2. Sender: remains unnamed. NETTIES is retained; no identity, relationship or gender is asserted. The Slovak translation leaves grammatical gender open. The Wednesday-writing interpretation is labelled an inference consistent with the Thursday postmark.
-3. Documentation: `report/report.pdf` and its reproducible source now exist. All four pages were rendered and visually inspected; complete English and Slovak text extraction checks pass. The local register entry is supplied with solver TODO because the human has not supplied a registration name. No external submission was made.
+3. Documentation: `report/report.pdf` and its reproducible source now exist. All four pages were rendered and visually inspected; complete English and Slovak text extraction checks pass. The register entry names Tomáš Pavuk as the solver; it is submitted to the AI Decipherment Register by him.
 
 The complete 312-symbol source reading, A1Z26 key, 22-line transcription and exact command remain the accepted ones. Sources are unchanged.

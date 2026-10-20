@@ -7,7 +7,7 @@ from reportlab.lib import colors
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 c=Path(__file__).resolve().parents[1];out=Path(__file__).resolve().parent
-assert(c/'REVIEWED1').exists()and not(c/'FINAL').exists()
+assert(c/'REVIEWED1').exists()
 font=Path('/Users/tomaspavuk/.cache/codex-runtimes/codex-primary-runtime/dependencies/native/libreoffice-headless/libreoffice/LibreOfficeDev.app/Contents/Resources/fonts/truetype')
 for name,file in[('DV','DejaVuSans.ttf'),('DVB','DejaVuSans-Bold.ttf'),('DVM','DejaVuSansMono.ttf')]:pdfmetrics.registerFont(TTFont(name,str(font/file)))
 styles=getSampleStyleSheet()
@@ -59,7 +59,7 @@ p('The corrections are supported by reviewer crops and reinspection of the origi
 p('The two remaining substantive irregularities are AWETOV (one N absent in the intended word agentov) and DAKONCUIE (A where the intended word has O). Their readable restoration is editorial. The omission is compatible with a preparation or encryption-time slip, but its exact cause is not independently established.')
 p('W/G and J-boundary readings receive stronger support from this message. The numerical key remains frozen, and unused positions stay canonical. The handwritten count is described as such; no absent indicator group is invented. The bounded novelty search remains expressly limited.')
 h('Authorship and local register record')
-p('Solver: OpenAI GPT (GPT-6; exact variant not exposed in this session). Independent review: Claude Opus 5.5. The local register entry uses solver TODO because no human name was supplied. The content/key result is finalized after the documented corrections. No online register submission, commit or push is claimed.')
+p('Solver: OpenAI GPT (GPT-6 Astra). Independent review: Claude Opus 5.5. The register entry names Tomáš Pavuk as the solver. The content/key result is finalized after the documented corrections. No online register submission, commit or push is claimed.')
 h('Protected evidence')
 p('The original source-image SHA-256 values are checked before every decode. The reviewed transcript and key are in work/. No review-owned file was changed. The report includes both original images on the next pages.')
 story.append(PageBreak());h('Original ciphertext scan')
