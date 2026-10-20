@@ -78,7 +78,7 @@
     "name": "MZV message No. 80262/1944",
     "type": "Kryha cipher machine",
     "model": "OpenAI GPT",
-    "version": "GPT-6 (exact variant not exposed)",
+    "version": "GPT-6 Astra",
     "role": "manual transcription, decipherment by transfer of the previously recovered Madrid key, verification; independent review by Claude Opus 5.5; four required source corrections incorporated",
     "agents": "YES",
     "documentation": "https://github.com/JOPPA5/hcsolve/tree/main/ciphers/hcp-409"
@@ -90,7 +90,7 @@
     "name": "cpc_1909-03-25_USA_Brattlebord_USA_Bernardston, Massachusets_",
     "type": "Numerical monoalphabetic substitution (A1Z26)",
     "model": "OpenAI GPT",
-    "version": "GPT-6",
+    "version": "GPT-6 Astra",
     "role": "manual transcription, analysis and decipherment; independent review by Claude Opus 5.5",
     "agents": "YES",
     "documentation": "https://github.com/JOPPA5/hcsolve/tree/main/ciphers/hcp-1098"
