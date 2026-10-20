@@ -7,7 +7,7 @@
     "type": "MASC",
     "model": "OpenAI GPT",
     "version": "GPT-6 Astra",
-    "role": "manual transcription, analysis, decipherment; independent review by Claude Opus 5.5; review corrections incorporated",
+    "role": "transcription, analysis, decipherment (GPT-6 Astra); independent review by Claude Opus 5.5",
     "agents": "YES",
     "documentation": "https://github.com/JOPPA5/hcsolve/tree/main/ciphers/hcp-1301"
   },
@@ -19,7 +19,7 @@
     "type": "MASC",
     "model": "OpenAI GPT",
     "version": "GPT-6 Astra",
-    "role": "manual transcription, analysis, decipherment; independent review by Claude Opus 5.5; review corrections incorporated",
+    "role": "transcription, analysis, decipherment (GPT-6 Astra); independent review by Claude Opus 5.5",
     "agents": "YES",
     "documentation": "https://github.com/JOPPA5/hcsolve/tree/main/ciphers/hcp-1243"
   },
@@ -31,7 +31,7 @@
     "type": "MASC",
     "model": "OpenAI GPT",
     "version": "GPT-6 Astra",
-    "role": "key transfer, manual transcription, analysis and decipherment; independent review by Claude Opus 5.5, who supplied the A15 reading; accepted in round 2",
+    "role": "key transfer, transcription, analysis, decipherment (GPT-6 Astra); reading of the final unresolved clause and independent review by Claude Opus 5.5",
     "agents": "YES",
     "documentation": "https://github.com/JOPPA5/hcsolve/tree/main/ciphers/hcp-1218"
   },
@@ -43,7 +43,7 @@
     "type": "MASC",
     "model": "OpenAI GPT",
     "version": "GPT-6 Astra",
-    "role": "manual transcription, analysis, decipherment; independent review by Claude Opus 5.5; required review corrections incorporated",
+    "role": "key transfer, transcription, analysis, decipherment (GPT-6 Astra); independent review by Claude Opus 5.5",
     "agents": "YES",
     "documentation": "https://github.com/JOPPA5/hcsolve/tree/main/ciphers/hcp-1217"
   },
@@ -55,8 +55,44 @@
     "type": "MASC",
     "model": "OpenAI GPT",
     "version": "GPT-6 Astra",
-    "role": "manual transcription, analysis, decipherment; independent review by Claude Opus 5.5, accepted in round 2",
+    "role": "key transfer, transcription, analysis, decipherment (GPT-6 Astra); independent review by Claude Opus 5.5",
     "agents": "YES",
     "documentation": "https://github.com/JOPPA5/hcsolve/tree/main/ciphers/hcp-1213"
+  },
+  {
+    "submitted": "Not reported",
+    "solver": "George Lasry",
+    "source": "https://gallica.bnf.fr/",
+    "name": "BnF cipher research: 56 enciphered letters and dispatches, 1452–1859",
+    "type": "Various historical ciphers (complete and partial readings)",
+    "model": "OpenAI GPT; Anthropic Claude",
+    "version": "GPT-6 Astra; Claude Opus 5.5",
+    "role": "transcription, key reconstruction and decipherment with both models; 13 ciphertext-only items, 3 using matching keys, 40 with plaintext available; sample checks published by Daniel Bourdeau, not an independent full decipherment",
+    "agents": "Not reported",
+    "documentation": "https://dbourdeau.github.io/cyphersolver/lasry-bnf.html"
+  },
+  {
+    "submitted": "2026-10-19",
+    "solver": "Tomáš Pavuk",
+    "source": "https://crypto.hcportal.eu/dashboard/cryptograms/409",
+    "name": "MZV message No. 80262/1944",
+    "type": "Kryha cipher machine",
+    "model": "OpenAI GPT",
+    "version": "GPT-6 (exact variant not exposed)",
+    "role": "manual transcription, decipherment by transfer of the previously recovered Madrid key, verification; independent review by Claude Opus 5.5; four required source corrections incorporated",
+    "agents": "YES",
+    "documentation": "https://github.com/JOPPA5/hcsolve/tree/main/ciphers/hcp-409"
+  },
+  {
+    "submitted": "2026-10-19",
+    "solver": "Tomáš Pavuk",
+    "source": "https://crypto.hcportal.eu/dashboard/cryptograms/1098",
+    "name": "cpc_1909-03-25_USA_Brattlebord_USA_Bernardston, Massachusets_",
+    "type": "Numerical monoalphabetic substitution (A1Z26)",
+    "model": "OpenAI GPT",
+    "version": "GPT-6",
+    "role": "manual transcription, analysis and decipherment; independent review by Claude Opus 5.5",
+    "agents": "YES",
+    "documentation": "https://github.com/JOPPA5/hcsolve/tree/main/ciphers/hcp-1098"
   }
 ]
