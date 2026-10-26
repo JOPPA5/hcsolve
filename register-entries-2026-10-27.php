@@ -16,6 +16,18 @@ return [
     [
         'submitted' => '2026-10-26',
         'solver' => 'Tomáš Pavuk',
+        'source' => 'https://crypto.hcportal.eu/dashboard/cryptograms/1017',
+        'name' => 'cpc_1905-06-14_DE_Hamburg_DE_Altona_',
+        'type' => 'Pigpen',
+        'model' => 'OpenAI GPT',
+        'version' => 'GPT-6 Astra',
+        'role' => 'manual transcription, analysis, decipherment; corrections after independent review by Claude Opus 5.5',
+        'agents' => 'YES',
+        'documentation' => 'https://github.com/JOPPA5/hcsolve/tree/main/ciphers/hcp-1017',
+    ],
+    [
+        'submitted' => '2026-10-26',
+        'solver' => 'Tomáš Pavuk',
         'source' => 'https://crypto.hcportal.eu/dashboard/cryptograms/1187',
         'name' => 'cpc_--_UK__UK_Croydon Surrey_',
         'type' => 'Pigpen',
