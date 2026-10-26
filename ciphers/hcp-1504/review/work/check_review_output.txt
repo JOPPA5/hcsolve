@@ -1,0 +1,4 @@
+letters: 55
+joined : hopeyouarewellhopetoseeyousoonfromyourlovengbrotherjohn
+DP seg : hope you are well ho peto see you soon from your love ng brother john
+not in dictionary: ['ng']
