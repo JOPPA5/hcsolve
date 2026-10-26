@@ -1,0 +1,8 @@
+# Own manual glyph transcription; | word rules, / line breaks, =? printed handwritten question marks.
+R1 C1 BR1 TL2 C1 BR3 B3 | C1 R2 R2 BR1
+C3 C1 BL2 BL2 | BR3 C3 C1 C1 B3 C2 C1 BR3 BR3
+T1 L2 C3 | B1 C1 | TR3 L2 BL3 =? | TL1 | R1 L2 C2 B3 | B3 T1 TL1 C2 B2
+TL1 | BL1 BR1 C2 | BL1 L2 R2 C1 | T1 L2 R2 C1 | BL3 C2 B3 TL1 BL2
+BR1 L1 B3 C1 TL2 | C1 L3 BR1 R2 TL1 C2 BR1 B3 TL1 L2 C2 BR3 | R1 TL2 | {won't}
+C1 L3 BL1 BL3 BR3 C1 | BL3 BR3 | BL1 BR1 C2 | TR3 L2 BL3 | TL2 C1 BR1 R1
+B3 T1 TL1 BR3 =? | C3 TL1 B3 T1 | BL2 L2 R3 C1 | R1 C1 BR1 TL2 C1 BR3 B3 | C1 R1 C3
