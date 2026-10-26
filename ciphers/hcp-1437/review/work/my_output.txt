@@ -1,0 +1,13 @@
+HAVE BEEN TO
+OAKLAND ONCE.
+WAS. IN. SAN FRANCISCO
+YESTERDAY. WITH
+CASPERS WIFE AND
+SAW DAVID WAKEFIELD
+PLAY THE MUSIC
+MASTER. IT WAS FINE.
+SKIPP.
+
+114 letter positions: 72 digits, 42 Latin letters
+digit counts {'1': 15, '2': 13, '3': 10, '4': 4, '5': 1, '6': 6, '7': 8, '8': 11, '9': 4}
+Latin letters used bcdfhklmpvwy
