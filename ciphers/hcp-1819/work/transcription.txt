@@ -1,0 +1,3 @@
+# Manual outline transcript in each glyph's local writing orientation.
+# 0 undotted, 1 dotted; | word division. Text follows a curved baseline.
+R0 T0 | R1 T0 TR0 BL0 | T0 TR1 | V0 BR0 V1 >0 TL1 B1 BR0 ^0

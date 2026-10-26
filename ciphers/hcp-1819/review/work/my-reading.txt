@@ -1,0 +1,4 @@
+# Reviewer's sign-by-sign reading of source/address-large.jpg along the curved line
+# (crops col-rot8.png, arc-rot8.png, z-*.png), each sign taken in its local orientation
+# (glyph "up" = to the reader's left of the writing direction). '/' = written centre dot.
+4 8 / 4* 8 7 3 / 8 7* / wD 1 wD* wR 9* 2* 1 wU /
