@@ -1,0 +1,10 @@
+# Reviewer's sign-by-sign reading of source/address-large.jpg, rows r1..r8 (crops r*-a/b.png, z*.png).
+# The writer separates words with commas; '/' below = those commas. Other punctuation as written.
+5 / 4* 8 8* 3 / wU 8 wR / 1 9* 3
+1 / 4 8 8 2* / 2* 3 1 6* / 1* 3 wD* wD* 3 9* .
+wL 4* 1 wD* / 6 5 7* 2* / 8 3*
+wL 3 1 wD* 4* 3 9* / 1 9* 3 / wU 8 wL
+4 3 wD* wD* 5 7* 4 ? wR* 3 9* wU
+wL 3 wD* / 4* 3 9* 3 / 1 7* wU
+7 8 9* 3 / 7 1 9* 9* 5 1 4 3 wD ?
+6 5 7* 2* / 6* 5 wR* 3 / 7 1 9* wU .

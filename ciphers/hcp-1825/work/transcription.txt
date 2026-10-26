@@ -1,0 +1,11 @@
+# Manual outlines: 0 undotted, 1 dotted. | renders source comma word separators as spaces.
+# Source sentence punctuation retained. Revised after independent review 1.
+# Outline names and wedges defined in decode.py.
+C0 | R1 T0 T1 BL0 | ^0 T0 >0 | BR0 TL1 BL0
+BR0 | R0 T0 T0 B1 | B1 BL0 BR0 L1 | BR1 BL0 V1 V1 BL0 TL1 .
+<0 R1 BR0 V1 | L0 C0 TR1 B1 | T0 BL1
+<0 BL0 BR0 V1 R1 BL0 TL1 | BR0 TL1 BL0 | ^0 T0 <0
+R0 BL0 V1 V1 C0 TR1 R0 ? | >1 BL0 TL1 ^0
+<0 BL0 V1 | R1 BL0 TL1 BL0 | BR0 TR1 ^0
+TR0 T0 TL1 BL0 | TR0 BR0 TL1 TL1 C0 BR0 R0 BL0 V0 ?
+L0 C0 TR1 B1 | L1 C0 >1 BL0 | TR0 BR0 TL1 ^0 .
