@@ -1,0 +1,9 @@
+# Reviewer's sign-by-sign reading of source/address-large.jpg (crops L*.png, z-*.png, zc-*.png).
+B1 BL0 BR0 TL1 | BL1 TL1 C0 BL0 TR1 B1 | BR0 V0 | C0
+TR1 T0 <0 | V1 BR0 L0 BL0 | V1 C0 TR0 BL0 | BR0 TR1 B1
+T1 L1 BL0 BR0 V0 >0 TL1 BL0 | T0 BL1 | <0 TL1 C0 V1 C0 TR1 R1   # <- last sign has a dot inside (H), solver R0
+V1 T0 ^0 T0 >0 | C0 BL1 | TR1 T0 V1 | V1 T0
+V0 V1 T0 TL1 TR0 ^0 | <0 C0 L1 L1 | BR1 BL0 | >0 T1
+<0 BL0 B1 TR1 BL0 V0 B1 BR0 ^0 | BL0 >1 BL0 TR1 C0 TR1 R0
+TL1 BL0 V0 T1 BL1 >0 L1 L1 ^0 | ^0 T0 >0 TL1 V0
+C1 BL0 V0 V0 BL0 | B1 BR0 TL1 TL1? T0 <0 | BR0 TR1 V0   # <- 2nd TL: small dot against the stem (R), solver TL0
