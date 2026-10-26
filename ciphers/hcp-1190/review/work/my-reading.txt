@@ -1,0 +1,9 @@
+# Reviewer's own sign-by-sign reading of source/address-large.jpg (crops z*.png).
+# Notation: <cell>.<dots>, cell = position in the 3x3 Pigpen grid whose outline is drawn
+#   1=bottom+right 2=bottom+left+right 3=bottom+left 4=top+bottom+right 5=all four
+#   6=top+bottom+left 7=top+right 8=top+left+right 9=top+left ;  '/' = written hyphen, ',' = comma
+9.1 / 1.3 8.1 1.1 3.2 3.2 / 2.1 5.1 /
+2.3 8.1 9.1 5.2 2.2 9.1 5.2 7.1 / 6.2 6.1 /
+7.3 6.2 3.3 / 2.3 6.2 5.2 9.1 7.1 8.1 2.3 /
+9.2 3.3 2.3 8.1 ,
+2.1 5.1 / 7.1 6.2 6.2 4.1

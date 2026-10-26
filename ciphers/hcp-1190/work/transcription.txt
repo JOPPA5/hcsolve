@@ -1,0 +1,7 @@
+# Outline + number of dots, manually read from address-large.jpg.
+# Shape naming is defined in decode.py; hyphens are manuscript separators.
+TL1 - BR3 T1 BR1 BL2 BL2 - B1 C1 -
+B3 T1 TL1 C2 B2 TL1 C2 TR1 - L2 L1 -
+TR3 L2 BL3 - B3 L2 C2 TL1 TR1 T1 B3 -
+TL2 BL3 B3 T1 ,
+B1 C1 - TR1 L2 L2 R1
