@@ -1,0 +1,5 @@
+# Reviewer's reading of source/address-large.jpg (crops r1.png, r2.png, z-*.png, zc-velma-VM.png)
+# VELMA: the V shows two separable dots (like the M two signs later); a third may be merged
+# into the right dot.  The E carries one wide blob.  Dot counts there are taken from context.
+R1 C1 BR1 TL2 | R3 C1 BL2 R2 BR1
+TL1 | BL2 L2 R3 C1 | TR3 L2 BL3 .

@@ -1,0 +1,4 @@
+# Manual outline/dot transcription from address-large.jpg.
+# | is a word boundary. Numerals count dots, not marks in the plaintext.
+R1 C1 BR1 TL2 | R3 C1 BL2 R2 BR1
+TL1 | BL2 L2 R3 C1 | TR3 L2 BL3 .
