@@ -1,0 +1,11 @@
+# Reviewer's own reading of source/address.jpg (crops l*.png, c*.png, cz*.png in this dir).
+# Token = border strokes PRESENT (T,B,L,R) + dot count. '|' = word gap as seen or punctuation.
+# main block, card rotated 90 deg clockwise
+TRB2 TLB2 TBLR2
+TL1 TLB1 | TR3 TLB2 BL3 | TRB1 TLB2 TBLR2 LRB3 | TR1 TLB2
+LRB3 TLB2 | TBLR2 TL1 TR1 TLR1 LRB3 | BL1 BR1 BL2 BL2
+TRB2 TBLR1 | BL3 TR2
+# centre block, card rotated 90 deg counter-clockwise, after cursive "this is"
+BR3 BR1 LRB3
+BR1 TLB1 LRB3 TBLR1 TL2 TBLR2 TLB2 TLB2 TBLR2
+TBLR2 BR1 TBLR2 BL1 TR3
