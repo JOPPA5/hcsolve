@@ -1,0 +1,4 @@
+# Reviewer's as-seen reading of the two header rows (address side, top, right of "4-17-08").
+# Token = strokes present (t=top l=left r=right b=bottom) + dot count. "," = comma seen on card.
+trb1 tlb2 tlrb2 lrb3 , tr3 tlb2 lb3 , tlrb3 tl1 rb3 tlr1
+tr3 tlb2 lb3 , lb1 tlb2 lb3 lb2 trb1

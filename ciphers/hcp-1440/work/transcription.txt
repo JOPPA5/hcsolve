@@ -1,0 +1,3 @@
+# Manual tokens from source/address.jpg, two short header lines. Strokes present, digit is dot count.
+R1 L2 C2 B3 | TR3 L2 BL3 | C3 TL1 BR3 T1
+TR3 L2 BL3 | BL1 L2 BL3 BL2 R1
