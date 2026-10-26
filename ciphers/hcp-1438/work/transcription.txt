@@ -1,0 +1,5 @@
+# Manual geometric transcript of the two margin lines, after rotating address.jpg 270 degrees clockwise.
+# BL=bottom-left angle, BR=bottom-right angle; TL=top-left, TR=top-right.
+# L=[, R=], B=open-top cup, T=open-bottom cap, C=closed box. Digit=dot count.
+TL2 BL2 C1 BR1 BR3 | B1 TL2 TL1 C2 TR1 | R2 TR3 | BL2 C1 B3 B3 C1 TL2 BR3
+C3 TL1 B3 T1 | TR3 L2 BL3 | BR3 BR1 B3 | TL1 L1 | BL3 | BL1 L2 R2 C1

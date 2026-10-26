@@ -1,0 +1,6 @@
+# Reviewer's as-seen reading (card rotated 90 deg CCW so that "P.S." is upright).
+# Token = strokes present (t=top l=left r=right b=bottom) + dot count. "," = comma seen on card, "." = full stop.
+# upper line (begins after plain "P.S.")
+tl2 lb2 tlrb1 rb1 rb3 , lrb1 tl2 tl1 tlrb2 tr1 , trb2 tr3 , lb2 tlrb1 lrb3 lrb3 tlrb1 tl2 rb3
+# lower line
+tlrb3 tl1 lrb3 tlr1 , tr3 tlb2 lb3 , rb3 rb1 lrb3 , tl1 tlb1 , lb3 , lb1 tlb2 trb2 tlrb1 .
