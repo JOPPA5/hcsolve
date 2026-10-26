@@ -1,0 +1,17 @@
+# Reviewer's own sign-by-sign reading of source/address-large.jpg (rotated 270: msg_r.jpg; zooms w*.jpg).
+# Outline names as in SOLUTION.md (BR,B,BL,R,C,L,TR,T,TL; wedges by direction of the point: V < > ^).
+# PORCH final sign may be closed (C1=J) - read R1 by context. Suffix 1 = dot seen, 0 = no dot seen, ? = dot not decidable at 1024 px. X = blackened cancelled sign.
+# The "&" signs after LOUISE and between SHOP and FRANKS are plain cursive ampersands, not cipher.
+R1 T0 <0 V0 BL0
+L1 T0 <0 C0 V0 BL0
+T1 T0 TL1 B0 R1
+L1 T0 TR1 R0
+>? T? T0 B? BL0 TR?
+V0 V1 T0 TL1 BL0
+V0 BR0 L1 T0 T0 TR1
+BR1 BR0 TL1 BR1 BL0 TL1
+V0 R1 T0 T1
+BL1 TL1 BR0 TR1 L0 V0
+L1 C0 <1 BL0 TL1 >0
+V0 V1 BR0 X BR1 L1 BL0 V0
+L1 C0 BR1 TL1 BR0 TL1 >0

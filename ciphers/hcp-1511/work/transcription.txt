@@ -1,0 +1,17 @@
+# Manual observed-outline tokens, revised after review 1.
+# ? = dot uncertain; {a|b} = alternative visible outlines. One fragment per line.
+# Plain cursive ampersands after LOUISE and between SHOP/FRANKS are recorded
+# separately in running-text.txt; neither is a Pigpen wedge.
+R1 T0 <0 V0 BL0
+L1 T0 <0 C0 V0 BL0
+T1 T0 TL1 B0 {R1|C1}
+L1 T0 TR1 R0
+{>0|R0} T? T0 B? BL0 TR?
+V0 V1 T0 TL1 BL0
+V0 BR0 L1 T0 T0 TR1
+BR1 BR0 TL1 BR1 BL0 TL1
+V0 R1 T0 T1
+BL1 TL1 BR0 TR1 L0 V0
+L1 C0 <1 BL0 TL1 >0
+V0 V1 BR0 {cancelled} BR1 {L1|C1} BL0 V0
+L1 C0 BR1 TL1 BR0 TL1 >0
