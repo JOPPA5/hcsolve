@@ -1,0 +1,4 @@
+# Notes
+2026-10-26: General, Description, Attachments read in rendered browser. Fresh Not solved and no attached solution. Downloaded both observed full-size image URLs unchanged. Address rotated90° clockwise in work. The alphabetic message is Caesar +1, independently recognizable from SGD→THE and XNT→YOU; the same shift produces the complete short English thank-you note.
+
+Manual transcription preserves photographed line grouping except spacing within letters. Source RHMB DQDKX has an internal visual gap but decodes continuously SINCERELY. Opening SGZMJR is THANKS. Signature reads INGM under the same shift, JOHN; first glyph has a short lower serif and can resemble an L. Reading it L would yield MOHN. Do not treat the writer's identity as established; no sender supplied by portal. Picture side contains no handwritten cipher observed. No watcher started under the user's persistent override.
