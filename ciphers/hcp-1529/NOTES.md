@@ -1,0 +1,39 @@
+# HCP 1529 solver log
+
+2026-10-28 UTC. Assigned collaborator scope: this cipher and its batch note only. README read in full. No markers, watcher, reviewer, PDF, register, git operation or external submission authorized to this collaborator. Root supplied rendered three-tab observations, immutable original images and metadata, generic published-key provenance, and the family key at the outset. This is key transfer, not independent key discovery. No initial target plaintext or transcription was supplied; no OCR used.
+
+Both original sides inspected. Picture source is upright already, 1024×674. Seven lines at top and a full eighth marginal line at bottom; ordinary right-edge date and address-side writing are unenciphered. Whole top/bottom enlargements, native row crops and focused original-pixel controls saved in work. Source hashes recorded before transcription.
+
+Manual draft corrected by source comparison:
+
+- Initially mis-segmented R01 as ANIKO; closer source view shows the small s/C between I and K: ANICKO. CHRIPKOU contains the supplied family CH glyph; no new alphabet class inferred.
+- R02 endpoint initially looked like UCTI; source middle group is c,d (S,T), yielding USTI. No identification of which Ústí is established.
+- Initially entertained BYL at ink-heavy R03 word, then source and shape comparison favor bh4/PRI. The middle h/R is heavily inked/possibly retraced, so its reading is explicitly localized rather than claimed perfectly clear. A full control preserves the pixels. LICENI and following OHLEDNE are visible; prose plausibility is supporting evidence, not a replacement glyph.
+- Initial abbreviated glance at R05 omitted NEBYL; expanded row shows m5p18. The word after ANI is n4c85m4/MISLENI, with digit4/I, not a silent repair to modern MYSLENI. Source I matches other digit4 shapes; editorial text retains mislení.
+- R06 image over dark artwork initially misread as an isolated nonsensical word VYKAKAL; full original-pixel comparison yields fqg6q68/VZKAZAL. PROTOZE is retained, despite the ensuing elliptical phrase DNES JIZ LEPE. No JE, MI or other base letters added to improve grammar.
+- R07 first word is q5/ZE, not g5/KE. Final phrase is f b6d5g/V PATEK, not a joined malformed VLAK word. Bottom row is complete, no signature or additional coded tail identified.
+- The transcription generator's first run rejected a literal `7` inadvertently typed for the established y/J shape in SILNEJI. Corrected label to y. Another mechanical draft typo d3c2t/TOSUD corrected to visible t3c2t/DOSUD before final record generation. These were transcription-entry failures, not alternative keys.
+
+Record generation is explicit (`build-record.py`, PIL needed). Default reproduction `python3 ciphers/hcp-1529/work/decode.py` is read-only and standard library only. It checks three immutable source hashes, five record hashes, all 417 indexed units and tokenwise inverse-key roundtrip. There are 3 CH units and 420 output base letters. Internal roundtrip is not independent source reading validation. No held-out test, independent review, target solution search or new key discovery was performed. Later root source-derived glyph comparisons are acknowledged as solver collaboration; they are not pre-existing target plaintext. Active work duration is unknown; no timing inference made.
+
+Root later inspected PRI/MISLENI/VZKAZAL/USTI crops and requested local source1/Y versus4/I comparison to preserve MISLENI. This is in work/I-Y-control.png with original-coordinate JSON and an explicit generator in make-controls.py. Earlier R03 overtraced ink remains unrecoverable; no canceled-letter count inferred.
+
+Root inspected both originals, all upper rows, full marginal row and focused source controls; reproduction, record hashes and wave source manifest passed. MISLENI retained and localized PRI ink uncertainty preserved. DONE1 is created last and freezes the cipher directory pending review.
+
+## Response to review1 REVISE — solver corrections
+
+Read README.md fully again, REVIEWED1, all five findings and full prior source/record/code before work. Inspected both originals, all rows/margins, prior controls and the exact R02 preposition. Prior final/count/absence-of-review statements above describe the original handover and are superseded here where noted. No watchers, reviewers/Claude, markers, reports, registers, source/review files or git operations are authorized for this collaborator.
+
+Native and integer4× NEAREST same-card controls confirm reviewer correction R02 ordinal54/global117 g/K→q/Z before2cd4. Target is compact closed9 with a short left-hook tail, unlike the open-loop right return of g/K in KDE×2; agrees with ZDRAVEM/ZALOZNY. See work/review1-z-usti-controls.{png,json} for exact broad source boxes. Literal NA CESTE Z USTI, editorial na cestě z Ústí and Slovak na ceste z Ústí now all mean from Ústí. Which Ústí remains unidentified. Counts now g17,q12, total417 unchanged.
+
+Retained reviewer-agreed limits: PRI middle h/R remains ink-heavy/lowerconfidence and is now structured in transcription source_reading_limits at R03 ordinal15 and inventory. No recoverable previous form or cancellation is claimed. MISLENI stays I, ZDRAVEM retained, no fillers for PROTOZE VSAK DNES JIZ LEPE, VZKAZAL/ANICKO/USTI/bottom row unchanged. Fixed22-class key unchanged; label aliases y↔7 forJ and H↔ř forCH explained alongside ordinaryr/H. No rareF imported.
+
+Deterministic Python calendar checks:1903-12-01Tuesday, priorThursdayNov26, prospectiveThursday/FridayDec3/4; sibling1526 dateDec12Saturday with ODE STREDY naturallyDec9 and lingering cold, sibling1527 dateDec19Saturday now all day in office. Existing sibling solver records are prior-known series context, not held-out validation. Exact source/solution/key hashes are captured as reference snapshots in review1-context-check.json, not assertions that mutable sibling prose can never change. Proposed záložna historical trial/date remains unverified against a primary source; reviewer's general knowledge is not external event evidence. Town and postmark day digits unresolved.
+
+Inspected both mutators before use. Revised build-record.py to read manual transcription.json rather than restore hardcoded oldg, preserve source-sha256 manifest, verify originals and unchanged key before writing only work/. Regenerated positions/transcription/plaintext/inventory and12record hashes. Upgraded read-only decoder from tokenwise identity to actual complete-plaintext-row fixed inverse (CH first), with exact index/text/inventory and calendar checks. All3original and12record hashes pass;417units,3CH→420baseletters; rowcounts63,58,56,49,51,51,27,62. Successful hashes/roundtrip do not establish source glyph truth.
+
+Response to review1 explicitly addresses findings1–5; root QA/protocol decision remains. No acceptance or FINAL claim, report, register entry or new marker is made by this collaborator.
+
+Root closure QA: every numbered Review1 finding checked against native/same-card source controls; review-addressed closure explicitly allowed by reviewer, with existing REVISE verdict preserved. Latest337/303register has target absent; six explicit exclusions remain honored. Preparing corrected report/local entry before FINAL as final cipher-directory write. No new reviewer/watcher/external submission/Git action.
+
+Bounded root historical-context search found a visitor comment by JanPešula on the NKP Ptejte se knihovny page https://www.ptejteseknihovny.cz/dotazy/katolicke-listy-a-narodni-politika citing Národní listy27Nov1903,43(324),p4 and oldKramerius handleABA001/9342544. Direct newspaper access through the web tool failed. The visitor comment is not a primary newspaper inspection or an authenticated library confirmation of trial timing; no date is upgraded to verified context. Optional research remains unconfirmed and does not delay source-supported correction.
