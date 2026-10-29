@@ -167,3 +167,7 @@ REVIEWER_CMD="claude -p --allowedTools Read,Write,Edit,Glob,Grep,Bash"
 To change them (another model, other flags), put the overrides in a `watch.conf` file in the repo root. The watcher appends the prompt as the last argument; it states the role and the path to the cipher.
 
 Both agents run unattended with permission to run commands, on content that includes files downloaded from the internet. Run this on a machine and account where that is acceptable.
+
+## Contact
+
+Tomáš Pavuk – xpavukt@stuba.sk
