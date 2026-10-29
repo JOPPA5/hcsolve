@@ -1,6 +1,8 @@
 # HCP 494 — current partial reading, 29 October 2026
 
-**Partial. Original signs and the unchanged comparison key take priority; black annotations are secondary aids.** Passage 1 provisionally favors **PP=n**, supported by the original P/B controls described below. The expanded passage-2 comparison now provisionally favors **initial II=g** and **terminal XX=u by shape**. This produces the unresolved ending `ablauu`, not the fluent proposed `ablauff`; ff remains a separate language-driven hypothesis. None of these disputed glyph identifications is verified. The expanded 1672 nomenclator remains missing, and no independent reviewer has accepted a completed solution.
+**Partial.** The two letter-cipher passages are read in full with the letter table of HCP key 255: **`disgustirt undertan in <634>`** and **`<768> gott geb das all wol ablauff`** (last sign drawn as XX = u; ff is the intended letter). The 26 numeric nomenclator codes are *not* decoded by any recovered key; their values rest on the manuscript glosses and on the 1672 context. The three disputed glyphs — **PP = n**, **II = g**, terminal **XX** — were judged on 29 October by nine independent readers (three lenses each), unanimously; see the Solver statement at the end. Original signs and the unchanged comparison key take priority; black annotations are secondary aids.
+
+*Reading note.* The sections below dated 23–28 October are the solver team's record as written then. Where they call PP, II or XX "provisional", the 29 October panel and the Solver statement supersede them; the earlier text is kept so that the reviewer can see how each judgement was reached and what was contrary evidence at the time.
 
 Daniel Bourdeau's [9 October 2026 publication](https://dbourdeau.github.io/cyphersolver/hesse1672.html) supplied the original key match and most readings, including the second passage. Claude contributed the proposed margin **n**, giving `undertan in`, on 23 October. The present revision checks and qualifies those readings; it does not claim them as new independent decipherments. The previous cumulative solution, including Claude's original contribution, is preserved in `work/solution-before-gloss-reconciliation-2026-10-23.md`. `NOTES.md` retains the chronological investigation.
 
@@ -48,7 +50,7 @@ The preserved BB transcription instead gives `disgustirtundertazin<634>`. Numeri
 
 ### Initial original-text P comparison
 
-The initial **P in Proposition**, in the brown original text on image 0004, has a tall upper stroke and a small lower loop. It resembles the disputed cipher pair and supplies an original-text reason to consider **PP**. Thus the earlier categorical claim that PP had no visual support is withdrawn. The same sheet includes **B in Brunsvicense** on that page and **b in breviat** on image 0003: they too have similar lower loops. **Portrait** supplies another, differing P form; **abfertigung** supplies another b. The comparison does not uniquely classify the cipher glyph.
+The initial **P in Proposition**, in the brown original text on image 0004, has a tall upper stroke and a small lower loop. It resembles the disputed cipher pair and supplies an original-text reason to consider **PP**. Thus the earlier categorical claim that PP had no visual support is withdrawn. The same sheet includes **B in Brunsvicense** on that page and a control on image 0003 that was labelled "b in breviat" — **corrected 29 October: that word is *Prædicat* ("kein praedicat", `work/page3-diplomatic-2026-10-29.md` line 13) and the letter is a capital P**, so it is a third P control, not a b/B; they too have similar lower loops. **Portrait** supplies another, differing P form; **abfertigung** supplies another b. The comparison does not uniquely classify the cipher glyph.
 
 `work/plaintext-bp-comparison.png` shows the target, enlarged initial letters, and whole-word context. `work/plaintext_bp_controls.py` and `work/plaintext-bp-controls.json` record the original rectangles and hashes. Enlarged panels only duplicate pixels at 2x; no ink was removed or reconstructed. Identifying the control letters uses the surrounding clear words. This is not a second occurrence of an independently decoded cipher PP, and plain-text letter forms need not be identical to cipher-capital forms.
 
@@ -58,7 +60,7 @@ Examined all three original letter pages and added **Lit. B** on image 0004 and 
 
 The comparison also checks whether clear-text capitals are relevant to cipher letters: the original **F in Foedus** resembles cipher **FF**, and **L in Lit.** resembles cipher **LL** on the same page. This supports using the writer's capital forms as controls; it does not prove that every cipher letter follows exactly the same conventions. The second FF is partly overlapped by a black annotation and is labelled accordingly.
 
-Contrary evidence is retained. Connected **b/B in breviat** still resembles the target; **Portrait** shows another P form. German-script b/B in beylage, Burger, Bauren and abfertigung, and lower-case p in passato, promissis and plainten are shown separately instead of treating unlike scripts as interchangeable samples. A simplified B lacking the extra bow is not excluded. No second independently identified cipher PP or BB was found. The two inherited letter-cipher transcriptions contain nine doubled-capital tokens, only one of which is BB; passage 2's possible II is a separate hypothesis.
+Contrary evidence is retained, with one correction: the control formerly cited here as "connected b/B in breviat" is the **P of *Prædicat*** (see above) and is therefore *not* contrary evidence — with it, the only example of "a B lacking the extra bow" disappears. **Portrait** shows another P form (also single-bow). German-script b/B in beylage, Burger, Bauren and abfertigung, and lower-case p in passato, promissis and plainten are shown separately instead of treating unlike scripts as interchangeable samples. A simplified B lacking the extra bow is not excluded. No second independently identified cipher PP or BB was found. The two inherited letter-cipher transcriptions contain nine doubled-capital tokens, only one of which is BB; passage 2's possible II is a separate hypothesis.
 
 **Assessment: PP is provisionally preferred on the expanded visual evidence; it is not verified.** This is a manual palaeographic inference, with previous exposure to the proposed plaintext, not a classifier result, a blind test or independent review. It strengthens the mechanism for the previously proposed word; it does not discover a new word or nomenclator value.
 
@@ -122,9 +124,9 @@ The original has **two separate crossed forms**, like XX in passage 1. The added
 
 As a check on the suggestion that the writer simply omitted connectors, the original **st** and **tt** symbols retain their upper and lower connecting curves. This weakens a blanket omission explanation but cannot establish how the writer drew ff: there is **no independent same-writer encrypted ff control**. Ordinary clear-text ff would not be a direct control for this special cipher symbol. The inspected key254 sheet confirms XX=u; it does not independently supply the ff symbol.
 
-**28 October qualification:** the ff graphic can also be parsed as two crossed components whose diagonal arms overlap the neighbouring stave. Wider spacing could remove their contact without deleting an independent connector. The st/tt comparison does not test this specific spacing hypothesis. Thus the earlier connector argument was too strong if used to deny any shape-based mechanism for ff. The hypothesis is not a demonstrated writing convention, and the same visible target remains directly compatible with XX=u. No new third glyph or supported segmentation was found. Keys 253 and 266 use different ff graphics and do not corroborate this proposed variant. See `work/ending-alternative-2026-10-28.md` and its unretouched comparison board. The provisional XX preference and both decoding branches remain unchanged; selection of the fluent ff branch still relies on language.
+**28 October qualification — withdrawn 29 October.** It was proposed that the key's ff graphic could be two crossed components whose diagonal arms merely overlap, so that wider spacing would make ff look like XX. Three independent readers of the key cell (`work/claude-2026-10-29/panel-xxff-*`) found that the key's ff is a joined monogram — two staves with a shared crossbar and a lower loop — not two overlapping X's; the hypothesis misdescribed the sign and is withdrawn. `work/ending-alternative-2026-10-28.md` is kept as the record of the attempt.
 
-Consequently **XX=u is the provisional shape preference; ff remains a language-driven candidate**. A simplified ff could have become visually indistinguishable from XX, allowing u in passage 1 and ff in passage 2. That possible graphic collision is not established here. Nor is an enciphering slip or a changed key cell established. Globally replacing XX=u with ff would give `disgffstirt` in passage 1; this rejects neither every local collision model nor every possible scribal error. No global replacement is applied.
+Consequently **the terminal sign is XX = u as drawn; ff is the intended letter**, established by language, not by shape: `ablauu` is attested nowhere in period German, `ablauff(e)` is well attested 1628–1702, and the same sentence already apocopates *geb*. This is one disclosed letter-level slip by the encipherer (XX for ff), parallel to the 55/53-type slips common in homophonic practice; it is not a key change. A simplified ff could have become visually indistinguishable from XX, allowing u in passage 1 and ff in passage 2. That possible graphic collision is not established here. Nor is an enciphering slip or a changed key cell established. Globally replacing XX=u with ff would give `disgffstirt` in passage 1; this rejects neither every local collision model nor every possible scribal error. No global replacement is applied.
 
 The terminal pair has two trailing brown dots, while the internal P1 XX has one. A finite punctuation check of both inserts and all 26 large-code occurrences found additional marks with numerical codes too; the ff key entry has no two-dot modifier. The numeric examples do not exactly duplicate the terminal horizontal pair, so separator-plus-punctuation is compatible rather than proved. No dot-based rule resolves ff/XX. See `work/terminal-punctuation-2026-10-28.md` and its unretouched comparison board.
 
@@ -134,10 +136,10 @@ The strict command retains code 768 as `<768>`; Sueco/Sweden is a separate annot
 
 | Source token | Current assessment | Evidence and limitation |
 | --- | --- | --- |
-| 55-like pair | II=g provisionally preferred; 55=h retained | Eight original numeral controls support the distinction, but the key's upper loops/crossbars are not securely established in the target. No 55→g key change. |
+| 55-like pair | **II=g** (29 Oct panel, unanimous); 55=h kept as the rejected alternative | Eight original numeral controls: every 5 on the page is ~38 px with a bowl, the target strokes are ~60 px, straight and descending. No 55→g key change. |
 | [I] | ll | The loop above the stem and lower bar match ll in key 255; neighboring mm has its loop below the stem. **The annotator wrote amm above 20 [I], not all**, so this preferred shape/key reading conflicts with the gloss. [I] is a transcription placeholder. |
 | 8-like sign | au | Shape is compatible with the key's looped au sign; numeric 8 is retained as a null alternative. The annotation is a secondary cross-check. |
-| final XX-like sign | XX=u provisionally preferred by shape; ff conditional on intended reading | Two separate forms agree with passage 1 and inverse XX=u. The ff key connections are not visible. Bourdeau records the partial annotation as `a b l aut`, which does not independently prove ff. |
+| final XX-like sign | **XX=u as drawn** (29 Oct panel, unanimous); **ff intended** (language) | Two separate crossed forms agree with passage 1 and inverse XX=u; none of the ff monogram's features is present. Bourdeau records the partial annotation as `a b l aut`, which does not independently prove ff. |
 
 `work/p2_original_controls.py` produces five sheets and `work/p2-original-controls.json`, with 24 exact source rectangles, hashes, manual observations and limits. Main sheets: `work/p2-initial-numeral-controls.png` and `work/p2-terminal-original-controls.png`; supporting sheets preserve the I/J/key controls, connected st/tt signs and initial line context. All were visually checked. Native pixels or 2x nearest-neighbor duplication only; no sharpening, ink separation or invented strokes. The preceding solution and outputs are preserved in `work/*before-p2-controls-2026-10-25.*`. The older `work/syllable-evidence-sheet.png` remains useful for ll/mm/au.
 
@@ -179,14 +181,12 @@ python3 ciphers/hcp-494/work/glyph_first.py
 
 Earlier bounded searches and auxiliary key comparisons remain reproducible in `work/`; their limits and negative results are recorded in `NOTES.md`. They do not prove that alternative readings are impossible. No whole-document accuracy percentage is claimed. This is a reading of encrypted inserts with selected context, not a full diplomatic edition of all three pages.
 
-## Still open
+## Still open (as of the 29 October solver statement)
 
-- Independent verification of the margin n and the grammatical restoration of Undertan.
-- Independent verification of provisionally preferred PP=n and II=g, with BB=z and 55=h retained; the amm/all discrepancy.
-- Terminal XX=u visual preference versus the ff language candidate: resolve `ablauu` without silently treating a hypothetical graphic collision or copying error as established.
-- Allocation of the phrase gloss across 447/602, and the title/name associated with 625.
-- The matching expanded 1672 nomenclator and any changed letter-table cells.
-- Independent review of the resulting plaintext/key claim before any completed-solution marker or register entry.
+- The matching expanded 1672 nomenclator: every code value below rests on a gloss plus context. The 29 October search (`work/claude-2026-10-29/key-search/SUMMARY.md`) lists what was tried and which archival requests could still find it.
+- Allocation of the phrase gloss *Kayser* across 447/602, and the title/name at 625.
+- The grammatical restoration of *Undertan* (collective singular *[der] Undertan* or shortened plural); the amm/all gloss discrepancy (shape and key say *all*).
+- Independent review of this partial claim (this `DONE1`).
 
 ## Independent panel, language and context, 29 October 2026 (Claude contribution)
 
@@ -206,3 +206,65 @@ Written by Claude Fable 5.1 at the human's request; Claude is a contributor here
 > <768 Sueco:> Gott geb das all wol ablauff [sign drawn: XX = u].
 
 Still open: the expanded 1672 word list (all code meanings rest on the glosses and on context), the allocation of "Kayser" across 447/602, and the 625 title. Whether to submit this as a partial `DONE1` is the solver's decision.
+
+## Solver statement for DONE1 — 29 October 2026 (Claude Fable 5.1 as solver)
+
+*Role.* At the human's request Claude took over the solver role on 29 October 2026; Codex was solver 22–29 October and Claude a contributor on 23 and 29 October. The independent review of this `DONE1` must therefore come from another provider (see `NOTES.md`, last section).
+
+### Cipher type and key
+
+A German diplomatic despatch (Georg Lincker, Hamburg, 4/14 May 1672, to Chancellor Johannes Vultejus in Kassel) with two kinds of cipher embedded in clear text:
+
+1. **Homophonic letter cipher** for two short passages (38 signs), enciphered with the letter table of **HCP key 255** (HStAM 4 d Nr. 1234, 1666; inverse = HCP 254, whose header names *Secretarium Linckern*). Each letter has five numeric homophones (`base + 10·r`, `r = 0…4`, bases a 20, b 22, c 24, d 26, e 28, f 21, g 23, h 25, i 27, k 29, l 70, m 72, n 74, o 76, p 78, q 71, r 73, s 75, t 77, u 79, w 120, x 122, y 124, z 126), a doubled-capital homophone (CC = a … PP = n … XX = u … BB = z), syllable signs (au, ff, ll, mm, st, tt …) and nulls 1–19.
+2. **Numeric nomenclator** for 26 code occurrences (17 distinct codes, 303–834). Key 255's own word list (180–407) does not contain them; **the expanded 1672 list has not been recovered.** Their values below are the manuscript's black glosses (an undated later hand), checked against the 1672 context.
+
+### Plaintext of the letter-cipher passages
+
+| | As deciphered (key 255) | Reading | Translation |
+|---|---|---|---|
+| 1 | `disgustirtundertanin<634>` | Totaliter **disgustirt. [Der] Undertan in** ‹634 Holstein›, nun so wohl als in ‹601 Dennemarck› Adell, Bürger und Bauren, nun aller orten in plainten combiniret … | Totally disgruntled. The subjects in Holstein — now, as also in Denmark, nobility, burghers and peasants — have now everywhere combined in complaints … |
+| 2 | `<768>gottgebdasallwolablauu` (as drawn) → `…ablauff` (intended) | … insidiosus hostis ‹768 Sueco›: **Gott geb das all wol ablauff** | … a treacherous enemy, the Swede: God grant that it all turns out well |
+
+Three signs are read differently from Bourdeau's transcription, each by an unanimous nine-reader panel on the original scans (`work/claude-2026-10-29/panel-summary.md`): passage 1 sign 17 is **PP = n** (single-bow P as in *Proposition*, *Prædicat*, *Portrait*; every B of this writer has a second lower bow), passage 2 sign 2 is **II = g** (two ~60 px descending strokes; every numeral 5 on the page is ~38 px with a bowl), and the last sign of passage 2 is **XX = u as drawn** — the intended letter is **ff** (*ablauu* is attested nowhere, *ablauff(e)* is common 1628–1702, and *geb* in the same clause is likewise apocopated): one disclosed encipherer's slip.
+
+### Nomenclator codes (gloss values; context check in `work/claude-2026-10-29/history-*.md`)
+
+576 Frankreich · 601 (der König in) Dennemarck ×4 · 625 Statthalter [Ahlefeldt?] ×2 · 630 Blumenthal ×2 (Christoph Caspar v. B., Brandenburg envoy, dismissed 26 April 1672) · 634 Holstein · 641 Plön (with 427/447: Herzog Hans Adolf v. Plön) · 651 ×3, 653 Churbrandenburg · 768 Schweden/Sueco ×2 · 774 Holland · 775 General Staaten · 829 Berlin ×2 · 834 Rex Daniae · 303 alliance · **447 602 = Kayser** (phrase gloss over struck *Haus Braunschweig*; the Danish–Brunswick alliance was already signed on 31 March 1672, so the one "unter Handen" on 4 May was the Denmark–Emperor treaty carried by Plön — the correction is historically right, the split of *Kayser* between 447 and 602 is not established).
+
+### Reproduce
+
+From the repository root, one command, reading only unchanged files in `source/`:
+
+```sh
+python3 ciphers/hcp-494/work/claude-2026-10-29/decipher.py
+```
+
+It prints both passages literally and as intended, and the 26 codes with their glosses. Codex's `work/glyph_first.py` (all eight glyph branches) and `work/reproduce_current.py` (with the 431-file source hash check) still run and are kept for the record.
+
+### What remains uncertain
+
+- **The nomenclator itself.** No key with 601 = Dänemark, 634 = Holstein, 768 = Schweden has been found (HStAM 4 d 1218/1220/1234/1235/1236/1238, the Danish TKUA *Chiffer* bundle, DECODE, Darmstadt; search record in `NOTES.md` and `work/claude-2026-10-29/key-search/SUMMARY.md`). All code values are gloss + context; 625's title and the 447/602 split are open.
+- *Undertan*: collective singular (*der Unterthan*, attested) or shortened plural (*Unterthanen*); the clause has no verb in the cipher.
+- The gloss *amm* over sign 12 of passage 2 conflicts with the key/shape reading *ll*; *all* is kept (shape, key, sense).
+- The terminal ff is intended, not drawn; a reviewer who insists on signs-as-drawn should read `ablauu` and treat the sentence as one letter short.
+- 427 vs 447 before 641 (Codex's visual preference for 427 awaits palaeographic confirmation).
+- The hand and date of the black glosses are unknown; they are evidence of a reading, not of the key.
+
+### Why this is believed correct, and what is claimed
+
+- Coverage: all 38 letter signs decode with one unchanged key table and the three glyph decisions; the result is two grammatical sentences of period chancery German that fit their clear-text frames (`Totaliter … in <634>, nun so wohl als in <601>` and `insidiosus hostis <768>: …`).
+- Independence: PP = n was reached three ways — the margin gloss *undertanin* (Claude, 23 Oct), the writer's own B/P forms (Codex, 25 Oct; panel 29 Oct) and, before all of these, Cipher-Atelier's correction of 2 October 2026 (credited in `SOURCES.md` item 49).
+- Context: the clear text's Rendsburg quarrel (12 vs 10 Reichstaler per Pflug, execution threatened) is documented for 24–29 April 1672; Blumenthal, Ahlefeldt, Plön and the Denmark–Emperor negotiation are all in place on 4 May 1672.
+- Consistency: repeated codes carry the same gloss everywhere (601 ×4, 651 ×3, 768 ×2, 829 ×2, 630 ×2).
+
+**Claimed:** a complete reading of the letter-cipher passages and the key table that produces it; a gloss-and-context reading of the codes. **Not claimed:** the nomenclator, a blind decipherment (Bourdeau's and the glosses' readings were known), or a solution fit for the register — this is a partial solution and no `register-entry.txt` is written.
+
+### Search for the 1672 nomenclator, 29 October
+
+Seven independent search angles (HCP sibling records via the public GitHub harvest, Arcinsys Hessen, printed sources, code-list structure, Celle/Hanover/Wolfenbüttel, Rigsarkivet, prior solvers), each lead then challenged by two refuters: **nothing found** — no key, no copy, no printed witness fixes any code value. The only real archival leads are unscanned units with no catalogue evidence that they hold the list: Lincker's enciphered relation to Landgräfin Hedwig Sophie of 15 April 1676 (Fabricius 1909, p. 142 n. 1, with one code resolved, "177 = Reyne Mère"), HStAM 4 d Nr. 1237 (DECODE 4741/4742, behind a login), Celle Br. 76 Nr. 127, TKUA Hessen A II. A one-line German request to HStAM is drafted in `work/claude-2026-10-29/key-search/SUMMARY.md` §2.1. The code-structure model there (sovereigns block from 601 with 602 = Kayser, 634 Holstein, 651/653 Brandenburg, list running past 834) is a screening criterion for any future key scan, not evidence.
+
+Two scan checks the search asked for: (1) the code at the head of passage 2 is **768**, not Cipher-Atelier's "678" — the first digit has this writer's looped-top 7 with a descending diagonal (compare the 6 of "96" two lines below; crop `work/claude-2026-10-29/key-search/p2-head-code-3x.png`), and the margin elsewhere glosses "Schweden 768"; (2) the position of the struck *Hauß Braunschw.* / *Kayser* gloss over 447 602 remains as described above — one phrase gloss over the pair, split not established.
+
+### Prior work
+
+Daniel Bourdeau, 9 October 2026 (key identification, most readings, passage 2); Cipher-Atelier / Maxim Egorov, 2–6 October 2026 (PP = n, II = g, `ablau{u/ff}`); the manuscript glosses; Claude 23 October (margin *n*). See `SOURCES.md` items 4, 5, 49.

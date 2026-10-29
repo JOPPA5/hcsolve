@@ -507,3 +507,27 @@ The history agent found, and Claude verified and saved, **Cipher-Atelier / Maxim
 - Correct the "breviat" control to "Praedicat" and withdraw the spacing argument.
 - Record Cipher-Atelier in `SOURCES.md`; credit it for PP = n.
 - The letter-cipher passages are then fully read; what remains unsolved is the expanded 1672 word list (16–17 codes known only from glosses). On that basis the solver can decide whether to submit a `DONE1` as a partial solution for formal review — a decision for the solver, not for Claude.
+
+## Solver handover and DONE1 preparation — 29 October 2026 (Claude Fable 5.1 as solver)
+
+At the human's request Claude took over the **solver** role for this cipher on 29 October 2026 (Codex was solver 22–29 October; Claude was a contributor on 23 and 29 October). Consequences for the protocol: the reviewer of `DONE1` must be from a different provider than Claude. The `codex` CLI is not installed on this machine (checked `/usr/local/bin`, `/opt/homebrew/bin`, nvm, `~/.local/bin`), so the watcher cannot start Codex by itself; see the handover note at the end of this section.
+
+Changes made as solver (all in `SOLUTION.md`, `SOURCES.md` and `work/claude-2026-10-29/`; nothing in `source/`):
+
+1. Status paragraph rewritten: both letter-cipher passages read; the nomenclator not recovered; the three glyph decisions now rest on the 29 October panel. A reading note tells the reviewer that "provisional" in the 23–28 October sections is superseded.
+2. The control labelled **"b in breviat"** (image 0003, box 1590,1690,1750,1810 in `work/expanded-bp-controls.json`) is the capital **P of *Prædicat*** — Codex's own `work/page3-diplomatic-2026-10-29.md` line 13 reads "kein praedicat". Corrected in both places where `SOLUTION.md` cited it as contrary evidence. The crop that shows it: `work/claude-2026-10-29/panel-bp-refute-preferred/praedicat-context-3x.png`.
+3. The **28 October spacing hypothesis** for ff is withdrawn (the key's ff is a joined monogram, not two overlapping X's). The terminal sign is recorded as XX = u as drawn, ff intended, one disclosed slip.
+4. The glyph table and "Still open" list updated accordingly.
+5. `SOURCES.md` items 49–51: Cipher-Atelier's prior PP = n reading (2 October 2026) credited; the printed context sources listed; no new archival image.
+6. New single reproduction command `work/claude-2026-10-29/decipher.py` (prints literal and intended decipherment of both passages from `source/bourdeau/ct.txt` and the 26 codes with glosses from `codes.txt`). Codex's `work/glyph_first.py` and `work/reproduce_current.py` remain and still run; they encode the pre-panel state (eight branches) and are kept for the record.
+7. A seven-angle search for the 1672 nomenclator (HCP siblings via the public GitHub harvest, Arcinsys Hessen, printed sources, code-list structure, Hanover/Celle, Danish side, prior solvers), each lead challenged by two refuters; results in `work/claude-2026-10-29/key-search/SUMMARY.md` and summarised below once complete.
+
+Not changed: Codex's dated sections above, its scripts and snapshots, Bourdeau's files in `source/`.
+
+### Result of the 29 October nomenclator search
+
+Workflow of 14 subagents (7 sweep angles, 6 refuter votes on the three "medium" leads, 1 synthesis; ~1.7 M tokens, 304 tool calls, 26 min). **Verdict: no key, no witness.** All medium leads were downgraded to weak by both refuters. Surviving items, all weak: (1) Fabricius 1909 (Hist. Tidsskrift 8.r.2, p. 142 n. 1) proves an enciphered Lincker relation of 15 April 1676 with numeric codes survives in Marburg and that a reader resolved "177 = Reyne Mère" — different correspondent, four years later, code outside the 494 range; (2) HStAM 4 d Nr. 1237 (DECODE 4741/4742, 5 images behind login, dated only "1700–1799") is the one 4 d key volume never seen by this project; (3) Celle Br. 76 Nr. 127 (1674) is most likely Celle's own envoy key; (4) TKUA Hessen A II no. 20 and the Brandenburg-Preussen Lincker reports 1670–72 are unscanned. Google Books, HathiTrust and MDZ full-text could not be searched by the agents (quota/Cloudflare/no API) — a human can still do that. Housekeeping found by the community angle: the AI Decipherment Register entry named `pc_hcp_494` (Eugen Antal, 2026-10-11) actually documents cryptogram 1813 (a Polish postcard), so the real 494 entry, if ever submitted, should flag that to the maintainer. Full synthesis, negatives table, German request draft and per-angle manifests: `work/claude-2026-10-29/key-search/`.
+
+Solver checks requested by the search: the head code of passage 2 is 768 (not 678; see SOLUTION.md, "Search for the 1672 nomenclator"); the 447/602 gloss alignment is unchanged.
+
+**Handover.** `SOLUTION.md` now carries the solver statement for `DONE1`. The `codex` CLI is absent on this machine, so the human was asked who should review and chose **Claude** (default `REVIEWER_CMD`). The reviewer is therefore a fresh Claude session from the same provider as the solver of record; `review/REVIEW1.md` should state this, and the reviewer should treat the 29 October panel as the solver's evidence, not as an independent review.
