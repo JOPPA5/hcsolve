@@ -1,0 +1,25 @@
+import sys
+from PIL import Image, ImageOps
+out=sys.argv[1]
+g=Image.open(out+'/msg.png').convert('L')
+def save(name,box,s=8,thr=None):
+    c=g.crop(box); c=ImageOps.autocontrast(c,cutoff=1)
+    if thr: c=c.point(lambda v:0 if v<thr else 255)
+    c=c.resize((c.width*s,c.height*s),Image.LANCZOS); c.save(f'{out}/{name}.png')
+save('w4',(330,0,420,50))
+save('w4_thr',(330,0,420,50),thr=90)
+save('out',(110,38,170,85))
+save('out_thr',(110,38,170,85),thr=90)
+save('tomorrow_end',(130,85,215,130),s=6)
+save('l2_end',(160,38,300,85),s=5)
+save('sig',(280,140,380,225),s=4)
+save('w4b',(300,5,400,62),s=7)
+save('regards_g',(330,80,400,135),s=7)
+save('L2a',(0,50,130,105),s=6)
+save('L2b',(110,50,260,105),s=6)
+save('L3a',(0,90,160,140),s=6)
+save('L3b',(150,90,330,140),s=5)
+save('out_thr2',(70,55,135,100),s=8,thr=95)
+save('him',(240,50,340,105),s=6)
+save('off',(390,0,470,60),s=6)
+save('just',(110,0,200,50),s=8)

@@ -1,0 +1,10 @@
+# HCP 1457, picture side, left margin (written along the edge, 2 lines).
+# Ordinary cursive in a "pig Latin" variant: initial consonant(s) moved to the end + "a".
+# Read by Claude Opus 5.5 on 2026-10-30 from enlarged crops (work/crops/m*.png).
+# Format: literal tokens as written; each enciphered word is segmented as stem+moved+a
+# (the segmentation is the decoding key decision, the letters are what is on the card).
+# [y] = letter hidden under the descender of the line above (restoration, see SOLUTION.md).
+# "eba-orefa" is enciphered syllable by syllable (be + fore). "Ery va" is written with a gap.
+# "P.C." is in clear. Punctuation as seen: full stops after "orningma" and "eba-orefa".
+M1: any+m+a anks+th+a or+f+a P.C. is+th+a orning+m+a. ave+h+a
+M2: ou+[y]+a een+s+a at+th+a iew+v+a e+b+a-ore+f+a. ery+v+a etty+pr+a.

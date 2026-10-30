@@ -1,0 +1,46 @@
+# HC Portal 1501 (pc_hcp_182) - manual transcription of the address side, source/address-large.jpg
+# Transcribed by Claude Opus 5.5 on 2026-10-30 from enlarged crops (5-8x), assisted by the
+# component measurements of work/components.py / work/track.py (R channel, threshold 150).
+# Notation: the card's SHORT dash is written '.', its LONG dash '-'; a small ink dot (letter
+# separator on the card) is written as a space; a large round blob (word separator) as ' / '.
+# One card line per transcription line, in physical top-to-bottom order.
+# Lines 1-8 are the P.S. written above the date "March 1st 1911"; lines 9-33 are the letter.
+# A '/' at the end of a line means the line ends with a large blob.
+L01: -.-- --- ..- / -.-. .- -. /
+L02: ... . -. -.. / -- . / .- / .-.. .. -. . /
+L03: -... .- -.-. -.- / .. ..-. / -.--
+L04: --- ..- / .-.. .. -.- . /
+L05: .. - ... / .- / .-.. ---
+L06: -. --. / .-- . . -.- /
+L07: -.-- --- ..- / -.- -.
+L08: --- .-- /
+L09: -.. . .- .-. / -. . .-.. .-.. /
+L10: .--- ..- ... - / .- / .-.. .. -. . /
+L11: - --- / .-.. . - / -.-- --- ..- /
+L12: -.- -. --- .-- / - .... .- - /
+L13: .. / .- -- / ... - .. .-.. .-.. /
+L14: .- .-.. .. ...- . / .- -. -.. /
+L15: -.- .. -.-. -.- .. -. --. /
+L16: .... --- .--. . / -.-- ---
+L17: ..- / .- .-. . / - .... . / ... .- -- . /
+L18: .. / .... .- -.. / .- / .-.. . - - . .-. /
+L19: ..-. .-. --- -- / . / .--- . .-- .. - /
+L20: --- -. / -- --- -. -.. .- -.-- /
+L21: .. / .-- .. .-.. .-.. / ... .... --- .-- /
+L22: -.-- --- ..- / .. - / --- -. / ...
+L23: ..- -. -.. .- -.-- / .. - / -- ..
+L24: --. .... - / .. -. - . .-. . ... - /
+L25: -.-- --- ..- / .-- . .-.. .-.. /
+L26: ... --- / .-.. --- -. --. / - ..
+L27: .-.. .-.. / ... ..- -. -.. .- -.-- /
+L28: ... .-- . - .... . .- .-. - / .-- ..
+L29: - .... / -... . ... - / .-.. --- ...- . /
+L30: .- -. -.. / -.- .. ... ... . ... /
+L31: -.-- --- ..- .-. ... / .- .-..
+L32: .-- .- -.-- ... / -.. . .- .-.
+L33: . ... - / --. . --- .-. --. . /
+# Flags added 2026-10-30 after review 1 (comments only; the decoder reads only the L lines):
+# L28 SWETHEART: the mark after H (5th group, 'e' of ...HEART) is 16 px on the scan, nearer the line's dashes
+#   (17-24 px) than its dots (6-10 px). Transcribed as '.' (E) on context only; literal pixel reading '-' gives SWETHTART.
+# L19 initial: the lone mark between the blobs (12 px, crossed by a watermark stroke) is transcribed '.' (E); '-' (T) possible.
+# L29 LOVE: the mark at x~475 (5x3 px) after O is taken as a letter separator (V = ...-); without it the group is ....- (digit 4).

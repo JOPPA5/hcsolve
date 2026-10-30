@@ -1,0 +1,7 @@
+tri sq circ div sq vdown rect | x tri
+xcirc cup vdown rect | circ | lowc circ div tri
+wave x rect rtri | bar lt caret sq | circ two tri
+sqx x vdown vdown sq vdown | sq caret sq div
+arch dotlt cup div vdown | tee arch | tri sq circ div sq vdown rect
+x tri x sq
+wave x bar bar

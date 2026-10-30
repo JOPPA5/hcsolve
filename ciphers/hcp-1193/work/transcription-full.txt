@@ -1,0 +1,31 @@
+# HCP 1193 -- full symbolic transcription of the message side, 13 lines.
+# Collated against source/picture-original.jpg by Claude Opus 5.5, 2026-10-30,
+# starting from the GPT solver's lines 1-11 (work/transcription.txt).
+# Token = outline + small numeral. Outlines: BR B BL R C L TR T TL
+# (strokes present: BR = bottom+right, B = bottom+left+right, BL = bottom+left,
+#  R = top+bottom+right, C = all four, L = top+bottom+left, TR = top+right,
+#  T = top+left+right, TL = top+left).
+# |  word gap        &  the cursive "&" mark written in clear
+# ,  .  ?  -  punctuation written in clear
+# A/B  ambiguous sign, both readings kept (decoder prints [x/y])
+# NOKEY:TL3  the 27th cell, which has no letter in the A-Z key (printed literally)
+# *X  sign whose left/bottom strokes are lost in the water stain; the visible
+#     strokes and numeral fit X, restored as the only reading giving a word
+#     (see SOLUTION.md, uncertainties).  Decoder marks them with {}.
+# ~  further signs under the collection stamp, not legible.
+# Note (response to review 1): line 12, KISSES, last sign (6th) is BR with a loose,
+#     single-hook numeral (review/work/k6.jpg); read 3 (S), as BR2 = J gives KISSEJ.
+#     Kept as plain BR3 because only one reading gives a word; disclosed in SOLUTION.md.
+*C3 C1 BL2 BL2 | T1 C1 BL2 C1 C2 | R2 TR3 | NOKEY:TL3 , | TL1 | R1 TL1 R1
+C2 L2 B3 | TR1 C1 B3 | B3 T1 C1 | BL2 C1 B3 B3 C1 TL2 | TL1
+C1 L3 TR2 C1 BL1 B3 C1 R1 | B3 L2 C2 TL1 TR1 T1 B3 | - | C3 BR1 BR3
+TL1 BR3 B3 | BL2 L2 BR3 R1 C1 C2 C2 | R2 TL1 B3 | R1 TL1 TL2 ? | - | C3 C1 BL2 BL2
+BR3 C3 C1 C1 B3 T1 C1 BR1 TL2 B3 | BR1 BR3 | TL1 | C3 TL1 BL2 BL2 | B1 C1
+B3 T1 C1 TL2 C1 | BR1 BL2 R2 L2 BR3 B3 | BR1 BR3 | BR3 L2 L2 C2 | BR1 BR3
+*B3 T1 TL1 BR3 | BL1 BR1 TL2 R1 , | TL1 | C3 TL1 BL2 BL2 | L2 C2 BL2 TR3
+*B3 C1 BL2 BL2 | TR3 L2 BL3 | T1 L2 C3 | R2 BL3 BL1 T1 | TL1 | R2 TL1 BR3 BR3
+TR3 L2 BL3 | & | T1 L2 C3 | R2 BL3 BL1 T1 | TL1 | C3 TL1 BL2 BL2
+BL2 L2 R3 C1 | TR3 L2 BL3 , | B3 L2 | R2 BR1 B2 C1 | BL3 TR2 | L1 L2 TL2
+TL1 B3 | C3 T1 C1 C2 | TL1 | BR3 C1 C1 | TR3 L2 BL3 . | BR3 L2 | TR1 L2 L2 R1
+*C2 TL1 TR1 T1 B3 , | BL2 L2 R3 C1 | & | B2 TL1 BR3 BR3 C1 BR3 | TR3 L2 BL3 TL2
+L1/BL1 C1 B3 B3 BR3/BR2 L2/BL2 BL1 B2/BL2 ~

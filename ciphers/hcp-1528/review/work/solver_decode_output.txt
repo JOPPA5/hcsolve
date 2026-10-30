@@ -1,0 +1,22 @@
+VRELY DIK ZA DRAHY LISTEK. POSLECHL JSEM SVE SRDECKO A ZUSTAL JSEM
+JESTE DOMA. JE MI JIZ O HODNE LEPE, AVSAK DOSUD PLICE A KRKU NE-
+JSOU UPLNE V PORADKU. V PONDELI ZEPTAM SE LEKARE, ZDA MI DOVOLI
+JIZ JITI DO URADU. JO MI NYNI NEMOC VERUSE NEVHOD. ABY ME SRDECKO
+STONALO KE MNE, BYCH ZA ZADNOU CENU NECHTEL. [U7] BYL BYCH SI VSAK PRAL
+KDYZ MNE TAK HLAVA BOLELA, ABY MNE [U1] ME SRDECKO ASPON
+NA CHVILI PRISLO, POLOZILO SVOU RUCKU
+NA HLAVU, [U2] JISTE BOLESTI
+PRESTALA. [U3]
+A [U4]
+ME UCTIVE [U5]
+MI VSAK [U8]E SVYM ZLATUCKOVI
+LISTEK, JAKY POSLEDNE, KDE BY MNE
+[U6]ARMOUTIS. SRDECNY POZDRAVA
+TISIC DLOUHYCH, VASNIVYCH PUS
+POSILA TI TVOJ PEPOUS,
+KTERY STALE VRELE
+VZPOMINA.
+
+PARTIAL: 492 confirmed cipher units -> 499 base letters, including 7 CH units; all confirmed positions and tokenwise round trip verified.
+Verified 3 immutable source hashes and 3 record hashes. 18 rows inventoried, 8 unknown spans (U6-U8 each exactly one position; U1-U5 have unestablished lengths). Full ciphertext denominator and coverage percentage UNKNOWN.
+This command verifies indexed manual image transcription, not automatic OCR or independent visual accuracy. Known family key transferred; no published target plaintext supplied.

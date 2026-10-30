@@ -1,0 +1,11 @@
+# HCP 1490 - manual transcription of source/address-large.jpg (Claude Opus 5.5, 2026-10-30).
+# Token = cell outline + number of dots (0, 1 or 2) read on enlarged crops.
+# BR=bottom+right  B=bottom+left+right  BL=bottom+left  R=top+right+bottom
+# C=four sides  L=top+bottom+left  TR=top+right  T=top+left+right  TL=top+left
+# Special tokens: C* = full square with a 4-/x-shaped ink mark inside (dots not countable)
+#                 TL2x = top+left outline, two dots, plus a small x/inverted-V mark below
+#                 [b] = b-/6-shaped sign in ordinary script (not a Pigpen outline)
+# Fragment: label | tokens (| = word gap as spaced on the card)
+greeting: C* L1 C1 C0 TR2
+body:     BR2 B2 C1 R0 BR0 TR2 | C1 TL2x TR0 T0 BL2
+signature: [b] R0 B1

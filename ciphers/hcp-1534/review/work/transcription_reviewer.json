@@ -1,0 +1,251 @@
+{
+ "source_sha256": {
+  "address.jpg": "771250796d5155136e78a93eb03a0771c4b5b2cd96ec566e0867dd7af584e531",
+  "metadata.md": "2cef3ad943bb2caa04ec1ce2b141137cf06d0eec42100a25fee9b048c75c2b81",
+  "picture.jpg": "62a9bc09b58702fed66cf56936dddc6194c0ebb8fcc89730ea884668521c2672"
+ },
+ "coordinates": "picture.jpg lossless transpose 90 degrees counterclockwise; upright width=674 height=1024",
+ "unknown": "U02 overinked composite before MNE has unknown original component count; possible JE remains unassigned. S04 shallow-v/F was contextually inferred first, then compared to the photographed published proposed F in card199 RUDOLFINA; reference transfer, not independent validation.",
+ "rows": [
+  {
+   "id": "U01",
+   "box": [
+    35,
+    50,
+    634,
+    83
+   ],
+   "cipher": "cht5sg3 n375 75t4m5, fh581 t4g q6 fs5h57c4 th6r1 84cd5g,"
+  },
+  {
+   "id": "U02",
+   "box": [
+    35,
+    78,
+    634,
+    112
+   ],
+   "cipher": "75mq nm5 b3d5c48. 86cg6 df375 ?nm5, th6r32cg2, m5cn4hm5"
+  },
+  {
+   "id": "U03",
+   "box": [
+    35,
+    106,
+    634,
+    141
+   ],
+   "cipher": "p86q4 6 75 n4 m57n4857c4 2d5r32, gt1q m57c5n c6n c5"
+  },
+  {
+   "id": "U04",
+   "box": [
+    35,
+    132,
+    634,
+    168
+   ],
+   "cipher": "c5p32 6 c5 cf5d5n nm5 3pg83b274s4n cb3g375m. fqb3n4-"
+  },
+  {
+   "id": "U05",
+   "box": [
+    35,
+    158,
+    634,
+    194
+   ],
+   "cipher": "m6n m6 cf374 r382p4sg2 s4cd32 d6g h6t 6 d6g s6cd3."
+  },
+  {
+   "id": "U06",
+   "box": [
+    35,
+    185,
+    634,
+    221
+   ],
+   "cipher": "cd1cg6 c5 n4 b3 m4 f584s5. 3t5 tm5cg6 q6 n5c4s b375t2"
+  },
+  {
+   "id": "U07",
+   "box": [
+    35,
+    211,
+    634,
+    245
+   ],
+   "cipher": "m6 f1h3sm4 cH2q4 s5s48cg32, g m4q c5 d5md3gh6d5"
+  },
+  {
+   "id": "S01",
+   "box": [
+    437,
+    241,
+    631,
+    276
+   ],
+   "cipher": "c75t32 f6cg5h4"
+  },
+  {
+   "id": "S02",
+   "box": [
+    474,
+    269,
+    631,
+    304
+   ],
+   "cipher": "2t3f5 f5 cf5d5"
+  },
+  {
+   "id": "S03",
+   "box": [
+    500,
+    297,
+    633,
+    332
+   ],
+   "cipher": "c4h5n h3qdh32-"
+  },
+  {
+   "id": "S04",
+   "box": [
+    484,
+    324,
+    633,
+    360
+   ],
+   "cipher": "c5m4. t32F68"
+  },
+  {
+   "id": "S05",
+   "box": [
+    492,
+    353,
+    631,
+    386
+   ],
+   "cipher": "7c5n, q5 t3 d5"
+  },
+  {
+   "id": "S06",
+   "box": [
+    495,
+    380,
+    631,
+    413
+   ],
+   "cipher": "t3p1 p2t2"
+  },
+  {
+   "id": "S07",
+   "box": [
+    498,
+    408,
+    635,
+    443
+   ],
+   "cipher": "6cb3m c g3m-"
+  },
+  {
+   "id": "S08",
+   "box": [
+    498,
+    435,
+    634,
+    469
+   ],
+   "cipher": "s5hd5n cf5"
+  },
+  {
+   "id": "S09",
+   "box": [
+    500,
+    463,
+    635,
+    496
+   ],
+   "cipher": "bh6s5 r3d3f,"
+  },
+  {
+   "id": "S10",
+   "box": [
+    490,
+    490,
+    635,
+    524
+   ],
+   "cipher": "6fc6g bh3 m6-"
+  },
+  {
+   "id": "S11",
+   "box": [
+    492,
+    519,
+    635,
+    552
+   ],
+   "cipher": "f68 bh6s5 g6m-"
+  },
+  {
+   "id": "S12",
+   "box": [
+    494,
+    547,
+    635,
+    583
+   ],
+   "cipher": "s586hcg5 c3df6"
+  },
+  {
+   "id": "S13",
+   "box": [
+    508,
+    576,
+    636,
+    609
+   ],
+   "cipher": "d3r3 t3s484n."
+  },
+  {
+   "id": "L01",
+   "box": [
+    31,
+    901,
+    628,
+    937
+   ],
+   "cipher": "cf5 d6g f6cm4f5 n486f6m5 cht5sg3 fh585 g c3p5"
+  },
+  {
+   "id": "L02",
+   "box": [
+    31,
+    929,
+    628,
+    963
+   ],
+   "cipher": "d4cgm5 6 d4c4s t832r1H, 2bh4nm1H b2c n2 b3c486,"
+  },
+  {
+   "id": "L03",
+   "box": [
+    30,
+    954,
+    628,
+    985
+   ],
+   "cipher": "f5sm5 75r3 b5b32c, gd5h1 c5 m6 c84p5m32 t58c4"
+  },
+  {
+   "id": "L04",
+   "box": [
+    30,
+    975,
+    431,
+    1003
+   ],
+   "cipher": "qbh6f2 m5cn4hm5 d5c4."
+  }
+ ]
+}

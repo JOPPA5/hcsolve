@@ -1,0 +1,20 @@
+# hcp-1494 transcription v2 (Claude Opus 5.5, 2026-10-29), read from source/address-large.jpg
+# Lines follow the card (text written sideways; rotate the image 90 deg counter-clockwise).
+# " / " separates words. {...} = plain (uncoded) handwriting, copied as written.
+# Tokens: symbol ids from key.json. a|b = alternative readings of one sign (first = preferred).
+# x>L = sign x read literally, writer slip for plaintext L. x> = extra sign, dropped in the normalised text.
+# <...> = non-text marks, reported but not decoded.
+# {?} after ALLTOGETHER: a hook with a flat foot and no dot, similar to the writer's 2 (D);
+#   read as a plain question mark (the sentence is a question), not as cipher D (review 1, finding 3).
+2 eps 1 R / 2
+7 pct / 7 hash / 1 / 5 0 6 plus / pct 7 q 8>E / 1 plus 0
+{since} / 7 / 8 eps 1 R 2 / eq R 0 q
+minus 0 u / 8 1 V eps / minus 0 u / eq 0 R plus plus> 0 pct pct
+eps 6 / q eps / 1 5 5 pct 0 plus 1|7>E plus> pct 8 eps R / {?}
+{I am still at my old Place}
+{and} / W 0 R 4 7 6 plus / eps V eps R minus / 2 1 minus
+5 eps pct / q eps / 8 eps 1 R / eq R 0 q / minus 0 u
+7 eq / minus 0 u / W 1 6 pct / pct 0|q / <two 9-like marks written below the last word>
+{715 Hunter St.}
+{closing word in plain cursive, probably "Yours" (not cipher; not securely legible)}
+C 5 1 R eps 6 C eps

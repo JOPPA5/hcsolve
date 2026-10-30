@@ -1,0 +1,25 @@
+# Manual shapes + dot counts; | word division, - visible separator.
+# {ish} is an unencrypted cursive addition, not three cipher letters.
+# ^X is a cipher glyph written above the line with an insertion caret
+# below it, placed where the caret points.
+# Line 4: the former "unresolved span" after COU is two tightly written
+# glyphs, BL2 (L) and R1 (D); their bottom strokes do not join
+# (work/claude/ld.jpg). Revised 2026-10-29.
+# Not encoded (review 1, finding 3): a free dot after IT at the end of
+# row 3 (beside the dash) and a dot right of the vertical divider level
+# with row 2 are full stops / stray marks, not glyphs.
+# Context decisions on dot counts (review 1, findings 1-2): E of PRETTY
+# (row 8) shows two dots (a blob touching the left stroke + a small dot),
+# strict count would give N; recorded as C1 (E). Y of PRETTY, FLY, PLAY
+# have blotchy dot groups, all >=3, recorded as TR3 (Y).
+TR3 L2 BL3 - BL1 BR1 C2 - C2 L2 B3 -
+C3 TL2 TL1 B3 C1 - BR3 L2 - TL1 -
+BL1 BR1 C2 - TL2 C1 BR1 R1 - TL1 B3 -
+TL1 - C3 {ish} - TL1 - BL1 L2 BL3 BL2 R1
+- L1 BL2 TR3 - T1 L2 R2 C1 -
+R1 L2 - TR3 L2 BL3 - TR2 BL2 BR1 TR3 -
+L2 C2 - B3 T1 C1 - L2 TL2 TR1 BR1 C2 -
+TL1 - BR1 R2 - TR2 TL2 C1 B3 B3 TR3 -
+# Final enclosure: TL1 written above, with a caret between B3 and TL2
+# (work/claude/caret.jpg).
+B3 ^TL1 TL2 C1 R1

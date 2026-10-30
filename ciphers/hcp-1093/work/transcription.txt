@@ -1,0 +1,19 @@
+# HCP1093 Pigpen transcription, re-collated on enlarged crops by Claude Opus 5.5, 2026-10-30.
+# Token = outline + dot flag (0 undotted, 1 dotted); | = word gap (from spacing/commas).
+# Outlines: BR bottom+right, B bottom+left+right, BL bottom+left, R top+bottom+right,
+#   C four sides, L top+bottom+left, TR top+right, T top+left+right, TL top+left,
+#   V/>/</^ wedges by direction of the point (V down, > right, < left, ^ up).
+# Suffix *  = sign physically obscured (ink blot); value restored, see SOLUTION.md.
+# Suffix !X = sign is clearly written as shown, but the writer evidently meant X
+#             (encipherment slip); literal and emended outputs are both printed.
+B1 BL0 BR0 TL1 BL0 V0 V1 | BR1 BL0 V1 V1 ^0
+<0 R1 BR0 V1 | BR0 BR1 T0 >0 V1 | V1 R1 C0 V0
+BL1 T0 TL1 | BR0 | T1 R1 T0 V1 T0 | T0 BL1
+BR1 TL1 >0 B0 BL0 | V0 R1 BR0 L1 L1 | R0 T0 | V1 T0
+BR1 BL0 B1 | BL0 BR0 TL1 L1 ^0 | V1 T0 TR1 C0 R0 R1 V1
+BL1 BR0!E BR0!E L1 V0 | V1 C0 TL1 BR0!E B1 | T0 TL1 | V0 T0 TR0 BL0
+V1 R1 C0 TR1 R0 | B0 T0 L1 B1 | BR0 | L1 C0 V1 V1 L1 BL0
+BR1 BL0* V1 V1 BL0 TL1 | <0 C0 V1 R1 | BL1 T0 TR1 B1 BL0 V0 V1
+L1 T0 >1 BL0 | BR0 TR1 B1 | L0 C0 V0 V0 BL0 V0 | BL1 TL1 T0 TR0 | ^0 T0 >0 TL1 V0
+BL0 >1 BL0 TL1 | BR1 T0 BR1
+<1 <1 <1 <1 <1 <1 <1 <1 <1

@@ -1,0 +1,10 @@
+# Manual Morse transcript after 180-degree rotation. Slash separates letters.
+# Only frozen, readable groups. No encrypted word spaces claimed.
+# Main passage: four physical rows, before an unresolved final row.
+... / .... / .- / .-.. / .-..
+.. / ... / . / . / -.-- / --- / ..-
+- / --- / -- / --- / .-. / .-. / ---
+.-- / . / ...- / .
+# Bottom passage: two physical rows.
+..-. / --- / -. / -.. / . / ... / -
+.-.. / --- / ...- / .

@@ -1,0 +1,17 @@
+# hcp-1479 partial transcription (Claude Opus 5.5, 2026-10-30), own reading of source/address-large.jpg
+# Token = SHAPE.DOTPOS. SHAPE names the strokes present: BR=bottom+right, B=bottom+left+right,
+# BL=bottom+left, R=top+bottom+right, C=all four, L=top+bottom+left, TR=top+right, T=top+left+right,
+# TL=top+left. DOTPOS = L/C/R horizontal position of the single dot inside the cell.
+# '?' marks a glyph not read; '*' marks a glyph whose reading is weak (see NOTES.md).
+# Words separated by ' | ', lines by newline. Labels before ':' are line ids.
+L1: BL.C C.R T.C | B.L C.R | TL.L C.R TR.R
+L2: R.R BL.R R.C B.C | TR.C BL.C BL.R TR.L
+L3: BR.R BR.L L.R B.L
+L4: BR.C B.C TR.L TR.C | T.C* BL.R* TR.L BL.C B.C TR.L
+L5: B.R L.R C.R C.L
+L6: B.L C.R* L.R* B.C B.C* C.C
+L7: T.R C.L BR.L TR.L
+R1: C.L BL.R TR.L TR.L | ? ? ? ? ?
+R2: ? | L.R B.L
+R3: BR.C C.R TR.R L.R C.C B.C C.L C.R TR.R TR.C BL.C
+R4: B.C C.C BL.L R.R BR.L C.C B.L

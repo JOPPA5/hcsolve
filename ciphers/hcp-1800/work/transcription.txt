@@ -1,0 +1,6 @@
+# HCP 1800 picture side, manual sign-by-sign transcription (Claude Opus 5.5, 2026-10-30)
+# Token = outline + numeral. Outlines: BR bottom+right, B bottom+left+right, BL bottom+left,
+# R top+bottom+right, C four sides, L top+bottom+left, TR top+right, T top+left+right, TL top+left.
+# Words separated by spaces, lines by newline. '?' after a token marks a weak point (see SOLUTION.md).
+TR3 L2 BL3 TL2  TL2 L2 BL1 B2 TL1 C2 TR1  BL1 T1 BR1 TL1 TL2  TR2 BL2 BR1 C2  BL2 L2 L2 B2 BR3
+BR3 BR1 L1 C1 TL2  BR1 C2 R1  R2 L2 TL2? C1  BL1 L2 R2? L1 L2 TL2 B3 BR1 B1 BL2 C1

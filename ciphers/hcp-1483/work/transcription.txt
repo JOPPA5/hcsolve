@@ -1,0 +1,26 @@
+# HCP 1483 - sign-by-sign transcription of source/address-large.jpg (read on work/upright.jpg,
+# the same image rotated 180 deg). One card line per row, in the card's order: P.S. (2 lines at the top),
+# body lines 1-17, signature. Tokens are described in key.json. "/" = word division added by the
+# transcriber (NOT on the card: the cipher is written without spaces). "x2" = the superscript "2" written
+# after a sign (sign doubled). "ins:" = sign written above the line with an insertion caret.
+# "<...>" = plain (unenciphered) writing. "?x3" = extra slanted three-bar sign (see SOLUTION.md).
+P1: <P.S.> x1b l3b TRI x3t ins:x1b OD r1b r3b / SQ r2b / x1b l3b TRIS x3t / l2t OD x2t l3t / l1b OD x3t / l1t TRI x2 r2b / r2t TRIS x3t x2 TRI l3t ! ! !
+P2: <Does this interest you> OD x1b / OD r3t x2 / x3t x3b TRI x2 x1b l3b TRI OD x2t x1b ?
+L01: r1b SQY / SQ x3b r2b / l2t OD x2t TRIS OD l3t , x1b l3b OD r2b r2t / SQY SQ SQU / x3t SQ
+L02: r1b SQU l2t l3b / l1b SQ x2t / x1b l3b TRI / l2t OD x2t l3t . TRIS / r2t r2b SQ x3b / SQY SQ SQU / x3b TRIS r3t x2
+L03: l2t SQ r2b x3t TRIS l3t TRI x2t / r1b TRI / OD r2b . SQU r2b x1b l3b OD r2b r2t l1b SQU r3t / l1t TRI OD x3t x1b
+L04: l1b SQ x2t / r2b SQ x1b / l3b OD x2b TRIS r2b l2b / TRI x2b TRI r2b / OD l2t r2t r2b SQ x3b r3t TRI l3t l2b TRI l3t
+L05: x2t TRI l2t TRI TRIS r3b x1b / SQ l1b / x1b l3b TRI / " r1b TRIS SQ r2b TRI x2 x2t " ! / x1b l3b OD r2b r2t
+L06: SQY SQ SQU / x2b TRI x2t SQY / r1b SQU l2t l3b / l1b SQ x2t / SQY SQ SQU x2t / l3t TRI OD x2t
+L07: x1b l3b SQ SQU l2b l3b x1b l1b SQU r3t r2b TRI x3t x2 , / l3t OD x2t r3t TRIS r2b l2b . / TRIS / r3t SQ x2b TRI
+L08: SQY SQ SQU / x3t x3b TRI x2 x1b l3b TRI OD x2t x1b / r1b TRIS r2b TRI , / r1b SQ x2t TRI / x1b l3b OD r2b
+L09: TRIS / l3t TRIS l3t / SQY TRI x3t x1b TRI x2t l3t OD SQY / l1t SQU x1b / r2b SQ x1b / x3t SQ / r1b SQU l2t l3b
+L10: OD x3t / TRIS / x3t l3b OD r3t x2 / r3t SQ x2b TRI / SQY SQ SQU / x1b SQ r1b SQ x2t SQ x3b !
+L11: TRIS / OD r1b / x3t SQ / l2b r3t OD l3t / x1b SQ / l3b TRI OD x2t / x1b l3b OD x1b / SQY SQ SQU
+L12: OD x2t TRI / x3t x1b TRIS r3t x2 / l2b TRI x1b x2 TRIS r2b l2b / l1t TRI x1b x2 TRI x2t . / l1t TRI / x1t SQU TRIS l2t r2t
+L13: OD r2b l3t / l2b TRI x1b / x1t SQU TRIS x1b TRI / OD r3t x2 / x2t TRIS l2b l3b x1b , / l3t OD x2t r3t TRIS r2b l2b .
+L14: r1b SQY / l2t SQ r3t l3t / x3t TRI x2 r1b x3t / x1b SQ / l3b OD x2b TRI / l2b SQ r2b TRI
+L15: l2t SQ r1b ?x3 r3b r3t TRI x1b TRI r3t SQY . / TRIS / x3b SQ SQU r3t l3t / r2b SQ x1b / x3t x3b SQ r3t
+L16: x3b TRIS x1b l3b / r1b TRIS x3t x1b TRI x2t / r2t OD SQY / l1b SQ x2t
+L17: l1b SQ x2t x1b SQY / x3b SQ x2t r3t l3t x3t . / r2t TRIS x3t x2 / r1b TRI / l2b SQ x2 r2b TRIS l2b l3b x1b , / l3t OD x2t r3t TRIS r2b l2b
+SIG: <a.m.> <[script capital, R?]> " SQY SQ SQU x2t / l1t SQ SQY "

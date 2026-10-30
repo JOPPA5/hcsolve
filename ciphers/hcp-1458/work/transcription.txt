@@ -1,0 +1,11 @@
+# hcp-1458 stroke transcription (Claude Opus 5.5, 2026-10-29), read from enlarged crops of source/address-large.jpg
+# Tall stroke = '-', short stroke = '.'; spaces = gaps between stroke groups (letters); '/' = written full stop (word end).
+# Lines in reading order. P = purple-ink line at top of card; B1..B7 = black-ink message on left half.
+P:  .-.. --- ...- . / -- --- .-.. .-.. .. . /
+B1: .- .-. . / -.-- --- ..- /
+B2: --. --- .. -. --. / - --- /
+B3: -.-. .- .-. -.. .. ..-. /
+B4: -. . -..- - / -- --- -. - [BLOT] .... /
+B5: - --- / .... . .- .-. / - .... .. ... /
+B6: --. . -. - /
+B7: --..-- /

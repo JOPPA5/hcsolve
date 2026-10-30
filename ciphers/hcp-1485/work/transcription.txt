@@ -1,0 +1,18 @@
+# hcp-1485 transcription (Claude Opus 5.5, 2026-10-29), read from source/address-large.jpg rotated 180 deg (work/upright.jpg).
+# One card line per text line. Tokens separated by spaces; "/" = word division (editorial where card spacing is tight).
+# Stem glyphs: <side><count><pos>  side L = ticks left of stem, R = ticks right, X = bars crossing the stem;
+#   count = number of ticks/bars (1-3); pos t = ticks on upper part of stem, b = ticks on lower part.
+# Shape glyphs: CIR = circle with central dot, TRI = triangle, TRII = triangle with inner vertical stroke,
+#   SQ = plain square, SQB = square with \ diagonal, SQF = square with / diagonal.
+# Suffix ^2 = superscript "2" written after the glyph (doubled letter). Punctuation is plain, in double brackets [[...]].
+L2b X3b TRI R2b^2 TRII TRI / L3t CIR X2t R3t TRII R2b L2b [[.]]
+L2b SQ R3t L1b / TRII X3t / CIR / L2b SQ^2 L3t / L2b CIR R1b TRI / L1b SQ X2t
+X1b X3b SQ / L1t SQ X1b / TRII / L3t SQ R2b [[']] X1b / X1b L3b TRII R2b R2t
+TRII X1b / L1t TRI CIR X1b X3t / SQ SQB X2t / L2t CIR R1b TRI / SQ L1b
+[["]] TRII R2b / X1b L3b TRI / L2b R3t SQ CIR R1b TRII R2b L2b [["]] / [[(]] CIR R3t X3t SQ
+L1b SQ X2t / X1b X3b SQ [[!)]] / X3b L3b CIR X1b / L3t SQ / SQF SQ SQ
+X1b L3b TRII R2b R2t / L3t TRI CIR X2t TRI X3t X1b [[?]] / CIR X2t TRI R2b [[']] X1b
+SQF SQ SQB / CIR R3t X3t SQ / X2t CIR X1b L3b TRI X2t / X3t X1b X2t SQB L2t R2t
+X3b TRII X1b L3b / X1b L3b TRI / [["]] L2b CIR R1b TRI [["?]] / L2t CIR X2t TRII CIR L3t [[!!!]]
+TRII / R3t SQ X2b TRI / SQF SQ SQB / L2b X3b TRI R2b^2 TRII TRI / L3t TRI CIR X2t [[,]]
+CIR [[.]] R1b [[.]] L3b [[.]] R3t [[.]]

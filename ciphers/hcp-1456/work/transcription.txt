@@ -1,0 +1,21 @@
+# hcp-1456 address side, read from work/reading.jpg (source/address-large.jpg rotated)
+# One manuscript line per text line. "=" at line end: the cipher word continues on
+# the next line (writer split it without hyphen); "th-" keeps the writer's hyphen.
+# "+" joins two pieces the writer separated by a space inside one cipher word.
+# Punctuation . and ? is the writer's own and is passed through.
+Nitchuavnikes nifaoyr tiyhoauir
+nawkhiart nadio riyaoru tem=
+deraen . ranao prsrtiarmkt
+ariratm nothono hiliarthe
+rafiour natrhoe nimuanial
+rathornaihgrhat nagiort
+pahaormae raforoorm nawhoarak
+hiart zinaianhe hablcalaorcak . gnpalae=
+hnatay raouf hawaohrak niarbioaurt
+rahaerrae . rawhornadaekr nawrhiy zah=
+iazrirry nadiornat ziwhraiatae zi=
+tioa yamae . nahiarvae nabseaetn
+hoart nifaohrad thmia+znioar th-
+tohaias niwaeaeok ? nikhirnrd
+yaraehgiakrades kitao hiatlil
+nimraibreal . rebaeiart . niahninaiae

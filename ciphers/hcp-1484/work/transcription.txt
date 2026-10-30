@@ -1,0 +1,22 @@
+# HCP 1484 - own transcription (Claude Opus 5.5, 2026-10-29) of source/address-large.jpg.
+# The message is written UPSIDE DOWN relative to the printed card; lines are given in the
+# writer's order, i.e. after rotating the card 180 degrees (rotated line 1 = lowest line on the scan).
+# Sign notation (see SOLUTION.md):
+#   stems: <side><anchor><n>  side L=bars left of stem, R=bars right, B=bars both sides;
+#          anchor t=bars hang from the top, b=bars sit at the bottom; n=number of bars (1-3)
+#   shapes: CIRC (circle with dot), TRI (triangle), TRIS (triangle with inner vertical stroke),
+#           BOX (empty square), BOXU (square with a "\" diagonal), BOXY (square with a "/" diagonal,
+#           often with an extra short stroke from the top-left corner; corrected after review 1)
+#   ^2 = superscript "2" written after a sign (letter doubled)
+#   punctuation: , . ? " - kept as tokens; / = word space (inferred, the card has no spaces except
+#   where noted); [faint] marks a lighter-ink sign (see SOLUTION.md, uncertainty 1)
+Rb1 BOXY / BOX Bb3 Rb2 / Rt3 TRIS Bb1^2 Rt3 TRI / Lt3 CIRC Bt2 Rt3 TRIS Rb2 Lb2 ,
+Bb1 Lb3 CIRC Rb2 Rt2 / BOXY BOX BOXU / TRI Bb2 TRI Bt2 / Bt3 BOX / Rb1 BOXU Lt2 Lb3
+Lb1 BOX Bt2 / Bb1 Lb3 TRI / Rb3 BOX Bt3 Bb1 Lt2 CIRC Bt2 Lt3 . TRIS / Lb3 BOX Rb3 TRI
+Bb1 BOX / Lb3 TRI CIRC Bt2 / TRI Bb2 TRI Rb2 / Lt1 TRI Bb1^2 TRI Bt2 / Rb2 TRI Bb3 Bt3
+TRIS Rb2 / Bb1 Lb3 TRI / Rb1 BOX Bt2 Rb2 TRIS Rb2 Lb2 . Bb3 Lb3 BOXY / CIRC
+Lt2 CIRC Bt2 Lt3 / BOX Lb1 / Rt3^2 CIRC Rb2 Lb2 BOX Rt3^2 TRI Rb2 ? Bt3 Lb3 CIRC Rt3^2
+Bb3 TRI / Lb2 BOX / Bb1 Lb3 TRI Bt2 TRI / Bb1 BOX Lb2 TRI Bb1 Lb3 TRI Bt2 , Bt3 BOX Rb1 TRI
+Lb3 CIRC Rb3^2 BOXY / Lt3 CIRC BOXY , [faint]Lt3 / Lt3 CIRC Bt2 Rt3 TRIS Rb2 Lb2 ? TRIS / Rt3 BOX Bb2 TRI
+BOXY BOX BOXU , " Lt3 TRI CIRC Bt2 TRI Bt3 Bb1 - BOX Lb1 - CIRC Rt3^2 - Bb1 Lb3 TRI - Bb3 BOX Bt2 Rt3 Lt3 , "
+BOXY BOX BOXU Bt2 / Lt1 BOX BOXY .

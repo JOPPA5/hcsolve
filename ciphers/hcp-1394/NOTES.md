@@ -1,0 +1,8 @@
+# Solver notes
+
+- 2026-10-26: Read README in full. Single assigned cipher HCP1394. Persistent user override: do not start watchers or reviewers. No source edits, no FINAL/register/PDF.
+- Root supplied rendered three-tab metadata and unchanged original scans. Personally inspected picture and address originals. Picture is a Folkestone beach view with no observed message. Address-side message needs 270-degree rotation for reading.
+- Caesar −1 independently supported by several separate readable words. A prior neighboring-card shift hypothesis was supplied in the task, but no neighboring files were used.
+- Proposed body has 73 Latin-letter positions. Several tightly joined cursive words are context-assisted and expressly provisional; script coverage is not proof of handwriting. Closing marks remain untranscribed. No DONE1.
+- Derived crops are enlarged originals without generative reconstruction. No external published solution consulted. Source hashes are verified by work/decode.py.
+- 2026-10-29 (Claude Opus 5.5, solver): Re-inspected enlarged crops (work/crops-2026-10-29/). Withdrew the earlier `Mpwf!`: it is the shorthand `[M/N]. & L.`+stroke. The signature "Sam" is cipher `Hjsm` = GIRL, the same as on sister cards 1397/1403. The closing shorthand is kept literal. Unresolved: line-3 word after `uif`. It shows t-u-[6-loop = b shape]-n, with no p descender, so STORM is not letter-verified and tubn/tuon are not words. The 1024 px scan cannot settle it, and a higher-resolution image was not downloaded without permission. The transcript now uses placeholders. Still partial; no DONE1.

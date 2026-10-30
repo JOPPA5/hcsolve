@@ -1,0 +1,33 @@
+# HCP1469 sign-level transcription (Claude Opus 5.5, 2026-10-30), read from source/address-large.jpg
+# One line per written line, in reading order: body (B01-B13, left panel below the date),
+# then the continuation in the top margin (T1-T7). Words separated by " / ".
+# Sign codes (ASCII stand-ins for the drawn signs):
+#   O circle            3 three-shape        C arch (rounded cap)   ) right bowl / reversed C
+#   . single dot        F gamma-corner       G two dots falling (high-left, low-right)
+#   H two dots rising (low-left, high-right) : two dots vertical (colon)
+#   J reversed-J hook   K k-angle (< with or without a stem)   L box (sometimes with a divider)
+#   M left bowl / bar   V caret (inverted V) Q circle with bar (theta)   P right bracket with top bar
+#   X circle with centre dot   7 seven-shape   2 two-shape   T inverted T   U T on its side
+#   > right angle-bracket   Y caret with a central stem
+# The caret V is the same sign for n and w. "V=w" marks where context requires w,
+# "V=r?" marks the two places where the same sign stands where r is expected (d?edful).
+B01 M Y / Q V=w V / ) . O 7 . 2 T / G : 7 L : . / : T / : 2 / V Q V=w / O L M Q 2 T
+B02 H O L F / P O 2 T / F : > . / O V ) / : / 2 H O L L / 2 Q Q V
+B03 3 . / C L . O 7 : V G / Q U T / O V ) / 2 H O L L
+B04 V Q T / 3 . / 2 Q 7 7 Y / . : T H . 7 / : / V=w O 2
+B05 ) V=r? . ) F U L / G L O ) / T Q / G . T / Y Q U 7
+B06 L . T T . 7 / T H : 2 / M Q 7 V : V G / : T / C O M .
+B07 : V / T : M . / F Q 7 / M . / T Q / 7 . O ) / : T / O T
+B08 3 7 . O K F O 2 T / T : M . / : T / V=w O 2 / X U : T .
+B09 F Q G G Y / T H : 2 / M Q 7 V : V G / O V )
+B10 T 7 O : V / V=w O 2 / O / 3 : T / L O T . / . > . 7 Y
+B11 T : M . / V=w . / H O > . / F Q G / 2 : G V O L 2 / V Q V=w
+B12 M O K . 2 / M . / T H : V K / Q F / Q U 7 / J Q U 7 V . Y 2
+B13 U P / T Q G . T H . 7 / T H . / F Q G / C L . O 7 . )
+T1 O / G Q Q ) / 3 : T / O V ) / : T / H O 2 / 3 . . V / O / F O : 7 L Y / ) . C . V T / ) O Y
+T2 G Q Q ) 3 Y . / F Q 7 / T H . / P 7 . 2 . V T / Q V L Y / F Q U 7 / ) O Y 2 / V Q V=w / T Q / V=w O : T
+T3 : / H Q P . / : / H O > . / O
+T4 L . T T . 7 / F 7 Q M / H Q M . / T Q V : G H T
+T5 7 . G / 2 . V ) 2 / Y Q U / ) V=r? . ) F U L / L Q T 2
+T6 Q F / L Q > . / O V ) / : 2 / O L V=w O Y 2 / Y Q U 7
+T7 Q V=w V / 3 Q Y / 7 . G

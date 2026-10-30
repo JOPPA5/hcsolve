@@ -1,0 +1,5 @@
+# hcp-1470 address side, single curved line across the correspondence half
+# (lower left, upward-left start, running down to the right under the stamp
+# divider). Read 2026-10-30 by Claude Opus 5.5 from source/address-large.jpg
+# (crops in work/crop-*.png). Dashes are on the card.
+13-1-18-9-13-1-18-18-1-14-4-5-15-20

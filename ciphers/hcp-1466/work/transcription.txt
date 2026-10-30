@@ -1,0 +1,18 @@
+# hcp-1466 transcription (Claude Opus 5.5, 2026-10-30), read from source/address-large.jpg at 4x.
+# Format: game|hand|moves   hand L = large black-ink lines (E. P. Dunne, sender); S = small, lighter bluish lines (same small hand in all 7 games).
+# Each line is a move sequence (own move + any forced reply), so colours alternate inside a line; colours are derived from move direction.
+# "." between squares on the card = move separator (written 22.18); small entries use "-".
+1|L|22-18 15-22 25-18
+1|S|6-10
+2|L|11-16
+2|S|24-19 15-24 28-19
+3|L|29-25
+3|S|16-20
+4|L|12-16
+4|S|21-17
+5|L|22-17
+5|S|1-6
+6|L|6-10
+6|S|22-17
+7|L|23-16 12-19 22-18
+7|S|9-14 18-9 5-14

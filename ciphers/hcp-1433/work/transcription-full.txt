@@ -1,0 +1,12 @@
+# HCP 1433 full Morse transcript (Claude Opus 5.5, 2026-10-29), read from
+# source/address.jpg rotated 180 degrees. One physical row per line;
+# "/" = the long slanted separator stroke written between letters.
+# Main passage (5 rows, right half of the message area)
+... / .... / .- / .-.. / .-..
+.. / ... / . / . / -.-- / --- / ..-
+- / --- / -- / --- / .-. / .-. / ---
+.-- / . / ...- / .
+.-.. / --- / ..- / .. / .
+# Bottom passage (2 rows, under the cursive)
+..-. / --- / -. / -.. / . / ... / -
+.-.. / --- / ...- / .

@@ -1,0 +1,21 @@
+# Reviewer's own sign ledger (Claude Opus 5.5, review 1), read from enlarged crops of source/address.jpg.
+# Sign names (independent of the solver's token alphabet). Suffix ' = acute/accent mark seen, " = two dots.
+# ? = uncertain sign (rendered in braces).
+01 b3' sl b3 rbowl invT loop wave b2' s2 sect b2' s3 six b3 lbowl rbowl b3 rbowl
+02 rbowl loop Fr b2 dc corner sect loop" rbowl loop" s2 b3 corner corner b3 wave s3 b3 gl
+03 sect b2 tsp corner b2 s3 s3 b3 wave desc b3 sect loop" Fr loop" s3 b3 s3 Fr b3
+04 rbowl xd loop wave gl b2 wave corner b2 sect b3' rbowl b2 xd b2 wave b2 corner? corner dc
+05 rbowl loop Fr loop sect six b2 s2 chev b2 wave b2 rbowl xd loop wave loop sect .
+06 sect dc chev b3 wave six dc xd loop s2 desc dc corner rbowl b2 s3 ,
+07 tt loop gl desc corner b3 gl b3 sl rbowl xd b3 Fr b3 corner wave b3 sect
+08 corner b2 s2 x s3 , sect dc b2 wave sect loop corner b3' b2 s2 b2 gl desc
+09 s3 dc s2 sl b3 s2 rbowl b3' gl b3 corner .
+10 tt loop gl desc lbowl rbowl b2 sect b3' Fr corner b3 sl b3' wave b3 sect
+11 rbowl b3' Fr corner b3 sl rbowl xd b3 s2 chev b3 sl b3 sect ,
+12 b3' rbowl s3 dc s2 sl b3 s2 s2 b3? wave b3 cross loop" wave sl loop" s2
+13 invT loop six six b2 s2 rbowl xd b3 Fr b3 corner wave b3 sect .
+14 b2 chev b2 lbowl rbowl loop Fr b2 b3' wave b3' gl sect b3 sl b3' invT b3 rbowl
+15 chev loop wave corner , b3' rbowl tt loop gl desc s3 dc corner b2 sl chev dc rbowl rbowl xd b2
+16 b2 xd corner s2 b3 s3 b3' Fr corner b3 s3 , dc rbowl corner b3 s2 chev b3 wave b3
+17 b2 chev dc rbowl xd loop s2 corner wave b2 corner b2 rbowl Fr b2 rbowl xd b3 Fr b3 corner b3 corner b3 wave cross b3 Fr dc
+N01 rbowl? xd b3 Fr? b3 corner b3 corner b3 wave

@@ -1,0 +1,19 @@
+# HCP 1432 - full Morse transcript, read by Claude Opus 5.5 on 2026-10-29 from
+# source/address.jpg rotated 180 degrees (enlarged crops). One row per physical
+# Morse run; '/' = the writer's slanted letter-closing stroke. Lines starting
+# with '#' are comments. Literal pen strokes only - no corrections here.
+# '(-)' = a full dash through which the writer drew the letter-closing slash
+#   (tired-1 group 2, '.(-)' looks like '. +' ; review 1 finding 1). Taken
+#   literally the group is '.-' (A); the decoder prints it literally as A.
+# thanks-3 group 3 '..-' : the U dash is a very faint, nearly dry band with a
+#   dot-sized dark end (review 1 finding 3); read as a dash.
+# home-1 group 4 '.-.-' : first element is a heavy oval dot (9 px), larger
+#   than the other dots (review 1 finding 4).
+thanks-1  | -.- / .. / -.
+thanks-2  | -.. / -. / . / ... / ... / --- / -. / ...
+thanks-3  | .- / - / ..- / .-. / -.. / .- / -.--
+tired-1   | ...- / .(-) / .-. / -.-- / - / ..
+tired-2   | .-. / . / -..
+home-1    | .-. / . / .- / .-.- / .... / . / -.. / ....
+home-2    | --- / -- / .
+closing   | - / -. / ..- / .

@@ -1,0 +1,12 @@
+# hcp-1449 cipher passage, address side (work/message.jpg, crop of source/address.jpg rotated 270 deg)
+# Transcribed by Claude Opus 5.5 on 2026-10-30 from enlarged crops. Glyphs written as the nearest
+# Greek letter; Latin j and final w are written by the sender as Latin letters.
+# Allographs (review 1, finding 3), not marked in the lines below:
+#  - e: written as eta with an over-bar (η̄) in "have" (1 x) and "seen" (2 x); transcribed as plain η.
+#  - f: two forms – a tall looped f in "for", and two barred, descending phi ligatured together in "off";
+#    both transcribed as φ.
+#  - one v-shaped glyph serves for v ("have") and n ("seen", "kind"); transcribed υ / ν by context.
+#  - word 4 is exactly two signs ⟨μγ⟩ followed directly by "off" (no further ink; checked in review).
+Ηαυη jοστ σηην μγ ωφφ
+λωωκ ωοτ φωρ Ηιμ
+τωμωρρωw κινδ ρηγαρδσ

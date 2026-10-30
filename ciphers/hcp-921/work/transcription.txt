@@ -1,0 +1,4 @@
+# Upright after 270-degree rotation. 0 undotted, 1 dotted.
+# {cancelled} is one blackened outline; do not infer its underlying value.
+TR0 C0 {cancelled} >1 >1 . | TR0 BR0 ^0 .
+B1 C0 BL0 B1 .

@@ -1,0 +1,17 @@
+# HCP 1477 cipher strip (right margin of picture side), read with the card turned
+# 90 degrees clockwise, top line first. Own reading by Claude Opus 5.5, 2026-10-29,
+# from source/picture-large.jpg (enlarged 4-10x). One token = one written sign.
+# Vowels are written in clear (a e i o u å ä ö); writer marks ä with a small
+# 2/^-shaped stroke and å with a dot. Consonant sign labels:
+#   1 = '1' stroke   3 = '3'   5 = '5'   G = heavy closed 5 (б-like)   6 = '6'
+#   8 = '8' (also drawn g-like)   9 = '9' (q-like)   X = 'X'   V = X with dot above
+#   : = two dots (colon)   P = three dots (⁝)   S = dash with dot above and below (÷)
+#   T = dash with dot below   M = dash followed by dot (–·)   . = period
+# Spaces = word division supplied by the transcriber (writer's spacing is irregular).
+# Line 2, 2nd word: written with two dots (:) = n, literally "nå"; meant "på" (writer slip,
+#   see SOLUTION.md, Response to review 1). The g-like tall glyph is labelled 8 in trikt
+#   and vänskap and 5 in igen by context (same shape; see Uncertainties).
+6aX 3u i:5e: Vä: i VäX3e: 3e: 3u TXi8T 8a:
+9iTa :å 9iTeT ö3S9i5 19iX 3å 6äX3e: Me: VaX
+G9a3 ä:3å. Vä:S8aP 1XiTeS 1a:3eT 1XiSTeX 8:iTS
+i5e: i:5e: Gi:5 S1äT Ma: MiSTeX SoM e: Vä:.

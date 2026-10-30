@@ -1,112 +1,144 @@
-# HCP1212 - A letter, love verse and dinner
+# HCP1212 – Feri to Jolánka: love verse and a dinner (17 Feb 1912)
 
-**Status: main text deciphered with disclosed source spelling variants; small address annotation unresolved.** This is a working edition, not an independently accepted complete-card solution. Work date: 2026-10-13.
+**Status: complete decipherment of all cipher text on the card, with small disclosed residual points. Review 1: ACCEPT; minor findings addressed below.**
+Portal: https://crypto.hcportal.eu/dashboard/cryptograms/1212 (status *Not solved* when captured, no transcription or solution attached). No published solution of this card was found (see NOTES.md; orchestrator AI-register check 2026-10-29: no record).
 
-## Source and method
+## Credit
 
-The HC Portal card dated 17 February 1912 was marked Not solved when acquired. All three portal tabs and both sides were inspected; no attached transcription or solution was provided. Tóth Jolánka is the addressee. The cipher sign-off spells Feri. The scans and metadata remain unchanged; SOURCES.md records their origin and hashes.
+- Setup, source capture, the key transfer from the sister cards HCP1301/HCP1243 and passes 1–5 of the reading (main text, verse, dinner clause, sign-off): OpenAI GPT solver (GPT-6 Astra / GPT-6.1 Sol), 2026-10-12/13.
+- Pass 6 (2026-10-30, Claude Opus 5.5): re-checked every row on enlarged crops, corrected three rows of the ledger (rows 12, 14, 17), flagged a possible doubled t in row 4, and read the small address-side cipher annotation (N01), which had been left unresolved. New ledger `work/as-seen-pass6.txt`, new decoder `work/decode.py`.
 
-The Hungarian text uses graphic monoalphabetic substitution. The key was transferred from HCP1301/1243 and compared directly with this card. The main ledger is manually entered from visible shapes after earlier hypotheses were known; it is not blind OCR. Colour threshold views help separate neighbouring red strokes but add no source resolution. The original scan remains the authority.
+## Cipher type and key
 
-## Hungarian editorial reading
+Hungarian **graphic monoalphabetic substitution** (one sign per letter, word spaces mostly kept, accents written as marks over the cipher signs). It is the same key as the other Tóth Jolánka cards from Feri (HCP1213, 1216, 1217, 1218, 1243, 1301).
 
-Édes Jolánkám! Becses sorait köszönettel megkaptam, melyek örömemre szolgáltak, és az alat[t]i sorokban válaszolok.
+| Sign | Letter | Sign | Letter |
+|---|---|---|---|
+| two bars `=` | a | wave `~` | l |
+| six-like loop `6` | b | three short strokes `III` | m |
+| left bowl `(` | c | two short strokes `II` | n |
+| short + long stroke | d | cursive loop | o |
+| three bars `≡` | e | tall + short stroke | p |
+| upright cross `+` | f | F-like sign | r |
+| open loop with descender | g | right bowl `)` | s |
+| two tall strokes | h | corner / gamma `Γ` | t |
+| dotted crossed curve | i | x | u |
+| inverted T `⊥` | j | chevron `ʌ` | v |
+| section-like sign `§` | k | low descender | y |
+| crossed diagonal | z | | |
 
-Kivel bizonyítsam,
-hogy téged szeretlek?
-Tanúm, ki [alkoté → alkotá?] a nagy
-mindenséget.
-Hogy csak érted élek,
-s érted szenvedek,
-és [mindenemnél?] a földön
-jobban szeretlek.
+Accents: acute / diaeresis marks above the sign (á é í ó ö ő ú ü ű). Digraphs are spelt with two signs (gy = g+y, cs = c+s, sz = s+z, ly not used – the writer writes j). h and p are near-homographs at this scan resolution; d and n differ mainly by stroke length.
 
-A vacsora elég kedélyes volt, és hogy mit ad vissza, azt nem értem. Isten vele.
+## Reproduction (one command, from the repo root)
 
-Bottom sign-off: A viszontlátásra, szeretettel, Feri.
+```sh
+python3 -I ciphers/hcp-1212/work/decode.py
+```
 
-Small address-side cipher annotation: […].
+It verifies the SHA-256 of `source/address.jpg` and `source/picture.jpg`, then decodes every row of the manual token ledger `work/as-seen-pass6.txt` (17 main rows + annotation N01). Output (also in `work/pass6-decoded.txt`):
+
+```
+01: édesjolánkámbecses
+02: soraitkösönettelmeg
+03: kaptammelyekörömemre
+04: szolgaltakésazala{t?}ti
+05: sorokbanvalaszolok.
+06: kivelbizonyitsam,
+07: hogytegedszeretlek
+08: tanum,kialkotéanagy
+09: mindenséget.
+10: hogycsakértedélek
+11: sértedszenvedek,
+12: ésmindenneleföldön
+13: jobbanszeretlek.
+14: avacsoraélégkedéjes
+15: volt,éshogymitadvissza
+16: aztnemértem,istenvele
+17: aviszontlatasraszeretetelferi
+N01: {s?}ze{r?}etetel
+```
+
+The ledger was entered by hand from the scan (not OCR, not blind: earlier readings were known). The script does not read pixels.
+
+## Hungarian text (editorial: spaces, punctuation, missing accents and `[ ]` restorations added)
+
+Édes Jolánkám! Becses sorait kös[z]önettel megkaptam, melyek örömemre [szolgáltak], és az alatti sorokban válaszolok.
+
+> Kivel bizonyítsam,
+> hogy téged szeretlek?
+> Tanúm, ki alkoté a nagy
+> mindenséget.
+> Hogy csak érted élek,
+> s érted szenvedek,
+> és mindennél e földön
+> jobban szeretlek.
+
+A vacsora elég kedélyes volt, és hogy mit ad vissza, azt nem értem. Isten vele! A viszontlátásra szeretet[t]el Feri.
+
+Address-side annotation (right of “kisasszonynak”): probably szeretet[t]el (literal `{s?}ze{r?}etetel`; signs 1 and 4 uncertain, see uncertainty 1).
 
 ## English translation
 
-My sweet Jolánka! I have received your valued lines with thanks; they gave me joy, and I reply in the lines below.
+My sweet Jolánka! I received your dear lines with thanks; they gave me joy, and I answer in the lines below.
 
-Whom shall I call upon to prove
-that I love you?
-My witness is he who [created?] the great
-universe.
-That I live only for you,
-and suffer for you,
-and love you more
-than [everything I have?] on earth.
+> By whom shall I prove
+> that I love you?
+> My witness is He who created the great
+> universe.
+> That I live only for you
+> and suffer for you,
+> and love you more
+> than anything on this earth.
 
-The dinner was quite pleasant, and I do not understand what you are giving back. Farewell.
+The dinner was quite pleasant, and as for what it/he gives back, I do not understand that. Farewell! Until we meet again, with love, Feri.
 
-Bottom sign-off: Until we meet again, with love, Feri.
+Annotation by the address: (probably) with love.
 
-Small cipher annotation beside the address: […].
+## Slovak translation
 
-## What changed and what remains uncertain
+Moja milá Jolánka! S vďakou som dostal Vaše vzácne riadky, ktoré ma potešili, a v nasledujúcich riadkoch odpovedám.
 
-All 17 main rows, including the verse, dinner statement and Feri sign-off, now have an intelligible reading. Source kivel is retained rather than changed to mivel: the next line calls the creator as witness. Alkoté and mindenemél remain disclosed source spelling variants; the suggested normalizations are qualified. The dinner phrase is ad vissza, resolved by distinguishing two bars from a neighbouring corner stroke and separating the two right bowls after i. The small address annotation remains unresolved; szeretettel and tisztelettel are only competing formula hypotheses, not established text. No complete-card completion marker or register entry is created.
+> Kým mám dokázať,
+> že ťa ľúbim?
+> Mojím svedkom je ten, kto stvoril veľký
+> vesmír.
+> Že len pre teba žijem
+> a pre teba trpím,
+> a viac než čokoľvek na tejto zemi
+> ťa ľúbim.
 
-The literal row-15 sequence after mit is A D V I ) ) Z A, decoding ad vissza. The earlier edv{?}ze resulted from including the preceding corner's top stroke when counting horizontal bars, and failing to separate two bowls. dinner-word-pass5.png makes this correction inspectable. The card does not explain what is being returned, so no object is invented in the translation.
+Večera bola dosť príjemná, a čo vracia, tomu nerozumiem. S Bohom! Do videnia, s láskou Feri.
 
-The verse's source kivel literally asks “with whom/by whom”; the English renders its witness construction. The unaccented tanum and the following ki alkoté a nagy mindenséget support the creator-as-witness reading. The source mindenemél is normalized tentatively to mindenemnél; the added n is not a seen glyph. The bottom source szeretel is normalized to szeretettel. Other editorial spacing, punctuation and accents are not claimed as separate encoded characters. Original period spelling is retained where useful.
+Poznámka pri adrese: (pravdepodobne) s láskou.
 
-The tiny annotation beside kisasszonynak has overlapping and cramped strokes. Its middle resembles zeletetel. Neither a full szeretettel nor a full tisztelettel can yet be demonstrated sign by sign. The ordinary cursive stamp note is separate from the main encrypted text and is not presented as a decoded cipher. Searches for the apparent verse found no matching published text; no candidate poem supplied missing letters.
+## Uncertainties and source spellings (all disclosed)
 
-## Working key
+1. **N01 annotation** (≈10 cramped signs under the grey portal watermark): signs 2–3 and 5–10 read clearly as z e … e t e t e l (corner+bars groups identical to the sign-off). Sign 1 is a straight hooked stroke, read as s (right bowl) by its position; sign 4 is an M-shaped cramped sign in the r position, not a clear F. The word is read as **szeretet[t]el** because the same writer spells the same word *szeretetel* in the sign-off (row 17) and on sister card HCP1218 (accepted reading “szeretet[t]el”). Literal `{s?}ze{r?}etetel` is kept in the decoder output.
+2. **Row 4 alat{t?}ti**: a small corner-like stroke is squeezed in before the final t; it may be a second t (alatti, standard) or a start stroke of the same t. Either way the word is alat(t)i “below”.
+3. **Row 3** the sign read as p (kaptam) and rows 7/10/15 h (hogy) rest on the h/p shape distinction plus language; both are unambiguous in context.
+4. **Row 4 szolgaltak**, **row 5 valaszolok**, **row 17 viszontlatasra**, **row 12 mindennel** (three equal bars, no separate accent tick): accents not written; added editorially (mindennél).
+5. **Source spellings kept literally, normalised in the edition**: *kösönettel* (köszönettel), *élég* (elég), *kedéjes* (kedélyes – ly written as j, as pronounced), *szeretetel* (szeretettel), *tanum* (tanúm), *alkoté* (alkotá / alkotta, archaic past – kept as written). *Kivel* (“by whom”) is kept; *mivel* (“with what”) would be the more expected wording, but the following lines name a witness, so kivel makes sense.
+6. **Row 15 “mit ad vissza”**: the letters are clear; the card does not say who/what gives back what (presumably a reference to Jolánka’s letter), so the translation does not invent an object.
+7. Accents over both a of Jolánkám (row 1) are visible and recorded in the ledger since review 1; other faint or missing accents (e.g. row 14 kedélyes) are supplied in the edition.
+8. Plain-hand texts on the card are **not** cipher: the stamp-corner note, written in five short lines *számta / lanszor / csókol / szeretet / tel Feri* = “számtalanszor csókol szeretettel Feri” (“kisses you countless times, with love, Feri”; corrected after review 1 – note the plain-hand *szeretettel* with tt), the address “Szépreményű Tóth Jolánka kisasszonynak, Jász-Árokszállás” and the line above the postmark, probably “Egy kis nefelejcsnek” (“To a little forget-me-not”). They are not part of the decipherment.
+9. Transcription was not blind: earlier GPT readings were known; every row was nevertheless checked on 4–10× crops in pass 6, which is how the corrections in rows 12, 14, 17 were found.
 
+## Why the solution is believed correct
 
-At this scan resolution h/p are near-homographs and sometimes require linguistic context; d/n can also differ only by stroke length. The shape names below describe tendencies, not a guaranteed visual classifier. This qualification follows the independent HCP1301 review that arrived during this batch.
+- The key is the established Jolánka/Feri key from accepted sister cards (HCP1213, 1218, 1243, 1301); no sign on this card needs a new value.
+- The whole main text (17 rows, ≈330 signs) decodes with this key to fluent, grammatical early-20th-century Hungarian with only typical phonetic misspellings (kedéjes, kösönettel, szeretetel) of the same writer.
+- The eight-line verse is metrically and grammatically coherent (rhyme szeretlek / szenvedek / szeretlek), the letter formula (Becses sorait köszönettel megkaptam … Isten vele … A viszontlátásra) matches Hungarian letter conventions of 1912, and the signature Feri matches the sister cards addressed to Tóth Jolánka in Jászárokszállás.
+- The pass-6 corrections replaced non-words of the old ledger (mindenemél, szeretel) with real words read directly from the signs (mindennél, szeretetel), which is further evidence that the key is right and the ledger now matches the pixels.
+- No published poem was found for the verse (GPT web search, NOTES.md); nothing was imported from outside.
 
-| Named graphic class | Letter |
-|---|---|
-| two-bars | a |
-| six | b |
-| left-bowl | c |
-| joined-two-strokes | d |
-| three-bars | e |
-| cross | f |
-| open-loop-descender | g |
-| two-tall-strokes | h |
-| dotted-crossed-curve | i |
-| inverted-T | j |
-| section-mark | k |
-| wave | l |
-| three-short-strokes | m |
-| two-short-strokes | n |
-| cursive-loop | o |
-| tall-short-stroke | p |
-| F | r |
-| right-bowl | s |
-| gamma | t |
-| x | u |
-| chevron | v |
-| low-descender | y |
-| crossed-diagonal | z |
-| two-bars:acute | á |
-| three-bars:acute | é |
-| dotted-crossed-curve:acute | í |
-| cursive-loop:acute | ó |
-| cursive-loop:diaeresis | ö |
-| cursive-loop:double-acute | ő |
-| x:acute | ú |
-| x:diaeresis | ü |
-| x:double-acute | ű |
+## Response to review 1
 
+Verdict ACCEPT, five minor findings. All were checked on the reviewer's enlargements (`review/work/*.png`) and on the scan; all are accepted. Ledger before the fix kept as `work/as-seen-pass6-before-review1.txt`; `python3 -I ciphers/hcp-1212/work/decode.py` re-run, hashes OK, output above and in `work/pass6-decoded.txt` updated.
 
-## Reproduction and evidence boundary
+1. **Row 12 `a földön` → `e földön` – fixed.** On `review/work/r12-efoldon.png` the sign before the upright cross has three bars of equal length (e), unlike the two-bar a. Ledger token changed A → E; edition now *és mindennél e földön*, translations "on this earth" / "na tejto zemi". Meaning unchanged.
+2. **Row 12 no visible accent on `mindennél` – fixed.** `review/work/r12b.png` shows three plain bars after the two n's, no separate tick. Ledger token E:acute → E (literal `mindennel`); the accent is now listed as editorial in uncertainty 4.
+3. **N01 qualification – fixed.** The edition line and both translations now mark the annotation as probable (signs 1 and 4 uncertain).
+4. **Stamp-corner plain-hand note – fixed.** Rechecked on `review/work/topright.png`: five lines *számta / lanszor / csókol / szeretet / tel Feri* = "számtalanszor csókol szeretettel Feri". The line above the postmark reads (probably) "Egy kis nefelejcsnek". Uncertainty 8 corrected. The plain-hand *szeretettel* supports the restoration szeretet[t]el in row 17 and N01.
+5. **Row 1 accents – fixed.** `review/work/band0.png` shows ticks over both two-bar signs of Jolánkám; recorded as A:acute in the ledger.
 
-Run from the repository root:
-
-```sh
-python3 batches/jolanka-next-five-2026-10-12/visual-ledgers/decode.py 1212
-```
-
-The command checks the address scan hash and decodes all 17 main rows, including the footer, from work/as-seen-main-pass4.txt. The current ledger name preserves its creation pass; row 15 was corrected in pass 5, and the previous version is archived separately. work/as-seen-decoded.txt stores the result. The command does not decode the tiny annotation and does not turn pixels into letters automatically. The normalized reading and translation are editorial layers above the literal output.
-
-## Review status
-
-No independent full-card acceptance is claimed. All three original source hashes were verified. The small annotation keeps this card short of a complete-card decipherment; no DONE or FINAL marker and no register entry are created. Prior hypotheses and failed readings are retained in work/ and NOTES.md.
+No change to the reading beyond `a` → `e` in row 12; the solution is otherwise unchanged.

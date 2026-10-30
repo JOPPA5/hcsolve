@@ -1,0 +1,12 @@
+# hcp-1462 full diplomatic cipher transcription (Claude Opus 5.5, 2026-10-30)
+# One physical line of the address side per row, read from source/address-large.jpg.
+# Spaces and the stray dot in line 6 are dropped; "P.S." is plain text and not part of the cipher.
+DaRlhpare
+Tiitehrhcuchssh
+Imonttishogiga
+eeignnv
+Peswieonostreal
+Iiloooorwormtsdlw
+YsaiedSr
+WntEswodotaote
+timrignnosh

@@ -1,0 +1,22 @@
+# hcp-1488 working transcription, Claude Opus 5.5, 2026-10-29 (from work/upright.jpg = source/address-large.jpg rotated)
+# Line by line. [?] = letters not readable on the 1024-px scan (watermark/band). Only firm words are given in clear.
+# Doubtful readings are in the comment lines, NOT in the decoded lines.
+L1: V gubhtug V jbhyq fraq
+# L1 note: 'jbhyq' sits on a watermark cell with an ink blot; 'fraq' end is faint (q vs g).
+L2: guvf gb gryy lbh ubj
+# L2 note: 'ubj' is small and crossed by the inner ring line; b drawn as looped l.
+L3: unccl V jnf ynfg avtug.
+# L3 note: the 't' of 'avtug' lies inside the printed ring letter O; read from shape + space.
+L4: V [?] lbh [?] [?] zber
+# L4 doubtful: word 2 looks like y-b-?-r (ybir 'love'?) or u-b-c-r (ubcr 'hope'?); after lbh a short word g?a (gra/gb?),
+# then ~1 word hidden under the dark band and printed R. Unresolved.
+L5: [?] [?] [?] [f/z]hpu nf
+# L5 doubtful: start under printed N/U/L letters ('guna'? 'bsgra'?); middle letters with descenders; 'fhpu' vs 'zhpu'
+# (such/much) undecided; last word 'nf' (as) or 'vf' (is). Unresolved.
+L6: cbffvoyr. Va fcvgr bs gur
+L7: Pncgnva'f frezba V nz
+L8: nsenvq V nz na vqbyngre
+L9: sbe V fvzcyl jbefuvc lbh qrne.
+L10: Sbaq ybir sebz
+L11: Crepl
+# L11 note: signature; 4th-5th letters merge into a flourish, 'Crepl' (Percy) is the best reading, not certain.

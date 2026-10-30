@@ -1,0 +1,14 @@
+# hcp-1465 working transcription (Claude Opus 5.5, 2026-10-29), read from source/address-large.jpg (1024x674 only).
+# Glyph labels (shape -> label): S-hook=s  angle(L-like)=e  circle-with-dot=a  slanted 8-loop/rho=r  mirrored-L hook=l
+#  box with vertical divider=b  Xi (three bars)=t  n-arch=i  cup (GOING)=i2  v=m  filled/outline parallelogram=S
+#  plus=o  box with horizontal bar=y  star=u  T-with-foot=g  hatched wedge=n  open U with tail=h  Q/2-loop=w
+#  upright 8 with dots=d  plain slanted oval (no dot)=0  digit-like 5=five  crossed 7=seven
+L1: s e a r a l b e r t .
+L2: i a m S o r r y
+L3: y o u a r e g o i2 n g
+L4: S h a l l b e d o w n
+L5: o n [Friday in plain script] h o a i n t
+L6: t o S e e y o u t h e n
+L7: five 0 0 h i l d a
+L8: seven 0 0 a t t h e — g a t e
+L9: a b o u t [1/4 plain] t o [8-900 90. plain-looking digits]

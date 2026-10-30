@@ -1,0 +1,15 @@
+# HCP 1482 - DRAFT sign transcription (Claude Opus 5.5, 2026-10-30). NOT complete, NOT verified.
+# Orientation: address side rotated 90 deg clockwise (work/enhance.py); 7 lines, read left->right,
+# top->bottom (= original columns read bottom->top, leftmost column first).
+# Labels: +  x  -  2  L(= Λ with a lead-in stroke ‿Λ)  W?(= —Λ, may be same as L)  ÷  N(= zigzag \/\)
+#   7 (hook with long tail)  Z (bar-down-foot, "7" with foot)  r (vertical with top-right hook)
+#   V  9 b (loop+stem and small b, may be one sign "%")  inf (∞)  g (loop with top bar, γ/σ)
+#   K (7 with extra bar, ㅋ)  c (faint └)  | (vertical)  8   ,/. small dots or commas   ? unreadable
+# Lines 4-6 cross the portal watermark letters Q R S T U W and are only partly readable.
+L1: + x - 2 , L ÷ N + - , 7 L - V Z r
+L2: 9 b Z 2 , inf g . L? Z K . K Z K c c +
+L3: N ÷ Z x 7 Z | x W? x 2 x .
+L4: ÷ 7 ÷ r | ? ? g - ? - inf? g? x ? N
+L5: 8 c? - g x . | ? ? V + Λ x - 8
+L6: g . r? Z 7? - V N Z r x .
+L7: r ÷ +

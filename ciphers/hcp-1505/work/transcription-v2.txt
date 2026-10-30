@@ -1,0 +1,12 @@
+# hcp-1505 ciphertext, re-read from source/address-large.jpg (Claude Opus 5.5, 2026-10-29)
+# One line per handwritten line; words separated by " / ", numbers by ".".
+# Two-digit numbers are mostly underlined on the card (not e.g. the 14 of TOMORROW); single digits are not.
+# Line 1 corrected after review 1: I / AM written as separate groups (was 18.26.14).
+# "15r" = first sign of LOVE: faded, only a 5 and the underline survive; restored as 15.
+18 / 26.14 / 20.12.18.13.20
+21.12.9 / 14.2 / 8.6.18.7 / 7.12 / 13.18.20.19.7 / 8.12
+4.18.15.15 / 13.12.7 / 19.26.5.22 / 7.18.14.22 / 7.12
+4.9.18.7.22 / 25.6.7 / 4.18.15.15 / 8.22.13.23 / 26
+15.22.7.7.22.18 / 7.12.14.12.18.18.12.4 / 19.26.5.22
+26 / 20.12.12.23 / 23.26 / 15r.12.5.22 / 7.12 / 25.12.7.19
+2.12.6.9 / 12.4.13

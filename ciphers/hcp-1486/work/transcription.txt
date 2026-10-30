@@ -1,0 +1,29 @@
+# hcp-1486 (pc_hcp_167) - own transcription by Claude Opus 5.5, 2026-10-30,
+# read from 3-7x enlargements of source/address-large.jpg (no portal transcription exists).
+# Glyphs are written in VISUAL left-to-right order, exactly as on the card.
+# "." = the dots the writer scatters between letters (nulls; dots above/below the line not recorded).
+# "|" = a visible word gap.  Plain lower-case letter = an ordinary cursive letter.
+# Bracketed tokens = word-initial flourished forms (all stand at the RIGHT end of their word,
+# i.e. they were written first in right-to-left writing):
+#   [T:x]  T-sign, form 1: long crossbar with two short legs (pi-like capital T); always t/T
+#          (think, this, Tuesday)
+#   [B:x]  form 2: long crossbar with a single 3-/z-shaped stem descending below the line;
+#          x = value read from context: b (bit, be) or h (hope).  Split from [T] after review 1.
+#   [Y:x]  looped sign with long tail (y in "you", q in "quite")
+#   [X]    crossed loop sign standing alone = the word "a"
+#   [A]    loop with descender = initial a of "are"
+#   [W]    w-forms (in "well", "with")
+#   [N]    3-shaped sign = initial n of "night"
+#   [L]    horizontal loop = initial l of "love"
+#   [S]    open loop = initial S of "Sha"
+#   [F]    looped ascender without crossbar = initial f of "fright"
+#   [D]    capital D
+#   [U]    "M"-like final u of "you"
+L1: . [U] . o . [Y:y] | . t . n . o . [D]
+L2: [X] . | s . i . h . [T:t] | . k . n . i . h . [T:t]
+L3: . t . h . g . i . r . [F] . | [X] | . f . o . | t . i . [B:b]
+L4: l l . | e . r . [A] . | [U] . o . [Y:y] . | e . p . o . [B:h]
+L5: a . h . [S] . | l . l . e . [W] . | e . t . i . u . [Y:q]
+L6: y . a . d . s . e . u . [T:T] . | n . w . o . d . | e . [B:b]
+L7: e . v . o . [L] | h . t . i . [W] . | t . h . g . i . [N]
+SIG (plain, left-to-right): S. W. A. K  Will

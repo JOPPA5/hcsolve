@@ -1,0 +1,42 @@
+# HCP 1502 - manual transcription of all Morse on source/address-large.jpg
+# (Claude Opus 5.5, 2026-10-30, read row by row on 6-14x enlarged crops).
+# One line per pen row, top to bottom. Letters are separated by spaces, words by " / ".
+# On the card: short strokes = Morse dots, long strokes = dashes, a small point = end of
+# letter, a large ink blot = end of word. "&" is a handwritten non-Morse sign (and).
+# Row label = approximate y of the row's left end in address-large.jpg (1024x674); rows slope
+# down to the right by about 30 px across the card. Text after '#' on a row is a comment
+# (added 2026-10-30 in response to review 1).
+# Block A: P.S. (top left, beside a cursive "P.S.")
+A050: ... .- ...- . /
+A064: -- . / --- -. . /
+A081: ..-. --- .-. /
+A100: ... ..- -. -..
+A117: .- -.-- / .. /
+A135: .- -- / .-. . .- -.. -.-- /  # M: second dash x121-148 has a tiny pen-lift gap near x132; read as one dash
+A151: ..-. --- .-. / --- -. . /
+A167: -. --- .-- / -. . .-.. .-.. /
+# Block B: main letter (below the printed "This space may be used for communication")
+B222: -.. . .- .-. / -. . .-.. .-.. /  # no visible letter-end point between E and L (cursive '1' of the date covers x381-388); 2nd L starts with a heavy dot on the printed line (x455)
+B235: .--- ..- ... - / .- / .-..
+B249: .. -. . / .- ... / ..- ... ..-
+B265: .- .-.. / .... --- .--. . /
+B280: -.-- --- ..- / .- .-. . /
+B299: -. --- - / -.- .. .-..
+B316: .-.. .. -. --. / -.--
+B333: --- ..- .-. ... . .-.. ..-. /
+B353: - .... .. ... / .-- . . -.- /
+B375: .. - ... / --. .-. .- -. -.. /  # I = two long dots (16 and 19 px), shorter than the T dash after them
+B395: .-- . .- - .... . .-. /
+B414: ..-. --- .-. / - .... . /
+B438: .--- --- -... / .-- . .-.. .-.. /
+B458: ... .-- . . - .... . .- .-. - /
+B481: .. -- / .-.. --- -. --. .. -. --. /
+B503: ..-. --- .-. / ... ..- -. -.. .- -.-- /
+B521: .. - / ... . . -- ... / ... ..- -.-. .... /
+B539: .- / .-.. --- -. --. / .-- . . -.- /
+B557: .-- . .-.. .-.. / ... --- / .-.. --- -. --. /
+B576: -.. . .- .-. . ... - / - .. .-.. .-.. / .. / ... . . /
+B593: -.-- --- ..- / .-- .. - .... / .- .-.. .-.. /  # right half lies at y 620-640; heavy first dot of the second L of ALL (x693-702) is a dot, not a word blot
+B607: -- -.-- / .-.. --- ...- . / & / -.- .. ... ... . ... /  # right half lies at y 620-640; K dot is a point-sized mark (x637-640); '&' is handwritten, not Morse
+B619: -.-- --- ..- .-. ... /
+B632: --. . --- .-. --. .. /  # faint ink; first dash of G about 20 px; a word-end blot follows the final .. at x400-407 (GEORGI complete)

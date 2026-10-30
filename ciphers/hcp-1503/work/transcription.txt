@@ -1,0 +1,28 @@
+# HCP 1503 (pc_hcp_184), address side, manual Morse transcription.
+# Transcribed by Claude Opus 5.5 on 2026-10-29/30 from enlarged crops of
+# source/address-large.jpg (no transcription is attached on the portal).
+#
+# Writing convention on the card: every Morse element is an ink blob;
+# a blob with a tall upward tail = dash (-), a blob with no or a short tail = dot (.).
+# After each letter the writer puts a small slanted comma-like stroke below the
+# line (letter separator). Here letters are separated by a space, words by " / ".
+# Numbers in the comments are approximate x pixel positions in address-large.jpg.
+#
+# Special tokens:
+#   (.)  an isolated, very small round dot that is not read as a letter
+#   ~    a horizontal pen flourish (dash-like line) used as punctuation
+#
+# Card line labels: HD = heading, A..L = the 12 body lines, top to bottom.
+HD: -- --- -. -.. .- -.--
+A: ... .-- . . - .... . .- .-. - / (.) / .-- .. ..-. .. .
+B: .-- --- .-. -.- / .-- . -. - / -.. --- .-- -. / .-. .- - .... . .-.
+C: ..-. .-.. .- - / - --- -.. .- -.-- / .. / .- --
+D: -.. .-. . .- -.. ..-. ..- .-.. .-.. -.-- / - .. .-. . -.. / - ---
+E: -. .. --. .... - / .. ...- . / -... . . -. / ... . - - .. -. --.
+F: -... ..- - - --- -. ... / --- -. / ... --- / .- ... / - ---
+G: -- .- -.- . / -- -.-- / -.-. .-.. --- - .... . ...
+H: .... .- -. --. / --- -. / .... --- .-- / ... .... --- ..- .-.. -..
+I: -.-- --- ..- / .-.. .. -.- . / - .... .- - / .--- --- -...
+J: .. / .- -- / .- / .-.. --- ...- . ... .. -.-. -.- / -.-. --- --- -.
+K: .-- --- .-. ... . / - .... .- -. / . ...- . .-. / .. / .-- .- ...
+L: -... . ..-. --- .-. . / ~ / -.-. ..- -.-. -.- --- ---

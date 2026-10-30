@@ -1,0 +1,13 @@
+# hcp-1500 (pc_hcp_181) working transcription, Claude Opus 5.5, 2026-10-30
+# Read from source/address-large.jpg rotated 90 deg CCW (work/rot.png), 3x crops work/msg3x.png, z1..z4.png
+# Line breaks as on card; "-" = dash written between groups; "?" marks are written on the card.
+abc - ly; - xuder
+comde - 13guf.?
+h - lz - kncv -
+13g4hs - Pne.
+pnvvx cn -
+Sincely,
+mn'yo.
+# Doubtful signs: "comde" 3rd sign m/n/w; "13guf": u small (u/v), f with hooked top (f/j);
+# "g" in 13g.. has long looped descender (g, not 9); "Sincely" may be plain "Sincerely" misspelt;
+# "mn'yo" (signature?) apostrophe-like tick after n.

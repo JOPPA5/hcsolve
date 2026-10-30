@@ -1,0 +1,16 @@
+# HCP 55 (= same physical card as HCP 1487), manual glyph transcription.
+# Claude Opus 5.5, 2026-10-30, read from 5-12x enlargements of
+# source/postcard-large.jpg. Builds on the sign inventory of
+# ciphers/hcp-1487/work/transcription.txt, with the H-family and the
+# bar-with-dots signs split by the number of inner strokes / dots.
+# Tokens separated by spaces; "," and "." are written on the card;
+# [HIDDEN] = pencil signs under the black postmark (about 4-5 signs).
+R0: EYE H1 .
+R1: CROSSO H1 ZIG BOXX , DOTUP BARR [HIDDEN] XLOOP
+R2: BARR CAP BOXX , H3 CUP HX ,
+R3: BAR BARL BAR BARR CAP , CUPBAR CUP BOX ,
+R4: BARR , BAR CROSSO OLINE CAPBAR BAR OIN BARR CAP VEE
+R5: CUP CAP , P.M. BOXX BOX BAR BARR CAP
+R6: CUPBAR CUP BOXMID , BARL PBOX CAPBAR H2 DIV CIRC H1 BOX BOXX ,
+R7: XARC BARR OLINE OLINE , XARC BOX BARR BOXX CAPBAR
+R8: BOXDOT CUP OSLASH , BOXX NEQ CAPBAR PBOX CAPBAR . H

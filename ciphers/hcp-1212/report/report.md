@@ -1,123 +1,160 @@
-# HCP1212 - A letter, love verse and dinner
+# HCP 1212 (cpc_1912-02-17_HU__HU_Jasz Arokszalas_jolanka-05): Feri to Jolánka, a love verse and a dinner
 
-**Status: main text deciphered with disclosed source spelling variants; small address annotation unresolved.** This is a working edition, not an independently accepted complete-card solution. Work date: 2026-10-13.
+Human solver: Tomáš Pavuk
 
-## Source and method
+**Status: all cipher text on the card deciphered (17 main rows and one short address-side annotation); independent review 1 verdict ACCEPT, with one letter corrected afterwards (row 12, *a* → *e*).** Report dated 2026-10-29.
 
-The HC Portal card dated 17 February 1912 was marked Not solved when acquired. All three portal tabs and both sides were inspected; no attached transcription or solution was provided. Tóth Jolánka is the addressee. The cipher sign-off spells Feri. The scans and metadata remain unchanged; SOURCES.md records their origin and hashes.
+## Origin and context
 
-The Hungarian text uses graphic monoalphabetic substitution. The key was transferred from HCP1301/1243 and compared directly with this card. The main ledger is manually entered from visible shapes after earlier hypotheses were known; it is not blind OCR. Colour threshold views help separate neighbouring red strokes but add no source resolution. The original scan remains the authority.
+The cryptogram is record 1212 of the HC Portal (https://crypto.hcportal.eu/dashboard/cryptograms/1212), portal name cpc_1912-02-17_HU__HU_Jasz Arokszalas_jolanka-05, from Tobias Schrödel's collection of cryptographic postcards (private collection). When it was captured on 2026-10-12 the portal listed it as **Not solved**, tagged Postcard and T. Schrödel Collection, category Substitution, date 1912-02-17, language Unknown, recipient Tóth Jolánka, sender Unknown, with no transcription or solution attached.
 
-## Hungarian editorial reading
+The picture side is a tinted photographic card of a young couple embracing at a window with roses, above a black field with flying swallows; it carries no handwriting. The address side is written in red ink. The left half holds seventeen rows of cipher signs; the right half carries the plain-hand address **Szépreményű Tóth Jolánka kisasszonynak, Jász-Árokszállás** ("To the promising Miss Jolánka Tóth, Jászárokszállás", Hungary), a JÁSZÁROKSZÁLLÁS postmark dated **1912 FEB 17**, a second partly legible postmark (probably GYÖNGYÖS), and two short plain-hand notes: above the postmark, probably *"Egy kis nefelejcsnek"* ("To a little forget-me-not"), and in the stamp corner, in five short lines, *"számtalanszor csókol szeretettel Feri"* ("kisses you countless times, with love, Feri"). Right of "kisasszonynak" there is one more short group of cipher signs (called N01 below).
 
-Édes Jolánkám! Becses sorait köszönettel megkaptam, melyek örömemre szolgáltak, és az alat[t]i sorokban válaszolok.
+The card belongs to a family of cipher postcards from a young man signing himself **Feri** to Jolánka Tóth in Jászárokszállás, all in the same hand and the same graphic cipher. Several are deciphered in this repository (for example HCP 1213, 1216, 1217, 1218, 1243 and 1301). The key was transferred from those cards; this is not a new key recovery. No published reading of this card was found.
 
-Kivel bizonyítsam,
-hogy téged szeretlek?
-Tanúm, ki [alkoté → alkotá?] a nagy
-mindenséget.
-Hogy csak érted élek,
-s érted szenvedek,
-és [mindenemnél?] a földön
-jobban szeretlek.
+![Address side with the seventeen cipher rows on the left, the address and postmarks on the right (source/address.jpg)](../source/address.jpg)
 
-A vacsora elég kedélyes volt, és hogy mit ad vissza, azt nem értem. Isten vele.
+![Picture side, printed image only (source/picture.jpg)](../source/picture.jpg)
 
-Bottom sign-off: A viszontlátásra, szeretettel, Feri.
+## Method
 
-Small address-side cipher annotation: […].
+The transcription is **manual**. The scan of the address side was enlarged row by row (4–10×) and every sign was entered by hand as a shape token (two bars, three bars, corner, wave, inverted T, …) into a ledger, one line per row, plus one line for N01. A short script checks the SHA-256 of both source scans and maps the tokens to letters with the family key. No OCR was used, and the transcription is not blind: earlier readings were known while it was revised.
+
+The work went through several passes. Passes 1–5 (2026-10-12/13) were done by an OpenAI GPT solver (GPT-6 Astra / GPT-6.1 Sol): capture of the portal record, key transfer from the sister cards and a reading of most of the text. Pass 6 by Claude Opus 5.5 re-checked every row on enlargements. It corrected three rows: row 12 *mindennel* instead of the non-word *mindenemél*, row 14 *kedéjes* (an inverted T, j) and row 17 *szeretetel* (two corner+bars groups). It also read the address-side annotation N01, which had been left open. After review 1 two more tokens in row 12 and the accents in row 1 were corrected (see the review summary).
+
+## Key
+
+Hungarian **graphic monoalphabetic substitution**: one sign per letter, word spaces mostly kept, accents written as ticks or dots above the sign. Digraphs are written with two signs (gy, cs, sz). The writer spells *ly* as *j*, as it is pronounced.
+
+| Sign | Letter | Sign | Letter |
+|---|---|---|---|
+| two bars `=` | a | wave `~` | l |
+| six-like loop `6` | b | three short strokes `III` | m |
+| left bowl `(` | c | two short strokes `II` | n |
+| short + long stroke | d | cursive loop | o |
+| three bars `≡` | e | tall + short stroke | p |
+| upright cross `+` | f | F-like sign | r |
+| open loop with descender | g | right bowl `)` | s |
+| two tall strokes | h | corner / gamma `Γ` | t |
+| dotted crossed curve | i | x | u |
+| inverted T `⊥` | j | chevron `ʌ` | v |
+| section-like sign `§` | k | low descender | y |
+| crossed diagonal | z | | |
+
+At this resolution h and p are near-homographs and d and n differ mainly by stroke length; context settles every case on this card. No sign on the card needs a value outside this key.
+
+## Reproduction
+
+From the repository root:
+
+```sh
+python3 -I ciphers/hcp-1212/work/decode.py
+```
+
+The script checks the hashes of both scans and decodes the ledger `work/as-seen-pass6.txt`. Its output is the literal plaintext (`{x?}` marks an uncertain sign):
+
+```text
+01: édesjolánkámbecses
+02: soraitkösönettelmeg
+03: kaptammelyekörömemre
+04: szolgaltakésazala{t?}ti
+05: sorokbanvalaszolok.
+06: kivelbizonyitsam,
+07: hogytegedszeretlek
+08: tanum,kialkotéanagy
+09: mindenséget.
+10: hogycsakértedélek
+11: sértedszenvedek,
+12: ésmindenneleföldön
+13: jobbanszeretlek.
+14: avacsoraélégkedéjes
+15: volt,éshogymitadvissza
+16: aztnemértem,istenvele
+17: aviszontlatasraszeretetelferi
+N01: {s?}ze{r?}etetel
+```
+
+## Plaintext (Hungarian, editorial)
+
+Spaces, punctuation, missing accents and `[ ]` restorations are editorial.
+
+Édes Jolánkám! Becses sorait kös[z]önettel megkaptam, melyek örömemre [szolgáltak], és az alatti sorokban válaszolok.
+
+> Kivel bizonyítsam,
+> hogy téged szeretlek?
+> Tanúm, ki alkoté a nagy
+> mindenséget.
+> Hogy csak érted élek,
+> s érted szenvedek,
+> és mindennél e földön
+> jobban szeretlek.
+
+A vacsora elég kedélyes volt, és hogy mit ad vissza, azt nem értem. Isten vele! A viszontlátásra szeretet[t]el Feri.
+
+Address-side annotation: probably *szeretet[t]el* ("with love").
 
 ## English translation
 
-My sweet Jolánka! I have received your valued lines with thanks; they gave me joy, and I reply in the lines below.
+My sweet Jolánka! I received your dear lines with thanks; they gave me joy, and I answer in the lines below.
 
-Whom shall I call upon to prove
-that I love you?
-My witness is he who [created?] the great
-universe.
-That I live only for you,
-and suffer for you,
-and love you more
-than [everything I have?] on earth.
+> By whom shall I prove
+> that I love you?
+> My witness is He who created the great
+> universe.
+> That I live only for you
+> and suffer for you,
+> and love you more
+> than anything on this earth.
 
-The dinner was quite pleasant, and I do not understand what you are giving back. Farewell.
+The dinner was quite pleasant, and as for what it/he gives back, I do not understand that. Farewell! Until we meet again, with love, Feri.
 
-Bottom sign-off: Until we meet again, with love, Feri.
+Annotation by the address: (probably) with love.
 
-Small cipher annotation beside the address: […].
+## Slovak translation
 
-## What changed and what remains uncertain
+Moja milá Jolánka! S vďakou som dostal Vaše vzácne riadky, ktoré ma potešili, a v nasledujúcich riadkoch odpovedám.
 
-All 17 main rows, including the verse, dinner statement and Feri sign-off, now have an intelligible reading. Source kivel is retained rather than changed to mivel: the next line calls the creator as witness. Alkoté and mindenemél remain disclosed source spelling variants; the suggested normalizations are qualified. The dinner phrase is ad vissza, resolved by distinguishing two bars from a neighbouring corner stroke and separating the two right bowls after i. The small address annotation remains unresolved; szeretettel and tisztelettel are only competing formula hypotheses, not established text. No complete-card completion marker or register entry is created.
+> Kým mám dokázať,
+> že ťa ľúbim?
+> Mojím svedkom je ten, kto stvoril veľký
+> vesmír.
+> Že len pre teba žijem
+> a pre teba trpím,
+> a viac než čokoľvek na tejto zemi
+> ťa ľúbim.
 
-The literal row-15 sequence after mit is A D V I ) ) Z A, decoding ad vissza. The earlier edv{?}ze resulted from including the preceding corner's top stroke when counting horizontal bars, and failing to separate two bowls. dinner-word-pass5.png makes this correction inspectable. The card does not explain what is being returned, so no object is invented in the translation.
+Večera bola dosť príjemná, a čo vracia, tomu nerozumiem. S Bohom! Do videnia, s láskou Feri.
 
-The verse's source kivel literally asks “with whom/by whom”; the English renders its witness construction. The unaccented tanum and the following ki alkoté a nagy mindenséget support the creator-as-witness reading. The source mindenemél is normalized tentatively to mindenemnél; the added n is not a seen glyph. The bottom source szeretel is normalized to szeretettel. Other editorial spacing, punctuation and accents are not claimed as separate encoded characters. Original period spelling is retained where useful.
+Poznámka pri adrese: (pravdepodobne) s láskou.
 
-The tiny annotation beside kisasszonynak has overlapping and cramped strokes. Its middle resembles zeletetel. Neither a full szeretettel nor a full tisztelettel can yet be demonstrated sign by sign. The ordinary cursive stamp note is separate from the main encrypted text and is not presented as a decoded cipher. Searches for the apparent verse found no matching published text; no candidate poem supplied missing letters.
+## Uncertainties
 
-## Working key
+1. **N01 annotation.** About ten cramped signs under the portal watermark. Signs 2–3 and 5–10 read clearly as z e … e t e t e l. Sign 1 is a single hooked stroke without the bowl of this writer's s, and sign 4 is an M-shaped sign in the place of r. The reading *szeretet[t]el* rests on the sign-off of this card, on HCP 1218, and on the plain-hand *szeretettel* in the stamp corner. It is probable, not certain.
+2. **Row 4 *ala{t?}ti*.** A small cramped stroke before the final t may be a second t or a false start. The word is *alatti* "below" either way.
+3. **Row 12 *mindennél*.** The sign after the two n's is three plain bars with no accent tick, so the literal reading is *mindennel*; the accent is editorial.
+4. **Missing accents** in *szolgaltak*, *valaszolok*, *viszontlatasra* and others are supplied in the edition.
+5. **Source spellings kept literally:** *kösönettel* (köszönettel), *élég* (elég), *kedéjes* (kedélyes), *szeretetel* (szeretettel), *tanum* (tanúm), *alkoté* (archaic past, "created"). *Kivel* ("by whom") is kept as written.
+6. **Row 15 "mit ad vissza"** ("what it/he gives back"): the letters are clear, but the card does not say what is meant; the translation does not invent an object.
+7. **Bottom edge.** The lowest row is partly clipped by the scan; the reading of *viszontlátásra* and *Feri* relies on the upper halves of the signs and the formula. Only the 1024-pixel portal image is available.
+8. The plain-hand notes (address, stamp-corner note, the line above the postmark and a short line under the address) are not cipher and are not part of the decipherment; the line above the postmark is a probable reading only.
 
+## Review summary
 
-At this scan resolution h/p are near-homographs and sometimes require linguistic context; d/n can also differ only by stroke length. The shape names below describe tendencies, not a guaranteed visual classifier. This qualification follows the independent HCP1301 review that arrived during this batch.
+Reviewer: a separate Claude Opus 5.5 agent, round 1, verdict **ACCEPT**. The reviewer ran the reproduction command (hashes matched, output identical to the solver's), compared the key with the accepted sister card HCP 1301 (all 23 sign classes agree), read every row and N01 from its own enlargements, wrote its own ledger with its own sign names and decoded it with its own script. Its reading agreed sign for sign except for accents in row 1 and two signs in row 12. It confirmed the pass-6 corrections in rows 12, 14 and 17 on the pixels and judged the text fluent Hungarian of 1912 that fits the postmark, the addressee and the sister cards. Its five minor findings were all accepted:
 
-| Named graphic class | Letter |
-|---|---|
-| two-bars | a |
-| six | b |
-| left-bowl | c |
-| joined-two-strokes | d |
-| three-bars | e |
-| cross | f |
-| open-loop-descender | g |
-| two-tall-strokes | h |
-| dotted-crossed-curve | i |
-| inverted-T | j |
-| section-mark | k |
-| wave | l |
-| three-short-strokes | m |
-| two-short-strokes | n |
-| cursive-loop | o |
-| tall-short-stroke | p |
-| F | r |
-| right-bowl | s |
-| gamma | t |
-| x | u |
-| chevron | v |
-| low-descender | y |
-| crossed-diagonal | z |
-| two-bars:acute | á |
-| three-bars:acute | é |
-| dotted-crossed-curve:acute | í |
-| cursive-loop:acute | ó |
-| cursive-loop:diaeresis | ö |
-| cursive-loop:double-acute | ő |
-| x:acute | ú |
-| x:diaeresis | ü |
-| x:double-acute | ű |
+- **Row 12 *a földön* → *e földön*.** The sign before *földön* has three bars (e), not two (a). Fixed in the ledger; the edition now reads *és mindennél e földön* ("on this earth"). The meaning hardly changes.
+- **Row 12 accent.** No accent tick is visible on *mindennel*; the accent of *mindennél* is now marked as editorial.
+- **N01 qualification.** The annotation is now presented as a probable reading everywhere.
+- **Stamp-corner note.** The plain-hand note was misread earlier as "… szerető[d] Feri"; it reads *számtalanszor csókol szeretettel Feri*, and the line above the postmark probably reads *Egy kis nefelejcsnek*.
+- **Row 1 accents.** The accents over both a of *Jolánkám* are now recorded in the ledger.
 
+The reviewer could not resolve the row-4 extra stroke or N01 signs 1 and 4 at this resolution, and did not search the literature beyond what is recorded here. The response to review, this report and the register entry were prepared by Claude Opus 5.5.
 
-## Reproduction and evidence boundary
+## Sources
 
-Run from the repository root:
-
-```sh
-python3 batches/jolanka-next-five-2026-10-12/visual-ledgers/decode.py 1212
-```
-
-The command checks the address scan hash and decodes all 17 main rows, including the footer, from work/as-seen-main-pass4.txt. The current ledger name preserves its creation pass; row 15 was corrected in pass 5, and the previous version is archived separately. work/as-seen-decoded.txt stores the result. The command does not decode the tiny annotation and does not turn pixels into letters automatically. The normalized reading and translation are editorial layers above the literal output.
-
-## Review status
-
-No independent full-card acceptance is claimed. All three original source hashes were verified. The small annotation keeps this card short of a complete-card decipherment; no DONE or FINAL marker and no register entry are created. Prior hypotheses and failed readings are retained in work/ and NOTES.md.
-
-## Archived source provenance
-
-# HCP1212 sources
-
-Captured 2026-10-12 through the rendered portal General, Description and Attachments tabs. Status: **Not solved**.
-
-Portal: https://crypto.hcportal.eu/dashboard/cryptograms/1212
-
-- picture.jpg: https://api.hcportal.eu/media/3696/conversions/cpc_1912-02-17_HU__HU_Jasz-Arokszalas_jolanka-05_pic-large.jpg ; SHA256 0c95ace98b42e67e140e2cfa819b71fdc94443d3f46c1becb49f0da9e5ddb85c
-- address.jpg: https://api.hcportal.eu/media/3697/conversions/cpc_1912-02-17_HU__HU_Jasz-Arokszalas_jolanka-05_adr-large.jpg ; SHA256 1eb57dcfe494a694a0de4e9b44ea1289e2edc7031052b0f25f6d7e6b88ab0a0d
+- HC Portal record 1212, General, Description and Attachments tabs, captured 2026-10-12: https://crypto.hcportal.eu/dashboard/cryptograms/1212 (source/metadata.md).
+- Picture side: https://api.hcportal.eu/media/3696/conversions/cpc_1912-02-17_HU__HU_Jasz-Arokszalas_jolanka-05_pic-large.jpg (source/picture.jpg).
+- Address side: https://api.hcportal.eu/media/3697/conversions/cpc_1912-02-17_HU__HU_Jasz-Arokszalas_jolanka-05_adr-large.jpg (source/address.jpg).
+- Family key: sister cards in this repository, ciphers/hcp-1301 and ciphers/hcp-1243.
+- Portal reference article (not read): https://ecp.ep.liu.se/index.php/histocrypt/article/view/166
+- AI Decipherment Register (https://ai.hcportal.eu/register/), checked 2026-10-29: no record for this card.

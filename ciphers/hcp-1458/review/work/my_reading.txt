@@ -1,0 +1,9 @@
+# Reviewer's own stroke reading (T=tall, s=short), from 4-7x crops r*.png, Pa/Pb*.png
+P: sTss TTT sssT s / TT TTT sTss sTss ss s /
+B1: sT sTs s / TsTT TTT ssT /
+B2: TTs TTT ss Ts TTs / T TTT /
+B3: TsTs sT sTs Tss ss ssTs /
+B4: Ts s TssT T / TT TTT Ts T ssss /
+B5: T TTT / ssss s sT sTs / T ssss ss sss /
+B6: TTs s Ts T /
+B7: TTssTT /

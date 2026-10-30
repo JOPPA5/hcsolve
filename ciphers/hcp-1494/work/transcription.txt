@@ -1,0 +1,11 @@
+2 eps 1 R [2|5]
+7 pct / 7 hash / 1 / 5 0 6 plus / pct 7 q eps / 1 plus 0
+{since} / 7 / 8 eps 1 R 2 / eq R 0 q
+minus 0 u / 8 1 V eps / minus 0 u / eq 0 R plus plus 0 pct pct
+eps 6 / q eps / 1 5 5 pct 0 plus eps pct 8 eps R
+{I am still at my old place}
+{and} / W 0 R 4 7 6 plus / eps V eps R minus / 2 1 minus
+5 eps pct / q eps / 8 eps 1 R / eq R 0 q / minus 0 u
+7 eq / minus 0 u / W 1 6 pct pct q
+{715 Hunter St.}
+C 5 1 R eps 6 C eps

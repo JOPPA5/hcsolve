@@ -1,0 +1,19 @@
+# hcp-1513 transcription (Claude Opus 5.5, 2026-10-30), read from source/address-large.jpg at 5-12x.
+# One cipher word per space-separated group; signs joined by '.'; punctuation as separate tokens , . :-
+# '#2' = the numeral 2 written in clear. '[plus]' = sign written above the line as an insertion.
+# Body, left half of the address side, lines 1-9
+eight.ex.plus.LN , plus.nsq.nsq.plus :-
+sq.o.hg , cap.o.zbar.LN , revC.plus.LN.eight ,
+five.plus.hg.zbar.LN.eight.plus.cap . hg.tri.plus.nsq.div , cap.o.zbar .
+one , ow.ex.nsq.hg , zbar.box3 , hg.o , plus.five.hg.o.LN.one.plus ,
+five.plus.hg.zbar.LN.eight.plus.cap , plus.gamma.hg.ex.LN.nsq.o.o.nsq ,
+plus.nsq.eight , gamma.LN.o.lam , hg.tri.ex.LN.ex , ow.ex.nsq.hg ,
+tri.o.lam.ex , sq.o.hg , minus.plus.revC.div tri.ex.LN.ex , plus.hg , #2 , box3 . lam .
+cap.ex.five.hg.ex.LN.eight.plus.cap , plus.nsq.eight , plus.gamma.hg.ex.LN , hg.tri.plus.hg ,
+one , ow.ex.nsq.hg , eight.o.ow.nsq , hg.o , hg.tri.ex , vee.plus.div.ex , hg.o , ow.plus.hg.revC.tri , minus.plus.vee.vee , sq.plus.lam.ex ,
+# Margin, upper left, rotated ~120 degrees (5 short lines)
+one , eight.LN.ex.[plus].lam.hg ,
+plus.minus.o.zbar.hg , cap.o.zbar ,
+vee.plus.five.hg , nsq.one.sq.tri.hg ,
+ow.one.hg.tri , vee.o.phi.ex .
+plus.nsq.hg.o.nsq .

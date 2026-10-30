@@ -1,0 +1,4 @@
+# hcp-1475 address side, left margin, written bottom-to-top (read after rotating the card 90 deg counter-clockwise).
+# Transcribed by Claude Opus 5.5 on 2026-10-30 from source/address-large.jpg (enlarged 4-8x).
+# One line, nine capital letters, no spaces, final full stop.
+ILMWAMWLM.

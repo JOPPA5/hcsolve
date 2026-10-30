@@ -1,0 +1,17 @@
+# HCP 1457, address side, stroke cipher = Morse code written as strokes.
+# Read by Claude Opus 5.5 on 2026-10-30 from enlarged crops (work/crops/*).
+# Convention: tall stroke = dash (-), short stroke = dot (.).
+#   Joined shapes are split into their strokes: check sign (short down + tall up) = ".-";
+#   lambda-like sign (tall + short at right foot) = "-."; short + tall + short = ".-." etc.
+# One token per letter group as seen on the card; "/" = word gap; "|" = end of line;
+# "STOP" = a slanted dash followed by a dot, used as a full stop (not a Morse letter).
+# Lines are numbered as on the card (9 lines). Comments after "#" are ignored.
+L1: .- -- / ... --- .-. .-. -.-- / -.-- --- ..-
+L2: .... .- -.. / ... ..- -.-. .... / .- / ..-. .. -
+L3: --- ..-. / - .... . / --. .-. ..- -- -... .-.. . ...
+L4: .... --- .--. . / -... . - - . .-. / -. --- .-- STOP
+L5: -- -.-- / -.-. --- .-.. -.. / .-. .- - .... . .-.
+L6: -... .- -.. / - --- -.. .- -.-- / -. .- ... - -.--
+L7: -.-. --- ..- --. .... STOP
+L8: .... . .- .--. ... / --- ..-. / .-.. --- ...- .
+L9: .. .-.. .-.. .. . STOP
