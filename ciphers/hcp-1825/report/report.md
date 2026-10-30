@@ -1,5 +1,7 @@
 # HCP 1825: a Pigpen postcard signed Mary
 
+Human solver: Tomáš Pavuk
+
 ## Origin and context
 
 HC Portal record **1825**, catalogue name **pc_hcp_506**, preserves two

@@ -1,5 +1,7 @@
 # HCP 1492: a numeric greeting from Flossie
 
+Human solver: Tomáš Pavuk
+
 ## Origin and scope
 
 HC Portal catalogues this postcard as pc_hcp_173 (portal 1492), dated 11 June 1911, Europe, private collection, sender Flossie and recipient J. Stalland. General, Description and Attachments were read in the rendered portal on 26 October 2026. The portal then showed Not solved and supplied no transcription or solution. Both original scans and captured metadata remain preserved in source/.

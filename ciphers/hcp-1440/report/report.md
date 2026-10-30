@@ -1,5 +1,7 @@
 # HCP 1440 (pc_hcp_121): a Good Friday Pigpen tease to Ray Bartley
 
+Human solver: Tomáš Pavuk
+
 **Status: deciphered in full; independent review 1 verdict ACCEPT.** Report dated 2026-10-26.
 
 ## Origin and context

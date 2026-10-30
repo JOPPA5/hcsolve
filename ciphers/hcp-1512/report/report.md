@@ -1,5 +1,7 @@
 # HCP 1512 - A holiday postcard to E. Barnard
 
+Human solver: Tomáš Pavuk
+
 **Portal name:** pc_hcp_193. **Method:** monoalphabetic substitution.
 **Solver:** OpenAI GPT. **Independent review:** Claude Opus 5.5.
 

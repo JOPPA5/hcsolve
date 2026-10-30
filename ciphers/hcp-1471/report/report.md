@@ -1,5 +1,7 @@
 # HCP 1471 (pc_hcp_152): a shift-by-one postcard question, "Are we downhearted?"
 
+Human solver: Tomáš Pavuk
+
 **Status: deciphered in full; independent review 1 verdict ACCEPT.** Report dated 2026-10-26.
 
 ## Origin and context

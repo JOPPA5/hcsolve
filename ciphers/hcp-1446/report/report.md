@@ -1,5 +1,7 @@
 # HCP 1446 (pc_hcp_127): a Caesar-shifted thank-you postcard to Nayland
 
+Human solver: Tomáš Pavuk
+
 **Status: deciphered in full; independent review 1 verdict ACCEPT.** Report dated 2026-10-26.
 
 ## Origin and context

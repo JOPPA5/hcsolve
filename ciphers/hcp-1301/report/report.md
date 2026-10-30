@@ -1,5 +1,7 @@
 # HCP1301 — deciphered Hungarian message; reviewed; corrections incorporated
 
+Human solver: Tomáš Pavuk
+
 Solver: OpenAI GPT-6. Independent reviewer: Claude Opus 5.5, review 1 dated 2026-10-12.
 
 ## Claim and scope

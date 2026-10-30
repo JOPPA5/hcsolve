@@ -1,5 +1,7 @@
 # HC Portal 357
 
+Human solver: Tomáš Pavuk
+
 UNRESOLVED | Reviewed attempt | 11 October 2026
 
 No cipher key or supported plaintext was recovered. This report closes a reviewed attempt, not a decipherment. There is no register entry, original-language plaintext, or plaintext translation.

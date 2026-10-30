@@ -1,5 +1,7 @@
 # HCP1243 — full main-message reading, with marked handwriting uncertainties
 
+Human solver: Tomáš Pavuk
+
 ## Claim
 Hungarian monoalphabetic graphic substitution, using the same alphabet as HCP1301. The complete main text is now read, including the lower love verse and final instruction. One overwritten letter and the cramped last line remain paleographically uncertain; normalized spellings must not be confused with additional visible cipher signs. Independent review confirms the main-message reading; qualifications below incorporate its findings.
 

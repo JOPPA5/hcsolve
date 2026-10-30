@@ -1,5 +1,7 @@
 # HCP 1450 (pc_hcp_131): a dotted Pigpen postcard from Warrenton to Emma Alwin
 
+Human solver: Tomáš Pavuk
+
 **Status: deciphered in full; independent review 1 verdict ACCEPT.** Report dated 2026-10-26.
 
 ## Origin and context

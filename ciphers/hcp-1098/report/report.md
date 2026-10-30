@@ -1,5 +1,7 @@
 # HC Portal 1098 — A1Z26 numerical postcard
 
+Human solver: Tomáš Pavuk
+
 **The complete declared transcription decodes as English under A=1, B=2, …, Z=26.** All 312 numerical positions decode and re-encode exactly. The full text is coherent personal correspondence about a Saturday visit, trains and dressmaking. Several cleartext spans are preserved unchanged. Claude Opus 5.5 independently accepted the complete reading in REVIEW1.
 
 ## Source and key

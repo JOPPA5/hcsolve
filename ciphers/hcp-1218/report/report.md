@@ -1,5 +1,7 @@
 # HCP1218 - Sunday and a masons’ dance
 
+Human solver: Tomáš Pavuk
+
 **Status: accepted in independent review 2; complete main-message decipherment. Final edition, 2026-10-14.** Local glyph and editorial uncertainties remain disclosed below.
 
 ## Source and method

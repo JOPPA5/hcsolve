@@ -1,5 +1,7 @@
 # HCP 1187 - Pigpen love letter, corrected after review 1
 
+Human solver: Tomáš Pavuk
+
 ## Origin and scope
 
 The HC Portal catalogue identifies this postcard as

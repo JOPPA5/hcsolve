@@ -1,5 +1,7 @@
 # HCP 1189 (cpc_--_USA_Hanford_USA_Hanford, California_): a dotted Pigpen postcard to Velma
 
+Human solver: Tomáš Pavuk
+
 **Status: deciphered in full; independent review 1 verdict ACCEPT.** Report dated 2026-10-26.
 
 ## Origin and context

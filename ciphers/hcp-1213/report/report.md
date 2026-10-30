@@ -1,5 +1,7 @@
 # HCP1213 - Easter greetings and moving into Pest
 
+Human solver: Tomáš Pavuk
+
 **Status: ACCEPT in independent review 2; final edition.** Updated 2026-10-14.
 
 ## Source and method

@@ -1,5 +1,7 @@
 # HCP 1188: a Pigpen postcard signed Jesse Darrow
 
+Human solver: Tomáš Pavuk
+
 ## Origin and material
 
 This postcard is held in the Tobias Schrödel Collection and catalogued by HC Portal as `cpc_1913-04-02_USA_Gr_USA__` (portal 1188), dated 2 April 1913, North America. The rendered General, Description and Attachments tabs were captured on 25 October 2026. At capture the portal labelled it Not solved and Pigpen; it supplied no transcription or solution.

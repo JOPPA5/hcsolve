@@ -1,5 +1,7 @@
 # HCP409 — reviewed decipherment using a transferred Kryha key
 
+Human solver: Tomáš Pavuk
+
 **All 295 observed letters decode with the previously reviewed Madrid key.** Claude Opus 5.5 independently confirmed the decipherment. REVIEW1 was REVISE for four source-transcription corrections; those are adopted below. The reviewer explicitly requires no second round after those corrections. Numerical rings, stops and initial displacement are unchanged.
 
 ## Origin and attribution

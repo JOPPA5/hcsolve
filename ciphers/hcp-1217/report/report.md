@@ -1,5 +1,7 @@
 # HCP1217 — Pest, Sándor, the dance school and billiards
 
+Human solver: Tomáš Pavuk
+
 **Status: independently reviewed; required corrections incorporated.** Updated 2026-10-14. Local scribal uncertainties remain disclosed.
 
 Solver: OpenAI GPT-6. Postcard dated 2 October 1912, addressed to Tóth Jolánka; sender not identified in the portal.

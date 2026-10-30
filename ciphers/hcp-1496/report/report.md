@@ -1,5 +1,7 @@
 # HCP 1496 (pc_hcp_177): a number-cipher postcard to Highland Park, Kentucky
 
+Human solver: Tomáš Pavuk
+
 **Status: solved, accepted in independent review 1 (2026-10-26).** The whole message is written as numbers under the direct alphabet 1=A … 26=Z. All 93 numbers decode to coherent English under this single key.
 
 ## Origin and context

@@ -1,5 +1,7 @@
 # HCP 1467 - A Pigpen postcard to Adah Thompson
 
+Human solver: Tomáš Pavuk
+
 ## Origin and scope
 
 HC Portal record 1467, catalogue name **pc_hcp_148**, is a privately held

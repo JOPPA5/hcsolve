@@ -1,5 +1,7 @@
 # HCP 1397 (pc_hcp_78): a shift-by-one "Scotch view" postcard to Chudleigh
 
+Human solver: Tomáš Pavuk
+
 **Status: deciphered in full; independent review 1 verdict ACCEPT.** Report dated 2026-10-27.
 
 ## Origin and context

@@ -1,5 +1,7 @@
 # HCP 1506 / pc_hcp_187
 
+Human solver: Tomáš Pavuk
+
 ## A postcard in numeric substitution, Pennsylvania, May 1913
 
 The portal showed **Not solved** on 2026-10-26. Independent review 1 by

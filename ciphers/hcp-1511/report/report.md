@@ -1,5 +1,7 @@
 # HCP 1511 - A mixed Pigpen letter from Felton
 
+Human solver: Tomáš Pavuk
+
 ## Origin and context
 
 HC Portal record **1511**, catalogue name **pc_hcp_192**, is a postcard

@@ -1,5 +1,7 @@
 # HCP 1556 (pc_hcp_237): a Czech love letter from Pepouš to Anna Tichá
 
+Human solver: Tomáš Pavuk
+
 **Status: deciphered in full (336 of 336 cipher signs, 338 letters); independent review 1 verdict ACCEPT, no change to the decoded letters.** Report dated 2026-10-28.
 
 ## Origin and context

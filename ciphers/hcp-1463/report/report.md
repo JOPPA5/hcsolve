@@ -1,5 +1,7 @@
 # HCP 1463 (pc_hcp_144): a numeric love note from Walt to Ada, 1904
 
+Human solver: Tomáš Pavuk
+
 **Status: deciphered in full; independent review 1 verdict ACCEPT.** Report dated 2026-10-26.
 
 ## Origin and context

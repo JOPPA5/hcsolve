@@ -1,5 +1,7 @@
 # HCP 1497 / pc_hcp_178 - mixed cursive and Pigpen postcard
 
+Human solver: Tomáš Pavuk
+
 ## Origin and revised scope
 
 The HC Portal General, Description and Attachments tabs were inspected on

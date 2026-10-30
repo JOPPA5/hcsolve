@@ -1,5 +1,7 @@
 # HCP 1819 (pc_hcp_500): an alternating Pigpen Christmas card, "Go home on Saturday"
 
+Human solver: Tomáš Pavuk
+
 **Status: deciphered in full; independent review 1 verdict ACCEPT.** Report dated 2026-10-26.
 
 ## Origin and context

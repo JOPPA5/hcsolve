@@ -1,5 +1,7 @@
 # HCP905 - corrected German Pigpen report
 
+Human solver: Tomáš Pavuk
+
 Review1 by Claude Opus5.5 returned REVISE. All four findings are addressed and root-checked. The reviewer permits closure after these corrections without another round; no new ACCEPT verdict is claimed.
 
 **Round-1 corrections checked by root: 346 active geometric glyphs under the unchanged transferred key, plus one canceled geometric field whose underlying letter is not asserted.** The existing independent review is `REVISE`; this revision does not create a new acceptance, marker, PDF or register claim.

@@ -1,5 +1,7 @@
 # HCP 56 - An encrypted postcard from Market Drayton
 
+Human solver: Tomáš Pavuk
+
 ## Origin and scope
 
 The postcard was sent to Miss D. Conway, Tunstall, Market Drayton, Salop.

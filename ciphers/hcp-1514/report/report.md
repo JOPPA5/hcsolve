@@ -1,5 +1,7 @@
 # HCP 1514 (pc_hcp_195): A1Z26 greeting and rotated words from Jack, Alton 1906
 
+Human solver: Tomáš Pavuk
+
 **Status: accepted in independent review 1 (ACCEPT); final edition, 2026-10-26.**
 
 ## Origin and context

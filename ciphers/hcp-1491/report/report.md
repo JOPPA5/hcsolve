@@ -1,5 +1,7 @@
 # HCP 1491 (pc_hcp_172): a mirror-written postcard to Wood Green, 1909
 
+Human solver: Tomáš Pavuk
+
 **Status: solved, accepted in independent review 1 (2026-10-26).** The whole handwritten message is English cursive written in mirror image and turned 90° on the card. One fixed geometric transform makes it legible; the reading is manual.
 
 ## Origin and context

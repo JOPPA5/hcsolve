@@ -1,5 +1,7 @@
 # HCP 1017 - Erna and Ejnar, 14 June 1905
 
+Human solver: Tomáš Pavuk
+
 Both identified encrypted regions are covered. Independent reviewer Claude Opus 5.5 returned REVISE on 2026-10-27, confirmed the key and meaning, and requested transcription corrections. All findings are addressed below; the reviewer explicitly said another round is unnecessary after these corrections.
 
 ## Origin and context

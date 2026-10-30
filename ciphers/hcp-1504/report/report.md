@@ -1,5 +1,7 @@
 # HCP 1504 (pc_hcp_185): Christmas card from "your brother John" in false word division
 
+Human solver: Tomáš Pavuk
+
 **Status: accepted in independent review 1 (ACCEPT); final edition, 2026-10-26.**
 
 ## Origin and context

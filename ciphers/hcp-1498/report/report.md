@@ -1,5 +1,7 @@
 # HCP 1498 (pc_hcp_179): three Pigpen words on a Peckham postcard, 1905
 
+Human solver: Tomáš Pavuk
+
 **Status: solved, accepted in independent review 1 (2026-10-26).** The only enciphered passage on the card is three words in standard Pigpen embedded in an ordinary cursive letter. All 18 signs decode under one fixed key to LATE, TONIGHT, DARLING.
 
 ## Origin and context

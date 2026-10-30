@@ -1,5 +1,7 @@
 # HCP 1190 (cpc_1907-09-14_USA_Carthage, NY_USA_Denmark, New York_): a dotted Pigpen postcard to Ruth
 
+Human solver: Tomáš Pavuk
+
 **Status: deciphered in full; independent review 1 verdict ACCEPT.** Report dated 2026-10-26.
 
 ## Origin and context

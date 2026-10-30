@@ -1,5 +1,7 @@
 # HC351: reviewed car-purchase telegram
 
+Human solver: Tomáš Pavuk
+
 Content and working key recovered. The first group and exact historical preparation remain open. Independent review: REVISE; source and documentation findings addressed without changing the key.
 
 ## Origin and recovered message

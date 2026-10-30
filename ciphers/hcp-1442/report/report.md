@@ -1,5 +1,7 @@
 # HCP 1442 (pc_hcp_123): a dotted Pigpen postcard from Nancy to Ray E. Bartley
 
+Human solver: Tomáš Pavuk
+
 **Status: deciphered in full; independent review 1 verdict ACCEPT.** Report dated 2026-10-26.
 
 ## Origin and context

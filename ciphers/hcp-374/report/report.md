@@ -1,5 +1,7 @@
 # HC374: Madrid telegram
 
+Human solver: Tomáš Pavuk
+
 The message body and a working Kryha key have been recovered. The deciphered body contains 80 letters. KIDAH is the shared indicator associated with the same starting state as telegram 373; how its letters encode that setting remains open. Historical uncertainties are stated explicitly.
 
 ## Origin and content

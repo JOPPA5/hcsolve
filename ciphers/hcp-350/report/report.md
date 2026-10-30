@@ -1,5 +1,7 @@
 # HC350: reviewed car-purchase telegram
 
+Human solver: Tomáš Pavuk
+
 Content and working key recovered. The first group and exact historical preparation remain open. Independent review: ACCEPT.
 
 ## Origin and recovered message

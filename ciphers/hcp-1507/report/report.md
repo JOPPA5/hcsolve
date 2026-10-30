@@ -1,5 +1,7 @@
 # HCP 1507 (pc_hcp_188): a number-cipher love note to Leah Doane, 1913
 
+Human solver: Tomáš Pavuk
+
 **Status: accepted in independent review 1 (ACCEPT); final edition, 2026-10-26.**
 
 ## Origin and context
