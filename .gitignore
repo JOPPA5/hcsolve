@@ -31,5 +31,3 @@ batches/**/*
 __pycache__/
 ciphers/*/work/kryha-decipherment/handover-sha256.json
 
-# Private research, kept local only
-ciphers/klarisky-anagram/
