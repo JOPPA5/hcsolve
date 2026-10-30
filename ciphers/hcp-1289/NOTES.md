@@ -1,0 +1,7 @@
+# Notes hcp-1289
+
+2026-10-30: captured by Claude Opus 5.5 (orchestrator).
+
+2026-10-30 (Claude Opus 5.5, solver): identified as the Jolánka family from the address and sign shapes; key taken from HCP1216 (decode_opus.py, sign classes). Read all rows from crops of work/hires/*_adr.jpg (scripts work/crop*.py; crops in work/crops2/, work/crops/ is an unused first attempt with too-narrow bands). Dead ends: first read the chevron as j and the z-with-tail as x, which gave nonsense until *vagyis*, *válaszoltam* and *szerelem* fixed them. Row 26 *megszerezni*: the sign after s looked like an o because the grey portal stamp ring passes through it; at 6x it is z. Row 27–28 first read as *kasan|dor*; the long sign is the k of *vagyunk*, so *a Sándor*. Row 29 end first read *szeretlek*; the sign is n, so *szeretnék*. Stamp row 6 first read *mintan*; the fifth sign has three bars, so *mint én*. Weakest clause: row 28 (SOLUTION item 12). A cleanup of work/crops/ was blocked by a safety check and was left alone. Full reading in SOLUTION.md; DONE1 created.
+
+2026-10-30 (Claude Opus 5.5, solver, after review 1): re-read every contested sign (work/resp1/, crops plus apply.py and solution.py). All eight findings accepted; row 4 stroke kept as doubtful E?. Row 28 clause now *a Sándor[ral] meg ráérek még foglalkozni*. 824 signs. Darker detached strokes turn up near some vowels and may be late acutes (row 28 ráérek, row 10 édes).

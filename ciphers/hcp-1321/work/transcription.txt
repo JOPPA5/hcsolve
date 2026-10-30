@@ -1,0 +1,7 @@
+# hcp-1321 cipher block, read from enlarged crops of work/hires/pc_hcp_2_adr.JPG (card turned so handwriting is upright).
+# Sign = shape:dot. Shapes: SQ square, TR triangle, CI circle, AN angle open to right (<), DI diamond, VE caret open upward (V).
+# Dots: TL/BR corners; T top, B bottom, L left, C centre, LR lower right; AN: V vertex, U upper arm, D lower arm; 0 none.
+# "|" word gap; "&" the pen scribble between the groups of line 1, not a sign of the shape set.
+DI:C AN:U AN:D | & | CI:T TR:T CI:L DI:T
+SQ:TL DI:T DI:T CI:L VE:0 TR:T SQ:BR | AN:V SQ:TL DI:C DI:B
+AN:D CI:L TR:LR CI:T DI:B

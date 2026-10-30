@@ -1,0 +1,40 @@
+# HCP1317 sign ledger, Claude Opus 5.5, 2026-10-30. Every token read from enlarged crops of work/hires/*_adr.jpg (crops in work/crops/).
+# One token = one written sign. F=r  )=s  X=u/ü  6=b  +=f  H=h/p sign  CS=opposed bowls  :d=dot mark(s) seen over the sign.
+# T+ = gamma with its stem crossing the bar (row 12, t by word sense). Fc = F whose stem curls, no straight stem (row 26, r by word sense).
+# [X] = restoration: the sign is hidden or mostly hidden by the tear left when the stamp was removed.
+# Accent ticks on a, e, i, o, u are not transcribed; they are supplied in the normalized text.
+# Word-sense tokens under the stamp: S2 third sign shows only two faint bars, kept as E; S5 last sign shows top bar and stem only, kept as F (SOLUTION item 2).
+# Not tokenized: a short fourth stroke after the m at the end of row 12, possibly comma-like (SOLUTION item 13).
+01 ) Z E F E T E T E D E ) E G Y E T L E N F E
+02 M E N Y E M K I V A N O M H O G Y A
+03 L E G J O B B K E D V E B E N T A L A L J A
+04 ) O F A I M E D E ) E ) J O L A N K A M A
+05 M I A + E N Y K E H E T I L E T I
+06 CS A K K X:d L D J E E L A K A F ) I K E F X:d L
+07 A K A F N E M M A F CS A K A Z E F T
+08 I ) H O G Y A Z I L O N K A I ) F A J
+09 T A V A N M E F T I F N I K E N E
+10 K I H E A Z T V A F O M H O G Y
+11 A + E N Y K E H E T M E G K A H J A M
+12 T E H A T+ K E F E M E D E ) E M
+13 K X L D J E M I N E L E L O:d B B
+14 M I T E L O F E I ) K O:d ) Z O:d
+15 N O:d K E D E ) E M M O ) T G Y A K
+16 F A N J A F O K X J V A F B A
+17 M A J N E M M I N D I G O T
+18 V A G Y O K ) Z E T N E K M A F
+19 H A T V A N B A I ) M E N N I
+20 M A F A Z E F Z E ) I J J O L
+21 E ) N E H O G Y K O:d Z E L
+22 V O L N E K M A G A H O Z
+23 E D E ) E M B A F A K O F I )
+24 E L E G M E ) Z E V O L N E K
+25 E Z Z E Z A F O M ) O F A I M M A F A D O K ) I F I G H X:d K E D V E ) ) E
+26 + E Fc I
+S1 I ) [T] E N V E
+S2 L E E D E ) [E] M
+S3 CS O K O L
+S4 ) Z A M T A
+S5 L A N ) Z O F
+S6 [I] M A D O J A
+S7 [+] [E] F I

@@ -1,0 +1,40 @@
+# HCP1288 sign ledger, Claude Opus 5.5, 2026-10-30. One token = one written sign, read on enlarged crops of the hi-res address scan.
+# Letters = sign classes of the Jolanka key (hcp-1216). F-sign = R, ) = right bowl s, X = plain cross u, 6 = b, + = f, Z = crossed diagonal z.
+# H and P are the same near-homograph class, split here only by word sense. CS = opposed bowls.
+# :diaeresis = dot mark seen; :acute = accent stroke seen (faint accents are not transcribed). ? = unreadable overwritten sign; | = stray stroke, no value.
+# Review 1 changes: row 24 H->D in BOLDOG (tick left of the long stroke); row 22 ? -> O (heavy o-class sign at the ink stain, the restart of ozehoz, an interpretation).
+# Kept as read: row 16 first sign M (heavy joined form, n not excluded); row 25 sign 7 L (shortened wave with separate tick, v not excluded).
+# Rows 01-26 main text, S1-S7 under the stamp.
+01 ) Z E R E T E T E D E ) E G Y E T L E N R E M E N Y E M
+02 V A R V A V A R T ) O R A I T M E G K A P T A M
+03 M I T K O ) Z O:diaeresis N O K ) Z E:acute P E N I G A Z A N
+04 O:diaeresis R X:diaeresis L O:diaeresis K H O G Y ) Z E R E N CS E ) E N M E G
+05 E R K E Z E T T CS A K A Z T ) A J N A L O M
+06 H O G Y E:acute N N E M E R K E Z H E T T E M
+07 M A G M A G A V A L E D E ) E M K E D
+08 V E ) J O L A N K A M E:acute N M A G A T O L N E M
+09 ) A J N A L O K ) E M M I K O:diaeresis L T ) E:acute G E T A M I
+10 T O:diaeresis L E M T E L I K ) Z I V E ) E N A L D O Z O M
+11 M A G A:acute R A B A:acute R I G A Z H O G Y E D I G M E:acute G
+12 E D E ) K E V E ) E T K O:diaeresis L T O:diaeresis T T E M D E A Z T
+13 V E G Y E R O ) Z A N Y A G I H E J Z E T E M N E K
+14 R E M E:acute L E M H O G Y M E G V I R A D M E:acute G E N R A:acute M
+15 I ) T A L A N E:acute ) H E L Y R E P O T O L H A T O M
+16 M I T E D I G M E N T E T T E M I G A Z A N O:diaeresis R X:diaeresis
+17 L O:diaeresis K H O G Y B E L A T T A E D E ) E M H O G Y
+18 L E V A G Y O G K O T E L E Z V E D E B I Z T A )
+19 ) A A Z A T X D A T H O G Y G O N D O L A T O M
+20 M I N D I G M A G A N A L V A N E:acute D E ) E M E:acute )
+21 R E M J X:diaeresis K A Z I ) T E N T O:diaeresis L H O G Y M E:acute G
+22 O:diaeresis ) Z E H O:diaeresis O Z E H O Z A ) O R ) K E Z E M I T A L I G V A R O K
+23 E:acute D E ) J O L A N K A M A Z T A P A R B O L D O G N A P O T B I Z O N Y E:acute N I ) N E H E Z E N F E L E J
+24 T E M D E ) A J N O ) A M I B O L D O G V I ) Z O N T L A T A ) X N K N A K M I N D I G N E H E Z E L
+25 V A L A:acute ) A V E G E K E D V E ) E M A L E L E M B E K E:acute R D E:acute ) E I M R E L E G Y E N ) Z I V E )
+26 V A L A ) Z O L N I M E R T N A G Y O N E R D E K E L I ) T E N V E L E E:acute D E ) E M F E R I
+S1 I ) T E N V E L E
+S2 E D E M | CS O
+S3 K O L O M
+S4 ) Z A M T A
+S5 L A N ) Z O R
+S6 H X:diaeresis K E D V E )
+S7 ) E F E R I

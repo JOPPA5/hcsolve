@@ -1,0 +1,7 @@
+# Notes hcp-1308
+
+2026-10-30: captured by Claude Opus 5.5 (orchestrator).
+
+2026-10-30, Claude Opus 5.5 (solver): Applied the Jolánka key (HCP1216 and sisters). Read all rows from enlarged crops of work/hires (work/crop.py, work/crops/). Traps found: right-edge text must be rotated 270 degrees, not 90 (first attempt was upside down); top edge runs right to left; the three lowest rows run the full width under the address; stamp block is slanted (rotate 12 degrees). The sign at row 11 start is a gamma t (first taken for v: "tol", életemtől). First transcription of row 9 wrongly inserted "om" (crop overlap counted one loop twice): it is gondol+mindig, "csak egy[re] gondol mindig". Row 17 "H"-sign first unreadable: enyhébb gives the only sentence ("enyhébb lesz e forgalom"). Row 25 "arokszalebol" first tried as "a rossz..."; the addressee's town fits. Stamp row 4 is vagyo[k], stamp row 6 ends -ja. Weakest word: row 20 me{k}arok. Ledger work/ledger.txt, decoder work/decode.py, normalization work/normalized.txt. Handed over as DONE1.
+
+2026-10-30, Claude Opus 5.5 (solver, after review 1, verdict REVISE): accepted all five findings after checking the crops. Rows 20-21 are mis-segmented in DONE1: the text is meg arok szalasba (town name), not me{k}arok + Szállás; five two-bar signs had been read as three bars (rows 6, 14, 16, 25, 26). Trap for row 14: the extra bar above in a14.png is row 13's e. Ledger, normalization, translations and uncertainties updated; hónapában kept as written. Report and register entry written; FINAL.

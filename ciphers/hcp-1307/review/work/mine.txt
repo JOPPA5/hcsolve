@@ -1,0 +1,32 @@
+01 bwl xd bar3 fs bar3 fs bar3 gam bar3 gam bar3 dt bar3 bwl it lp wav bar2 st2
+02 ss bar2 st3 chv bar2 fs chv bar2 chv bar2 fs gam bwl lp fs bar2 ic gam
+03 st3 bar3 zig ss bar2 hp gam bar2 st3 st3 ic gam st2 bar2 zig dsc lp st2
+04 bwl xd bar3 hp bar3 st2 ss lp bwl xd lp st2 lp ss bar3 dt bar3 bwl bar3 st3
+05 lp it bar2 st2 st2 bar3 hp bar3 xd bar3 st2 st3 bar3 zig st2 bar3 st3 chv bar2 fs gam bar2 st3
+06 bwl lp fs bar2 ic gam st3 ic st2 gam st3 lp bwl gam bar3 dt bar3 bwl bar3 st3
+07 xp zig dsc it bar2 it gam bwl xd ic chv bar3 st3 bar2 st2 zig dsc bar2 wav lp st3
+08 hp lp zig dsc st3 bar3 zig ss bar3 dt bar3 st2 bwl bar3 st3 ss bar2 hp gam bar2 st3
+09 st3 bar3 zig bwl lp fs bar2 ic gam st3 ic st2 gam fs bar3 st2 dt bar3
+10 bwl bar3 st2 st3 ic st2 dt it bar2 fs gam bar2 fs fs bar2 zig lp st2 dt lp wav
+11 gam bar2 st3 bar3 dt bar3 bwl bar3 st3 hp lp zig dsc st3 bar3 zig hp bar2 fs bar2
+12 zig xp dt lp gam hp lp zig dsc st2 bar3 st3 st3 bar3 st2 gam bar3 st3
+13 wav bar3 ic zig bar2 xd bar2 st2 bar3 dt bar3 bwl bar3 st3 cs bar2 ss ic it bar3 st2
+14 ss lp fs bar3 fs xd ic bar2 xd bar3 st3 six bar3 fs hp lp zig dsc
+15 st3 bar3 st2 dsc ic fs bar3 bwl xd bar3 fs bar3 gam bar3 st3 st3 bar2
+16 zig bar2 gam bar3 dt bar3 bwl bar3 st3 st3 bar3 fs bar2 xd bar2 zig lp st2 dt lp
+17 wav bar2 gam ic bwl bar3 wav ss bar3 bwl bar3 fs ic gam bar3 gam bar2 st2 dsc ic fs bar2
+18 hp lp zig dsc st2 bar3 st3 chv lp wav gam ss bar3 dt chv bar3 st3 bwl bar3 st3
+19 st3 ic hp bar3 xd ic bwl gam bar3 st2 st3 bar3 st2 gam bwl bar2 fs fs bar2
+20 st2 bar3 st3 ic bwl st3 bar3 fs bar3 ss zig lp st2 dt lp wav st2 ic dt bar3
+21 st3 bar2 zig bar2 gam bar3 wav chv bar3 bwl xd gam bar3 st2 bar3 st3 six ic xd
+22 gam lp bwl hp bar2 wav bar2 wav lp st3 wav bar3 st2 st2 bar3 ss bar3 fs bar3 st3
+23 st3 bar2 zig bar2 gam bar3 dt bar3 bwl bar3 st3 st2 bar3 st3 ss ic chv bar2
+24 st2 lp ss gam lp six bar3 gam cs bar2 ss wav bar3 zig bar2 wav bar2 six six
+25 bar3 zig dsc wav bar2 hp lp gam ic gam it lp st2 chv bar2 bwl bar2 fs st2 bar2 hp st3 bar3 fs gam hp bar2 gam xp dt st2 bar2 st3 ic it bar3 st2 st2 bar3 hp bar3 xd bar3 st2
+26 chv bar2 fs lp st3 bar3 st2 bwl lp fs bar2 ic gam bar3 xd gam bar2 ss bar3 fs bar3 bwl bar3 st3 gam bar3 wav it bwl ic gam bar3 st2 ic fx lp zig it bar2
+S1 cs lp ss lp wav lp st3
+S2 bwl xd bar2 st3 gam bar2
+S3 wav bar2 st2 bwl xd lp fs
+S4 bwl xd bar3 fs bar3 gam lp
+S5 ss bar3 dt chv bar3 bwl bar3
+S6 fx bar3 fs ic

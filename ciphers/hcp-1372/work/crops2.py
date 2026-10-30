@@ -1,0 +1,15 @@
+from PIL import Image, ImageOps, ImageEnhance
+c=Image.open('crops/message.png')
+def s(n,b,k=4):
+    d=c.crop(b); d=d.resize((d.width*k,d.height*k),Image.LANCZOS)
+    d.save(f'crops/{n}.png')
+    # blue-ink emphasised: R channel (ink dark in R, grey watermark less separated) 
+    r=ImageOps.autocontrast(d.split()[0],cutoff=1); r.save(f'crops/{n}_r.png')
+s('l1',(300,10,980,110),3)
+s('l2',(280,100,1000,225),3)
+s('l3',(250,225,920,350),3)
+s('l4',(280,340,800,450),4)
+s('l5',(280,440,1000,540),3)
+s('l6',(240,530,900,640),3)
+s('l7',(240,630,1000,750),3)
+s('l8',(20,690,540,790),3)

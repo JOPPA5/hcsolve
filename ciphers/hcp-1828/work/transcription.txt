@@ -1,0 +1,12 @@
+# hcp-1828: one line per card row (R1 top ... R10 bottom), signs left to right as the scan stands.
+# Read from work/hires/pc_hcp_509_adr.JPG at 4-8x. Legend: see key.json and SOLUTION.md.
+lparen bar3long star
+spectacles crescent eye rparen
+lparen dashcrescent crescent horned cap bar3short cross hh
+box lparen box box lparen eye bar3short bar2 star lparen eye crescent spectacles
+dots grid star bar3short lparen cup bar3short grid star bar2 wave crescent dots
+grid lparen cap hh lparen grid cross horned grid cross wave eye
+eye crescent lparen horned bar3short box star bar2 lparen cap bar3short grid cross
+cup grid cross cap bar3short dots grid star bar3long grid lparen box
+dots bar3short wave star lparen bar1 star bar3long eye star bar2
+eye crescent rparen box legs grid star cap bar3short

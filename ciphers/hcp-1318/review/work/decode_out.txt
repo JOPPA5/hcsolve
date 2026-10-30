@@ -1,0 +1,41 @@
+OK  source/picture-large.jpg
+OK  source/address-large.jpg
+OK  work/hires/cpc_1913--_HU__HU_Jasz-Arokszalas_jolanka-111_pic.jpg
+OK  work/hires/cpc_1913--_HU__HU_Jasz-Arokszalas_jolanka-111_adr.jpg
+
+Literal decipherment ([x] = restored, x? = rests on word sense):
+01 kedvesjolankamtudatom
+02 hogyszerencsésenmegér
+03 keztem.ijenkorérzém
+04 csakhogymitvesztek
+05 enjolankambaelijenkor
+06 ismikorelkelvalaunk
+07 egymast?[o]lszeretném
+08 szivemé[r][z]elmeitbeol
+09 tanieze[n][é]desjolankamszi
+10 vebéakorjolankamisugy
+11 vonzodnah?ozammint?én
+12 magahozacsomakotat
+13 adtamsand?ornakabéla
+14 valnembeszelhetem
+15 mertnemvoltidom
+16 d?emostnamirok
+17 többetmertmeral
+18 mosvagyokisten
+19 velédesem
+20 mindenkielhitte
+21 hogykatonavagyok
+s1 csokol
+s2 lom
+s3 szam
+s4 talan
+s5 szor
+s6 imado
+s7 jaferi
+
+398 signs.
+
+Normalized Hungarian (editorial; see SOLUTION.md):
+Kedves Jolánkám! Tudatom, hogy szerencsésen megérkeztem. Ilyenkor érzem csak, hogy mit vesztek én Jolánkámba[n]. [El] ilyenkor is, mikor el kell válnunk egymástól, szeretném szívem érzelmeit beoltani ezen édes Jolánkám szívébe, akkor Jolánkám is úgy vonzódna hozzám, mint én magához. A csomagot átadtam Sándornak, a Bélával nem beszélhettem, mert nem volt időm. De most nem írok többet, mert álmos vagyok. Isten vele, édesem. Mindenki elhitte, hogy katona vagyok.
+Csókolom számtalanszor. Imádója Feri.
+

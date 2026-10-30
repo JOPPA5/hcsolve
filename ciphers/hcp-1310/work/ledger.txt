@@ -1,0 +1,35 @@
+# HCP1310 sign ledger, Claude Opus 5.5, 2026-10-30. One token = one written sign, read by eye on enlarged crops of the hires scan.
+# Tokens: = two bars; E three bars; 6; CS opposed bowls; /d short stroke left + tall right; /h tall left + short right;
+# + cross; G open loop with descender; GY that loop + hooked descender; I crossed curve, dotted or not; J inverted T;
+# S section-mark forms (S, 8, 5); ~ wave; 3 three strokes; 2 two strokes; O cursive loop; F; ) right bowl; T gamma;
+# Round 2: row 13 penultimate sign corrected to E, row 18 ninth sign corrected to 2 (review 1, findings 1 and 2).
+# Word-sense calls kept in the ledger: S5 first sign (/h, one thick stroke visible), row 11 T of volt (doubled under the top bar).
+# X plain cross; Y hooked descender; V chevron; Z crossed diagonal with tail. :" = visible double mark over the sign.
+01 S E /d V E ) E GY E T ~ E 2 F E
+02 3 E 2 Y E 3 T X /d = T O 3 /h O GY
+03 ) Z E F E 2 CS E ) E 2 3 E G E F S E Z
+04 T E 3 = Z X T 6 = 2 T = ~ = ~ S O Z
+05 T = 3 E GY S O CS I V = ~ = 3 E
+06 ~ Y I S E T 3 E G T = 3 = /d
+07 T = S = /h O GY V I ) Z 2 E S
+08 + E ~ O:" ~ 6 E J O T E S = F O S
+09 ) Z = ~ = ) 6 = 2 3 E G F = I )
+10 ~ O V O:" /d O:" Z T E S /d E 2 E
+11 S I I ) V O ~ T + E GY V E F E
+12 E 2 2 E 3 T = ~ = S O Z T = 3
+13 3 E O ~ Y = 2 E 6 E F E S E ~
+14 ) E /h = ~ = I ) T E 2 2 E S E Z E ~
+15 6 E Z = F O 3 ) O F = I 3
+16 3 E F T 3 = F S E V E ) = I /d
+17 J O 3 X ~ = T = ) S I V = 2 O S
+18 /d = F = ) Z T I 2 I ) T E 2 V E
+19 E /d E ) E 3 = T = V O ~ 6 O ~
+20 I 3 = /d O S = /d V = ) ) E + E F I
+21 T I ) Z T E ~ E = S E /d V = ) 3 = 3 = T
+S1 CS O S J =
+S2 I /d F =
+S3 ) Z O 3
+S4 J = Z O S
+S5 /h X:" S = /d V E
+S6 ) E /d + E F I
+A1 ) Z E F E T E T E ~

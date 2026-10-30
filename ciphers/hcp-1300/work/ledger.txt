@@ -1,0 +1,40 @@
+# HCP1300 sign ledger, Claude Opus 5.5, 2026-10-30. Read by eye from enlarged crops of work/hires/*_adr.jpg
+# (stamp box: ink.py, which suppresses the green printed triangle). One token = one written sign, in the Jolanka key.
+# Revised after review 1 (2026-10-30): rows 1, 12, 13, 15, 24; see SOLUTION.md, Response to review 1.
+# Tokens: letters = sign classes; H = tall stroke + short tick (h/p near-homograph); GY, CS, NY digraphs; EL = joined e + l
+# X = tilted cross u; XF = the same tilted cross used for f (rows 16, B6); ZP = upright cross used for z in "az" (row 27)
+# Braced tokens are printed verbatim: {#} overstruck false start, no value; row 13 {e?} {l?} {m?} {m?} sign class not secure under overwriting,
+# {|} extra heavy stroke there; row 24 {+} upright cross (key value f; used for z in row 27) and {s?} pencil sign under the seal R, probably a wide right bowl.
+01 S Z E R E T E T E T T E D E S J O L A N K A M
+02 F O J T A T O M S O R A I M S A J N A L A T
+03 T A L K E L T U D A T N O M H O GY E N
+04 A T A V A S Z I G E GY A L T A L A N N E M
+05 H E T E H A Z A M E R T I T O J A N V I
+06 L A G V A N H O GY S A J A T T E S T V E R E
+07 L A K O D A M E R A S E M M E H E T H A
+08 Z A A Z E M B E R H E D I G H I GY J E
+09 EL E D E S E M N A GY O N S Z E R E T
+10 N E K M A R B E S Z E L N I M A G A V A L
+11 E D E S E M K E D V E S E M E N I S A R R E
+12 K E R E M A J O I S T E N H O GY {#} M A G A
+13 S Z E R {e?} {l?} {m?} {|} {e?} {m?} V I R G A I S CS A K S Z A
+14 M O M O M R A NY I L J O N A K O R
+15 E N L E S S Z E K A L E G B O L D O G A B B
+16 F E R XF I A V I L A G O N B A R M O S T
+17 I S A N A K E R Z E M M A G A M E R T
+18 B O D O G I A Z A T U D A T H O GY
+19 M A G A S Z E R E T K E D V E S E M
+20 E N M A G A T M I N D I G J O B B A N
+21 S Z E R E T N I N E M M E G U N N I
+22 T U D O M E N A Z T CS A K A Z E R T
+23 I R T A M H O GY M A J D E GY M A
+24 S I K F E R I S Z E B J O V O V K E CS E G T E T T I E S A N G E M A K K O R {+} {s?} E H
+25 N EL H A GY E N A Z E G E S Z V I L A G E L O T I S M E G M O N D O M N O M
+26 M A G A V A GY S E N K I A F E NY K E H E T V A R O M S I K E R T K I V A N O K
+27 H O Z Z A O R U L O K H O GY E G E S S E G E S E N I S A ZP V A GY O K
+B1 I S T E N V E
+B2 L E M E R E
+B3 D O K O K S I
+B4 R I G H U I
+B5 M A D O J A
+B6 XF E R I

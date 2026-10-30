@@ -1,0 +1,21 @@
+{
+  "method": "Manual visual transcription from work/hires/pc_hcp_57_adr.JPG (rotated copy work/crops/msg.png, enlarged crops work/crops/). Claude Opus 5.5, 2026-10-30. No OCR.",
+  "key": "Caesar: each plaintext letter written as the next letter (decrypt -1, A->Z)",
+  "heading_plain_not_enciphered": "No. 3. G. H. Saturday (number glyph 3, possibly 2 or 7; ordinary writing, not shifted)",
+  "notation": "{x} = kept literal, not shifted; [o] = letter restored under an ink blot; ' \" = marks on the card",
+  "source_sha256": {
+    "source/address-large.jpg": "af437749c69f00a69216ead52520e837b71600a103fbd3a9fad38fd5354d0791",
+    "source/picture-large.jpg": "8b80b61adf35e41c24c92577c7a7c6048873dccd35855f9fdd4d310167acab87",
+    "work/hires/pc_hcp_57_adr.JPG": "310940c05a4fa9d1d90df27950c68c0b7294f6d160de092ebd73f0ff57daf255",
+    "work/hires/pc_hcp_57_pic.JPG": "9daeeb45ff55c68a9f66045404e8c64266e03a855c7a0830ee25d6f732a55ff6"
+  },
+  "rows": [
+    ["Nz.", "Px[o]", "{E-L.}"],
+    ["Jt.", "xbt.", "qptufe"],
+    ["{2}", "{hrs.}", "Cfgpsf."],
+    ["dmfbsjoh."],
+    ["\"Ju't.", "b.", "Nztufsz\""],
+    ["Nz.", "{N.}", "{&}", "{L.}", "gspn.", "Zpvs."],
+    ["{E-L.}", "Hjsm."]
+  ]
+}

@@ -1,0 +1,41 @@
+# HCP1311 sign ledger, Claude Opus 5.5, 2026-10-30: one token per written sign, read from enlarged crops of work/hires/*_adr.jpg.
+# Tokens: letter = family sign; H = tall stroke with tick at right (h/p near-homograph, also used for d in 12);
+# D = tall stroke with tick at left (d, also used for p in 08); K = section mark; K2 = S-hook variant of k (distinct from G);
+# O = loop without dot; I = loop with dot; I0 = undotted loop read i from sense (22); O: = loop with two dots (ö/ő);
+# Y = long-tailed y sign; CS = opposed bowls; ~x~ = struck-through/blotted sign (no value); ?x = sign uncertain, value by sense; ! = unresolved.
+# Revised 2026-10-30 after review 1: rows 18, 25, 26, 28 and S5-S7. Row 25 ?E is what the sign shows; the normalized text reads a (válaszolni) against it.
+01 S Z E R E T E T E D E S J O L A: N K A M K2 I
+02 V A N O M H O G Y A L E G J O B B E G E S S E G
+03 B E N T A L A L J A S O R A I M K2 E D V E S J O
+04 ~x~ L A N K2 A M H O G Y M U L A T O T T A
+05 M U L A T S A G B A R E M E L E M J O L
+06 B A R E N I S E L M E H E T E ?M V O L
+07 N A I G A Z A N S A J N A L O M H O G Y
+08 N E M K2 A D T A M M E G E G Y N A H
+09 H A L E L O: B B M I N T I R T A M
+10 I S L E T V O L N A A N Y I S Z A B A D
+11 S A G O M H O G Y E L M E H E T E M
+12 V O L N A H E E Z E N M A R
+13 N E M L E H E T S E G I T E N I M A J D
+14 M U L A T U N K2 H A F E L J O: N
+15 H E S T R E A M I M A R CS A K 2½
+16 H O N A H L A S A N M A J D E L
+17 M U L I K2 A Z I S K E D V E S E M
+18 I R J O ?N ~x~ ?H O G Y M U L A T O T
+19 A Z T H I S Z E M U T O L S O A R O K2
+20 S Z A L A S O M U L A T S A G B A
+21 V O L T M O S T E N M O S T
+22 M A S T I0 R O K2 M I V E L N E M
+23 T U D O K2 M I T I R I R J O N
+24 S O K2 A T H O G Y S O K2 A T
+25 T U D A K2 V A L ?E S Z O L N I
+26 ?I S T E N V E L E D E S E M
+27 Y M A ?D ?O ?J A
+28 ?F E R
+S1 U D V O: ?Z ?L I ! !
+S2 S Z A M
+S3 T A L A N
+S4 S Z O R
+S5 S Z E R ?E
+S6 ! ! ?K2 E D
+S7 ?V E S E ?F ?E R I

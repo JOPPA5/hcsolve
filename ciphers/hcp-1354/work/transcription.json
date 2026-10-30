@@ -1,0 +1,43 @@
+{
+ "orientation": "address side, rotate 90 deg counter-clockwise (work/reading_full.png); lines run from the right edge of the card leftwards",
+ "lines": [
+  [
+   "Tveefo.",
+   "dibohf"
+  ],
+  [
+   "Jo.",
+   "ifbejoh",
+   "pg"
+  ],
+  [
+   "mfuufs",
+   "Npoebz"
+  ],
+  [
+   "up.",
+   "qptu",
+   "dbse"
+  ],
+  [
+   "sfdfjwfe",
+   "Tvoebz"
+  ],
+  [
+   "?",
+   "Gps",
+   "XIZ",
+   "!",
+   "Mpp."
+  ]
+ ],
+ "plain_not_enciphered": "March 5th = 07",
+ "non_letter_marks": [
+  "dots after Tveefo, Jo, up, Mpp: separators",
+  "heavy round dot below the end of sfdfjwfe, directly above the I of XIZ: separator or a dot on that I",
+  "thin line from X through the foot of I into the foot of Z: Z's foot carried back, or an underline"
+ ],
+ "doubtful_signs": [
+  "Tveefo: fourth letter is a solid black wedge taken as a filled e; alternative Tvefo (67 letters), same word"
+ ]
+}

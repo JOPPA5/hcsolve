@@ -1,0 +1,25 @@
+from PIL import Image
+W='/Users/tomaspavuk/Desktop/hcsolve/ciphers/hcp-1289/work/'
+im=Image.open(W+'hires/cpc_--22_HU__HU_Jasz-Arokszalas_jolanka-87_adr.jpg')
+S=1.72
+def crop(name,x0,y0,x1,y1,z):
+    c=im.crop(tuple(int(v*S) for v in (x0,y0,x1,y1)))
+    c.resize((int(c.width*z),int(c.height*z)),Image.LANCZOS).save(W+'crops2/'+name+'.png')
+crop('r22',440,880,890,925,2.3)
+crop('r23',35,920,500,965,2.3)
+crop('r23b',430,915,890,960,2.3)
+crop('r25b',440,985,950,1035,2.2)
+crop('r26c',950,1050,1460,1100,2.2)
+crop('r26d',1420,1050,1920,1100,2.2)
+crop('r27a',35,1095,520,1145,2.2)
+crop('r27b',500,1095,1000,1145,2.2)
+crop('r27c',980,1095,1460,1140,2.2)
+crop('r27d',1420,1090,1920,1140,2.2)
+crop('r28a',35,1140,520,1195,2.2)
+crop('r28b',500,1125,1000,1190,2.2)
+crop('r28c',980,1130,1460,1185,2.2)
+crop('r28d',1420,1125,1920,1180,2.2)
+crop('r29a',35,1170,520,1220,2.2)
+crop('r29b',500,1170,1000,1220,2.2)
+crop('r29c',980,1160,1460,1215,2.2)
+crop('r29d',1420,1150,1920,1215,2.2)

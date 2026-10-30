@@ -3,3 +3,398 @@
 917 # User requested skipping the remaining unresolved items, 2026-10-12.
 1000 # User requested skipping the remaining unresolved items, 2026-10-12.
 975 # Exact prior solution by Thomas, 2016; not a new target.
+
+# Registered solutions/contributions observed in rendered AI register on 2026-10-28; exclude from new independent-solving queue.
+56 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+350 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+351 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+374 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+409 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+496 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+615 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+944 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1017 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1098 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1187 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1188 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1189 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1190 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1213 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1217 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1218 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1243 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1301 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1323 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1325 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1327 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1328 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1329 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1330 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1341 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1342 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1344 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1345 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1397 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1409 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1410 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1411 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1412 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1413 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1414 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1415 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1416 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1417 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1418 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1419 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1420 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1421 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1424 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1425 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1426 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1427 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1428 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1429 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1430 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1431 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1435 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1437 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1438 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1439 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1440 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1441 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1442 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1443 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1444 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1445 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1446 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1450 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1454 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1459 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1463 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1467 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1471 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1491 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1492 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1496 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1497 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1498 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1504 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1506 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1507 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1510 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1511 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1512 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1514 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1517 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1518 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1519 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1569 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1657 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1658 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1759 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1760 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1772 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1777 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1779 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1780 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1781 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1782 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1783 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1785 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1788 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1791 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1792 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1793 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1794 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1795 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1796 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1798 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1801 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1802 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1803 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1804 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1805 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1806 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1807 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1808 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1809 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1810 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1811 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1813 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1814 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1815 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1816 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1817 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1818 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1819 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1825 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1827 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1648 # Published partial reading pc_hcp_329; https://maxim-egorov.dev/research/anna-ticha-postcards/card-329/ ; official HC Portal link observed2026-10-28
+
+# Fifteen newly registered Eugen Antal contributions, rendered register checked 2026-10-28.
+1778 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1776 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1775 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1774 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1773 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1771 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1770 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1769 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1768 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1767 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1765 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1764 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1763 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1762 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1761 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+
+# Ten additional Eugen Antal register contributions observed2026-10-28.
+1749 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1750 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1751 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1752 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1753 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1754 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1755 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1756 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1757 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+1758 # AI register https://ai.hcportal.eu/register/ ; observed 2026-10-28
+
+# Rendered AI register refresh 2026-10-28: 193 contributions, pc420–429
+1739
+1740
+1741
+1742
+1743
+1744
+1745
+1746
+1747
+1748
+
+# Rendered AI register refresh 2026-10-28:337contributions/303HC IDs; newly observed prior/public work
+1520 # AI register337; observed2026-10-28; exclude from new solving
+1521 # AI register337; observed2026-10-28; exclude from new solving
+1522 # AI register337; observed2026-10-28; exclude from new solving
+1523 # AI register337; observed2026-10-28; exclude from new solving
+1524 # AI register337; observed2026-10-28; exclude from new solving
+1542 # AI register337; observed2026-10-28; exclude from new solving
+1561 # AI register337; observed2026-10-28; exclude from new solving
+1563 # AI register337; observed2026-10-28; exclude from new solving
+1566 # AI register337; observed2026-10-28; exclude from new solving
+1567 # AI register337; observed2026-10-28; exclude from new solving
+1568 # AI register337; observed2026-10-28; exclude from new solving
+1572 # AI register337; observed2026-10-28; exclude from new solving
+1573 # AI register337; observed2026-10-28; exclude from new solving
+1574 # AI register337; observed2026-10-28; exclude from new solving
+1575 # AI register337; observed2026-10-28; exclude from new solving
+1576 # AI register337; observed2026-10-28; exclude from new solving
+1577 # AI register337; observed2026-10-28; exclude from new solving
+1578 # AI register337; observed2026-10-28; exclude from new solving
+1579 # AI register337; observed2026-10-28; exclude from new solving
+1580 # AI register337; observed2026-10-28; exclude from new solving
+1581 # AI register337; observed2026-10-28; exclude from new solving
+1582 # AI register337; observed2026-10-28; exclude from new solving
+1583 # AI register337; observed2026-10-28; exclude from new solving
+1584 # AI register337; observed2026-10-28; exclude from new solving
+1585 # AI register337; observed2026-10-28; exclude from new solving
+1586 # AI register337; observed2026-10-28; exclude from new solving
+1587 # AI register337; observed2026-10-28; exclude from new solving
+1588 # AI register337; observed2026-10-28; exclude from new solving
+1589 # AI register337; observed2026-10-28; exclude from new solving
+1590 # AI register337; observed2026-10-28; exclude from new solving
+1591 # AI register337; observed2026-10-28; exclude from new solving
+1592 # AI register337; observed2026-10-28; exclude from new solving
+1593 # AI register337; observed2026-10-28; exclude from new solving
+1594 # AI register337; observed2026-10-28; exclude from new solving
+1595 # AI register337; observed2026-10-28; exclude from new solving
+1596 # AI register337; observed2026-10-28; exclude from new solving
+1597 # AI register337; observed2026-10-28; exclude from new solving
+1598 # AI register337; observed2026-10-28; exclude from new solving
+1599 # AI register337; observed2026-10-28; exclude from new solving
+1600 # AI register337; observed2026-10-28; exclude from new solving
+1601 # AI register337; observed2026-10-28; exclude from new solving
+1602 # AI register337; observed2026-10-28; exclude from new solving
+1603 # AI register337; observed2026-10-28; exclude from new solving
+1604 # AI register337; observed2026-10-28; exclude from new solving
+1605 # AI register337; observed2026-10-28; exclude from new solving
+1606 # AI register337; observed2026-10-28; exclude from new solving
+1607 # AI register337; observed2026-10-28; exclude from new solving
+1608 # AI register337; observed2026-10-28; exclude from new solving
+1609 # AI register337; observed2026-10-28; exclude from new solving
+1610 # AI register337; observed2026-10-28; exclude from new solving
+1611 # AI register337; observed2026-10-28; exclude from new solving
+1612 # AI register337; observed2026-10-28; exclude from new solving
+1613 # AI register337; observed2026-10-28; exclude from new solving
+1614 # AI register337; observed2026-10-28; exclude from new solving
+1615 # AI register337; observed2026-10-28; exclude from new solving
+1616 # AI register337; observed2026-10-28; exclude from new solving
+1617 # AI register337; observed2026-10-28; exclude from new solving
+1618 # AI register337; observed2026-10-28; exclude from new solving
+1619 # AI register337; observed2026-10-28; exclude from new solving
+1620 # AI register337; observed2026-10-28; exclude from new solving
+1621 # AI register337; observed2026-10-28; exclude from new solving
+1622 # AI register337; observed2026-10-28; exclude from new solving
+1623 # AI register337; observed2026-10-28; exclude from new solving
+1624 # AI register337; observed2026-10-28; exclude from new solving
+1625 # AI register337; observed2026-10-28; exclude from new solving
+1626 # AI register337; observed2026-10-28; exclude from new solving
+1627 # AI register337; observed2026-10-28; exclude from new solving
+1628 # AI register337; observed2026-10-28; exclude from new solving
+1629 # AI register337; observed2026-10-28; exclude from new solving
+1630 # AI register337; observed2026-10-28; exclude from new solving
+1631 # AI register337; observed2026-10-28; exclude from new solving
+1632 # AI register337; observed2026-10-28; exclude from new solving
+1633 # AI register337; observed2026-10-28; exclude from new solving
+1634 # AI register337; observed2026-10-28; exclude from new solving
+1635 # AI register337; observed2026-10-28; exclude from new solving
+1636 # AI register337; observed2026-10-28; exclude from new solving
+1637 # AI register337; observed2026-10-28; exclude from new solving
+1638 # AI register337; observed2026-10-28; exclude from new solving
+1639 # AI register337; observed2026-10-28; exclude from new solving
+1640 # AI register337; observed2026-10-28; exclude from new solving
+1641 # AI register337; observed2026-10-28; exclude from new solving
+1642 # AI register337; observed2026-10-28; exclude from new solving
+1643 # AI register337; observed2026-10-28; exclude from new solving
+1644 # AI register337; observed2026-10-28; exclude from new solving
+1645 # AI register337; observed2026-10-28; exclude from new solving
+1646 # AI register337; observed2026-10-28; exclude from new solving
+1647 # AI register337; observed2026-10-28; exclude from new solving
+1649 # AI register337; observed2026-10-28; exclude from new solving
+1650 # AI register337; observed2026-10-28; exclude from new solving
+1651 # AI register337; observed2026-10-28; exclude from new solving
+1652 # AI register337; observed2026-10-28; exclude from new solving
+1653 # AI register337; observed2026-10-28; exclude from new solving
+1654 # AI register337; observed2026-10-28; exclude from new solving
+1655 # AI register337; observed2026-10-28; exclude from new solving
+1656 # AI register337; observed2026-10-28; exclude from new solving
+1659 # AI register337; observed2026-10-28; exclude from new solving
+1660 # AI register337; observed2026-10-28; exclude from new solving
+1661 # AI register337; observed2026-10-28; exclude from new solving
+1662 # AI register337; observed2026-10-28; exclude from new solving
+1663 # AI register337; observed2026-10-28; exclude from new solving
+1664 # AI register337; observed2026-10-28; exclude from new solving
+1665 # AI register337; observed2026-10-28; exclude from new solving
+1666 # AI register337; observed2026-10-28; exclude from new solving
+1667 # AI register337; observed2026-10-28; exclude from new solving
+1668 # AI register337; observed2026-10-28; exclude from new solving
+1669 # AI register337; observed2026-10-28; exclude from new solving
+1670 # AI register337; observed2026-10-28; exclude from new solving
+1671 # AI register337; observed2026-10-28; exclude from new solving
+1672 # AI register337; observed2026-10-28; exclude from new solving
+1673 # AI register337; observed2026-10-28; exclude from new solving
+1674 # AI register337; observed2026-10-28; exclude from new solving
+1675 # AI register337; observed2026-10-28; exclude from new solving
+1676 # AI register337; observed2026-10-28; exclude from new solving
+1677 # AI register337; observed2026-10-28; exclude from new solving
+1678 # AI register337; observed2026-10-28; exclude from new solving
+1679 # AI register337; observed2026-10-28; exclude from new solving
+1680 # AI register337; observed2026-10-28; exclude from new solving
+1681 # AI register337; observed2026-10-28; exclude from new solving
+1682 # AI register337; observed2026-10-28; exclude from new solving
+1683 # AI register337; observed2026-10-28; exclude from new solving
+1684 # AI register337; observed2026-10-28; exclude from new solving
+1685 # AI register337; observed2026-10-28; exclude from new solving
+1686 # AI register337; observed2026-10-28; exclude from new solving
+1687 # AI register337; observed2026-10-28; exclude from new solving
+1688 # AI register337; observed2026-10-28; exclude from new solving
+1689 # AI register337; observed2026-10-28; exclude from new solving
+1690 # AI register337; observed2026-10-28; exclude from new solving
+1691 # AI register337; observed2026-10-28; exclude from new solving
+1692 # AI register337; observed2026-10-28; exclude from new solving
+1693 # AI register337; observed2026-10-28; exclude from new solving
+1694 # AI register337; observed2026-10-28; exclude from new solving
+1695 # AI register337; observed2026-10-28; exclude from new solving
+1696 # AI register337; observed2026-10-28; exclude from new solving
+1697 # AI register337; observed2026-10-28; exclude from new solving
+1698 # AI register337; observed2026-10-28; exclude from new solving
+1699 # AI register337; observed2026-10-28; exclude from new solving
+1700 # AI register337; observed2026-10-28; exclude from new solving
+1701 # AI register337; observed2026-10-28; exclude from new solving
+1702 # AI register337; observed2026-10-28; exclude from new solving
+1703 # AI register337; observed2026-10-28; exclude from new solving
+1704 # AI register337; observed2026-10-28; exclude from new solving
+1705 # AI register337; observed2026-10-28; exclude from new solving
+1766 # AI register337; observed2026-10-28; exclude from new solving
+905
+1532
+1535
+1526
+1527
+1529
+
+# Review-addressed closures,2026-10-28
+1525
+1544
+1547
+
+# User exclusions 2026-10-30.
+696 # Public work by Zijian Zeng (github.com/ArtificialZeng/history-unlocked-ai); user asked to skip, 2026-10-30.
+849 # Public work by Zijian Zeng (github.com/ArtificialZeng/history-unlocked-ai); user asked to skip, 2026-10-30.
+851 # Public work by Zijian Zeng (github.com/ArtificialZeng/history-unlocked-ai); user asked to skip, 2026-10-30.
+852 # Public work by Zijian Zeng (github.com/ArtificialZeng/history-unlocked-ai); user asked to skip, 2026-10-30.
+1528 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1530 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1531 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1533 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1534 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1536 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1537 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1538 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1539 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1540 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1541 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1543 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1545 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1546 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1548 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1549 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1550 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1551 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1552 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1553 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1554 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1555 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1556 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1557 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1558 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1559 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1560 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1562 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1564 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1565 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1570 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1571 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1706 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1707 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1708 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1709 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1710 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1711 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1712 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1713 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1714 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1715 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1716 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1717 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1718 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1719 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1720 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1721 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1722 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1723 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1724 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1725 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1726 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1727 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1728 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1729 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1730 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1731 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1732 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1733 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1734 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1735 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1736 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1737 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+1738 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.

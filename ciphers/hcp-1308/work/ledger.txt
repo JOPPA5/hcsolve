@@ -1,0 +1,41 @@
+# HCP1308 sign ledger, Claude Opus 5.5, 2026-10-30. Hand transcription from enlarged crops of work/hires (address side). One token = one written sign.
+# Letters as in hcp-1216: F=r  )=s  X=u  6=b  +=f  CS=opposed bowls  H=tall+short sign read h  P=same sign read p.
+# GY is written here as two signs, G then Y. O=undotted cursive loop, I=the loop with a seen dot.
+# :d = dots/double mark seen over the sign. Acute accents are not transcribed.
+# ~ after a letter = the value is chosen by word sense, the sign alone does not settle it (see SOLUTION.md, Uncertainties); prints as {x}.
+# Rows 01-26 long lines; 27 up the right edge; 28 along the top edge, right to left; S1-S7 on the stamp field.
+01 ) Z E F E T E T E D E ) J O L A N K A M
+02 6 E CS E ) ) O F A I T M E G K A P T A M
+03 M E J E F T + O G A D J A K O:d ) Z O:d
+04 N E T E M E T E D E ) E M K O:d ) Z O:d
+05 N O:d M H O G Y + E L H A G~ Y E Z E K E L
+06 A V E T E J T A F ) A K K A L T X D O M
+07 E D E ) E M H O G Y M A G A ) Z E F E T
+08 E N G E M E ) E G~ Y~ ) Z E F E T O:d ) Z I V
+09 CS A K E G Y G O N D O L M I N D I G
+10 H I G Y J E E D E ) E M A Z E L E T E M
+11 T O:d L K O:d N Y E 6 6 E N E L T X D N E K
+12 V A L N I M I N T M A G A T O L E D E
+13 ) E M A L I G V A F O M A Z T A P E F
+14 C Z~ Z E T H O G Y G~ Y A K F A 6 6 A N
+15 L A T H A ) ) A M ) Z E P ) Z E M E I T
+16 A J O:d V O:d H O N A P A 6 A N M A J D
+17 E N~ Y H E 6 L E ) Z E + O F G~ A L O M
+18 E ) A K O F M A J D K~ E F E V A G Y K E T
+19 N A P ) Z A 6 A D ) A G O T E ) L E
+20 M E G Y E K M E F T M E G A F O K
+21 ) Z A L A~ ) 6 A I ) L A T N I A K A
+22 F O M E G Y ) Z E F L E G A
+23 L A 6 E ) X G Y I~ ) A K A F E~ F O K
+24 ) Z X:d L E I M H E Z I~ ) H A Z A M E N I E ) T X D J A A Z T M A G A I ) E D E
+25 ) E M H O G Y H A M A G A E L J O:d N A F O K ) Z A L A 6 O L N E M N A~ G Y O N M E
+26 G Y E K A F A A K O:d F N Y E K CS A K H A M X ) Z A J E Z E L 6 E Z A F O M
+27 ) O F A I M M A F A D O K ) Z E F E
+28 K E D V E ) +~ E F I
+S1 X~:d D V O Z L~ O:d M
+S2 T A V O 6 O L
+S3 CS O K J A I E F T
+S4 V A G~ Y O ) I
+S5 F I G H X:d
+S6 I M A D O J A
+S7 + E F I

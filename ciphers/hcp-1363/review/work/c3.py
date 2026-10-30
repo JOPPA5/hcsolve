@@ -1,0 +1,21 @@
+from PIL import Image, ImageOps, ImageChops
+r=Image.open('adr_ccw.png').convert('RGB')
+def crop(n,box,s=3):
+    c=r.crop(box); c=c.resize((c.width*s,c.height*s),Image.LANCZOS)
+    c=ImageOps.autocontrast(c,cutoff=1); c.save(n+'.png')
+    # ink: B-R difference emphasises blue ink vs grey overlay
+    R,G,B=r.crop(box).split()
+    d=ImageChops.subtract(B,R,scale=1,offset=0)
+    d=ImageOps.autocontrast(d,cutoff=0.5).resize((c.width,c.height),Image.LANCZOS)
+    ImageOps.invert(d).save(n+'_ink.png')
+crop('a1',(350,920,720,1070))
+crop('a2',(700,920,1080,1070))
+crop('b',(350,1050,1060,1180),2)
+crop('c1',(350,1160,720,1300))
+crop('c2',(700,1160,1060,1300))
+crop('d1',(350,1270,720,1410))
+crop('d2',(700,1270,1060,1410))
+crop('e1',(350,1380,720,1520))
+crop('e2',(700,1380,1060,1520))
+crop('f',(350,1470,1060,1580),2)
+crop('g',(720,1560,1080,1680),3)

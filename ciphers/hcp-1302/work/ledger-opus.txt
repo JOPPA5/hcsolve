@@ -1,0 +1,28 @@
+# HCP1302 row ledger, Claude Opus 5.5, 2026-10-30. Each row is read from enlarged crops of the hires address side.
+# Letters are sign values under the Jolanka family key. Letters are as written (accents only where a mark is visible).
+# [x] = value rests on word sense; {?} = sign not read; (..) = overwritten or struck sign, no value given.
+01 (?) s z e r e t e t é d e s j o l a n
+02 k á m h o g y t a l a [l] t a m a
+03 [g] a t v a s a r n a p é n e l e g j ó l
+04 m u l a t t a m i g a z h o g y
+05 é n h a m a r f e l t a l a l o m
+06 m a g [a] m i t v o l t a r o k
+07 s z a l a s b ó l k i s a n g y á l
+08 k a i s e s e l é g j ó l m u -
+09 l a t o t f é l ö t k o r
+10 m e n t e k e l a m u l a t
+11 s á g b ó l é n i s 6 a t k o r
+12 m e n t e m h a z a c s a k a z
+13 f á j h o g y n e m j o l á n
+14 k á m a l m u l a t h a t t a m
+15 d e e z e n n e m s e g i t h e
+16 t ü n k m á r m i n e m z a r
+17 h a t j u k k i a c s e l é d e k e [t]
+18 s e a m u l a t s á g b ó l j ö j ö n e z {?} {?} {?} {?} a n o t m a j d n e m
+19 l e g y k e v e r t n é {?} {?} e g i s t e n v e l e a v i s z o n t l a t a {cs} r a
+S1 c s ó k o l {?} m
+S2 s z á m t a
+S3 l a n {?} {?} {?} r
+S4 {?} {?} r {?} {?} {?} {?}
+S5 i m á d ó {?}
+S6 j a f e r i

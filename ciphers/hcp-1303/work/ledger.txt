@@ -1,0 +1,26 @@
+# HCP1303 sign ledger, Claude Opus 5.5, 2026-10-30. Manual reading from enlarged crops of the original scan
+# (work/hires/*_adr.jpg), one token per written sign. Not OCR and not blind to meaning.
+# Token = letter value of the sign class (key table in SOLUTION.md). H = h/p near-homograph; CS = opposed bowls;
+# gy is written as two joined signs, an enlarged G plus the ordinary Y (review 1, finding 6). ':acute' / ':dia' = mark seen above the sign. 'Y?' etc. are flagged in SOLUTION.md.
+# Literal insertions are written <...>: plain (unenciphered) numerals and letters in the cipher lines.
+01 S Z E R E T E T E D E S J O
+02 L A N K A K I V A N O M
+03 H O G Y A L E G J O B B
+04 K E D V E B E N T A L A:acute L J A
+05 S O R A I M E N M O S T
+06 H E S T E N T A R T O Z
+07 K O D O M M U N K A A Z
+08 I T S I N CS H E A Z E R T
+09 S E:acute T A L O K E G Y H A R
+10 H E T I G A H R . <10> <er> H A Z . A
+11 M E G Y E K M E R T S O R O
+12 Z A S L E S Z E G E S Z E L F E
+13 L E J T E T E M A K O N Y V E T
+14 H A T E H T I K U:dia L J B E S Z U:dia L E I M N E K H A V A L A K I
+15 B E M E G Y G Y O:dia N G Y O S R E M I:acute U J S A:acute G A:acute R O K S Z A:acute
+16 L A S O N H A V A N I:acute R J O N
+s1 I S T E N
+s2 V E L E
+s3 E D E S E M
+s4 I M A D O
+s5 J A F E R I

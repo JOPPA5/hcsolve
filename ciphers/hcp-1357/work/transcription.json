@@ -1,0 +1,18 @@
+{
+  "card": "HCP 1357 / pc_hcp_38",
+  "read_from": "work/hires/pc_hcp_38_adr.JPG rotated 90 degrees counter-clockwise",
+  "lines": [
+    "Nz. pxo. Efbsftu Cpz.",
+    "uijt Xjmm. nblf. uif",
+    "qbjs gps bmcvn",
+    "gspn. Zpvs. Hjsm"
+  ],
+  "clear_text": ["March 22nd 07"],
+  "points": {
+    "uijt": "initial is the writer's tall word-initial u, as on hcp-1358 and hcp-1362; the dash after the word is taken as the t-bar or a flourish, not a letter",
+    "qbjs": "initial q by its long closed descender loop; g on this card has a short hook",
+    "Zpvs": "s lies in an ink blot; disclosed restoration; v is damaged",
+    "Xjmm": "j has no dot and a g-like head; read j on sense and on hcp-1351",
+    "dots": "small dots after gspn and Zpvs added after review 1"
+  }
+}

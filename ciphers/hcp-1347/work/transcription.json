@@ -1,0 +1,13 @@
+{
+  "method": "Manual transcription by Claude Opus 5.5 (2026-10-30) from work/hires/pc_hcp_28_adr.JPG, rotated 90 degrees counter-clockwise (work/crops/msg.png), enlarged 3-8x. Rows are the card's lines.",
+  "clear": {"heading": "G. H. Friday.", "address": "Mr W. Abbott, Stokelake Farm, Chudleigh, Devon"},
+  "rows": [
+    {"line": 2, "tokens": ["Nz.", "Pxo", "[M-]", "[L]", "Cpz."]},
+    {"line": 3, "tokens": ["J.", "bn.", "hpjoh", "up"]},
+    {"line": 4, "tokens": ["uif", "Njotufs"]},
+    {"line": 5, "tokens": ["Tvoebz.", "Ojhiu"]},
+    {"line": 6, "tokens": ["\"Opu.", "bmpof\""]},
+    {"line": 7, "tokens": ["Zpvs.", "Pxo.", "[M.]", "[L.]", "Hjs[m]"]}
+  ],
+  "notes": {"[...] as a whole token": "initials kept literal, not shifted", "Hjs[m]": "brackets inside a word mark a restored letter: the final m is largely covered by a smear, see SOLUTION.md"}
+}

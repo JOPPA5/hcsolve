@@ -1,0 +1,40 @@
+# HCP1295 sign ledger, Claude Opus 5.5, 2026-10-30; read from enlarged crops of work/hires/*_adr.jpg. One token = one written sign.
+# Letters = key value of the sign (Jolanka family key, hcp-1216). h = tall stroke + short tick (h/p/d group; d or p where the ledger says so rests on word sense).
+# gy, cs = joined digraph / opposed bowls. o: u: = sign carries a visible dot/double mark. i and o are near-homographs here (loop signs): i written where a dot is seen or word sense requires.
+# {..} = sign that is not a clean key match, see SOLUTION.md. [x] = restoration of a physically hidden sign.
+01 e d e s e gy e t l e n r e m e n y e m
+02 b e cs e s s o r a i t k o: s z o:
+03 n e t e l m e g k m e l y n a gy o r o
+04 m e m r e s z o l g a l t d e h a a z t i r
+05 t a v o l n a h o gy e l {j/i} o n s o k a l j o b
+06 b a n o: r u: l t e m v o l n a m a g a r o l
+07 e d e s e [m] e g f e t k e z n i e n n e n t u {II} {m-curs}
+08 h . o k {s?} o h {=box} a n n a k i o r u: l o: k h o gy
+09 a m e g h i v o r o m o r e s z o l g a l t
+10 e {II} {I} [o] a gy a s z t o l e t o e n cs a k d a l
+11 e s t e j r e h i v t a m o: n t e d e s e m
+12 i g e z a n s a j n e l o m h o gy v a s a r
+13 n a p v a r t r a m a m i n t i r t a m
+14 i s n e m m e h a t e m l e k a d v e s j o
+15 l a n k a a z t n e gy o n r o s s z u l t e
+16 s z i h a v a l a m i t a {h} {H} a k e s n e m f o
+17 g a d j a e l e n a z t g o n d o l o m h a
+18 v a l a k i v a l a k i t o: s z i n t e n
+19 s z e r e t a t o l e l h o d i t a n i n e m
+20 l e h e t h a m e g e r d e m l i a z e r i
+21 s t e l e m b e r e g e s z
+22 g a {II} h a t j e h a v a s a r n a h b o l
+23 v e b e n a k o r m a j d m e g l a t o m {+small}
+24 h o gy h a s z n a l a f a l u s i l e v e g o: t i s z t e l a k e d v a s
+24b s z u: l e i t
+T1 h a i d e j b e n m e g k a p j a s o r i m
+T2 m o n d j a m e g m o c z a r n a k h o l n a p
+T3 u r n a p j a d e l u t a n 3 {8} o r l e s z a n y u g d i j
+T4 e gy l e t f i j o k j a n a k
+T5 a l a k u l a s a j o: j o: e {-}
+T6 j o m u l a t a s t k i v {an-faint}
+S1 cs o k o l o m
+S2 s z a n t a l {smear}
+S3 s z o r v i -
+S4 s z o n t l a
+S5 t a s r a

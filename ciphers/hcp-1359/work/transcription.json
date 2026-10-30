@@ -1,0 +1,14 @@
+{
+ "orientation": "address side rotated 90 degrees counter-clockwise (work/crops/reading.png)",
+ "heading_plain": "G. H. Thursday.",
+ "date_plain": "May 9th 07",
+ "lines": [
+  [["cipher","Nz."],["cipher","Pxo."],["cipher","Efbsftu"]],
+  [["cipher","J."],["cipher","bn."],["cipher","bcpvu."],["cipher","uif"]],
+  [["cipher","Foe."],["cipher","pg."],["cipher","uijt"]],
+  [["cipher","tupdl."],["literal","M. & L."],["literal","t"]],
+  [["cipher","Gspn."],["cipher","Zpvs."],["cipher","Pxo"]],
+  [["cipher","Hjsm."]]
+ ],
+ "uncertain_sign": {"token": "Foe.", "letter": "F", "alternative": "V", "note": "capital without crossbar; see SOLUTION.md uncertainty 1"}
+}

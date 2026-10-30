@@ -1,0 +1,13 @@
+{
+ "orientation": "address side, rotate 90 deg counter-clockwise (work/crops/rot.png); message lines run top to bottom of the rotated view",
+ "lines": [
+  {"mode": "plain", "text": "G. H. Thursday."},
+  {"mode": "cipher", "tokens": ["Nz", "Pxo", "=E.", "=L.", "Cpz"]},
+  {"mode": "cipher", "tokens": ["Ibwf", "J", "Tfou"]},
+  {"mode": "cipher", "tokens": ["dbse", "pg"]},
+  {"mode": "plain", "text": "The Martyrs Memorial"},
+  {"mode": "plain", "text": "Oxford."},
+  {"mode": "plain", "text": "Nov. 14th 07.", "layout": "same physical line as the signature, at the left"},
+  {"mode": "cipher", "tokens": ["Zpvs", "Hjsm"], "layout": "same physical line as the date, at the right; long underline below is not text"}
+ ]
+}

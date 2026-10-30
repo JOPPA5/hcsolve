@@ -1,0 +1,39 @@
+{
+ "method": "Manual reading from work/hires/pc_hcp_55_adr.JPG rotated 90 degrees CCW (work/reading.png, work/crops/); no OCR. {..} = abbreviation kept literal; [z] = sign is literally s-shaped, emended to z by the word VERY (review 1, finding 2).",
+ "key": "Caesar -1",
+ "plain_heading": "Friday. G. H. (or C. H.)",
+ "plain_date": "Oct. 18th 1907",
+ "sha256": {
+  "source/address-large.jpg": "f78e918fa1c6f36f592b3c6a45fdd8d3218cdcfba98e2069e4d23a4dea4ba3b7",
+  "source/picture-large.jpg": "1e58a68ee15d2f2b73931e213c71006a211d335c64c5fabed81c95651dc9a22a",
+  "work/hires/pc_hcp_55_adr.JPG": "dda28c8b78287004a1281535d0fd3e1407c80ac9ade3d49f1c35c8d8f7960977",
+  "work/hires/pc_hcp_55_pic.JPG": "cd7b5e2df9a1c83f4afaa50d964be378773909f1a12028d5cd1a7d4802f336b3"
+ },
+ "rows": [
+  [
+   "Nz.",
+   "Pxo",
+   "{E. L.}",
+   "Cpz."
+  ],
+  [
+   "Wfs[z]",
+   "jemf.",
+   "tupsn"
+  ],
+  [
+   "up.",
+   "Ebz."
+  ],
+  [
+   "Nz.",
+   "{N & L.}",
+   "zpvs",
+   "Pxo"
+  ],
+  [
+   "{E. L.}",
+   "Hjsm"
+  ]
+ ]
+}

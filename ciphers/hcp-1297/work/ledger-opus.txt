@@ -1,0 +1,37 @@
+# HCP1297 sign ledger, Claude Opus 5.5, 2026-10-30. Made sign by sign from enlarged crops of the un-converted
+# address-side scan work/hires/..._adr.jpg (crop.py, crop2.py; crops/). Not OCR. One token = one written sign.
+# Tokens: letters = sign classes of the Jolanka key; F=r  )=s  S=s (token used in rows 1 and 4, same letter as ))  X=u  6=b  +=f  GY/CS joined digraphs
+# T=gamma/corner t; J=inverted T j; H and P are ONE sign (tall stroke + short tick): the choice is by word sense.
+# :d = dot marks seen over the sign (o->o-umlaut, u->u-umlaut). Other accents are faint and are supplied in normalization.
+# Revised after review 1: row 20 final wave L added; row 25 first sign of *jöt* corrected from + to J; s1 split into its two physical lines.
+# / = single slash (reduced d?), row 22 only; | = mark with no letter value (row 14 smudged stroke; row 23 blot).
+01 K E D V E S J O L A N K A M
+02 6 E CS E ) ) O F A I T M E G K A P
+03 T A M M E J E T A N GY O N
+04 K O:d ) Z O:d N O K K E D V E S J O
+05 O:d N N A GY O N F O ) Z X L
+06 E F T E T E T E ) Z E D E M E T
+07 H A A Z G O N D O L J A H O GY
+08 ) Z X:d L E I M T A L A N M A G A
+09 F A G ) Z O N A K E Z T A I GY
+10 G O N D O L J A A M I A Z
+11 X T A Z ) T I L E T I A T O L
+12 N E M + E L E K M E F M E G
+13 V E D A M A G A ) Z E L E M E
+14 M I N D E N 6 A J T O L | E D E
+15 ) E M A L I G V A F O M A Z T
+16 A Z I D O:d T H O GY J O L A N
+17 K A V A L X J F M X L A T H A )
+18 ) A K H A F O M H E T M X L V A
+19 L E ) Z E GY N E P ) Z A V A
+20 X:d N E P E J M A J E F O:d L ) Z O V A L
+21 6 O:d V E 6 6 E N J O M X L A T A ) T
+22 K I V A N O V A ) A F N A P A 6 E L A / A K
+23 V A ) A F N A | P I F O K I ) T E N V E L E T I ) Z T E L E M A K E D V E ) M A M A J A T
+24 A T A V O L 6 O L I M A D O J A + E F I
+25 ) A J N A L O M H O GY N E M J O:d T 6 E
+s1 CS O K O L O M
+s2 ) Z A M T A
+s3 L A N ) Z O F
+s4 H X:d K E D V E
+s5 ) E N + E F I

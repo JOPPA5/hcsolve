@@ -1,0 +1,42 @@
+# HCP1293 sign ledger, Claude Opus 5.5, 2026-10-30. One token = one written sign, read on enlarged crops of work/hires/*adr.jpg
+# (crop.py makes them; tiles/ holds the crops). Ordinary tokens are letter classes of the Jolanka key (hcp-1216).
+# On this card gy is written as two signs G Y, not as the joined digraph of hcp-1216. CS = opposed bowls ( ).
+# H, P, D are one family: tall stroke + short tick. On this card h has the tick on the RIGHT (rows 3, 5, 10, 11), d on the LEFT (rows 10, 21).
+# :shape-X = the token is the reading by sense, but the written shape is that of X (row 4 de has the h shape; both p of row 14 have the d shape).
+# Corrected after review 1: row 23 has one n only (LENI), B1 has its o dots, the shape marks above were added.
+# :diaeresis = dot marks seen above the sign. Acute marks are faint and not transcribed.
+# 01-23 main rows; E1 up the right edge (continues row 23); T1 along top margin, upside down, right to left;
+# B1 and B2 in the box at the head of the top margin, turned 90 degrees; S1-S6 in the stamp square, upright.
+01 S Z E R E T E T E D E S E G Y E T L E N
+02 R E M E N Y E M N E H A R A G U D J O N R A M
+03 H O G Y O J A N S O K A V A R A K O Z
+04 T A T T A M D:shape-H E I J E N S O K A M E G
+05 S O H A S E M T A R T O T T A V E Z E N
+06 L E S M I N T M O S T M I K O R V E G E
+07 V O L T E L M E N T E M E N E D E S E M
+08 M A G A T K E R E S T E M D E N E M T A
+09 L A L T A M E S A Z T G O N D O L
+10 T A M E D E S E M H O G Y H A Z A
+11 M E N T E K D E S E N I S H A Z A M E N
+12 T E M A T O:diaeresis L T O:diaeresis Z T E M E S
+13 M E N T E M S Z O L G A L A T B A
+14 E S E P:shape-D E N B E L E P:shape-D T E M M A R S Z O
+15 L I T O T T A K I S A N E V E M
+16 E S R O:diaeresis G T O:diaeresis N E L U T T A M
+17 M I T N E M I S K E L M O N D A
+18 N O M D R A G A CS I L L A G O M
+19 A L I G V A R O M H O G Y
+20 V I S Z S Z A J O:diaeresis J E K L E G J O B B
+21 S Z E R E T N E K E D E S E M E Z A L A T T A
+22 A R O:diaeresis V I D I D O A L A T M I N D I G
+23 M A L E T A L E N I K E R J E K I B O CS A N A T O M A T H O G Y E L S E M B U
+E1 CS U Z T A M V I S Z O N T L A T A S R A M I K O R A
+T1 M I K O R I G E R T H A V A L A M I L
+B1 K O:diaeresis Z B E
+B2 N E M J O:diaeresis N
+S1 CS O K O
+S2 L O M
+S3 S Z A M
+S4 T A L A N
+S5 S Z O R
+S6 F E R I

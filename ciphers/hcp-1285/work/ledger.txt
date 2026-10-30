@@ -1,0 +1,19 @@
+# HCP1285 sign ledger, Claude Opus 5.5, 2026-10-30. Manual transcription from enlarged crops of the hires address scan
+# (not OCR; the family key was known, and word sense was used while reading). One token = one written sign.
+# Rows run left to right after turning the address side 90 degrees clockwise. Box rows are in the upright card position.
+# Tokens: letter = sign of that value; GY joined digraph; X:d dots seen over sign; X:a accent tick seen; ^N small n written above the row;
+#   # = solid ink blot with no value claimed; . = dot written after the word. Accents not marked here are supplied in normalization.
+01 K E D V E S E:a D E S J O L A ^N K A M B . S O R A
+02 I T M E G K A P T A M M E # L Y N E K N A
+03 GY O N O:d R U:d L O:d K . E:a S K E R E M A Z I S
+04 R E N R H O GY E Z R O Z S A S O K A I G
+05 N Y # I L J O N S Z A M O M R A . A M I E N
+06 G E M I L L E T A L I G V A R O M A V I
+07 S Z O N T L A T A S R V I S Z O ^N T K I V A
+08 N O K I L Y E N B O L D O G S A G O T
+09 K I V A N O K M I N T E K E:a P E N L A T H A
+10 T O I S T E N V E L E E:a D E S E M H O N
+11 E S F
+b1 C S O
+b2 K O L
+b3 I A H F

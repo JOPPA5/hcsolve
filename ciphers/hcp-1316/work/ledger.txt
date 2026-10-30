@@ -1,0 +1,30 @@
+# HCP1316 sign ledger, Claude Opus 5.5, 2026-10-30. Read by eye from 2-4x crops of the hires address side (work/crops/). One token = one written sign.
+# Tokens: letter = that key class; F=r  )=s  X=u (arched x)  Z=z (arched x with long rising tail)  6=b  +=f  H=h/p sign.
+# :diaeresis / :double-acute = visible mark. Acutes are mostly not transcribed (supplied in normalization).
+# M# = overwritten m (row 4); M? = doubtful m (rows 8, 15, 16); A? = blotted vowel read a (row 15); BD? = blot with bowl and rising stroke, read b, d not excluded (row 17; review 1); EA? = two bars plus a speck, read e, a not excluded (row 18; review 1).
+# # = blacked-out sign with no value (row 11). [K] [O] = restored or stain-damaged signs in the stamp box.
+# After row 16 a passage of about 8 to 10 signs is struck through by the writer; not part of the text, not decoded (see SOLUTION.md).
+01 E D E ) ) Z E F E L M E M D F A G A
+02 J O L A N K A M T X D A T O M H O G Y
+03 ) Z E F E N C ) E ) E N M E G
+04 E F K E Z T E M M# E G A T A N C Z
+05 I ) K O L A I ) V O L T A M
+06 K E D V E ) E M A 6 O L D O G ) A G
+07 K E F T J E 6 E N E G Y + O K A L
+08 M? E G I N T 6 E L J E 6
+09 K E F X:diaeresis L T E M 6 O L D O G I T
+10 A Z A T X D A T H O G Y N E M
+11 A D ) E M I # T M E G F A G A L
+12 M A Z O 6 E ) Z E D E K F E C ) A K
+13 L E G Y E N K I T A F T O ) Z E F E L
+14 M E M X G Y M I N T ) Z E F E T E M
+15 M? A? G A T M I T 6 A F M A F
+16 T E T E M? I )
+17 BD? E 6 I Z O N Y I T H A T N A K
+18 E Z E L 6 E Z EA? T O M ) O F A I M
+19 I ) T E N V E A T A V O L 6 O L
+S1 C ) O [K] [O] L O M
+S2 ) Z A M T A
+S3 L A N ) Z O F
+S4 H X:double-acute K E D V E )
+S5 ) E + E F I

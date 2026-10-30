@@ -1,0 +1,12 @@
+{"card":"hcp-1370 / pc_hcp_51",
+ "note":"cipher tokens are shifted -1; plain tokens are literal: headings, date and the abbreviations E-L., M & L",
+ "lines":[
+  [["plain","G. H. Monday."]],
+  [["cipher","Nz."],["cipher","Pxo."],["plain","E-L."],["cipher","Cpz."]],
+  [["cipher","kvtu"],["cipher","dpnf"],["cipher","Cbdl."]],
+  [["cipher","gspn."],["cipher","ibwjoh."],["cipher","b."]],
+  [["cipher","Mjuumf."],["cipher","Tqjo."],["cipher","Nz"]],
+  [["plain","M & L."],["cipher","gspn."],["cipher","zpvs"],["cipher","Pxo"]],
+  [["plain","E-L."],["cipher","Hjsm."]],
+  [["plain","Sep 30th 07."]]
+ ]}

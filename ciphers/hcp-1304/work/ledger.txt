@@ -1,0 +1,39 @@
+# HCP1304 sign ledger, Claude Opus 5.5, 2026-10-30. Manual reading of enlarged crops of the hires address side (work/crops/). One token = one written sign.
+# Tokens: = a | 3 e | 6 b | ( c | () cs | J d (joined long+short) | + f (upright cross) | G g (open loop+descender) | H h/p (tall+short)
+#         I i (crossed curve) | L j (inverted T) | K k (section / S shape) | W l (wave) | III m | II n | O o (loop) | F r | ) s | T t (gamma)
+#         X u (short thick cross) | ^ v (chevron) | Y y | Z z (crossed diagonal, sometimes near-upright) | . stop written on the card
+# Suffix " = dots/double mark seen over the sign. Suffix >x = sign class differs from the value used, value x taken from word sense (see SOLUTION.md).
+# Round 2 (after review 1): row 25 end T O" (was H? O), row 20 last sign plain I, margin O>o|i (was O>ja).
+# Row 26 turns the bottom-right corner at "ha va|lamit" and runs up the right edge to the top corner (M = margin part).
+01 ) Z 3 F 3 T 3 T 3 J 3 ) L O W = II
+02 K = III 6 3 () 3 ) ) O F = I T III 3 G
+03 K = H T = III III 3 W Y 3 T K O" ) Z O"
+04 II O" K ) Z 3 H 3 II I G = Z = II III 3 G
+05 H = T ) O F = I III I 6 O" W W = T O III
+06 III I W Y II 3 III 3 ) ) Z I ^ 3 ^ = II O" II
+07 II 3 K 3 J 3 ) L O W = II K = III = III I T T =
+08 W = II II 3 III I ) 3 F J 3 III W 3 K III 3 G .
+09 III = F III = G = III I ) F 3 ) T 3 W 3 III H O G Y
+10 I G Y W 3 ^ = G Y O K 3 G ^ 3 H = III O
+11 ( Z = F 3 K II 3 III 6 I Z T = T II = II = K
+12 III X II K = ^ = W 3 G Y ) Z 3 F X" 3 II X G Y
+13 T 3 II II 3 K III I II T H = III 3 ) ) Z 3 ^ O W
+14 II 3 K L O W = II K = T O W X G Y 3 II
+15 3 W III 3 II 3 K = ^ = F O ) 6 O W H =
+16 ) O F O Z = ) II 3 III W 3 II II 3 = Z T
+17 III 3 G K 3 W ^ = F II O III . III 3 G 3 Z
+18 = T O" III 3 G ) Z T F = L K I ) = K = J = L O Z
+19 = K 3 J ^ 3 ) III = III = L = 3 W O T F 3 )
+20 T 3 W W 3 III III = G = III H = Z X J II I
+21 II 3 III T X J O K I G Y L O W = II K = I )
+22 T X J L = H O G Y II 3 H 3 Z = H 3 L Z 3
+23 T 3 III III O ( Z = F III 3 G II 3 III I F T
+24 T = W = H>n = Z T G O II J O W T = H O G Y
+25 ^ = ) = F W 3 III 3 G Y 3 K J 3 II 3 III III 3 F T 3 III III 3 F T G Y X" W 3 ) ^ O W T = T O"
+26 III 3 G ) Z T F = L K III I = T T = III = Z T H I ) Z 3 III K 3 J 3 II K 3 Z J O J I K H = ^ =
+M  W = III I T H = W III O ( Z = F 3 K II = I F O>o|i = III 3 G
+S1 I ) T 3 II ^ 3 W 3
+S2 3 J 3 ) 3 III
+S3 ) I F I G H X"
+S4 K 3 J ^ 3 ) 3
+S5 + 3 F I

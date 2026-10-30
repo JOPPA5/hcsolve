@@ -1,0 +1,12 @@
+from PIL import Image
+r=Image.open('rot.png')
+im=Image.open('../../work/hires/cpc_1912-01-14_HU__HU_Jasz-Arokszalas_jolanka-02_adr.jpg').convert('RGB')
+def s(c,n,z): c.resize((c.width*z,c.height*z),Image.LANCZOS).save(n)
+s(r.crop((1300,500,1700,690)),'z_r4_rozsa.png',4)
+s(r.crop((1220,90,1460,300)),'z_r1_a.png',4)
+s(r.crop((1750,1290,2170,1490)),'z_end.png',4)
+s(im.crop((2740,250,3120,700)),'z_box.png',4)
+s(r.crop((560,650,880,800)),'z_r5_on.png',4)
+s(r.crop((160,1290,420,1450)),'z_r10st.png',4)
+s(r.crop((1000,880,1500,1040)),'z_r6_7.png',3)
+s(r.crop((1060,500,1320,690)),'z_r4_z.png',3)

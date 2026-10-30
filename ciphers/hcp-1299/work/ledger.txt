@@ -1,0 +1,47 @@
+# HCP1299 sign ledger, Claude Opus 5.5, 2026-10-30. One token = one written sign, read by eye from enlarged crops of the
+# un-converted address scan (work/hires/..._adr.jpg). Not OCR. Rows 01-29 main text (28-29 run on under the address to the
+# right corner), E1 up the right edge from the bottom corner, S1-S8 under the stamp.
+# Tokens: = a (two bars)  # e (three bars)  6 b  ( c  CS opposed bowls  4 d (long+short joined)  + f (upright cross)
+# G g  H h (tall + short)  P same class as H, value p chosen from word sense  i i (crossed curve)  T j (inverted T)
+# S k (section mark)  ~ l  3 m (three short strokes)  2 n (two short strokes)  Q o  F r  ) s  L t (gamma)
+# X u  ^ v  Y y  Z z (crossed diagonal with tail).  Suffix : = dots seen over the sign.  [x] = sign physically hidden by a blot.
+# {x} = sign written small above the line as the writer's own insertion (row 29, l of feltetelezni).
+# Corrected after review 1 (2026-10-30): rows 18, 21, 27, 29; see SOLUTION.md, Response to review 1.
+01 ) Z # F # L # L # 4 # ) T Q ~ = 2 S = 3 # 4 # ) # G Y # L
+02 ~ # 2 F # 3 # 2 Y # 3 S i ^ = 2 Q 3 H Q G Y
+03 = ~ # G T Q 6 6 # G # ) ) # G 6 # 2 L = ~ = ~ T = ) Q
+04 F = i 3 ) = T 2 = ~ = L L = ~ ^ # ) Z # 3 [L] [X] [4] Q
+05 3 = ) X ~ H Q G Y X L Q 6 6 i ) Q F = Q T S #
+06 ) Q: 2 ^ = ~ = ) Z Q ~ L = 3 ^ Q ~ 2 =
+07 6 = F # 2 3 i S Q F 3 # G S = P L = 3 F Q: G
+08 L Q: 2 ^ = ~ = ) Z Q ~ L = 3 3 # F L
+09 = Z L H i ) Z # 3 # 4 # ) # 3 H Q G Y 3 =
+10 G = i ) Q T Q L 2 # H # Z # 2 ^ = F T =
+11 ) Q F = i 3 i 2 L = 3 i T # 2 2 # H #
+12 Z # 2 ^ = F Q 3 = 3 = G = 6 # CS # ) ) Q
+13 F = i [L] H i G Y T # # ~ # 4 # ) # 3 ) Z Q
+14 ^ = ~ S i ) # 3 ~ # H # L + # T # Z 2 i = Z L
+15 = Z # F Z # ) # 3 i # ~ + Q G L = ) Z i
+16 ^ # 3 3 i S Q F 6 # CS # ) ) Q F = i L # ~
+17 Q ~ ^ = ) L = 3 CS = S # Z L ) = T 2 = ~ L = 3
+18 H Q G Y 3 i # F L [2] i 2 CS i L = Z = Z = 2
+19 G Y = ~ S = = 3 # ~ i S # ) Q F Q S # L
+20 i F T = H Q G Y ) Z i ^ # 3 H # Z Q: ~ # ~
+21 H # L 2 # 3 H Q G Y H = 4 # F # Z H # L 2 #
+22 L # ~ T # ) # 2 6 Q ~ 4 Q G 2 = S 3 =
+23 G = L H i G Y T # # ~ # 4 # ) # 3 X G Y + = T
+24 = ) Z i: ^ # 3 H Q G Y 2 # 3 ~ # L H =
+25 L Q 3 CS = S = Z L ) Z # F # L 2 # 3 L X 4
+26 2 i 3 # 4 i G S # ~ 3 # G = Z # G Y X: L ~ #
+27 L X: 2 S i G = Z # 2 = F ^ = ) Z i ^ # 3 2 # S CS Q 4 = ~ Q 3 # 4 # ) # 3 H Q G Y Q T H =
+28 3 = F 6 # ~ # 2 Y X G ) Z i S H Q G Y H = # G Y i CS i L # ) # L ~ # G S # ) i S = ~ = P Q 3
+29 = 6 Q ~ S # ~ = Z L [+] # {~} L # L # ~ # Z 2 i H Q G Y S Q: 2 Y # 2 # + # ~ # T L # 2 # H = = ) Q F
+E1 ) ) Z # L ^ = ~ = ) Z L = 2 = 6 # 2 X: 2 S # L
+S1 i ) L # 2 ^ # ~ #
+S2 # 4 # ) # 3
+S3 CS Q S Q ~ T =
+S4 ) Z = 3 L =
+S5 ~ = 2 ) Z Q F
+S6 ) i F i G
+S7 H X S # 4 ^ # )
+S8 ) # + # F i

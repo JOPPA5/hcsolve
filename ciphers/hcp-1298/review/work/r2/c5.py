@@ -1,0 +1,15 @@
+from PIL import Image, ImageEnhance
+im=Image.open('work/hires/cpc_--_HU__HU_Jasz-Arokszalas_jolanka-77_adr.jpg').convert('RGB')
+def g(n,b,s=6,k=1.8):
+    x=im.crop(b);x=x.resize((int(x.width*s),int(x.height*s)),Image.LANCZOS)
+    ImageEnhance.Contrast(x).enhance(k).save('review/work/r2/'+n+'.png')
+g('p11',(820,750,1560,880),2.5)
+g('e10a',(620,740,1200,870),3)
+g('e10b',(1100,700,1640,830),3)
+g('n3',(70,860,190,970),6)
+g('sam16',(60,1240,860,1370),2.4)
+g('sam23',(60,1780,860,1910),2.4)
+g('sam23b',(800,1730,1640,1870),2.3)
+g('sam25',(60,1940,860,2080),2.4)
+g('r13',(60,1000,860,1120),2.4)
+g('stamp',(2760,180,3200,780),2.2)

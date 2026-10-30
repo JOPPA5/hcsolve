@@ -1,0 +1,18 @@
+# Reviewer's own shape ledger, read from review/work/crops (hires scan). Shape codes, not letters.
+# LP loop-section, B2 two bars, B3 three bars, ST short+tall, TS tall+short, CH chevron, BW right bowl, IT inverted T,
+# CL crossed curve hooked tail, CD crossed curve straight tail with dot, CS crossed curve straight tail no dot,
+# WV wave, S2 two strokes, S3 three strokes, S4 four strokes (2 + double), GM gamma, CR plain cross, CZ crossed diagonal with tail,
+# GY hook+descender+joined, SX six, FF F-like, OV overwritten sign, CRD cross with dots
+01 LP B3 ST CH B3 BW IT CL WV B2 S2 LP B2 S3
+02 GM CR ST B2 GM CL S3 TS CL GY B3 WV
+03 CR GM CZ B2 BW CL S2 B3 WV TS B2 WV B2 BW CZ
+04 GM CL GM GM B2 S3 B3 GY TS B3 GM B3 WV
+05 LP B3 BW CL SX FF B3 S3 CL BW GM BW CZ CRD
+06 FF B3 GM FF B3 S3 B3 GY B3 LP TS CL WV
+07 S2 B2 B2 BW CL OV CL CZ B2 GM FF B2
+08 CH B2 BW B2 FF S2 B2 TS FF B3 S2 TS B3 BW
+09 CD ST CS SX B3 S4 B3 GY B3 LP WV B3
+10 S3 CL BW GM BW CD B3 GM B3 LP S3 B2 FF
+11 CS BW GM B3 S2 CH B3 WV B3 B2
+12 CH CD BW CZ CL S2 GM WV B2 GM B2 BW
+13 FF B2

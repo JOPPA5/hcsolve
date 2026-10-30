@@ -1,0 +1,25 @@
+# hcp-1826 transcription from work/hires/pc_hcp_507_adr.JPG (read by Claude Opus 5.5, 2026-10-30)
+# Tokens: digits as written; 2' 1' 0' = digit with a raised dot; X = crossed Z-like sign;
+# [0 = 0 in a left bracket with over/underbar; 0] = 0 in a right bracket;
+# (n) = sign inside a circle; . = full stop; {..} = plain numeral kept literal.
+# | = editor's word division (the writer's spacing is only partly reliable).
+# Reading order: side block S01-S12 (card turned 90 deg, from the divider leftwards),
+# then upside-down block T1-T6 (from the card centre out to the top edge).
+S01 0 [0 0] 6 | 18 X 6 17 | 6 2' 18 2' 1' 3 2' 17
+S02 0' X 5 | 8 11 X 9 1' 9 15 | [0 9 | 15 [0 1' 9 15
+S03 [0 9 | 4 14 2' | 4 6 X 1' 9 | 4 14 X 4
+S04 15 2' 4 5 | 4 [0 | (19) | X 4 | {1:48}
+S05 0' 2' 17 9 2' 5 17 X 0 | 19 0] 4 | 1' 16 | 0 [0 0]
+S06 17 [0 | 9 [0 4 | 0' X 9 4 | 10 2' | 4 [0 | 18 [0 10 2'
+S07 4 14 2' 9 | 13 0] 5 4 | 5 X 0 | 5 [0 | X 5 | 16 [0 6
+S08 4 14 2' | [0 4 14 2' 6 | 3 1' 5 1' 4 | (1) | 17 [0 | 9 [0 4
+S09 0' X 9 4 | 4 [0 | 15 [0 | 9 [0 0' | 0] 9 4 1' 11 | 4 14 2'
+S10 11 X 5 4 | [0 16 | (X) 0] 15 . | 4 14 2' 9 | (4) . | 18 X 9
+S11 15 [0 | 0' 1' 4 14 | 10 2' | X 9 17 | 4 14 2' 6 2' | 1' 5
+S12 X 9 [0 4 14 2' | 6 2' X 5 [0 9 . | (11) 2' 4 | 10 2'
+T1 12 9 2' 0' | 1' 16 | 0 [0 0]
+T2 0' X 9 4 | 10 2' | 4 [0 | 18 [0 10 2' | 0' 2' 17 . | [0 6
+T3 0' [0 0] 11 17 | 6 X 4 14 2' 6 | (1) | 0' [0 0] 11 17
+T4 18 [0 10 2' | 5 [0 10 2' | [0 4 14 2' 6 | 4 1' 10 2'
+T5 (1) | 13 0] 5 4 | X 5 | 5 [0 0] 9 | 14 2' 11 8 | 0 [0 0] | 0' 14 X 4
+T6 (1) | 18 X 9 | X 9 0 | 0' X 0 . | 11 [0 3 2' | (18) X 6 6 1' 2' .

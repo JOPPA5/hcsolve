@@ -1,0 +1,29 @@
+# HCP1305 sign ledger, one token per written sign, read by hand from enlarged crops of work/hires/*_adr.jpg
+# Tokens name the sign class by its key letter. :diaeresis / :acute = mark seen on the card.
+# AE? = two or three bars, not decided. Latin text and the two hyphens on the card (rows 9, 14) are quoted with =.
+01 C S Z E R E T E T E D E S J O
+02 L A N K A M K I V A N O M H O G Y
+03 A L E G J O B K E D V E B E N
+04 T A L A L J A S O R A I M H O G Y
+05 M U L A T H A R A S Z T I N
+06 E S M I U J S A G M A G O K
+07 F E L E:acute A M A M AE? H A Z A
+08 J O:diaeresis T T E M A R T U D A T O M
+09 E:acute D E S E M H O G Y =[Koth.Leg.] E G Y =-
+10 L E T I M U L A T S A:acute G =[20án]
+11 L E S Z A M I E L E:acute G R O C Z
+12 K O R L E M I V E L A K O R
+13 A K A R J O L A:acute N K A H E S T
+14 R E M I G Y D A Z E:acute N R E =-
+15 M E N Y E I M T U S T K A N T E K
+16 M E G I N T H E:acute T F O N E:acute J
+17 J E L V O L T E G Y K I S
+18 T U:diaeresis Z U:diaeresis N K I S M O S T M A S T N E M I:acute R H A T O K M I N T
+19 H O G Y I R J O N M A G A I S I S T E N V E L E A V I S Z O N T
+20 L AE? T A S R A
+s1 U:diaeresis D V O:diaeresis Z
+s2 L O M E
+s3 T A V O L
+s4 B O L
+s5 H U:diaeresis K E D
+s6 V E S E F E R Y

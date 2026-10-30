@@ -1,0 +1,40 @@
+# HCP1290 sign ledger, Claude Opus 5.5, 2026-10-30. One token = one written sign, read from enlarged crops of work/hires/*_adr.jpg
+# (made with crop.py and rows.py). Manual transcription, not OCR. Rows 01-27 are the left block; S1-S6 are written on the card where the stamp was (S6 = traces only, not read).
+# Tokens: A-Z = sign class of that letter; F=r  )=s  X=u  6=b  +=f  CS/GY joined digraphs. H and P are one near-homograph sign (tall stroke + tick), split by word sense.
+# Z = crossed diagonal; row 24 first sign is heavy, but its body matches the z at the end of row 23. K covers the section mark and its 5- and 8-shaped variants.
+# :acute / :diaeresis / :double-acute mark ONLY accent marks actually seen; others are supplied in normalization.
+# Specials: [BLOT] = ink bar end of row 06, hides whatever was under it; J? = blotted sign in row 22, read j from sense; I? = sign without a visible dot in row 27; [UNREAD] = row S6, traces above the torn stamp remnant.
+# Review 1 corrections (2026-10-30): row 03 H I GY (was H O GY), row 20 I (was O:acute), row 24 single M (was M M); row 20 GY of hagy is a retouched sign.
+01 ) Z E F E T E T E:acute D E ) J O L A N K A:acute M 6 E CS E ) ) O
+02 F A I T M E G K A P T A M M I T N A GY O N
+03 ) Z E N K O:diaeresis ) Z O:diaeresis N O:diaeresis K K E D V E ) E M H I GY
+04 J E E L E:acute D E N O J A N J O K E D V E L X T A
+05 Z O K M O ) T I ) M I N T M I K O F
+06 E L K E Z D T E M CS A K A J O I ) T E N [BLOT]
+07 E GY E T L E N K E:acute F E:acute ) E M M I N E L E L O:double-acute 6
+08 T E L J E ) I T ) E A Z T M A G A I ) T X D J A
+09 E D E ) E M H O GY M I A Z K E D V E ) E M
+10 N E M P A N A ) Z K O D N I A K A F T A M CS A K
+11 A Z E:acute F T I F T A M H O GY N E V E GY F O ) Z
+12 N E V E N H O GY I J E N F I T K A N I F O K
+13 M A J D E 6 6 E N A H O N A P 6 A N GY A K
+14 F A 6 6 A N I F O K M E F T F E N D E )
+15 CS A P A T 6 A N X T A Z O K E:acute ) E L O:double-acute F E
+16 T X D O M H O M E J I K N A P M I K O F
+17 K E L E L X T A Z N O M ) Z E F D A N
+18 E G E ) Z N A P ) Z A 6 A D L E ) Z E K
+19 E ) M A J D E L M E GY E K A P A ) Z T O
+20 F I N E H O Z I ) H O GY H A GY T X D J A M
+21 M E G H O GY V A N A Z E N D F A G A CS I L A
+22 G O M A M E L I K T O:double-acute L O J? T A V O L V A
+23 GY O K D E N E M ) O K A K O Z E L E H O Z
+24 Z A A ) O F ) K E Z E D E M O ) T 6 E Z A F O
+25 M ) O F A I M M E F T M E N E M
+26 K E L H O L N A P + O J T A T O M
+27 I? ) T E N V E L E D E ) E M
+S1 CS O K
+S2 L O M
+S3 ) Z A M
+S4 T A L A N
+S5 ) Z O F
+S6 [UNREAD]

@@ -1,0 +1,28 @@
+# HCP1287 sign ledger, Claude Opus 5.5, 2026-10-30. Read by eye from enlarged crops of work/hires/...adr.jpg (not OCR).
+# One token = one written sign. Class tokens as in hcp-1216: F=r  )=s  X=u (plain cross)  Z=z (crossed diagonal)  6=b  +=f
+# DD = short stroke left + tall stroke right (d, by form). HH/PP = tall stroke + short stroke right (one sign, h/p; only this choice rests on the word). See SOLUTION.md.
+# A=two bars a, E=three bars e, K=section mark, I=dotted crossed curve, CS=opposed bowls, others plain letter.
+# :U = dots/ticks over the sign (o->o-diaeresis, u->u-diaeresis); :DA = double acute. Ordinary acutes are not transcribed.
+# NINE = dark closed sign, either digit 9 or re-inked k (SOLUTION item 1). [X] = restored, hidden by blot.
+01 K E DD V E ) J O L A N K A M T X DD A T O M
+02 HH O G Y ) Z E F E N C ) E ) E N M E G E F K E Z
+03 T X:U N K E PP PP E N A K O F T E M E T E K E Z T
+04 L A N Y T I J E N ) Z E PP T E M E T E ) M E G
+05 N E M L A T A M DD E M E G J O L A N K A M
+06 ) E A Z X DD V A F L O J A O:U T ) Z O:U F
+07 A J X L T E L X T O L J A F A I )
+08 6 E V I T E K A T E M T O:DA K A PP O L
+09 N A J A 6 A A T E M E T E ) X T A N
+10 E L M E N T E M A ) F F A J K T A N Y A
+11 F A A HH O L N A G Y 6 A T A N ) Z O L
+12 T A K E N I ) O T M A F A DD T A M NINE O
+13 F A I A ) E G E DD E K L A N Y A I
+14 E ) + E L E ) E G E I K E L M X L A T
+15 T X N K E DD E ) J O L A N K A M M E )
+16 X J ) A G O T N E M I F HH A T O K
+17 M I N T HH O G Y N E M T X DD O M
+18 M E DD I G T A F A ) T F A J K DD E A M I
+19 E Z T I L E T I N E M 6 A J A K A F M E DD I G
+20 T A F T 6 E CS E ) ) O F A I T V A F V A
+21 I ) T E N V E L E A V I ) Z O N T L A T A ) [I] G
+22 E DD E ) E [M]

@@ -1,0 +1,68 @@
+row  reviewer / ledger differences
+1 szeretetettedesjolankam 
+   szeretettedesjolankam
+      delete 'et' -> ''
+12 keremajoistenhogy?maga 
+   keremajoistenhogy?mega
+      replace 'a' -> 'e'
+13 szerelm?e?virgaiscsaksza 
+   szerelmemvirgaiscsaksze
+      delete '?' -> ''
+      replace '?' -> 'm'
+      replace 'a' -> 'e'
+15 enlesszekalegboldogabb 
+   enleszekalegboldogabb
+      delete 's' -> ''
+16 feruiavilagonbarmost 
+   ferfiavilagonbarmost
+      replace 'u' -> 'f'
+24 sikferiszebjovovkecsegtettiesangemakkorf?eh 
+   sikferiszebjovovkecsegtettiesangemakkor+?eh
+      replace 'f' -> '+'
+27 hozzaorulokhogyegessegesenisafvagyok 
+   hozzaorulokhogyegessegesenisazvagyok
+      replace 'f' -> 'z'
+33 ueri 
+   feri
+      replace 'u' -> 'f'
+
+letters 659 IC 0.0701
+e98 a81 m44 o43 s41 t39 n37 g37 i35 r31 k25 l22 z21 d17 h17 v17 y15 j12 b10 u8 f6 c3
+classes of key unused: []
+
+edits literal -> normalized (accents stripped):
+  kamfo[j=>ly]tatom
+  oraim[=>at]sajna
+  talke[=>l]ltuda
+  annem[=>me]heteh
+  mhete[=>k]hazam
+  ertit[=>t]ojanv
+  rtito[j=>ly]anvil
+  akoda[=>l]meras
+  kodam[e=>a]rasem
+  ember[h=>p]edigh
+  ighig[=>g]yjeel
+  ghigy[j=>]eeled
+  isarr[e=>a]kerem
+  isten[=>t]hogym
+  hogym[e=>a]gasze
+  emvir[=>a]gaisc
+  saksz[emo=>a]momra
+  ljona[=>k]koren
+  tisan[=>n]akerz
+  magam[=>m]ertbo
+  ertbo[=>l]dogia
+  odogi[=>t]azatu
+  ikfer[=>f]iszeb
+  risze[=>b]bjovo
+  jovov[=>el]kecse
+  egtet[t=>]iesan
+  tties[a=>e]ngema
+  akkor[=>sz]ehnel
+  kkore[h=>pe]nelha
+  agelo[=>t]tisme
+  enyke[h=>p]etvar
+  yeges[=>z]seges
+  velem[e=>a]redok
+  lemer[e=>a]dokok
+  mered[ok=>]oksir

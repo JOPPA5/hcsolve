@@ -1,0 +1,37 @@
+# HCP1343 sign-level transcription (Claude Opus 5.5, 2026-10-30), read from work/hires/pc_hcp_24_adr.JPG
+# (1785 x 1175, the un-converted original) on 3-5x enlarged, deslanted crops.
+# One line per written line, reading order: body (B01-B16), top margin (T1-T7), vertical line at
+# the divider (S1). Words separated by " / ". Same sign codes as hcp-1469/work/transcription.txt:
+#   O circle  3 three-shape  C arch  ) right bowl  . single dot  F gamma corner
+#   G two dots falling  H two dots rising  : two dots vertical  J hook  K angle  L box
+#   M single vertical bar  V caret  Q circle with bar  P bracket with top bar  X circle with centre dot
+#   7 seven-shape  2 two-shape  T inverted T  U T on its side  > right angle  Y caret with central stem
+#   ' apostrophe stroke  ( and ) in B06: PO / PC = the writer's own round brackets
+# V=w: caret read w (context). V=r?: caret where r is expected. C=r?: arch where r is expected.
+# B15 word 4 has three signs (corrected after review 1): gamma; @=[ea] a round sign with a heavy right
+#   stroke (not the barred o; the e dot is not visible); 7@=r? a seven-shape with a small circle inside it.
+#   Read as f[ea]r? = "fear" from context. See SOLUTION.md and for "M Q > . Y".
+B01 M Y / ) . O 7 . 2 T / ) O C=r? L : V G / 3 7 Q V=w V : . / : T / : 2 / V Q V=w
+B02 X U O 7 T . 7 / T Q / T V=w . L > . / O V ) / : / O M / : V / ) : V : V G
+B03 7 Q Q M / H O > . / C Q M . / ) Q V=w V 2 T O : 7 2 / O F T . 7
+B04 C H O V G : V G / : V T Q / 3 L U . / 2 U : T / O V ) / P O C K : V G
+B05 M Y / 3 O G / H O > . / 2 . . V / . T H . L / O V ) / H O 7 Q L )
+B06 PO T H . / L O T T . 7 / V=w O 2 / O V=w O K . / : V / 3 . ) PC / T H . Y
+B07 H O > . V ' T / V=w Q 7 7 : . ) / O 3 Q U T / U 2 / V=w : L L
+B08 T . L L / Y Q U / O L L / T H . / V . V=w 2 / : V / L . T T . 7
+B09 7 . G / H O 2 / T Q / T H O V K / 3 7 Q V=w V : . / ) V=r? . ) F U L
+B10 M U C H / F Q 7 / 2 U C H / O / H O P P Y / V=w . . K . V )
+B11 H . / H O 2 / H O ) / O / ) V=r? . ) F U L / V : C . / T : M .
+B12 7 . G / V=w : L L / F Q 7 G . T / O 3 Q U T / L O 2 T / V : G H T
+B13 : F / 3 7 Q V=w V : . / P 7 Q M : 2 . 2 / T Q Q / O 2 / V=w . L L / O V )
+B14 V Q T / T Q / V=w Q 7 7 Y / O 3 Q U T / : T / 2 H . / H O 2
+B15 V Q / V . . ) / T Q / F @=[ea] 7@=r? / 7 . G / T H : V K 2 / J U 2 T
+B16 T H . / 2 O M . / O 2 / . > . 7
+T1 H . / ) : ) / Q F / 3 7 Q V=w V : . / : / ) Q / H Q P . / Y Q U 7 / M Q > . Y / V=w Q V ' T / V=w Q 7 7 Y / Y Q U
+T2 3 . C O U 2 . / V=w . / 2 O T / : V / T H . / ) O 7 K / Y Q U / C O V T / T . L L / H . 7 / T H O T / V=w . / ) : ) V ' T
+T3 V=w O V T / T Q / O V ) / 2 H Q U L ) V ' T / H O > . / : F / 3 L : V ) 2 / H O ) / 3 . . V / : V / P L O C .
+T4 G Q Q ) 3 Y . / ) . O 7 : . / 7 . G / ) Q . 2 / L Q > . / Y Q U / ) V=r? . ) F U L / L Q T / O V ) / H . / C Q U L ) V ' T
+T5 T H : V K / M Q 7 . / H : G H L Y / Q F
+T6 3 7 Q V=w V : . / T H O V / H . / ) Q . 2 / V Q V=w / O V ) / H . / : 2 / O L V=w O Y 2 / 3 7 Q V=w V : . 2 / Q V=w V
+T7 7 . G G : . / 3 Q Y
+S1 3 . 2 T / V=w : 2 H . 2 / F Q 7 / O / ) . C . V T / V=w . . K / O T / 2 C H Q Q L

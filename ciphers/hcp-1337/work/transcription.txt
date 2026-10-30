@@ -1,0 +1,7 @@
+# hcp-1337 address side, left half; read from work/hires/pc_hcp_18_adr.JPG. One line per card line.
+# Every sign is followed by a dot on the card (a few dots faint or absent, e.g. none seen between F and L in line 4).
+M G D A A H
+Q S D I W S P T
+S Y D H Y A G O
+A D W F L A K F
+Y D C

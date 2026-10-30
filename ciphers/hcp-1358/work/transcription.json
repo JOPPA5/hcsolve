@@ -1,0 +1,30 @@
+{
+ "orientation": "address side, rotated 90 degrees counter-clockwise (work/crops/all_ccw.png)",
+ "rows": [
+  "Nz. Pxo. Efbsftu Cpz.",
+  "uijt jt Tpnfuijoh ofx.",
+  "boe. pof. pg. oz.",
+  "gpwpvsjuf. Iznot",
+  "Mpwf. Gspn. Zpvst.",
+  "Hjsm."
+ ],
+ "plain_not_enciphered": "March 8th (or 18th, stroke before the 8 is a joined lead-in, no separate 1 visible); year not read, 1907 from portal - dated in ordinary writing at the foot, left of Hjsm",
+ "slips": [
+  {
+   "word": "oz",
+   "sign": 1,
+   "read": "o",
+   "expected": "n",
+   "literal": "NY",
+   "intended": "MY"
+  },
+  {
+   "word": "gpwpvsjuf",
+   "sign": 2,
+   "read": "p",
+   "expected": "b",
+   "literal": "FOVOURITE",
+   "intended": "FAVOURITE"
+  }
+ ]
+}

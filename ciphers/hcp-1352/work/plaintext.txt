@@ -1,0 +1,9 @@
+Heading (plain): G. H. Friday (ordinary writing, underlined, not shifted). 1 Feb 1907 was a Friday; postmark Wimborne FE 1 07.
+TAKE. CARE. I. HAVE. MADE.
+NO. MISTAKES. I. AM. VERY
+MUCH. AMUSED. WITH OUR
+NEW. PLAN. MY. LOVE.
+ON. A. POST. CARD. HOW.
+NICE. THIS. IS. SECRET. L.O.O.
+97 enciphered letters decoded + 0 group letters kept literal; hashes OK.
+Sign-level normalisations: Ualf. -> Ublf.; dasf. -> dbsf.; nvdg. -> nvdi.; ofx?. -> ofx.; a. -> b.; dase. -> dbse.; uift. -> uijt.; gt. -> jt.

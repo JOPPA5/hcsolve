@@ -1,0 +1,20 @@
+# HCP1294 sign ledger, Claude Opus 5.5, 2026-10-30. Read from enlarged crops (work/crop.py, work/zoom.py) of the hires address side.
+# One token = one written sign, named by its key value in the Jolánka family key (see SOLUTION.md).
+# Tokens: lower-case letters; cs = opposed bowls; O: = o-sign with a dot/stroke mark over it (ö/ő); H, P = the tall-stroke-plus-short sign (h/p homograph,
+# H or P by word sense; undecided in row 8, where H is only a label); X = plain cross u; Z = crossed/tailed diagonal z; n* = two strokes whose shape leans to d (short + long), n by word sense;
+# d = short tick + long stroke; j! = sign under ink blot, inverted-T still visible; a! = a whose upper bar is under a blot; O1 = o-sign with a single dot.
+01 k e d v e s j o l a n k a m
+02 b e cs e s s o r a i t k O:
+03 s Z O: n e t t e l m e g k a P
+04 t a m s a j n a l a t a l o l
+05 v a s o m o l y s o k a t
+06 d o l g o l g o Z i k
+07 m i n* e k v a l a l a n n y i
+08 m X n k a t o s Z e H o l a d O1 k
+09 v e t l e n* e l m e g y e k
+10 b a r n a g y o n r o s Z i d O:
+11 v a n cs a k H o l n a P r a j o
+12 i d O: l e n n e n a j! d s Z o
+13 v a l b O: v e b b e n i s t e n
+14 v e l e a v i s Z o n t l a! t a s
+15 r a

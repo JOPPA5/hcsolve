@@ -1,0 +1,39 @@
+# HCP1307 sign ledger, Claude Opus 5.5, 2026-10-30. Read by hand from enlarged crops of work/hires/*_adr.jpg; one token = one written sign.
+# Sign codes: = two bars a | 6 six b | () opposed bowls cs | % long stroke with tick at upper left d | E three bars e | + upright cross f
+#  G zigzag with descender g | H tall stroke with tick/short stroke at right (h and p, one sign) | @ dotted crossed curve i | J inverted T j
+#  K section-mark S k | ~ wave l | 3 three strokes m | 2 two strokes n | O cursive loop o | R F-shape r | ) right bowl s | T gamma t
+#  X plain cross u | V chevron v | Y low descender y (G Y = gy) | Z crossed diagonal z
+# Suffixes: ' acute seen; : two dots/ticks seen (o: covers ö and ő, the marks are not distinguished here); * corrected sign; ? shape doubtful (word sense decides); ^ restored, sign hidden.
+# Accents not marked here were not seen and are supplied only in the normalization.
+01 ) Z E R E R E T E T? E' % E ) J O ~ = 2
+02 K =' 3 V = R V = V =' R* T ) O R = @ T
+03 3 E G K = H T = 3 3 @ T 2 = G Y O 2
+04 ) Z E' H E 2 K O: ) Z O: 2 O: K E' % E ) E 3
+05 O J = 2 2 E H E Z E 2 3 E' G 2 E 3 V = R T = 3
+06 ) O R = @ T 3 @ 2 T 3 O ) T E' % E ) E 3
+07 X G Y J = J T ) Z @ V E 3 = 2 G Y = ~ O 3
+08 H O G Y 3 E' G K E % E 2 ) E 3 K = H T = 3
+09 3 E G ) O R = @ T 3 @ 2 T R E 2 % E
+10 ) E 2 3 @ 2 % J = R T = R R = G O 2 % O ~
+11 T = 3 E' % E ) E 3 H O G Y 3 E G H = R =
+12 G X % O T H O G Y 2 E 3 3 E 2 T E 3
+13 ~ E @ G = Z = 2 E' % E ) E 3 () = K @ J E 2
+14 K O R E' R Z @ = Z E 3 6 E R H O G Y
+15 3 E 2 Y @ R E ) Z E R E T E 3 3 =
+16 G =' T E' % E ) E 3 3 E' R = Z = G O 2 % O
+17 ~ = T @ ) E ~ K E ) E R @ T E T = 2 Y @ R =
+18 H O G Y 2 E 3 V O ~ T K E % V E 3 ) E 3
+19 3 @ H E? Z @ ) T E 2 3 E 2 T ) = R R =
+20 2 E 3 @ ) 3 E R E K G O 2 % O ~ 2 @ % E
+21 3 = G =' T? E ~ V E ) Z T E 2 E' 3 6 @ Z
+22 T O ) H = ~ =' ~ O 3 ~ E 2 2 E K E' R E 3
+23 3 = G =' T E' % E ) E 3 2 E 3 K @ V =
+24 2 O K T O: 6 E T () = K ~ E G = ~ = 6 6
+25 E G Y ~ = H O T @ T J O 2 V = ) =' R 2 = H 3 E R T H = T X % 2 = 3 @ J E 2 2 E H E Z E 2
+26 V =' R O 3 E 2 ) O R = @ T E Z T = K E' R E' ) E 3 T E ~ J ) @ T E 2 @ + O G J =
+S1 () O K O ~ O 3^
+S2 ) Z = 3 T =
+S3 ~ = 2 ) Z O R
+S4 ) Z E R E T O:
+S5 K E % V E ) E
+S6 + E R @

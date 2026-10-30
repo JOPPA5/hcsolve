@@ -1,0 +1,31 @@
+# Reviewer's own sign-by-sign reading from review/work/crops (not copied from work/ledger.txt).
+# Codes: = two-bars, 6 six, ( left-bowl, d joined-two-strokes, E three-bars, + cross, G open-loop-descender,
+# H tall-short (h/p), i dotted-crossed-curve, J inverted-T, K section-mark, ~ wave, M three strokes, N two strokes,
+# O loop, F F, ) right-bowl, T gamma, X x, V chevron, Y low-descender, Z crossed-diagonal, ? undecided bars.
+# ^ acute, " diaeresis. Latin text and hyphens omitted.
+01 ( ) Z E F E T E T E d E ) J O
+02 ~ = N K = M K i V = N O M H O G Y
+03 = ~ E G J O 6 K E d V E 6 E N
+04 T = ~ = ~ J = ) O F = i M H O G Y
+05 M X ~ = T H = F = ) Z T i N
+06 E ) M i X J ) = G M = G O K
+07 + E ~ E^ = M = M ? H = Z =
+08 J O" T T E M = F T X d = T O M
+09 E^ d E ) E M H O G Y E G Y
+10 ~ E T i M X ~ = T ) =^ G
+11 ~ E ) Z = M i E ~ E^ G F O ( Z
+12 K O F ~ E M i V E ~ = K O F
+13 = K = F J O ~ =^ N K = H E ) T
+14 F E M i G Y d = Z E^ N F E
+15 M E N Y E i M T X ) T K = N T E K
+16 M E G i N T H E^ T + O N E^ J
+17 J E ~ V O ~ T E G Y K i )
+18 T X" Z X" N K i ) M O ) T M = ) T N E M i^ F H = T O K M i N T
+19 H O G Y i F J O N M = G = i ) i ) T E N V E ~ E = V i ) Z O N T
+20 ~ ? T = ) F =
+s1 X" d V O" Z
+s2 ~ O M E
+s3 T = V O ~
+s4 6 O ~
+s5 H X" K E d
+s6 V E ) E + E F Y

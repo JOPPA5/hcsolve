@@ -1,0 +1,13 @@
+{
+ "method": "Manual visual transcription (Claude Opus 5.5, 2026-10-30) of work/hires/pc_hcp_54_adr.JPG rotated 90 degrees counter-clockwise (work/reading.jpg), crops enlarged 3-6x in work/crops/. No OCR. Picture side has no handwriting. Dots are transcribed only where they separate words and carry no meaning.",
+ "ordinary_heading": "G. H. Monday.  No 1  (not enciphered; G preferred after review 1, C not excluded; the sign after No may also be an exclamation mark)",
+ "rows": [
+  [{"kind":"cipher","text":"Nz."},{"kind":"cipher","text":"Pxo."},{"kind":"abbrev","text":"E. L."},{"kind":"cipher","text":"Cpz."}],
+  [{"kind":"cipher","text":"J."},{"kind":"cipher","text":"bn."},{"kind":"cipher","text":"hpjoh."},{"kind":"cipher","text":"po."}],
+  [{"kind":"cipher","text":"odjfmz."},{"kind":"mark","text":"&"},{"kind":"cipher","text":"bcpvu"}],
+  [{"kind":"cipher","text":"Nz."},{"kind":"cipher","text":"Sppn."},{"kind":"cipher","text":"usz."},{"kind":"cipher","text":"Vtvbm"}],
+  [{"kind":"cipher","text":"gps."},{"kind":"plain","text":"Friday."},{"kind":"cipher","text":"Nz."},{"kind":"abbrev","text":"N. & L."}],
+  [{"kind":"cipher","text":"Gspn."},{"kind":"cipher","text":"Zpvs."},{"kind":"cipher","text":"Pxo."},{"kind":"abbrev","text":"E. L."}],
+  [{"kind":"cipher","text":"Hjsm"}]
+ ]
+}

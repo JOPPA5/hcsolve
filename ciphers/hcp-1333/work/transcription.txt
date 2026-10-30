@@ -1,0 +1,19 @@
+# hcp-1333 sign-by-sign transcription (Claude Opus 5.5, 2026-10-30), read from work/hires/pc_hcp_14_adr.JPG.
+# One card line per file line. Token = SIGN.value; SIGN is the glyph class, value is the letter chosen in context.
+# "/" = word gap in this edition (the card's gaps are unreliable; signs run over them); "-" = hyphen on the card.
+# "!" after a token = physically obscured sign, restored (see SOLUTION.md).
+# Revised after review 1: q moved from U to W, p split off Q as sign 9, Y merged into Z, c/ç written out on T.
+W.q O.u Q.i H.n Q.i I.t X.o / L.d X.o / P.m R.e O.u / T.c X.o L.r U.a T.ç U.a X.o
+H.n U.a X.o / U.v R.e H.n E.h U.a F.s / V.l X.o W.g X.o
+U.a F.s / T.c Q.i H.n T.c X.o / E.h X.o L.r U.a F.s / 9.p X.o L.r -
+W.q O.u R.e / I.t R.e H.n E.h X.o / L.d R.e / Q.i L.r / 9.p U.a F.s -
+F.s R.e Q.i U.a L.r / T.c X.o P.m / U.a / N.m U.a P.m U.a
+9.p! L.r X.o U.v U.a U.v R.e V.l N.m R.e H.n I.t R.e / 9.p U.a -
+L.r U.a / X.o / V.l U.a W.g U.a L.r / H.n X.o U.v X.o
+U.a! X.o / F.s X.o V.l / 9.p X.o F.s I.t X.o / Z.j U.a / L.d R.e U.v R.e -
+P.m X.o F.s / T.c U.a / R.e F.s I.t U.a L.r / O.u P.m
+S.b R.e Q.i Z.j X.o / U.a X.o / V.l O.u Q.i s.z Q.i I.t X.o
+F.s U.a O.u L.d U.a L.d R.e F.s / U.a / V.l U.a O.u L.r U.a
+R.e / 9.p U.a O.u V.l X.o / R.e / O.u P.m / U.a S.b L.r U.a -
+T.ç X.o / L.d U.a / I.t O.u U.a / I.t L.r Q.i s.z / U.a I.t R.e - /
+V.l X.o! W.g! X.o / U.a P.m X.o L.r F.s Q.i I.t X.o

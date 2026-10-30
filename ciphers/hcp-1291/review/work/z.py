@@ -1,0 +1,11 @@
+import sys; sys.path.insert(0,'/Users/tomaspavuk/Desktop/hcsolve/ciphers/hcp-1291/review/work')
+from crop import crop
+crop('z_r03',230,250,620,340,3.5)
+crop('z_r04',540,290,960,370,3.5)
+crop('z_r11',720,950,1040,1040,4)
+crop('z_r12a',60,1010,520,1110,3.2)
+crop('z_r12b',480,1010,1000,1110,3)
+crop('z_r13',340,1130,860,1230,2.9)
+crop('z_r18',400,1585,1000,1690,2.5)
+crop('z_r05',380,400,620,500,4)
+crop('z_s6',2760,630,3140,750,4)

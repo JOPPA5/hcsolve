@@ -1,0 +1,20 @@
+{
+  "method": "Manual visual transcription by Claude Opus 5.5, 2026-10-30, from work/hires/pc_hcp_33_adr.JPG rotated 90 degrees counter-clockwise; enlarged 2-5x crops in work/crops/. No OCR.",
+  "key": "Caesar: each plaintext letter written as the next letter (decrypt -1, A->Z)",
+  "heading_plain_not_enciphered": "G. H. Friday (ordinary writing, underlined, not shifted). 1 Feb 1907 was a Friday; postmark Wimborne FE 1 07.",
+  "note": "Each token is [as_seen, normalised]. as_seen is the sign shape on the card; normalised is what the Caesar key is applied to. They differ only at the points listed in SOLUTION.md. The g in as_seen means the closed-bowl, long-looped-descender sign, which occurs in nvdg and in jt.",
+  "rows": [
+    [["Ualf.", "Ublf."], ["dasf.", "dbsf."], ["J.", "J."], ["Ibwf.", "Ibwf."], ["nbef.", "nbef."]],
+    [["op.", "op."], ["njtublft.", "njtublft."], ["J.", "J."], ["bn.", "bn."], ["wfsz", "wfsz"]],
+    [["nvdg.", "nvdi."], ["bnvtfe.", "bnvtfe."], ["xjui", "xjui"], ["pvs", "pvs"]],
+    [["ofx?.", "ofx."], ["qmbo.", "qmbo."], ["Nz.", "Nz."], ["mpwf.", "mpwf."]],
+    [["po.", "po."], ["a.", "b."], ["Qptu.", "Qptu."], ["dase.", "dbse."], ["Ipx.", "Ipx."]],
+    [["ojdf.", "ojdf."], ["uift.", "uijt."], ["gt.", "jt."], ["Tfdsfu.", "Tfdsfu."], ["M.p.p.", "M.p.p."]]
+  ],
+  "source_sha256": {
+    "source/picture-large.jpg": "983d1d565eb8c22e9493644a26757052167d0f6c9921bdf4aa299ebeb24af405",
+    "source/address-large.jpg": "0b23af519d3af9b0f7fffb7c49ad992bf6849495317bda7775a86c3b87f38f92",
+    "work/hires/pc_hcp_33_pic.JPG": "43e4a8e29318e9052c3d6e0e236d72cabd883c8a4fca140538d4e8c3db27a452",
+    "work/hires/pc_hcp_33_adr.JPG": "060335ff5d3e7964fe6d8b70acae0fc7238d249315a4a3fa9f0062f8ec829ecd"
+  }
+}

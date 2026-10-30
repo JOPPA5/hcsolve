@@ -1,0 +1,17 @@
+# One token per sign (letter value of the Jolanka-family key, hcp-1216). (x)=washed, read from shape plus sense; ?=unread.
+# Rows 1-15 of the left panel. PARTIAL: row 15 and the first sign after "teremtett" are not read.
+01 k e d v e s j o l a n k a m
+02 r e m e l e m h o gy a
+03 k e d v e b e n t a l a l
+04 j a c o r a i m n a l u n k
+05 n i n c s s e m m i u j s a g
+06 h a t o n k n e l e d e s e m
+07 v a l a m i u j s a g m o s t
+08 m a s t n e m c a k a z a v e r
+09 s e t d e e b e a l e g j o b b
+10 g o n d o l a t a i b e n n e v a n
+11 e n a z t h i s z e m e d e s k i n c s e m
+12 s a z m a s k e p e m i s l e (h) (e) t
+13 (h) o gy m i n k e t a z (u) r i s t e n
+14 (e) (gy) (m) (a) (s) (n) (a) (k) (t) (e) (r) (e) (m) (t) (e) (t) (t) ? (l) (a) (t) (a) (s) (r) (a)
+15 ? ? ? ? (a) (n) ? ? ? ? ? ? ? ?

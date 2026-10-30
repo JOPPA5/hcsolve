@@ -1,0 +1,13 @@
+{
+ "note": "Read by hand from work/hires/pc_hcp_478_adr.JPG rotated 90 deg CCW (work/reading.png). c = enciphered, p = clear, l = literal group not shifted, u = unresolved group (Wbm preferred, weaker alternative Wbn, changed after review 1).",
+ "lines": [
+  [["p","G."],["p","H."],["p","Wednesday"]],
+  [["c","Nz."],["c","Pxo"],["l","E. L."],["c","Cpz."]],
+  [["c","J."],["c","bn."],["c","Tfoejoh"]],
+  [["u","Wbm"],["c","Gps."]],
+  [["p","Sat."],["p","Morning."]],
+  [["c","Nz."],["l","Nu. & L."],["c","Gspn"]],
+  [["c","Zpvs."],["c","Pxo."],["l","El."]],
+  [["c","Hjsm."]]
+ ]
+}

@@ -1,0 +1,22 @@
+{
+  "method": "Manual visual transcription from work/hires/pc_hcp_56_adr.JPG (rotated 90 degrees counter-clockwise, 3-8x enlargements); no OCR.",
+  "key": "Caesar -1",
+  "heading_plain_not_enciphered": "(G. H.) Tuesday",
+  "dateline_plain_not_enciphered": "Oct. 15th = 1907.",
+  "source_sha256": {
+    "picture-large.jpg": "3c75fd394a3b5ac741d769a4ef2806808d98c13919e5b8f3ac831b2f8326f757",
+    "address-large.jpg": "90af964825a252ae193a1e9399401ad99fc862a15c25999e004b92453e91b119"
+  },
+  "hires_sha256": {
+    "pc_hcp_56_pic.JPG": "58ec06e4cd0704ec2fcbfd4526dc8ce618a98ecc3fabdda73a66c049d4bc2ce0",
+    "pc_hcp_56_adr.JPG": "22708876f0634691ad7a74f8ac818f7e5cd9351e81acbdd78449cbb617673ac1"
+  },
+  "rows": [
+    ["Nz.", "Pxo.", "{E. L.}", "Cpz"],
+    ["J.", "xbt.", "pvu.", "gps"],
+    ["b.", "mjuumf", "tqjo"],
+    ["uijt.", "bgufsoppo"],
+    ["Nz.", "{N & L}", "gspn."],
+    ["Zpvs", "Pxo.", "{E. L.}", "Hjsm"]
+  ]
+}

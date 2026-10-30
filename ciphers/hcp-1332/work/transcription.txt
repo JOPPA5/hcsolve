@@ -1,0 +1,27 @@
+# hcp-1332 sign transcription, read by Claude Opus 5.5 from work/hires/ (enlarged crops), 2026-10-30.
+# One Latin capital/digit = one cipher sign (see the sign table in SOLUTION.md). ^ = stroke/accent the writer put over the
+# preceding sign; ~ = tilde/breve over it. Punctuation, hyphens and gaps are as on the card (gaps approximate).
+# Sign M stands for both a and v (v only in va-/mos, velho); the decoder picks v by context, see SOLUTION.md.
+# Corrected after review 1 (2026-10-30): P1 four signs added, A7 final C added, A8 gap, W merged into M.
+# Lines: A1-A18 main text, M margin (vertical, right of main text, continues A18), P picture side (top left).
+A1 PBO UOQHQAX. SM SXZB 9XR TM^
+A2 OPM URMHLB ABVSM. BCMDB C9XR-
+A3 UOB^? 9XR UOB MVMORM ZM^ SXHABP
+A4 FXQM^ UOQHAM, B9MRM MCBPMHM
+A5 ZM^ 9XLB QRMX DXHQAX.! BCAMHXQ-
+A6 AB CX^ CXHSBQ TXP XVOQ5QAX. MM-
+A7 PXC SXZB M AXRRBC, BTXPM
+A8 9MABRHQLMLB. UOB LBC 9MRM
+A9 VM^ MVUOPM TXQCM? XHXC-
+A10 CX CXDRQHSQAX UOMHLX FXR
+A11 PMQC MBVSX SM LB CBR
+A12 TXPX BCCB PBHQHX. BPOQ-
+A13 AX TSQT X ABO DQVSBAB
+A14 UOMVUOBR LQM VM^ QRBPXC.
+A15 MLBOC MPXRCQAX MAB-
+A16 CMDDMLX!! MDRMTM-AB
+A17 TXP AXLX X MPXR MCXC
+A18 CBP9RB CX^ AOM ARQ5. BSXZB
+M HM~X AB PMH-LX OP DBQZX!!
+P1 M PQHSM TMDBTM
+P2 BCAM^ PBVSXR.

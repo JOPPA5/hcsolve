@@ -1,0 +1,6 @@
+# hcp-1335 message side, one line per card line; ~ marks a doubtful sign; read from work/hires/pc_hcp_16_adr.JPG (crops in work/crops/)
+M O D A A H Q
+S D~ D N F N T W
+F M D R~ D H Y A
+F M B O W F L A K
+F Y D C

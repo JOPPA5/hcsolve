@@ -1,0 +1,7 @@
+# hcp-1339 address side, read from work/hires/pc_hcp_20_adr.JPG. Line breaks as on the card; ? = overwritten sign
+# L2 sign 4 H (alt B); L3 sign 1 unresolved; L3 sign 3 cursive Y/J; L4 sign 6 F (alt E); L5 sign 1 L shape (alt Y)
+M O D A A H
+Q S D H A R R D
+? H Y W G O A D
+W F L T A F K F
+L E D C

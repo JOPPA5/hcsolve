@@ -1,0 +1,31 @@
+# Reviewer's own transcription (Claude Opus 5.5, reviewer), sign-class codes, from review/work/crops. Not derived by editing the solver's ledger.
+# bar2 bar3 six dT(short+long) hP(long+short) xcross(z) ucross fp(+) bowlR(s) bowlLR(cs) sect(k) ging(g) yloop oloop iloop gam(t) gamgam(tt) wave chev bar stroke2 stroke3 invT eff
+01 bowlR xc bar3 eff bar3 gam bar3 gam bar3 dT bar3 bowlR invT oloop wave bar2 stroke2 sect bar2 stroke3
+02 bar3 dT bar3 bowlR bar3 ging yloop bar3 gam wave bar3 stroke2 eff bar3 stroke3 bar3 stroke2 yloop bar3 stroke3
+03 sect iloop chev bar2 stroke2 oloop stroke3 hP oloop ging yloop bar2 wave bar3 ging invT oloop six
+04 sect bar3 dT chev bar3 six bar3 stroke2 gam bar2 wave bar2 wave invT bar2 bowlR oloop
+05 eff bar2 iloop stroke3 hP oloop ging yloop stroke3 ux wave bar2 gam oloop gam
+06 chev bar2 bowlR bar2 eff stroke2 bar2 hP eff bar3 stroke3 bar3 wave bar3 stroke3
+07 invT oloop wave bar2 stroke3 iloop bar3 stroke2 ging bar3 stroke3 iloop wave bar3 gam
+08 half nine sect oloop eff invT oloop gam bar3 stroke3 hP bar2 xc bar2
+09 bar3 bowlR wave bar3 fp bar3 sect uxd dT gam bar3 stroke3 bar3 bowlR
+10 bar2 wave ux dT gam bar2 stroke3 bar2 xc bar2 wave chev bar2 bowlR
+11 stroke3 bar3 ging stroke3 bar3 stroke2 gam bar3 gam bar2 gamgam oloop wave
+12 bar2 ging oloop stroke2 ging oloop sect gam oloop wave hP oloop ging yloop
+13 stroke2 bar3 stroke3 gam oloopdd wave gam hP bar3 gam bar3 stroke3
+14 stroke3 bar2 ging bar2 chev bar2 wave bar3 xc gam chev bar2 bowlR bar2 eff
+15 stroke2 bar2 hP oloop gam iloop ging bar2 xc hP oloop ging yloop
+16 stroke2 bar3 stroke3 bar2 wave bar3 ging invT oloop six six iloop dT oloop
+17 chev oloop wave gam dT bar3 bar2 bowlR xc oloop six bar2 six barQ
+18 stroke2 bar3 stroke3 bar3 bowlR iloop sect bar2 xc bar3 bowlR bowlR oloopdd
+19 stroke3 oloop bowlR gam stroke3 bar2 eff gam oloop six six bar3 gam
+20 stroke2 bar3 stroke3 iloop eff oloop sect bar3 xc bar3 wave six bar3 xc bar2 eff oloop stroke3 bowlR oloop eff bar2 iloop stroke3 stroke3 bar2
+21 eff bar2 dT oloop sect bowlR iloop hP uxd iloop stroke3 bar2 dT oloop invT bar2 fp bar3 eff iloop stroke3 bar2 invT dT bowlR xc bar3 eff dT bar2 stroke2
+s1 iloop bowlR gam bar3 stroke2 chev bar3
+s2 wave bar3 bar3 dT bar3 bowlR bar3 stroke3
+s3 HID xc bar2 stroke3 gam bar2
+s4 wave bar2 stroke2 HID xc oloop eff
+s5 bowlLR oloop sect oloop wave
+s6 HID xc bar3 eff barQ
+s7 gam oloop sect bar3 dT chev bar3
+s8 bowlR barQ stroke2 fp bar3 eff iloop

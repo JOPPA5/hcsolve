@@ -1,0 +1,9 @@
+# Lines in writing order (card turned 90 degrees anticlockwise); every sign is followed by a dot on the card.
+# ? = sign with a second possible reading, see NOTES.md
+M S? A A W Y? D
+Y? D B D
+D K A D H H Y?
+C? L L H
+---rule---
+H M F? L A K Y?
+E L S  [clear signature: Jack.]

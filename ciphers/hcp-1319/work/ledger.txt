@@ -1,0 +1,18 @@
+# HCP1319 sign ledger, read by hand from enlarged crops of work/hires/*_adr.jpg (crops in work/crops/).
+# Not OCR, not blind to the family key. One token per written sign. Tokens are sign classes:
+# letters as in the HCP1216 key; H and P = the one h/p sign (tall stroke + short on the right), split by sense; SD = short + tall (d);
+# Row 3 was corrected after review 1: the card has no a between t and z (written utzason). Row 9 first sign: dot seen, smeared.
+# GY = joined gy; :diaeresis = dots seen over the sign; a trailing ? = value rests on word sense (see SOLUTION.md).
+01 K E SD V E S J O L A N K A M
+02 T U SD A T O M H O GY E L
+03 U T Z A S O N E L H A L A S Z
+04 T O T T A M E GY H E T E L
+05 K E S O B R E M O S T S Z U:diaeresis
+06 R E T R E M E GY E K H O L
+07 N A A S O R? O Z A T R A
+08 V A S A R N A P R E N D? E S
+09 I SD O? B E N M? E GY E K L E
+10 M O S T S I E T E K M A R
+11 I S T E N V E L E A
+12 V I S Z O N T L A T A S
+13 R A

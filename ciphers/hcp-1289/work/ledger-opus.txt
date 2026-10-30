@@ -1,0 +1,45 @@
+# HCP1289 sign ledger, Claude Opus 5.5, 2026-10-30. Manual transcription from enlarged crops of work/hires/*_adr.jpg
+# (not OCR; made with word sense in view). One token = one written sign, written signs kept as seen, misspellings included.
+# Tokens: letter = its family class; F=r  )=s  X=u  6=b  +=f  CS=joined-looking "( )" pair
+# H = tall stroke + tick at right (h/p near-homograph); D = stroke + tick at left or joined
+# :diaeresis = dots seen over the sign (accents are not transcribed)
+# suffix ^ = sign hidden by blot/edge, restored, printed in [ ]; suffix # = visible sign struck out by the writer, printed in ( );
+# suffix ? = sign class doubtful, printed with ?. See SOLUTION.md.
+# Revised 2026-10-30 after review 1: signs re-read from enlarged crops of work/hires (rows 2,4,8,10,18,27,28,29); see SOLUTION.md, Response to review 1.
+01 D F A G A CS I L A G O M 6 E CS E ) ) O
+02 F A I T M E G K A H T A M M E L Y E T K O:diaeresis ) Z O:diaeresis
+03 N O:diaeresis K O T T O 6 I V A G Y I ) K E D I ) O F A
+04 I T I ) M E G K A H T A M D E E? L + E L E D T E M
+05 M E G K O ) Z O:diaeresis N N I 6 A F ) O F A I F A V A L A
+06 ) Z O L T A M 6 O CS A ) ) A M E G + E L E D E K E N Y
+07 ) E G E M E T ) O F A I 6 O L O L V^ A ) O M H O G Y
+08 K E F E ) E M H A J L A N D^ O J? E L J E ) I T E
+09 T E N I M E L Y N E K I G A Z A N O:diaeresis F X:diaeresis L O:diaeresis K
+10 E ) H O G A D J A K O:diaeresis ) Z N E T E M E T E D E )
+11 E G Y E T L E L F E M E N Y E M A Z T M A F
+12 N E M I ) K E L M O N D A N O M H O G Y M I L Y#
+13 + O F F O N E ) ) Z I V 6 O:diaeresis L ) Z E F E T E M
+14 M A G A T E D E ) A Z T M A F X G Y I ) T X D
+15 J A E ) H O G Y A H E Z G Y O:diaeresis Z E V A G Y
+16 ) Z E F E L E M E Z CS A K E G Y T E ) Z
+17 M I N K E T 6 O L D O D O G A M E F F H I
+18 J A 6 A V A K O:diaeresis Z T X:diaeresis N A + O F F O ) Z E
+19 F E T E T H E N Z N E L K X^:diaeresis L N E M T E L E
+20 J E ) X:diaeresis L H E T E G Y E ) X:diaeresis L E ) X:diaeresis L E ) X:diaeresis N K
+21 M O ) T M A F M I N D E N T O:diaeresis F E K V E
+22 ) E M A Z H O G Y A Z T A H E N Z T M E G
+23 ) Z E F E Z Z E H O G Y + E + E ) E G E M E
+24 T E H E ) ) E M M E F T CS A K A K K O F
+25 L E ) Z A 6 O L D O G ) A G X N K T E L J E )
+26 T E H A T A F A K E F E M A Z I ) T E N T H O G Y E Z T H A G Y M E G ) Z E F E Z N I M I N E L
+27 E L O?:diaeresis 6 6 H O G Y M I N E L E L O:diaeresis 6 6 6 O L D O G O K L 6 A F M O ) T I ) A Z O K V A G Y X N K A ) A N
+28 D O F M E G F A E F E K M E G + O G L A L K O Z N I CS A K M I K E T T E N L E G? Y ) Z E F? E T E T E L
+29 E G Y M A ) I F A N T I ) T E N V E L E E D E ) E M E N I ) ) Z E F E T N E K M A F T A L A L K O Z N I^
+S1 CS K O L O M
+S2 A K I ) ) Z A J A T
+S3 G O N D O L J O N
+S4 N E H A^ F A M
+S5 E D E ) E M
+S6 M I? N T E N
+S7 M A G A F A
+S8 + E F I

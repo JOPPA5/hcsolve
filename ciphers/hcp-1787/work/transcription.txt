@@ -1,0 +1,30 @@
+# id <TAB> cipher tokens (space = word gap on card) <TAB> reading (same number of words)
+# signs: 0 1 2 3 4 5 6 8 9 v x z c S(=crossed s) U o(sigma) a ; ? = illegible sign
+# after a sign: _ heavy stroke (a) ; / slash through sign (o) ; - dash (e) ; -^ hooked dash (e-caron)
+#               . dot (i/y) ; : two dots (u) ; ^ caron ; R ring (1R = d-caron in Madar)
+# {...} = cleartext on the card, copied as is
+# punctuation, ignored by the decoder: = written question mark ; , low dot after a word
+A01	z-51	jest
+A00	2-1-0-	neděle
+A01b	{½} {7} {hod} 4_2/	½ 7 hod ráno
+A02	o1-5^-0 z5-3 x 9_5_4-2	odešel jsem z kasáren
+A03	1/ 6_49: v/14_21. z9 94_5_	do parku Vodranty jak krása
+A04	x1- x_ 1_9 94_52-8/ 3_z/v-8/	zde za tak krásného májového
+A05	z.14_ vx6/3.2_3 5. 2_ v5 3.0/v2_	jitra vzpomínám si na vás milovaná
+A06	3_4^-29/ a 2_ 14_8. 1/3/v	Mařenko a na drahý domov
+A07	z_9 4_1 6.8 5- 6.0 6/1.v_0 1/3:	jak rád bych se byl podíval domů
+A08	a0- 2_5^ 8z13_2 64/90-1. 3_1R4	ale náš hejtman prokletý Maďar
+A09	2-1/8/0.0 a2. z-12/8/, x^- z_53-	nedovolil ani jednoho že jsme
+A10	5-3 64.50. 2_ 14^. 2-1-^0- a 91.x^	sem přišli na tři neděle a když
+A11	2_3 1_ z-12/: ax^ x_ 1.1-2 1/-	nám dá jednou až za týden to
+A12	1/8/ 3_3- 1/51. 1_9 5- 1-^5^.3	toho máme dosti tak se těším
+A13	x1_0. 6.8/3 5- 3/80: v.1_-^1= 2-8/1.1-	zdali bychom se mohli vidět nechodíte
+A14	2_ 6/2v0.29= v4/x1-^4^. z51- 1_9-	na Ponávlink Vrozděři jste také
+A15	2-6.0_ z-5^1- 0-1/5=	nebyla ještě letos
+P01	5-1.3 2_ 0_vc- a 6.5^: 64.z-1R1- 5-3 v- 51-^1: 91-1.c-=	sedím na lavce a píšu přijeďte sem ve středu ktetice
+P02	z_9 5^1_51-2 6.8 6.0 91.6.8	jak šťasten bych byl kdybych
+P03	v_5 v.1-0 6/ 6/9: 5v.3	vás viděl po boku svým
+B01	U 1/8/1/ x_39: z- c-0. ?9 1_-^0_3- 9_x^1. 1-2 v-09- 3_45-	u tohoto zámku je celý [?]k děláme každý den velké marše
+B01b	x^- 9_x^1.	že každý
+B02	5. 2_ 4^.9_ x^ 8/ 6/0-z. 2/8. ?-6- ax^ 6:1- ?1_0v41_ 2-1-^0-	si na říká že ho bolejí nohy [?]ebe až bude [?]talvrtá neděle
+B03	S41-c2-^ v_5 x14_v. 6_c a 6:5: 6/5.0_ v5 {Otta}	srdečně vás zdraví pac a pusu posílá váš Otta

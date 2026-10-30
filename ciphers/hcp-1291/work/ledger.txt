@@ -1,0 +1,42 @@
+# HCP1291 sign ledger, Claude Opus 5.5, 2026-10-30. Manual transcription from enlarged crops of
+# work/hires/..._adr.jpg (not OCR). One token = one written sign, given by its letter value in the
+# Jolanka key. Digraphs are two tokens. S=s sign, K=section sign, H=h/p sign (see below).
+# Tokens with a letter value chosen by word sense or otherwise marked:
+#  H~ = tall+short sign printed h; P~ = the same tall+short shape read p (h/p by word sense)
+#  D~ = short+tall sign (short high stroke, then a long stroke running below it): d by shape
+#  D? = tall+short shape read d by sense (row 18, next to the overwritten sign)
+#  A? = two faint grey marks in a gap of row 3, probably a pale two-bar a (ink or stain not certain)
+#  J? = cross with short lower stem in row 5 (j by sense, f by pure shape)
+#  M? = three strokes with a crossbar on the first (row 14; m by sense)
+#  E+N = overwritten sign in row 18 (bars over strokes)
+#  N? = two or three faint strokes in row 18 (n by sense)
+#  [E] = restoration of a physically hidden sign (under a stamp remnant)
+#  I~ = unlooped hook at the end of the stamp text (i by sense)
+01 S Z E R E T E T T E D~ E S J O L A N K A M
+02 E G Y E T L E N R E M E N Y E M K I V A N O M
+03 H~ O G Y A? L E G J O B B E G E S S E G B E N E S
+04 K E D~ V E B E N T A L A L J A S O R A I M
+05 N E H~ A R A G U J? O N H~ O G Y I J E N R I T
+06 A N I R O K D~ E U G Y E L V A G Y O K
+07 F O G L A L V A H~ O G Y N E M J U
+08 T O K H~ O Z Z A M O S T S O K
+09 K A T O N A V O N A T V A E S U G Y
+10 E L V A G Y O K F G L A V A H~ O G Y
+11 A L I G V A R O H~ O G Y L E
+12 F E K H~ E E H~ E Z A L A P~ H~ O Z I S
+13 M A R N E G Y E D~ S Z E F O G O K H~ O Z
+14 Z A A Z E R T K E R E M M? A G A T
+15 E D~ E S E M L E G Y E N E L N E
+16 Z E S S E L I R A N T A M M E R T
+17 J O B B A N S Z E R E T N E K I N
+18 K A B B M I N D? E+N A P~ I R N I M I N? T
+19 H~ O G Y K E N Y T E L E N V A G Y O K
+20 I J E N R I T K A N I R N I
+21 K I V A N O K J O M U L A T A S T
+22 S Z E R E T O:diaeresis K E D~ V E S S E F E R
+S1 I S T E N V E
+S2 L E E D~ E S E M
+S3 M A R A D~ O K
+S4 S I R I G
+S5 H~ U K E D~ V E S
+S6 S [E] F E R I~

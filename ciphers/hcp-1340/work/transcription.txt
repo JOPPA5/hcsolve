@@ -1,0 +1,17 @@
+# Tokens (see SOLUTION.md for the glyph of each): one word per space; sign tokens separated by '.'; punctuation signs on the card kept as trailing characters after '|'
+adr1 L.I.B.S.D.E R.O.S.A|: H.A.S.D D.U
+adr2 M.E.I.N.E K.A.R.D.E B.E.K.O.M.E.N|?
+adr3 W.I.E G.E.D E.S D.I.R|? B.I.S.D D.U
+adr4 W.I.D.E.R G.E.S.U.N.D|? S.U:.S.S.E.R S.C.H.A.D.Z
+adr5 I.C.H H.A.E M.I.C.H E.I.N B.I.S.C.H.E.N E.R|=
+adr6 K.E.L.D.E.D U.N.D B.E.K.O.M.E E.I.N.E.N
+adr7 K.L.E.I.N.E.N S.C.H.N.U.P.F.E.N|. M.A.C.H.D
+adr8 A.B.E.R N.I.C.H.D.S W.A.R D.O.C.H N.E.D.Z
+adr9 G.E.L.L S.U:.S.S.E.S B.R.E.U.D.C.H.E.N|.
+adr10 O.B I.C.H N.U.N A.M F.R.E.I.D.A.G
+adr11 K.O.M.E I.S.D N.O.C.H N.I.C.H.D S.I.C.H.E.R
+adr12 D.A I.C.H N.O.C.H M.A.L.S N.A.C.H D.R.I.B.E.R.G
+adr13 M.U.S.S|.
+pic-top G.E.L.L D.U B.I.S.D M.I.R N.I.C.H.D B.O:.S.E|, W.E.I.L I.C.H D.I.N.S.D.A.G S.O U.N.A.R.D.I.G W.A.R|.
+pic-bottom S.E.I N.U.N F.E.S.D G.E.K.U:.S.S.D V.O.N D.E.I.N.E.M D.R.E.U.E.N B.U.B.I|.
+pic-margin G.R.U.S.S U.N.D K.U.S.S D.E.I.N B.U.B.I|.

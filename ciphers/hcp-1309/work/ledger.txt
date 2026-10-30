@@ -1,0 +1,29 @@
+# HCP1309 sign ledger, Claude Opus 5.5, 2026-10-30. Read by hand from enlarged crops of the hires address scan (work/crops/).
+# One token = one written sign. F=r  )=s  X=u  6=b  +=f  Z=crossed tailed z  CS=opposed bowls  D/H/P=one near-homograph stroke class
+# (long stroke + short stroke; D, H or P is chosen by word sense, see SOLUTION.md). :dia = dots or double tick seen, :tick = single tick seen.
+# {del} = struck-out stretch, not read. {smear} = smeared stretch in the stamp field. [x] = sign overwritten or partly lost, value argued in SOLUTION.md.
+01 ) Z E F E T E T E D E ) J O L A K A M K I
+02 V A N O M H O G Y J O E G E:tick ) E G
+03 6 E N T A L J A ) O F A I M T X
+04 D A T O M H O G Y M A:tick F E:tick L
+05 J O:dia T E M ) Z E N T M I H A J F O L
+06 E:tick ) M O ) T F A K O ) P A L O T A [n]
+07 D O L G O Z O M E:tick ) I T T I ) L A
+08 K O M E F O:dia L M E G 6 O:dia V E N N E M I F
+09 H A T O K M E F T CS A K ) Z O M 6 A
+10 T O N T X D O K T O 6 E T K E D V E ) J O
+11 L A N K A M H O G Y M X L A T [o] T
+12 V A ) A F N A P E:tick N 6 E N V O L T A M
+13 P E ) T E N {del} 6 E:tick L V A L
+14 T O:dia L T O:dia L T O:dia T E M A D [e] L X T A N T
+15 K E D V E ) J O L A N K A M I F J O N
+16 H O G Y M I X J ) A:tick G [a] F O K
+17 ) Z A L A ) 6 A E D E ) E 6 E CS E )
+18 ) O F A I T V A F V A [c] Z I M
+19 H O L E ) + E F I
+S1 I ) [t] E N V E
+S2 L E {smear} L E E:tick D E
+S3 ) E M
+S4 CS O K O
+S5 L O M ) Z A M
+S6 T A L A N ) Z O F

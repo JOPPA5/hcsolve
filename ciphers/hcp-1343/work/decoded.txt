@@ -1,0 +1,30 @@
+source hashes OK (4 files)
+B01  my dearest daRling brownie it is now
+B02  quarter to twelve and i am in dining
+B03  room have come downstairs after
+B04  changing into blue suit and packing
+B05  my bag have seen ethel and harold
+B06  (the latter was awake in bed) they
+B07  haven't worried about us will
+B08  tell you all the news in letter
+B09  reg has to thank brownie dRedful
+B10  much for such a happy weekend
+B11  he has had a dRedful nice time
+B12  reg will forget about last night
+B13  if brownie promises too as well and
+B14  not to worry about it she has
+B15  no need to f[ea]r? reg thinks just
+B16  the same as ever
+T1   he did of brownie i do hope your movey won't worry you
+T2   because we sat in the dark you cant tell her that we didn't
+T3   want to and shouldn't have if blinds had been in place
+T4   goodbye dearie reg does love you dRedful lot and he couldn't
+T5   think more highly of
+T6   brownie than he does now and he is always brownies own
+T7   reggie boy
+S1   best wishes for a decent week at school
+
+FULL: my dearest daRling brownie it is now quarter to twelve and i am in dining room have come downstairs after changing into blue suit and packing my bag have seen ethel and harold (the latter was awake in bed) they haven't worried about us will tell you all the news in letter reg has to thank brownie dRedful much for such a happy weekend he has had a dRedful nice time reg will forget about last night if brownie promises too as well and not to worry about it she has no need to f[ea]r? reg thinks just the same as ever he did of brownie i do hope your movey won't worry you because we sat in the dark you cant tell her that we didn't want to and shouldn't have if blinds had been in place goodbye dearie reg does love you dRedful lot and he couldn't think more highly of brownie than he does now and he is always brownies own reggie boy best wishes for a decent week at school
+STATS: 24 lines, 174 words, 698 sign tokens, unmapped=0, contextual={'C=r?': 1, 'V=w': 28, 'V=r?': 3, '@=[ea]': 1, '7@=r?': 1}
+(unmapped=0 only means every sign has a key value; contextual signs are readings, not certainties)
+(upper-case R = caret or arch sign where r is expected; f[ea]r? = uncertain overwritten word; see SOLUTION.md)

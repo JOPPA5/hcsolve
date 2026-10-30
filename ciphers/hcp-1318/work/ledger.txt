@@ -1,0 +1,33 @@
+# HCP1318 sign ledger, Claude Opus 5.5, 2026-10-30. Hand transcription from enlarged crops of work/hires/*_adr.jpg (crops in work/crops/).
+# One token = one written sign. Plain tokens are the family key classes (see SOLUTION.md); e' = e with a visible acute.
+# d = tick left of stroke; D = tall stroke + tick right (the h/p form), read d from word sense; h = same form, read h/p from word sense.
+# t~ = sign deviating from gamma, read t from word sense (row 7 stub; row 11 cramped). h~ = overwritten bold sign, read h from word sense.
+# [x] = sign seen only through the stain or hidden, value by restoration. Row label s1-s7 = rows under the removed stamp.
+01 k e d v e s j o l a n k a m t u d a t o m
+02 h o g y s z e r e n cs e' s e n m e g e' r
+03 k e z t e m . i j e n k o r e' r z e' m
+04 cs a k h o g y m i t v e s z t e k
+05 e n j o l a n k a m b a e l i j e n k o r
+06 i s m i k o r e l k e l v a l a u n k
+07 e g y m a s t~ [o] l s z e r e t n e' m
+08 s z i v e m e' [r] [z] e l m e i t b e o l
+09 t a n i e z e [n] [e'] d e s j o l a n k a m s z i
+10 v e b e' a k o r j o l a n k a m i s u g y
+11 v o n z o d n a h~ o z a m m i n t~ e' n
+12 m a g a h o z a cs o m a k o t a t
+13 a d t a m s a n D o r n a k a b e' l a
+14 v a l n e m b e s z e l h e t e m
+15 m e r t n e m v o l t i d o m
+16 D e m o s t n e m i r o k
+17 t ö b b e t m e r t m e r a l
+18 m o s v a g y o k i s t e n
+19 v e l e' d e s e m
+20 m i n d e n k i e l h i t t e
+21 h o g y k a t o n a v a g y o k
+s1 cs o k o l
+s2 l o m
+s3 s z a m
+s4 t a l a n
+s5 s z o r
+s6 i m a d o
+s7 j a f e r i

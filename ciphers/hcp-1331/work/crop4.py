@@ -1,0 +1,10 @@
+from PIL import Image, ImageOps
+im=Image.open('work/hires/pc_hcp_12_adr.JPG')
+m=Image.open('work/crops/msg.png')
+s=m.crop((600,370,960,425)); s=ImageOps.autocontrast(s.convert('L'),cutoff=1).resize((s.width*5,s.height*5),Image.BICUBIC); s.save('work/crops/de.png')
+s=m.crop((150,560,520,640)); s=s.resize((s.width*4,s.height*4),Image.BICUBIC); s.save('work/crops/pole.png')
+s=im.crop((1230,240,1380,380)); s=ImageOps.autocontrast(s.convert('L')).resize((750,700),Image.BICUBIC); s.save('work/crops/date.png')
+s=m.crop((180,170,960,290)); s=s.resize((s.width*2,s.height*2),Image.BICUBIC); s.save('work/crops/train.png')
+s=m.crop((150,390,960,560)); s=s.resize((s.width*2,s.height*2),Image.BICUBIC); s.save('work/crops/went.png')
+s=m.crop((480,600,780,680)); s=s.resize((s.width*5,s.height*5),Image.BICUBIC); s.save('work/crops/ithink.png')
+p=Image.open('work/hires/pc_hcp_12_pic.JPG'); g=ImageOps.autocontrast(p.convert('L'),cutoff=1); g.save('work/crops/picgray.png')

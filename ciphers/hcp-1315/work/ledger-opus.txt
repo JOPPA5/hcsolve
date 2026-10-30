@@ -1,0 +1,35 @@
+# HCP1315 sign ledger, Claude Opus 5.5, 2026-10-30. Read by hand from enlarged crops of work/hires/*_adr.jpg (not OCR).
+# One token = one written sign. Letter tokens as in the Jolanka key. Letters here are plaintext letters, the sign classes are in SOLUTION.md.
+# H=h and P=p are one sign class (long stroke, then short stroke); only h against p rests on word sense. D=short stroke, then long stroke (separated by stroke order). See SOLUTION.md.
+# :d = dot mark seen over the sign; :dd = double mark (o-double-acute). Other accents are not transcribed.
+# TT = one joined sign, gamma linked to gamma (only in row 11, attol). 1/2 and 9 = digits written in clear. {a|e} = bars incompletely visible.
+# [s] = sign physically hidden (tear / printed triangle), restored; see SOLUTION.md. ? after a token = weak sign, see SOLUTION.md.
+01 S Z E R E T E T E D E S J O L A N K? A? M
+02 E D E S E G Y E T L? E N R E M E N Y E M
+03 K I V A N O M H O G Y A L E G J O B
+04 K E D V E B E N T A L A L J A S O
+05 R A I M H O G Y M U L A T O T
+06 V A S A R N A P R E M E L E M
+07 J? O L A M I E N G? E M I L E T
+08 1/2 9 K O R J O T E M H A Z A
+09 E S L E F E K U:d D T E M E S
+10 A L U D T A M A Z A L V A S
+11 M E G M E N T E T A TT O L
+12 A G O N G? O K T O L H O G Y
+13 N E M T O:dd L T H E T E M
+14 M A G A V A L E Z T V A S A R
+15 N A P O T I G A Z H O G Y
+16 N E M A L E G J O B B I D O
+17 V O L T D E A S Z O B A B {a|e}
+18 N E M E S I K A Z E S S O:dd
+19 M O S T M A? R T O B B E T
+20 N E M I R O K E Z E L B E Z A R O M S O R A I M M A
+21 R A D O K S I H U:d I M A D O J A F E R I M A J D S Z E R D A N
+s1 I S T E N V E
+s2 L? E E D E S E M
+s3 [s] Z A M T A
+s4 L A N [s] Z O R?
+s5 CS O K? O? L?
+s6 [s] Z E R {a|e} 
+s7 T O K E D V E
+s8 S {a|e} N F? E R I

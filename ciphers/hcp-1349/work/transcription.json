@@ -1,0 +1,14 @@
+{
+ "note": "Claude Opus 5.5, 2026-10-30. Manual transcription from work/hires/pc_hcp_30_adr.JPG rotated 90 deg CCW (work/reading.jpg), every sign checked on 3-7x crops in work/crops/. kind=plain: not enciphered; cipher: Caesar text; literal: abbreviation groups not decoded. Dots/dashes follow the card and carry no meaning.",
+ "rows": [
+  {"region": "heading", "fields": [{"kind": "plain", "text": "G. H. Saturday"}]},
+  {"region": "line1", "fields": [{"kind": "cipher", "text": "Nz. Pxo."}, {"kind": "literal", "text": "M-h."}, {"kind": "cipher", "text": "Cpz."}]},
+  {"region": "line2", "fields": [{"kind": "cipher", "text": "uijt Divsdi Jt."}]},
+  {"region": "line3", "fields": [{"kind": "cipher", "text": "pqqptjuf"}]},
+  {"region": "line4", "fields": [{"kind": "cipher", "text": "Qbsl. Qmbdf."}]},
+  {"region": "line5", "fields": [{"kind": "cipher", "text": "uif. mbtu pof"}]},
+  {"region": "line6", "fields": [{"kind": "cipher", "text": "pg. uijt tupdl."}]},
+  {"region": "line7", "fields": [{"kind": "literal", "text": "M- L.'"}, {"kind": "cipher", "text": "Zpvs. Pxo."}]},
+  {"region": "line8", "fields": [{"kind": "literal", "text": "M-h."}, {"kind": "cipher", "text": "Hjsm."}]}
+ ]
+}

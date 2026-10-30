@@ -1,0 +1,38 @@
+# Reviewer's own sign reading from crops in review/work (not blind: solver ledger had been seen). Glyph names:
+# b2=two bars b3=three bars st2=two strokes st3=three strokes lt=long+right tick tl=tick-left+long
+# S=section mark R=right bowl CC=opposed bowls F=F-sign G=gamma W=wave Xh=heavy cross Xt=thin tailed cross
+# P=upright cross I=dotted curve O=loop O2=loop dots J=inverted T Hk=hooked g Y=low loop Ch=chevron Six=six
+# ? suffix = read with word sense; [] = not visible (tear)
+01 R Xt b3 F b3 G b3 G b3 tl b3 R b3 Hk Y b3 G W b3 st2 F b3
+02 st3 b3 st2 Y b3 st3 S I Ch b2 st2 O st3 lt O Hk Y b2
+03 W b3 Hk J O Six Six S b3 tl Ch b3 Six b3 st2 G b2 W b2 W J b2
+04 R O F b2 I st3 b3 tl b3 R b3 R J O W b2 st2 S b2 st3 b2
+05 st3 I b2 P b3 st2 Y S b3 lt b3 G I W b3 G I
+06 CC b2 S S Xh W tl J b3 b3 W b2 S b2 F R I S b3 F Xh W
+07 b2 S b2 F st2 b3 st3 st3 b2 F CC b2 S b2 Xt b3 F G
+08 I R lt O Hk Y b2 Xt I W O st2 S b2 I R F b2 J
+09 G b2 Ch b2 st2 st3 b3 F G I F st2 I S b3 st2 b3
+10 S I lt b3 b2 Xt G Ch b2 F O st3 lt O Hk Y
+11 b2 P b3 st2 Y S b3 lt b3 G st3 b3 Hk S b2 lt J b2 st3
+12 G b3 lt b2 G? S b3 F b3 st3 b3 tl b3 R b3 st3
+13 S Xh W tl J b3 st3 I st2 b3 W b3 W O2 Six Six
+14 st3 I G b3 W O F b3 I R S O2 R Xt O2
+15 st2 O2 S b3 tl b3 R b3 st3 st3 O R G Hk Y b2 S
+16 F b2 st2 J b2 F O S Xh J Ch b2 F Six b2
+17 st3 b2 J st2 b3 st3 st3 I st2 tl I Hk O G
+18 Ch b2 Hk Y O S R Xt b3 G st2 b3 S st3 b2 F
+19 lt b2 G Ch b2 st2 Six b2 I R st3 b3 st2 st2 I
+20 st3 b2 F b2 Xt b3 F Xt b3 R I J J O W
+21 b3 R st2 b3 lt O Hk Y S O2 Xt b3 W
+22 Ch O W st2 b3 S st3 b2 Hk b2 lt O Xt
+23 b3 tl b3 R b3 st3 Six b2 F b2 S O F I R
+24 b3 W b3 Hk st3 b3 R Xt b3 Ch O W st2 b3 S
+25 b3 Xt Xt b3 Xt b2 F O st3 R O F b2 I st3 st3 b2 F b2 tl O S R I F I Hk lt Xh S b3 tl Ch b3 R R b3
+26 Xt? b3 F? I
+S1 I R [G] b3 st2 Ch b3
+S2 W b3 b2 tl b3 R [b3] st3
+S3 CC O S O W
+S4 R Xt b2 st3 G b2
+S5 W b2 st2 R Xt O G?
+S6 [I] st3 b2 tl O J b2
+S7 [P] [b3] F I?

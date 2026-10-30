@@ -1,0 +1,95 @@
+{
+ "note": "Manual reading from work/reading.jpg (hires address side rotated 90 deg CCW). Not OCR. Dots as on the card, re-checked after review 1. [n] = letter restored, not read from pixels.",
+ "heading_plain": "G. H. Sunday",
+ "rows": [
+  [
+   [
+    "c",
+    "Nz."
+   ],
+   [
+    "c",
+    "Pxo."
+   ],
+   [
+    "a",
+    "E L."
+   ],
+   [
+    "c",
+    "Cpz."
+   ]
+  ],
+  [
+   [
+    "c",
+    "J."
+   ],
+   [
+    "c",
+    "b[n]."
+   ],
+   [
+    "c",
+    "Tpssz"
+   ],
+   [
+    "c",
+    "Nz."
+   ]
+  ],
+  [
+   [
+    "c",
+    "Mfuufs"
+   ],
+   [
+    "c",
+    "xbt."
+   ]
+  ],
+  [
+   [
+    "c",
+    "mbuf."
+   ]
+  ],
+  [
+   [
+    "c",
+    "Nz."
+   ],
+   [
+    "a",
+    "N. & L."
+   ],
+   [
+    "c",
+    "Gspn"
+   ]
+  ],
+  [
+   [
+    "c",
+    "zpvs"
+   ],
+   [
+    "c",
+    "Pxo"
+   ],
+   [
+    "a",
+    "E. L"
+   ],
+   [
+    "c",
+    "Hjsm"
+   ]
+  ]
+ ],
+ "flags": {
+  "b[n].": "second letter under an ink blot; visible oval looks closed like o; n is a disclosed restoration (AM)",
+  "xbt.": "final sign is a plain uncrossed stroke, read t (S)",
+  "mbuf.": "after the dot a long thin curved stroke with a hook runs to the end of the line: read as a closing flourish, not a letter"
+ }
+}
