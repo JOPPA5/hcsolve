@@ -1,0 +1,40 @@
+# HCP1247 sign ledger, Claude Opus 5.5, 2026-11-01. Read by hand from enlarged crops of work/hires/*_adr.jpg (not OCR).
+# Corrected after review 1 (same day): rows 8, 17, 19, 20, B3, B4; G Y split into two tokens throughout.
+# One token = one written sign. Letter tokens use the Jolanka-family key (hcp-1216). D = short stroke left + long right;
+# H/P = long stroke left + short right (one shape; H or P by word sense). CS = single sign (opposed bowls). :d = dot mark seen over the sign.
+# X = u (plain cross). Bracket tokens: [x] = letter restored, physically hidden (stamp); ? = unread sign (the ? in row 19 is an
+# overwritten blot of at least two signs); 5 0 = plain digits; . = point. Row 8 token D is written as such; the word is read szep on sense.
+# Row 17 second token E: top and bottom bars seen, middle bar lost in the rust stain, spacing of a three-bar sign.
+01 S Z E R E T E T E D E S J O L A N K A M E G Y E T
+02 L E N R E M E N Y E M N E H A R A G X D J O N
+03 H O G Y E G Y E S S O R A I T V A L A S Z
+04 N E L K X:d L H A G Y T A M D E N A G Y O N E L
+05 V A G Y O K F O G L A L V A X G Y E B A R
+06 E D E S E M M I J E N G Y O R S A N T E
+07 L I K A Z I D O:d G O N D O L O M H O G Y
+08 S Z E D CS O M O L E H E T S A J N A L O M D E
+09 M E G E G Y E N L O:d R E N E M T X D O M M E G
+10 I R N I H O G Y M A G A M E N Y I T K X:d L
+11 D O T M I H E J R A E R E K R O:d G T O:d N
+12 O:d S Z E O L V A S O M E S M E G I R O M .
+13 E D E S E M A M I A M X L A T S A G O T I L E
+14 T I E N CS A K X G Y M E N T E M V O L
+15 N A H A M A G A V A L M X L A T A M V O L
+16 N A M E R T H A M A G A V A L N E M T O:d L T
+17 H E T E M E L A K O R N E M E R D E M E S
+18 K O:d L T E N I L E G K E V E S E B B A L E
+19 K E ? V A G Y 5 0 K . N A B A I N K A B L E M O N
+20 D O K A R E N D E Z O:d S E G R O:d L M A J D
+21 H A F E L J O:d N E D E S E M M A G A V A L M X
+22 L A T H A A K O:d R X:d L M E N Y E K E N G E D I K
+23 A Z T H I S Z E M M A G A I S S Z O R A K O Z N I J O:d N F E L H I G Y J E E L E D E S E M
+24 E N S Z E R E T N E M M A R L E G J O B B A N H A V A S X T A S N E V A G Y J O B E N
+25 M O N D A Z E N E D E S K I S F E L E S E G E N E K M O N D H A T N E M . E Z T
+26 L A P O T K E T N A P I G I R T A M G O N D O L H A T J A M E N Y I R E
+E1 E L V A G Y O K F O G L A [L] V A
+B1 [I] [S] T E N
+B2 V E L E
+B3 E D E S E M
+B4 ? ? D I G
+B5 V I S Z O T
+B6 L A T

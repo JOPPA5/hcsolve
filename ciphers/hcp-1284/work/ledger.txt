@@ -1,0 +1,27 @@
+# HCP1284 sign ledger, Claude Opus 5.5, 2026-11-01. Manual reading of enlarged crops of the hires address scan; the program does not read pixels.
+# One token = one written sign, key of the Jolanka family (hcp-1216). Tokens are the letter values; : = dots/double mark seen over the sign.
+# Special: {#} heavy overwritten sign, no value; {s?} overwritten loop read s from word sense; {m?} three strokes with a top arc (m, or t over-corrected);
+#          {R} Gamma without middle bar where sense needs r; {|} isolated single stroke, no value (row 17, as the stray stroke of hcp-1216 row 18); {n-} two strokes (n) under a thin separate bar, bar unexplained; {p:d} sign shaped d, value p from word sense; {-} hyphen;
+#          [kocsin] plain Latin insertion above the line.
+01 sz e r e t e t e d e s j o l a n
+02 k a m b e cs e s s o r a i t
+03 m e g k a {p:d} t a m i g a z a n
+04 o: r u: l o: k h o gy m e g
+05 {#} e gy sz e r o l v a s h a t
+06 t a m s o r a i t a h o s z u
+07 t a v o l l e t a l a t
+08 m a m a r sz e n t j a k a b
+09 r o i r o m s o r a i {m?}
+10 e t a ny a f a l u t o l
+11 f e l o r a j a {R} a s ny i r a
+12 e s gy o: n gy o: s t o l
+13 {#} p e d i g 4 1/2 o r a j a r a {s?} {-}
+14 r a [kocsin] v a n e z a z e l e t
+15 n e m o j o n m i n o: n e
+16 e d e s j o l a n k a m a
+17 t a ny a n i {|} {n-} e m e sz u: n k
+18 f o: t e t e l t i s t e n v e l e e d e s e m
+S1 cs o k o l o m
+S2 sz a m t a
+S3 l a n sz o
+S4 f e r i r

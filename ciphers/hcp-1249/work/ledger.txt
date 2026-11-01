@@ -1,0 +1,39 @@
+# HCP1249 sign ledger, Claude Opus 5.5, 2026-11-01. Read sign by sign from enlarged crops of work/hires/*_adr.jpg (crops in work/crops/, made by crop.py, stampcrop.py, st2.py, st3.py).
+# One token = one written sign. Letters = sign classes of the Jolanka family key (HCP1216). F=r  )=s  X=u  Z=z  +=f  H=h/p sign read as h  P=the same sign read as p  CS=opposed bowls  digits are plain digits.
+# :acute :diaeresis :double-acute = a mark that is actually seen. Other accents are not transcribed.
+# Suffix # = sign read through damage or a blot (printed in square brackets). {s|k} = sign between two values. G and K: the writer's S shape and hooked shape overlap; see SOLUTION.md.
+01 M E F E T ) E:acute G M E F T N E M X G Y V A N
+02 M I:dot N A F O K ) Z A L A ) 6 A H O G Y H A
+03 N I N CS E G Y L A N Y N A K I ) M E F O:double-acute )
+04 ) E L E L X:diaeresis L H E T# F E G G E L I G E:acute )
+05 A M I A T E ) T V E:acute F E I T I L L E T
+06 A Z O K N A K ) E M K I + O G A ) O K E L
+07 L E:acute N E# M E F T T E L E:acute G T E K I N
+08 T E:acute J E ) M X L A T ) A G 6 A H I V O M
+09 A H O L N E M M I N D E N K I + O F
+10 D X# L N A T M E ) K X:diaeresis L O:diaeresis M 6 E N I )
+11 M E:acute G L E ) Z I D O:double-acute M E G O N D O L A )
+12 F A M E T CS A K J X L I X ) 2 4 E:acute ) 2 5
+13 E:acute N L E ) Z K E D V E ) E M E N E F# A N E M
+14 I ) A K A F O K G O N D O L N I H O G Y
+15 N E M J O:diaeresis N E L M E F T H A M A F M E G
+16 H O Z O M A Z A N Y A G I A L D O Z A T O T
+17 M X L A T I ) ) Z E T N E:acute K K E D V E M
+18 F E M X T N E:acute {s|k}# A Z M A F N E M# I ) K E L
+19 I F N O M H O G Y O# T E F Z E M J O L
+20 M A G A M A H O L M A G A I# )# O T V A N
+21 K E D V E ) E M F E M E:acute L E M H O G Y
+22 M E:acute G A F O K ) Z A:acute L A ) 6 A V I
+23 ) Z O N T + X K E G Y 6 I Z T O ) A T
+24 N E M I F H A T O K M E F T N E K E M
+25 M I N D E N M E G + O F D I T V A
+26 T E:acute L J E ) X:diaeresis L M I T E:acute N I ) A L I G
+27 V A F O K E Z E L 6 E Z A F O M ) O F A I M
+28 M A F A D O K ) I F I G H X:double-acute K E D V E ) E + E F I
+S1 CS O K J A I T#
+S2 A L I G V# A#
+S3 F# O# M# H# I# D# D#
+S4 E D E ) E 6
+S5 A N A L A#
+S6 P E F C Z
+S7 N E#:acute L + E F I

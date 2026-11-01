@@ -1,0 +1,37 @@
+# HCP1248 sign ledger, Claude Opus 5.5, 2026-11-01, corrected after review 1 (rows 10, 12, 18, 20). Read from enlarged crops of work/hires/*_adr.jpg (crops in work/crops/).
+# One token = one written sign, row by row as on the card (25 main rows, 7 rows S1-S7 in the stamp box).
+# Tokens: letter = family key value; F=r  )=s  X-class: U=plain cross u, Z=crossed diagonal z  6=b  +=f  H=h/p sign (tall stroke + right tick)
+# CS=opposed bowls; :d = diaeresis dots seen; :a = acute tick seen; :da = faint double mark. Unmarked accents are not transcribed.
+# #... = written as itself (Latin letters or digits). BLOT = sign blotted out by the writer. DOT = punctuation dot.
+01 E D E ) E G Y E T L E N F E M E:a N Y E M N E T U:d N
+02 J O N + E L H O G Y E G Y ) Z E T F E K E:a T
+03 L A H O T I ) I F O K D E H I F T E L E N J O:d T
+04 E G Y J O:a O:d T L E T E M N A G Y O N O F U:d L
+05 N E K H A M A G A N A K I ) M E G T E T ) Z E N E
+06 #Okt #5 E:a N L E ) Z A V A ) U T A ) O K N A K A
+07 ) Z U:d F E T I M U L A T ) A:a G E:a ) H A M A G A
+08 N A K K E D V E V O L N A E L J O:d N N I A K
+09 K O F 6 E L E:a H N E:a K F E N D E Z O:d N E K A Z T
+10 E L O:d F E I G E:a G F E M H O G Y O J J A N
+11 M U L A T ) A G 6 A M E:a G N E M V O L T
+12 E:a ) + O G A L M A ) I N CS F O F A H O G Y
+13 M I J E N L E H E T E G Y H E ) T I M U
+14 L A T ) A:a G L E ) Z N E K V A G Y E Z F E N
+15 I ) N A G Y O BLOT DOT O N ) Z E F E T N E M H A
+16 E L J O N N E M E F T U G Y ) E M M U L A T
+17 H A T U N K M A:a ) K E:a H E G Y U:d T M E F T
+18 I T N A G Y O N N E H E:a Z ) Z A 6 A D I D O:da T
+19 K A H N I M O ) T I ) CS A K U G Y K A H N E:a K
+20 F E N D E Z O:d L E N N E:a K T E H A T K E
+21 F E M H O G Y G Y O F ) A N G O N D O L
+22 J A M E G A D O L G O T M E F T #15
+23 I G 6 E K E L J E L E N T E N I H O G Y
+24 F E N D E Z O:d A K A F O K L E N N I E Z E L 6 E Z A T O M ) O F A I M
+25 M A F A D O K 6 DOT ) O F A I T V A F O K E D V E ) ) E + E F I
+S1 I ) T E N V E
+S2 L E E:a D E ) E M
+S3 A 6 O L D O G
+S4 V I ) Z O N T
+S5 L A T A ) F
+S6 H U:da K E D V E )
+S7 ) E + E F I

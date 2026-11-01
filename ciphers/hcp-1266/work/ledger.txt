@@ -1,0 +1,31 @@
+# HCP1266 sign ledger, Claude Opus 5.5, 2026-11-01. Made by reading enlarged crops of work/hires/*_adr.jpg (work/crops/). One token = one written sign.
+# Tokens: letter = family key value. F=r  )=s  X=u  6=b  +=f  8=k (section mark)  H=h  P=p (both the sign: tall stroke + short tick at right)
+# D=d (short stroke at upper left + long stroke).  DP = D-shaped sign read p on word sense (kapom, piros).  HD = H-shaped sign read d on word sense (de).
+# ? = overwritten sign, no letter value given.  :diaeresis / :double-acute = marks seen. Acutes are transcribed (:acute) only on the two még of rows 15 and 18, where they decide the word; other acutes are supplied in normalization.
+01 ) Z E F E T E T E D E ) J O L A N
+02 8 A M N E H A F A G X D J O N
+03 H O G Y ) O 8 A I F O 8 D E
+04 N A G Y O N E L V A G Y O 8
+05 + O G L A L V A A V A ) X T A L
+06 M A V O T A M O F V O ) I V I
+07 Z I T A N D E L X T A N 8 A DP O M
+08 DP I F O ) Z A ) Z L O T
+09 H O L N A P T E ) Z E M L E
+10 + E 8 E Z O:double-acute I V I Z ) G A T
+11 E ) M A F C ) X T O:diaeresis T O 8 O:diaeresis N
+12 X T A Z O 8 I ) E V E L
+13 M E G 8 E Z D E M A Z X J
+14 J O:diaeresis V O:diaeresis T E D E ) E M A H E
+15 T E N M E:acute G I L A 8 O M
+16 D E J O:diaeresis V O:diaeresis H E T F A 8 O )
+17 P A L O T A HD E A C Z I M E T
+18 M E:acute G N E M T X D O M
+19 M E G I F N I M A J D L E G
+20 8 O Z E L E 6 6 6 O V E 6 6 E N
+21 I ) T E N V E ? D E ) E M
+S1 G O N D O L
+S2 J O N N E
+S3 H A F A M
+S4 M I N E N
+S5 O:diaeresis N F E
+S6 C ) O 8 O L O M

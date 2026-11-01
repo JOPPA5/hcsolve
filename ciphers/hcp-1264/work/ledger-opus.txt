@@ -1,0 +1,35 @@
+# HCP1264 sign ledger, Claude Opus 5.5, 2026-11-01. One token = one written sign, read on enlarged crops of the hires address scan.
+# Key and sign classes: Jolanka family (hcp-1216). Tokens: letter = its sign; F=r ) =s X=u 6=b +=f H=h/p sign (tall stroke + tick right)
+# D = tick left + long stroke; GY/CS not used as joined signs except CS; :d = dots/ticks seen over the sign; :a = accent tick seen.
+# Special: a? = a sign whose lower bar is blotted (restoration, see SOLUTION.md); e!=e sign struck through by a vertical stroke (deleted by writer);
+# X? = first sign of the stamp signature: a plain X (u) shape, not the upright + of rows 13, 16, 23; prints {u/f}, Feri by word sense
+# D' = D with one extra bold tick after it; M? = three strokes, third short; T? = bold stem with arm, see SOLUTION item 7; < > = small interlinear insertion; - = line-end dash
+01 ) Z E F E T E T E:a D E ) J O L A N
+02 K A:a M K I V A N O M H O G Y A
+03 L E G J O 6 6 K E D V E 6 E N T A
+04 L A L J A ) O F A I M ) Z E F E L
+05 M E M N E H A F A G X D J O N
+06 F a? M H O G Y N E M M E H E T -
+07 T E M L E T X D a? T O M H O G Y
+08 CS X:d T O:d T O:d K O:d N O K V E T
+09 L E N L E M E G Y E K A M X L A T
+10 ) A:a G 6 A I G A Z H O G Y K E V E:a )
+11 A H E:a N Z E M D E M A J D ) Z E
+12 F E:a N Y E N K O:d L T E K E Z e! V E
+13 O:d N I ) 6 E + O G J A L A T N I
+14 E:a D E ) E M H O G Y I J E N H E J
+15 Z E T 6 E < V A G Y > N E M T E H E T E K
+16 F O L A D' E E Z T N E M + O G J A
+17 E:a ) Z F E V E N N I F O L A M? M A J D
+18 ) E N K I CS A K M A G A E:a D E ) E M
+19 D F A G A CS I L L A G O M L E G Y E N
+20 T X:d F E L E M M E L E D E ) E M
+21 CS X:d T O:d F T O:d K I G I ) T E N V E
+22 L E E:a D E ) E M V I ) Z O N T L A
+23 T A ) F A I M A D O J A + E F I
+s1 CS O K O L T? M
+s2 ) Z A M T A
+s3 L A N ) Z O F
+s4 ) I F I H X:d
+s5 K E D V E ) ) E
+s6 X? E F I

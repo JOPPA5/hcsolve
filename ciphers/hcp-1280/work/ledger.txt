@@ -1,0 +1,22 @@
+# HCP1280 sign ledger, Claude Opus 5.5, 2026-11-01. Manual transcription from enlarged crops of the hires address scan
+# (not OCR; the family key was known and word sense was used while reading; see SOLUTION.md for each such call).
+# One token = one written sign. 15 rows, card in upright position, left of the divider line (row 10 runs past it).
+# Tokens: letter = sign of that value; GY, LY, CS digraph signs; X:a acute seen; X:d dots seen; X:dd double tick seen;
+#   X! = sign overwritten or irregular, value chosen by word sense; - = short low dash at row end;
+#   . = short punctuation mark after the last sign of a row (not a letter).
+# Word gaps are not written on the card.
+01 E:a D E S J O L A N K A M V A R
+02 V A R! T S O R A I M E G K A P
+03 T A M M E LY! I G A Z A N
+04 S O K GY O:d T R E L E M T O:dd L
+05 M E N T E T F E L F O G A D
+06 J A E:a R T E K O S! Z O:dd N E T E
+07 M E T M E LY R E L E V E:a L
+08 B E N V A:a L! A S Z O L O K D E
+09 M O S T N I N CS I D O:dd M
+10 I S T E N V E L E A V I S Z O N T
+11 L A:a T A S R A A K I T I S Z -
+12 T A S Z I V E:a B O L E:a S O LY
+13 F O R O N S! Z E R E T I .
+14 A K A R A L V A A K A R E:a B R E N
+15 T E V A GY A Z E S Z E M B E

@@ -1,0 +1,38 @@
+# HCP1256 sign ledger, Claude Opus 5.5, 2026-11-01. Read sign by sign from enlarged crops of work/hires/*_adr.jpg (crops in work/crops/).
+# One token = one written sign. Tokens: letter classes as in hcp-1216: F=r  )=s  X=u  6=b  +=f  H=tall stroke + short tick (h/p sign)
+# gy is two written signs (G Y), cs is two opposed bowls (C )); :d = dots/marks seen over the sign (o->o-umlaut, u->u-umlaut). Accents are not transcribed.
+# [x] = restoration of a sign physically hidden (stamp remnant/blot); ? = sign whose value is not settled; - = bar of a sign hidden by the stamp remnant; A/E = bar sign whose top bar cannot be told from the arm of the t before it (S5).
+# Revised after review 1 (rows 19, 21, 24, S1, S4, S5; gy and cs split): see SOLUTION.md, Response to review 1.
+01 ) Z E F E T E T E D E ) J O L A N K A M
+02 K I V A N O M H O G Y A L E G J O 6 6
+03 K E D V E 6 E N T A L A L J A ) O F A I M
+04 H O G Y M X L A T O T V A ) A F N A H
+05 J O 6 6 A N M I N T E N M E F T E N M A F
+06 E G E ) Z E L A F V X L O K E 6 E A H A ) T
+07 6 E M E F T E G Y E T L E N ) Z O F A
+08 K O Z T A T O M T O L I ) M E G V A G Y O K
+09 + O ) Z T V A A M E N Y I 6 E + A G E F J O ) K A
+10 H A Z A M E N T E ) M O ) T N I N C ) ) E N K I M
+11 6 A F J O 6 A F A T O T K O:d N Y E N ) Z E
+12 F E Z H E T E K C ) A K H O G Y H E Z 6 E
+13 K E F X:d L E ) N E K E M M O ) T M A F
+14 O J A N 6 A F A T F A N I N C ) ) Z X:d K
+15 ) E G E M V O L T A M ) A N D O F
+16 N A L + E L O F A I G 6 E ) Z E G E T T
+17 V E L E A Z T L E H E T M O N D A N I
+18 H O G Y M I N D E F O:d L 6 E ) Z E L X N K
+19 A Z T I ) M O N T A H O G Y M I E F T N E M
+20 M E G Y E K G Y A K F A 6 6 A N H O Z Z A
+21 H E F ) Z E E N A Z T M O N D T A M X G Y I ) T X D O M H O G Y N E M E F F A 6 E ) Z E L
+22 G E T N I E D E ) E M A K E F + E N Y K E H E T J O:d V O:d H E T E N M E K K X:d L D O:d M V A
+23 ) A F N A H + O G O M L E V E T E T N I M A G A M ) Z O M 6 A T O N V E T T E M F X H A T I ) C ) A K
+24 K O L G O Z H A ) ) A K A K O F M A J D C ) A K F E N D 6 E J O:d V O:d K I ) T V A N K I F A J F A
+25 ) Z A N D E K O Z O K H A Z A M E N N I H A V A L A M I K O:d Z 6 E N E M J O:d N
+S1 [I] [)] [T] E N V E
+S2 L E E D E ) E M
+S3 A 6 O L D O G
+S4 V I ) Z O T
+S5 L A T A/E ) I G
+S6 ? A F ) O K A
+S7 - E ) Z I M A D O
+S8 J A + E F I

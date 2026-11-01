@@ -1,0 +1,20 @@
+2c2
+< datomdogyszerencse
+---
+> datomhogyszerencse
+5,7c5,7
+< talkeltudatnidogy
+< aleveleidelrol
+< estereleszekkeny
+---
+> talkeltudatnihogy
+> aleveleidélről
+> eszereleszekkeny
+14,16c14,16
+< bolondjaketszedszemednek
+< edeskinybabusdateleszel
+< ??e?yemszivemeltem
+---
+> bolondjaketszehszemednek
+> edeskinybabushateleszel
+> [?]ne[?]yemszivemeltem

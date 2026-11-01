@@ -1,0 +1,51 @@
+# HCP1265 sign ledger, Claude Opus 5.5, 2026-11-01. Read by eye from enlarged crops (work/crops/) of the un-converted scan work/hires/..._adr.jpg.
+# Not OCR. One token = one written sign. Row numbers are the writer's lines (rows rise to the right; 23-26 run under the address to the right edge).
+# Tokens: letter classes of the Jolanka key (hcp-1216): F=r  )=s  X=plain cross u  Z=crossed diagonal z  6=b  +=f  H=h/p (tall stroke + short)  CS=opposed bowls.
+# g and y are written here as two signs, not as a joined gy.
+# :dia / :dbl = a dot or tick mark over o is really seen (one or two ticks). Acute marks are not transcribed; they are supplied in the normalization.
+# Marked readings (shape does not by itself settle the letter; every one is listed in SOLUTION.md):
+#   K~  ring-headed k (row 7 only)              N?  sign has the d shape, read n by word sense (row 10)
+#   E#  three-bar sign retraced/blotted         D#  d with a blotted or doubled long stroke
+#   H#  h/p with blotted stroke (row 21)        T?  blotted crossed sign, F or corner, read t by word sense (row 21)
+#   D~  9-shaped sign, read d by sense (S3)     A#  overwritten sign, read a by sense (S3)
+#   N#  second stroke of n under a blot (S1)    M~  m whose third stroke is a small tick (S4)
+#   S~  s written as a plain slash (S5)         S#  hourglass-shaped retraced sign, read s by sense (S6)
+#   R~  reduced r, no lower arm (S8)            +   in S8 is a tilted cross
+#   D?  sign class unsure (row 20): long stroke with blotted head, then a shorter stroke; d is provisional, h/p or retraced n possible
+#   X#  plain cross, heavily retraced (row 12)
+# Row 25 end corrected in review 1: the signs after ILON A N are A K (Ilonanak), not E ).
+#   STRUCK = writer's own heavy deletion, nothing readable under it (S2)
+01 ) Z E F E T E T E D E ) J O L A N K A M
+02 K I V A N O M H O G Y A L E G J O 6 6
+03 K E D V E 6 E N T A L A L J A ) O F A I M
+04 T X D A T O M H O G Y M A I F T A M A Z
+05 I L O N K A N A K M E G I G E F T E M
+06 H O G Y M A J D A N Y E F O N V A G Y
+07 A F O K~ ) Z A L A ) 6 A V A G Y 6 E
+08 F E N Y 6 E M O ) T A Z O N T O:dia F E
+09 K E D E K H O G Y E G Y K I CS K I F X
+10 H A Z K O D H A ) A K H O G Y N? E Z Z E K
+11 K I V A L A H O G Y D E E Z T H A G Y
+12 J X# K M E F T E Z I ) T E N F E# L E ) E
+13 A Z E G E ) Z N E M J O E L O:dia F E
+14 ) E M I T ) Z A M I T A N I A Z J O
+15 H O G Y K I M E N T H A F A ) Z T I
+16 F A L E G A L A 6 ) Z I V J A E# Z T
+17 A J O T A N Y A I L E V E G O T
+18 6 A F I G A Z H O G Y A F O K ) Z A
+19 L A ) 6 A ) E N I N CS F O ) Z L E V E
+20 G O:dbl ) I D? E K I V E L M I N D E N
+21 N A H# T? A L A L K O K M E F T E G Y
+22 H E J F E J A F X N K E 6 E D E L N I
+23 O:dbl M O N D T A H O G Y N A G Y O N J O L N E Z K I J O L A N K A M CS A K V I
+24 G Y A Z O N M A G A F A D# F A G A CS I L A G O M N E H O G Y M E G + A Z
+25 O N A K E D E L N E M ) O K A T T O:dia F O:dbl D O:dia K X G Y A N I L O N A N A K V I G Y E
+26 L E N E M T X D O M H O G Y I N T E Z K E D# N E K
+S1 I ) T E N# V E
+S2 L E STRUCK
+S3 D~ F A# G A M CS O
+S4 K O L O M~
+S5 S~ Z A M T A
+S6 L A N S# Z O
+S7 I M A D O J A
+S8 + E R~ I

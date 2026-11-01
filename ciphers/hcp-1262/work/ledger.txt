@@ -1,0 +1,31 @@
+# HCP1262 sign ledger, Claude Opus 5.5, 2026-11-01. One token = one written sign, read on enlarged crops of work/hires/*_adr.jpg
+# (crops in work/crops/). Letter token = sign class of the Jolanka key (see SOLUTION.md). The tick-right sign has tokens H and P for the same sign class, chosen by word sense; d keeps its own token by tick side.
+# H = tall stroke + tick right (h/p); D = tick left + tall stroke; X = long crossed diagonal z (token Z); CS = opposed or closed bowls.
+# Special: E? three-bar shape where a is expected (row 13; row 18, third bar overwritten); C? closed bowl, c or cs (row 5);
+#          D? tick-left sign where the word needs p (row 2); M? three strokes where n is expected (row 6); OL? compound (row 7);
+#          GY joined or adjacent g+y; [M] restored sign hidden by a blot (row S5); :diaeresis = dots seen. Other accents supplied in normalization.
+01 K E D V E S J O L A N K A M 6 E
+02 CS E S S O R A I T M E G K A D? T A M
+03 M E J E R T F O G A D J A K O:diaeresis S Z O:diaeresis
+04 N E T E M E K E D V E S E M E Z
+05 N E M O J A N T A N C? Z I S K O
+06 L A M I N T J O L A N K A M G O M?
+07 D OL? J A I D E H O L GY E K N E M
+08 J A R N A K CS A K F E R F I A K
+09 K E D V E S J O L A N K A M CS A K
+10 N E M K I V A N J A H O GY A K O R
+11 G O N D O L H A S A K M A G A R A
+12 A M I K O R M A G A K I V A N
+13 J E? M I K O R N E K E M N I N CS
+14 O J A N O R A M H O GY N E G O N
+15 D O L N E K O:diaeresis N R E E Z E L 6 E
+16 Z A R O M S O R A I M E N I S K E
+17 R E M H O GY G O N D O J O N R A M
+18 T I S Z T E L E M A K E V E S M A M A J E? T
+S1 I S T E N V E L E
+S2 A V I S Z O N T
+S3 L A T A S R A
+S4 H O L N A P
+S5 CS O K O L O [M]
+S6 S Z A M T A
+S7 L A N S Z O R

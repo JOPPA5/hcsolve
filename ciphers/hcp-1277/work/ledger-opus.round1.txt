@@ -1,0 +1,39 @@
+# HCP1277 sign ledger, Claude Opus 5.5, 2026-11-01, read from 2x-3x crops of hires/*_adr.jpg (crops/). One token = one written sign.
+# Tokens: letters as themselves; F=r  )=s  X=u  6=b  +=f  H=h/p sign  GY/CS joined digraphs  :d = dot mark over the sign (ö/ü).
+# Acute accents are mostly faint and are NOT transcribed. # = blotted sign with no reading; [ = run of signs physically hidden.
+01 ) Z E F E T E T E D E ) J O L A N K A M K I V A N O M
+02 H O GY A L E G J O 6 E G E ) E G 6 E N T A L A L J A ) O F A
+03 I M M I N T I F T A M I ) E D E ) E M H O GY A K O:d Z
+04 6 E J O:d T T A K A D A J O K M I A T N E M E L V E Z
+05 H E T X:d K A V I ) Z O N T L A T A ) O:d F O:d M E I T
+06 D E 6 I Z X N K A Z I ) T E N 6 E N E ) L E GY E N
+07 T X:d F E L E M M E L A L E G K O:d Z E L E 6 6 I
+08 A L K A L M A T K E F E ) N + O G O M H O GY
+09 V I ) Z O N T L A T H A ) ) A M 6 A F N E H E
+10 Z E N M E GY M O ) T M E F V I ) Z A
+11 K E F X:d L T E M A F E G I X T A Z A ) I
+12 M E D E F 6 E E ) T E M V I ) Z A E ) A F A
+13 K E L V A F N O M M E G A + O F G A L O M
+14 E GY K I CS I T E N Y H E 6 6 E K N E M L E ) Z
+15 N E K M O ) T N I N CS M A ) H A T F A E D E
+16 ) E M M I N T E GY E N L O:d F E L E M O N
+17 D A N I A V I ) Z O N T L A T A ) F O L
+18 M I T N A GY O N ) A J N A L O K E D E
+19 ) E M X GY V A F T A M A Z T A Z I D O:d T
+20 H O GY 6 I Z T O ) A N M E G T X D T A M
+21 H O GY L E ) Z E ) Z A 6 A D O M V A GY
+22 ) E M G O N D O L H A T J A E D E ) E M M I J
+23 E F Z E ) + O G O T E L M I K O F M E G T X D
+24 T # T A M H O GY E GY H O ) Z X X T F A
+25 K X L D T E K E ) E 6 V E L K E F E ) Z T X:d L
+26 H X Z T A K M I N D E N ) Z A M I T A ) O
+27 M A T M O ) T 6 E Z A F O M ) O F A I M
+28 M A F A D O K ) Z E F E T E T O K E D V E ) E + E F I
+29 ) O F A I T V A F O M I F J O N E D E ) M I X J ) A G
+S1 E D E ) E M
+S2 CS O K O L O
+S3 L O M ) Z A
+S4 M T A L A N
+S5 ) Z O F ) Z E
+S6 F E T # # E D
+S7 ) [ E F I

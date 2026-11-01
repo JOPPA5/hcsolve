@@ -1,0 +1,44 @@
+# HCP1246 sign ledger, Claude Opus 5.5, 2026-11-01. One token = one written sign, read on enlarged crops of work/hires/*_adr.jpg
+# (3-5x). Tokens name the sign class by the family letter: A two bars, B six, C left bowl, D long stroke+tick, E three bars,
+# F upright cross, G open hooked loop, H tall stroke+short tick (h/p near-homograph, written H here), I crossed curve, J inverted T,
+# K section mark, L wave, M three short strokes, N two short strokes, O cursive loop, R F-like, S right bowl, T gamma/corner,
+# U plain cross, V chevron, Y low descender, Z crossed diagonal with tail. O: / U: = dots seen over the sign.
+# [O] = restoration of a sign physically hidden by an ink blot. . = a written full stop. Other accents are not transcribed.
+# Corrected after review 1: row 12 sign 20 E->A (tanacso), row 27 O for I (mondanom), row 28 sign 5 E->A (cut by the card edge, two strokes visible;
+# the value a rests partly on the phrase avatatlan kez; see SOLUTION.md).
+01 I M A D O T E D E S E G Y E T L E N R E M E
+02 N Y E M B E C S E S L E V E V E L E T M E G
+03 K A H T A M M I T K O: S Z O: N O: K S Z E H E N
+04 E D E S E M A Z E R T N E M H A R A G S Z O M
+05 A G U J A S R A H O G Y A Z T B E S Z E L T E
+06 M O C S A R N E N E K M E R T T U D O M H O G Y
+07 M I J E N A M O C Z A R N E H O G Y K O N N Y E N
+08 L E H E T U G R A T N I A M O C Z A R N E T
+09 E S O: R U: L H A I J E S M I T H A L D E R E M E
+10 L E M J O L A N K A M E D E S A Z I J E N B E S Z E
+11 D E K N E M Z A V A R J A K B O L D O G S A G U N K A T
+12 E S N E M H I S Z E L I J E S M I T T A N A C S O
+13 L O M H O G Y C S A K E G E S Z H I D E G E N V I S E L
+14 K E D J E N E L O: T T E E S H A L A T J H O G Y N E M
+15 M E G Y S E M I R E A K O R M A J D F E L H A G Y
+16 V E L E E N M A R N E M T A R T O M E R D E M E S
+17 N E K F [O] G L A L K O Z N I V E L E . E D E S E M
+18 O: R O: M E M F E J E Z E M K I H O G Y
+19 F E L F O G J O: N N I H E S T R E A Z T N E M
+20 I S K E L I G E R N E M H O G Y F E L K E R E
+21 S E M A Z E L S O: A L K A L O M M A L
+22 M E G F O G O M L A T O G A T N I I R
+23 J A M E G M I K O R J O: M E N A G A E L O: T N I N C S
+24 S E M I M I T I T K O M A K O R R A A K A R O K
+25 J O B B A L A S U R H A T V E N N I M E R T T U
+26 D O M H O G Y A R O K O N S A G J O B B A N M E G N E Z I A Z E M B E R T E D E S E M A Z T
+27 N E K E L M O N D A N O M M A G A N A K H O G Y M E G E G Y L A H J A T S E M O L V A S
+28 T A A V A T A T L A K E Z C S A K E N I S T E N V E L E E D E S E M A B O L D O G V I
+29 S Z O N T L A T A S R A
+S1 H U: K E D V E S
+S2 S E F E R I
+S3 C S O K O L
+S4 J A S Z A M
+S5 T A L A N
+S6 S Z O R
+S7 F E R I

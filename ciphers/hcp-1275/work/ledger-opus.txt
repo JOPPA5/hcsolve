@@ -1,0 +1,38 @@
+# HCP1275 sign ledger, Claude Opus 5.5, 2026-11-01. One token = one written sign, read on enlarged crops of work/hires/*_adr.jpg (crop.py, crop2.py -> work/crops/).
+# Tokens: the letter of the sign class (Jolanka key, see SOLUTION.md); GY, CS = joined or paired digraph signs; H = tall+short h/p sign (the same sign is coded {p} in row 23, the only p on the card, decided by word sense: fenykep-); O: U: = two dots seen; O' I' = accent tick seen.
+# Curly tokens are doubtful signs, explained in SOLUTION.md: {n} blotted sign; {?l} wave sign disturbed by the postmark; {d} blotted tall sign; {t} sign at bottom edge or malformed sign; {z} overwritten sign; {g} stray squiggle; {i?} sign at stamp tear; {f} blotted, slanted sign in the name Feri; [g] hidden under stamp residue, restored.
+# M in row 01 is an ordinary Latin capital.
+01 M E J E N T I S Z T E L T J O L A N K A
+02 K I S A S Z O N Y O: N A Z T M O N D T A {n} A GY
+03 K O: R H O G Y N E M H A L G A T A H {?l} E L Y
+04 K A R A M I K O R M E G S Z E R E T E L V O L T
+05 I R A N T A M E Z N E M L E H E T O K A
+06 E L H I D E G U: L E S I N E K I R A N T A M
+07 M A S O K O T N E M T A L E L H A T O K
+08 M I N T H O G Y A K A D T E G Y M A
+09 S I K A K I G A Z D A G A B E S CS I N O S A B B
+10 L E G E N Y A K I N E K S Z E R E N CS E J E
+11 V O L T M A G A T E L H O D I T A N I
+12 N E M A L O K U T J A {d} A L E G Y A N
+13 B O L D O O J A N B O D O G H O G Y
+14 E S Z E B E S E J U S A K H O G Y N E B A N T
+15 S A A L E L K I I S M E R E T H O G Y A Z
+16 S Z I V E M O: S Z E T O: R T L E H E T H O G Y
+17 A Z I S T E N M A J D O J A N J O H O G Y
+18 M E G V A L T A F A J D A L M E I M T O L
+19 M A J D A K O R E N I S B O D O G L E S Z E K .
+20 E Z T A V A S U T A S N E K A L A N Y A R O L
+21 A M I T I R N E M T U D O K S E M I T I R N I
+22 M E R T N E M T U D O M M I R O: L V A N
+23 S Z O . F E N Y K E {p} I T A Z T S O H E K I
+24 N E M A D O M K E Z B O: L E D E N , U G Y A T O: B B I {g} {t} E R G Y A K O T S E M L E G E L A B B
+25 E Z E K E T L E T H A T O M E S M E G L E S Z O R O: K I T V E E M L E K E B E R {z} I V E M
+26 B E O T L E S Z O R O: K R E A Z E N Y E M E L T E H E T A M I T A K A R N E K E M M I N D E GY
+27 H A {t} U: Z B E T E S Z I V A G Y V I S Z A K I L D I' I' S L E G A L A B B N E M Z A V E R J A B O L D
+E1 O G S A G A T
+S1 S I R {i?} [g]
+S2 H U: I M A
+S3 D O J A E S
+S4 V O L T
+S5 K E D V E S
+S6 S E {f} E R I

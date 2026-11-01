@@ -1,0 +1,43 @@
+# HCP1269 sign ledger, Claude Opus 5.5, 2026-11-01. Read from enlarged crops of work/hires/*_adr.jpg (see SOLUTION.md for uncertainties).
+# One token = one written sign, by value in the Jolanka-family key (HCP1216). Letters = that class; 6=b  +=f  CS=opposed bowls
+# Corrected after review 1 (rows 5, 15, 18, 20, 23, 28, 30, 32, S5); rows 14-25 rechecked at 2.5-5x.
+# F=r  )=s  X=u  H=h/p near-homograph; :diaeresis / :dbl = visible mark over the sign. Accents otherwise not transcribed.
+# ?? = sign under an ink/stain blot; ^ = trailing dash; . = written point.
+01 Z ) E F E T E T E D E ) J O L A N K A M ^
+02 K I V A N O M H O G Y A L E G J O 6 6 E G E )
+03 ) E G 6 E N T A L A L J A ) O F A I M 6 .
+04 ) O F A I T M E G K A H T A M M E L Y E T
+05 K O:diaeresis ) Z O:diaeresis N O:dbl G ) Z E H E N . E D E ) E M O:diaeresis N
+06 T E V E D H A A Z T G O N D O L J A H O G Y
+07 6 E CS E ) ) O F A I N E M ) Z O L G E N A K
+08 O F O:diaeresis M E M F E L E G Y E N A 6 6 A 6 A F
+09 M I M E F T E N M I N D I G A L E G N A
+10 G Y O 6 6 O F O:diaeresis M E L O L V A ) O M ) O
+11 F A I T E D E ) E M I G A Z A N ) A J N A L O M
+12 H O G Y T O V A 6 F A I ) A Z O N K E L G O N
+13 D O L K O Z N O M H O G Y M I I N D I
+14 T O T T A A F A H O G Y A Z T I F J A
+15 M E F T A Z E G E ) Z N E K A Z A Z O K A
+16 H O G Y E G Y ) Z E F J O 6 6 A N F A E F M A )
+17 K O F M E G E G Y CS E H E T ) E M E F E K
+18 F A . E D E ) E M H I ) Z A Z T E N I )
+19 ) Z E F E T N E M H O G Y M I N E L E
+20 L O:dbl 6 E L M E H E ) ) E K CS A K H O G Y
+21 E N + E L A T T E M M A ) F E N D E L
+22 K E Z I K M A J D M E G G Y O Z O:diaeresis
+23 D I K F O L A H A + E L J O:diaeresis N E K H E ) T
+24 F E H O G Y M E N Y I ) Z A 6 A D O M
+25 V A N E D E ) E M N E M A K A F O M
+26 M X N K A J A 6 A Z A V A F N I V A F H A T
+27 M A G A A K O F I ) H A O ?? T V E G Z O K .
+28 CS A K M A F O T V O L N E K . E D E ) E M E N N E M I F T A M A Z T A L A H O T I D E G E N A N
+29 CS A K K E F Z E Z T E M H O G Y M I T G O N D O L T H O G Y A Z T A M E G J E G Y
+30 Z E ) T CS I N A L T A E ) H A I K E T D E ) E K V A N A K O:dbl Z T X:diaeresis N K A 6 O L N E G O N
+31 D O L J O N M I N D E N F O ) Z ) T A M I T M A F N E M ) Z A 6 A D T E H A T E
+32 L E Z E G Y M A ) F O L
+S1 X:diaeresis D V O Z L I
+S2 A T A V O L
+S3 6 O ?? Z E
+S4 F E T O:dbl K E D
+S5 V E ) ) E
+S6 + E F I

@@ -1,0 +1,32 @@
+# HCP1261 sign ledger, Claude Opus 5.5, 2026-11-01, read from enlarged crops of work/hires/*_adr.jpg (work/crops/).
+# One token = one written sign. F=r )=s X=u 6=b +=f, H and P are one sign (long stroke + tick, h/p near-homograph), GY/CS digraphs,
+# :d visible double dot, :a single mark. ! = blotted/overwritten sign read on word sense; N? = ambiguous two-stroke sign read n. Other acutes not transcribed.
+# #! = heavy blot with no value of its own (see SOLUTION.md, uncertainty 2; added after review 1); M^ = plain Latin cursive capital M, not the cipher sign (added after review 1).
+# Rows: 01-19 main; E left edge (runs down the edge into B); B bottom edge; S1-S6 stamp box in cipher. S6/S7 continue in PLAIN cursive: see decode_opus.py.
+01 N E H A F A G X D J O N E F T E H O GY
+02 I J ) X:d F X:d N K X:d L D O:d M A L A P O
+03 K A T D E E N N E M A GY G O N D O L
+04 K O Z O M M I N T O:d N E N E K E M
+05 J O L E ) I K H A O:d N N E L 6 E ) Z E L
+06 H E T E K E D E ) J O L A N K A M M E F T
+07 E N M I K O F ) O F A I M I F O M
+08 O:d #! N N? E K X GY E F Z E M M A G A M M I N T
+09 H A 6 E ) Z L G N E K E D E ) J O L A N K A M
+10 E L ) E M T X D J A K E P Z E L A I M I L Y
+11 H O ) Z X I D O:d A Z M E G M E G K A
+12 P O M ) O F I T X GY ) Z E F E T N E M
+13 H A F E P X:d L N E A L E V! E L E F E P X:d L O:d
+14 G E P E T ) Z E F Z E K 6 E H O GY GY
+15 O F ) A 6 A N J O:d N N E 6 E CS E ) L A P J A I
+16 M^ I D E N G O N D O L A T N A L
+17 A T E T T L E G T O:d 6 6 E T E F
+18 I GY T E )! Z K I CS O:a K O T A D
+19 ) N E M P E D I G L E N K E F
+E 6 . ) O F A I T
+B V A F V A M A F A M A F A D O K ) Z I V E N E K F A 6 ) Z O L G A J A + E F I
+S1 I ) T E N V E L E
+S2 A T A V O L 6 .
+S3 O L CS O K O
+S4 L J A ) Z A M
+S5 T A L A N ) Z O
+S6 F

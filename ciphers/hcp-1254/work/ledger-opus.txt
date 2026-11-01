@@ -1,0 +1,25 @@
+# HCP1254 sign ledger, Claude Opus 5.5, 2026-11-01. One token = one written sign, read on 2-4x crops of work/hires/*_adr.jpg (work/crops/).
+# Not blind: read with the Jolanka family key of HCP1216 in hand, and word sense informed some calls (see SOLUTION.md).
+# Tokens: letter classes as in HCP1216. F=r  )=s  X=u  6=b  V=chevron  CS=opposed bowls  GY=joined digraph
+#   H = tall stroke + short stroke read h; P = the same shape read p (near-homographs, resolved by word sense only).
+#   D = short stroke + long stroke. :diaeresis = double mark seen above the sign. Acutes are not transcribed (supplied in normalization).
+# Special: XX = word deleted by the writer (scored through), unread and not part of the text.
+#   ?+ = small cross-like sign, no letter value established (possibly a false start of the h of hogy that follows).
+#   Row 13: the second sign is E (short third bar, as in row 1), literal rem, a slip for ram; changed from E? after review 1.
+#   J? = overwritten heavy sign, j by word sense only.
+# Rewritten/heavy signs read by their surviving form: row 2 O and H; row 12 the two N (heavy bar + stroke).
+01 K E D V E ) J O L A N K A M
+02 T X D A T O M H O GY ) Z E
+03 F E N CS E ) E N M E G E F
+04 K E Z T E M I G A Z ?+ H O GY
+05 E GY K I CS ) Z A L A D N I
+06 K E L L E T D E A Z E F T
+07 A 6 O L D O G ) A G E F T
+08 ) O K K A L N A GY O 6 6
+09 XX A L D O Z A T O K F A
+10 I ) K E P E ) L A N N E K
+11 I ) T E N V E L E E D E ) E M
+12 G O N D O L J O N N E H
+13 F E M K I O:diaeresis N T T I ) Z
+14 T A ) Z I V E 6 O L I M A D
+15 J? A A T A V O L 6 O L

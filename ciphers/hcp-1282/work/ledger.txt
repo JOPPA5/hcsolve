@@ -1,0 +1,29 @@
+# HCP1282 sign ledger, Claude Opus 5.5, 2026-11-01, read from enlarged crops of work/hires/*adr.jpg (crops/, crop.py).
+# One token = one written sign. Letter tokens name the Jolanka-family sign class of that letter (key: SOLUTION.md, hcp-1216).
+# O: U: = o/x with a visible dot mark (o-umlaut, u-umlaut); O" = o with double tick. X = plain x-cross (u); Z = crossed diagonal.
+# H/P/D/N are the stroke-pair signs separated by word sense where SOLUTION.md says so.
+# +J = cross read as j by sense (family value f); +F = cross/F read as f; Ic = the capital sign of I-lona, I-rma (clear cursive I, or the family y sign used as capital; undecided).
+# / = short free stroke at a sentence break (no letter, probably a divider; rows 7, 10, 14). * = ink blob, probably a full stop (row 12).
+# [T] [E] = restored under the row 19 blot: t from its stem only, e from two of three bars.
+# (b) = blot note only. Acute accents are not transcribed.
+01 K E D V E S E GY E T L E N R E M E N Y E M
+02 K I V A N O M H O GY A L E G J O B B
+03 K E D V E B E N T A L A L J A S O
+04 R A I M H O GY T E L I K I D E J E
+05 M I X +J S A G O: N N O: K +F E L E M I
+06 K O: Z T U: N K N A GY V A L T O Z A S
+07 T O: R T E N T / Ic L O N A H O L N A P
+08 M E GY V A R N I E L O" S Z O: R V A R
+09 I E GY E L O K E L O: V A R R O D A
+10 B A / Ic R M A P E D I G M A S A M O D
+11 L E S Z H O GY M I L E S Z B E L O"
+12 L O: K E A J O: V O" T I T K A * A
+13 M I M I N K E T I L E T M A S K U: L O: M
+14 B E N E G E S S E G E K V A GY X N K / E N
+15 D E Z I N T X L B O L D O G N A K E R
+16 Z E M M A G A M M E R T B I Z E L
+17 M E T B I R O M O N N E K E D E S E M
+18 B E C S U: L E T S Z A V A M A D O M I R A S
+19 B A N I S H O GY N E M R B E N N E M I S [T] [E] N
+20 V E L E E D E S E M G O N D O L +J O: N
+21 N E H A R A M A K I O: N R E E P E D O" S Z I V V E L G O N D O L

@@ -1,0 +1,34 @@
+# HCP1263 sign ledger, Claude Opus 5.5, 2026-11-01. Read by hand from enlarged crops of work/hires/*_adr.jpg (scripts crop*.py, images crops/).
+# One token = one written sign, read in order. Letters = key classes of hcp-1216. CS = opposed bowls. G and Y are separate signs on this card.
+# :d = dots seen over o/u (o:d=ö, u:d=ü). K8 = closed-loop form of the k sign. D1 = d written with the tick on the right (the h shape).
+# H = tick on the right; P and D share the short+long "4" shape (tick on the left), told apart by word sense. Z9 = pale chevron-crossed z form.
+# 3 = digit in clear. A? = a sign rubbed/blotted, value restored. U:x = ü written over a cancelled e. N:x = n with first stroke over a cancelled sign. M:k = m with deformed middle stroke.
+# Word-sense tokens added after review 1: R:g = r written without the crossbar (gamma shape); F:x = f written like the plain x.
+01 S Z E R E R E T E D E S E G Y E T
+02 L E N R E M E N Y E M V A R V A
+03 V A R T S O R A I T M E G
+04 K A P T A M M E L Y E T K8 O:d
+05 S Z O:d N O:d K S A J N A L T O
+06 M A T R E F E Z9 E M K I H O G Y
+07 N E M M E G Y U:x N:x K B E R E N Y
+08 B E D1 E O:d N R E B I Z9 O M A D O L
+09 G O T M A J D K U:d L D O:d K I L O N
+10 K A N A K E G Y E T E B O:d L A F E N Y
+11 K E P E M E L E L A T O T L E V E
+12 L E Z O:d L A P B O L E S M E G
+13 I R O M H O G Y M A G A N A K
+14 N I N CS K E D V E M O T L E
+15 M E N N I E D E S E M E G Y E N
+16 L O R E M E G N E M M:k E G Y
+17 L E D E V A G Y 3 H E T
+18 M U L V A L E M E G Y E K
+19 M A J D H O L N A? P B O V E B
+20 B E I R O K M E R T M A
+21 S U:d R G O S D O G O M V A? N
+S1 I S T E N V E
+S2 L E E D E
+S3 S E M CS O
+S4 K O L O M
+S5 S Z A M T A
+S6 L A N S Z O R:g
+S7 F:x E R I

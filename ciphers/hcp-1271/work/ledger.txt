@@ -1,0 +1,21 @@
+# HCP1271 sign ledger, Claude Opus 5.5, 2026-11-01. Read by eye on enlarged crops of work/hires/*_adr.jpg (work/crops/, made by work/crop.py); not OCR, not blind (reading for sense).
+# One token = one written sign. F=r  )=s  X=u  6=b  H=tall stroke + short right (h/p near-homograph)  /=short left + tall (d)  GY=joined g+y  CS=joined opposed bowls  CZ=c+crossed z pair written as two signs
+# Token suffix: :d = dots visible over the sign. Suffix ! = sign blotted or wiped, value restored by word sense (see SOLUTION.md). Row 17: the overwritten o is one token; its large hooked arm is not a separate sign (review 1, finding 2).
+# Acutes are faint and are not transcribed.
+01 / F A G A CS I L A G O M K I
+02 V A N O M H O GY A L E G J O B B
+03 K E / V E 6 E N T A L A L J A ) O
+04 F A I M E / E ) E M T X / A T O M
+05 H O GY E N M A F M A M X N K A
+06 6 A / E M O ) T M A ) M X:d H E L Y
+07 6 E T E H A T A C Z I M E M
+08 I ) M E G V A L T O Z I K
+09 C! Z I M E M I ) E ) H E / I G
+10 I / E C Z I M E Z E ) O F A I T
+11 K E / V E ) J O L A N K A M
+12 J! O! M X L A T A ) T K I V A
+13 N! O K H O L N A H F A G O N
+14 /! O L J O N N E! H A F A M
+15 K I ) Z I N T E N G O N /! O L
+16 O N F I ) T E N V E A V I ) Z O N T
+17 L A T A ) F A CS O K O L O M E Z E F ) Z E

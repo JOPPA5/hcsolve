@@ -1,0 +1,47 @@
+OK  source/address-large.jpg
+OK  source/picture-large.jpg
+OK  work/hires/cpc_1913-07-13_HU__HU_Jasz-Arokszalas_jolanka-39_adr.jpg
+OK  work/hires/cpc_1913-07-13_HU__HU_Jasz-Arokszalas_jolanka-39_pic.jpg
+
+Literal decipherment, one row per written line (h stands for the h/p sign; [x] restored; ? depends on word sense):
+ 01 szeretetédesjolánkámmostmar
+ 02 nyugodtabbairhatommertvarom
+ 03 hogyhovaküldönekésénelhoz
+ 04 tammagammalatentatéstolathogy
+ 05 irhasakegyrendeslehotmert
+ 06 maskéhnemnagyonérekramint
+ 07 irtam ½  3 korfeküdtemleés 7  10 
+ 08 rerendezönkeletlenemazér
+ 09 irtamojanoszevissza . köva
+ 10 nomhogyjoidölegyenhogy
+ 11 jolmulathasonakmegénisleg
+ 12 jobbszeretnémhamindigjoidö
+ 13 volnamertn?emkelemesroz
+ 14 idöbautazniamiamunkatile
+ 15 ticsakaztsajnalomhogyk?e?l
+ 16 elnemkezdtemelöbbfizetés
+ 17  2 kor . nahontaakarkelutazni
+ 18 akarnemésazonkivülminden
+ 19  10 K.m. utan 6 f. es mikorszol
+ 20 galatbava[g]yokmiorara 8 fil 
+ 21 mostfélbekeletszakitaniaz
+ 22 irastmertelkeletmennem
+ 23 hestreakeletih[a]jaudvara 2 levelel
+ 24 viszafelébementemsandorhozaz?t
+ 25 montahogyjonézekkihogyvettesemlemagam . kah?tamtothilon
+ 26 k?atolégylahot?haidejibemegkahjaadjatiszteletemetilon
+ 27 k?anak , czim Holecz Ferencz M.A.V. fekezo Rakos Palota 
+ S1 i?stenvele
+ S2 édese{tear}
+ S3 bold[o]g
+ S4 viszont
+ S5 latasra
+ S6 csoko[l]ja
+ S7 imadoja
+ S8 feri
+
+Normalized Hungarian (word division, accents and bracketed letters are editorial):
+Szeretet[t] édes Jolánkám! Most már nyugodtabba[n] írhatom, mert várom, hogy hova küldenek, és én elhoztam magammal a tintát és tol[l]at, hogy írhassak egy rendes lapot, mert másképp nem nagyon érek rá. Mint írtam, ½3-kor feküdtem le és 7.10-re Rendezőn kel[l]et[t] len[n]em, azér[t] írtam olyan összevissza. Kívánom, hogy jó idő legyen, hogy jól mulathassanak; még én is legjobb[an] szeretném, ha mindig jó idő volna, mert nem kel[l]emes rossz időbe[n] utazni. Ami a munkát il[l]eti, csak azt sajnálom, hogy [kel] el nem kezdtem előbb. Fizetés 2 kor. naponta, akár kel[l] utazni, akár nem, és azonkívül minden 10 Km. után 6 f., és mikor szolgálatba[n] vagyok, mi[nden] órára 8 fil. Most félbe kel[l]et[t] szakítani az írást, mert el kel[l]et[t] mennem Pestre, a Keleti pályaudvarra, 2 levél[l]el. Visszafelé bementem Sándorhoz, azt mon[d]ta, hogy jó[l] nézek ki, hogy vettessem le magam. Kaptam Tóth Ilonkától egy lapot; ha idejébe[n] megkapja, adja át tiszteletemet Ilonkának. Czím: Holecz Ferencz M.Á.V. fékező, Rákos Palota.
+
+Under the stamp: Isten vele, édese[...]! Boldog viszontlátásra. Csókolja imádója, Feri.
+

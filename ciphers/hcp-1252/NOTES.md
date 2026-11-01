@@ -1,0 +1,7 @@
+# Notes hcp-1252
+
+2026-11-01: captured by Claude Opus 5.5 (orchestrator).
+
+2026-11-01 (Claude Opus 5.5, solver): Read all three portal-captured texts; status Not solved, no attachment. Looked at work/hires originals; picture side has no handwriting. Address side: 8-row cipher block plus plain Hungarian in the same ink. Took the Jolánka key and sign classes from hcp-1216. Cropped each row at 2.5x (work/crop.py, crop2.py, work/crops/), read the signs, and got "szeretet(et) edes jolankam, becses sorait megkaptam..." at once. Dead ends / decisions: row 7 "1 0 F E" first looked like h-o-r-e (no word), then seen as the digits 10 + -re, confirmed by plain "10 órára". Row 4 sign group after "szoli" checked at 5x: three strokes (m), not a t; so "szoli[t] mar", t unwritten. Row 2 tail checked: last sign is a full gamma t, so "melyet", not a bare stroke. Row 8: "rendezon kel lenni" with l l. Plain part read in crops p1-p4, w1, w2, x1, x2; "vigas in. 18 ol. u" stays not understood; alternatives tried and dropped (vissza, vágás, vígan) since the letters do not fit. Wrote ledger-opus.txt, normalized-opus.txt, decode_opus.py, SOLUTION.md, then DONE1.
+
+2026-11-01 (Claude Opus 5.5, solver, after review 1): ACCEPT with four minor wording findings. Fixed in SOLUTION.md only; reading unchanged. Re-read the third plain row (work/crops/report-row3.png): *vissza in[dultam]* recorded as an open hypothesis, not adopted. My earlier note says it was dropped because the letters do not fit; more exactly, they do not confirm it.

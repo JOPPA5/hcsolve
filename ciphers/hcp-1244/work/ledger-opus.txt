@@ -1,0 +1,25 @@
+# HCP1244 sign ledger, Claude Opus 5.5, 2026-11-01. One token = one written sign, read on enlarged crops of work/hires/*_adr.jpg.
+# Sign classes (Jolánka family, names as in hcp-1216): = two bars a | # three bars e | S section mark k | 4 short+long stroke d | ^ chevron v
+# ) right bowl s | T inverted T j | Q cursive loop o | ~ wave l | 2 two strokes n | 3 three strokes m | 7 gamma t | x plain cross u | Z long crossed diagonal z
+# H tall stroke + short (h/p) | F r | 9 g | J dotted crossed curve i | y low descender y | 6 b | () opposed bowls cs | GY joined gy
+# 7T = last sign of row 14: gamma top AND inverted-T base bar, both on the sign; printed {j|t} (review 1, finding 1)
+# <ap> = high short arc (row 14), <,> = tick (row 14 end), <.> = round dot (row 15 end): marks, not letters
+# 4T = d+j ligature (row 17) | [)] = s bowl filled by a blot (row 15). Suffix ' = visible accent tick or dot over the sign; " = two marks (ö/ü/ő).
+01 S # 4 ^ # ) T Q ~ =' 2 S = 3
+02 7 x 4 = 7 Q 3 H Q GY ) Z #
+03 F # 2 () #' ) # 2 3 # 9 # F S # Z
+04 7 x" 2 S = GY Q" 2 GY Q" ) J = ~ Q
+05 3 = ) Q 2 ^ =' F 7 F = 2 S = H = #' )
+06 = 2 y 3 #' 4 # ) T Q ~ = 2 S = 3
+07 S J Q" 2 7 Q" Z 7 # # 3 =' F 3 =
+08 9 =' 7 #' 2 = 3 # ) 7 # F x F ~ =
+09 2 y = J 7 Q ~ = 2 2 y J ^ J
+10 Z # 7 H Q GY 6 Q" F J 9 # ~ =' Z
+11 7 = 3 J ) 7 # 2 ^ # ~ = ^ J ) Z Q 2 7
+12 ~ = 7 =' ) F = 4 # ) Q S =' ~ # ) Z = Z
+13 # ~ # 9 ~ # ) Z S J 6 J F 2 J
+14 = 4 Q ) ) Q H <ap> ) # 3 3 = F = 4 7T <,>
+15 = () Q S [)] Q H = ) # 3 = F 7 <.>
+16 H = () Q' S Q 7 S = H 6 = 6 =' 3
+17 () = S = 4 4 ^ J ) ) Z = 3 J 2 4T = F 7
+A1 ) Z # F # 7 # 7 7 # ~

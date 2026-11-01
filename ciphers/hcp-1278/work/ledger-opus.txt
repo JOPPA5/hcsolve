@@ -1,0 +1,23 @@
+# HCP1278 sign ledger, Claude Opus 5.5, 2026-11-01. Manual transcription from enlarged crops of work/hires/*_adr.jpg (not OCR).
+# One token = one written sign. Letters stand for the family's sign classes (table in SOLUTION.md).
+# Special tokens: F=r  )=s  X=u  6=b  GY=joined gy  H=h/p sign, tick high on the right (printed h)  P=same class, tick low on the right (printed p)
+#   H=d = h-shaped sign taken as d from word sense (row 9 edes)   :acute / :diaeresis = mark seen over the sign
+#   [ü] [d] = restoration under a blot (row 15)   [n] = n sign overwritten, read as # (row 14)   [h] = blotted first sign of row 16
+#   {blot} = blot with no letter value (rows 3, 8)   . = sentence point seen (rows 3, 11)   {r=F.} = last sign of the signature on row 16: keyed value r, read editorially as the initial F. (see SOLUTION.md item 3)
+01 K E D V E ) J O L A N K A T X D A
+02 T O M H O GY ) Z E F E N C ) E
+03 ) E {blot} N M E G E F K E Z T E M .
+04 A Z X:acute T E L E G F O:diaeresis V I D
+05 V O L T M I V E L H O GY
+06 K E T E N V O L T X N K H O GY
+07 T E L N E K M O ) T A N I ) Z O
+08 M O F X N A P J A I V I G {blot}
+09 G A ) Z T A L O D J O N E H=d E ) J O
+10 L A N K A M E Z E N M A F ) E
+11 G I T E N I N E M L E H E T .
+12 N E Z E L H O GY I J ) Z O M O
+13 F X N A P O K 6 A E Z T A L A P O T
+14 K X:diaeresis L D O:diaeresis K D E N I N C ) I T H O [n] M A )
+15 [ü] [d] V O:diaeresis Z L O:diaeresis M A T A V O L 6 O L
+16 [h] O L E ) {r=F.} T I ) Z T E L E M A Z O T
+17 M A F A D T A K A T

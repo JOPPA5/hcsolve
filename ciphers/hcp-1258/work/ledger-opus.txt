@@ -1,0 +1,40 @@
+# HCP1258 sign ledger, Claude Opus 5.5, 2026-11-01. Read by hand from enlarged crops of work/hires/*_adr.jpg (not OCR).
+# One token = one written sign, except [X] = sign hidden by tear/smear (restoration, see SOLUTION.md).
+# Tokens: letters; H = h/p sign; GY, CS, TY joined signs; accented letters only where the mark is visible; digits are written as digits;
+# . = written dot; ?1 ?2 = unresolved signs; ?X = tilted cross/x with one dot at the corner.
+01 S Z E R E T E T T É D E S J O L A N K Á M
+02 K I V A N O M H O GY A L E G J O B B K E D V E
+03 B E T A L A L J A S O R A I M H O GY T E L T
+04 A V A S A R N A H É D E S E M D E S Z E R E T N É M
+05 M Á R A V I S Z O N T L A T A S Ö R Ö M E I T
+06 É L V E Z N I D E S A J N O S L E V A GY O K
+07 K Ö T V E N E M A K O R CS I N A L O K S Z A
+08 B A D O T A M I K O R A K A R O K . O D A H A
+09 Z A V A N M E G A B É L A M O S T V A N A K I
+10 M U L A T T A S A N E K E M N E M A L E G J O B B
+11 V A S A R N A H O M V A N M E R T E S I K
+12 A Z E S S Ö É S É J E L 2 O R A T O L D E L I G
+13 F O J T O N A Z T A M M O S T M E G L E F E K
+14 S Z E K A T A L S Z O M A V A S Á R N A H O T
+15 E Z A Z É N V A S A R N A H O M I T É D E
+16 S E M A Z T S E T U D J A A Z E M B E R
+17 S O K S Z O R H O GY M I K O R V A N
+18 V A S A R N A H É D E S E M I G A Z Á N
+19 Ö R Ü L Ö H O GY U J R A S Z O R A K O Z
+20 H A T O M M A G A V A L É D E S E M
+21 CS A K A R A K É R E M M A G Á T É D E S E M
+22 N E H A L G A S O N S E M I F É L E H L E TY
+23 K A R A N E Z A V A R J A S E M I A B O D O G
+24 S A G U N K A T T E L J E S B I Z A L O M M A L
+25 L E GY E N I R N T A M M I H E J T O J A N
+26 H E J Z E T B E L E S Z E K H O GY F E L E S É G [E] [M] E T E H E S E M H Ö G T Ö N O T L E S Z E K
+27 M E R T É N J O B B A N V A R O M A Z T A H E J Z E T M I N T T A L A N M A G A É D E S E M
+28 M E R T M A G A T Ö B B S Z Ö R M O N D T A H O GY R Á É R M É G E L É G F I A T A L H O GY
+29 S Z Ü K S É E S E T É N L E G T Ö B B 1 É V E [T] V A R J O N CS ?1 ?2 L J A K E D V E S S E ?X E
+s1 I S T A N V E L E
+s2 É D E S E M
+s3 M A R A D [O] [K]
+s4 H Ű K E D V [E]
+s5 S E É S S I R I
+s6 H U I M Á D O
+s7 J A F E R I

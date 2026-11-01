@@ -1,0 +1,41 @@
+# HCP1267 sign ledger, Claude Opus 5.5, 2026-11-01. One token per written sign, read from enlarged crops of work/hires/*_adr.jpg.
+# Tokens: A E I L M N O T etc. = sign of that letter in the Jolanka family key; F=r  )=s  X=u  6=b  +=f  H=h/p (long stroke + short tick; p also short + long, the shape of d)  CS=opposed bowls
+# :' = acute-type mark seen over the sign; : = dot pair seen.  "..." = written in clear (digits, Latin script).
+# ? after a token = value depends on word sense or a damaged sign (each is listed in SOLUTION.md, Uncertainties).
+# Row 25: the M of vettesem is written small below the line between E and L; here it stands in reading order.
+# [x] = physically hidden sign, restored (listed in SOLUTION.md).  {tear} = signs lost under the stamp tear, not restored.
+01 ) Z E F E T E T E:' D E ) J O L A:' N K A:' M M O ) T M A F
+02 N Y X G O D T A 6 6 A I F H A T O M M E F T V A F O M
+03 H O G Y H O V A K X: L D O: N E K E:' ) E:' N E L H O Z
+04 T A M M A G A M M A L A T E N T A T E:' ) T O L A T H O G Y
+05 I F H A ) A K E G Y F E N D E ) L A H O T M E F T
+06 M A ) K E:' H N E M N A G Y O N E:' F E K F A M I N T
+07 I F T A M "½" "3" K O F + E K X: D T E M L E E:' ) "10"
+08 F E F E N D E Z O: N K E L E T L E N E M A Z E:' F
+09 I F T A M O J A N O ) Z E V I ) Z A "." K O: V A
+10 N O M H O G Y J O I D O: L E G Y E N H O G Y
+11 J O L M X L A T H A ) O N A K M E G E:' N I ) L E G
+12 J O 6 6 ) Z E F E T N E:' M H A M I N D I G J O I D O:
+13 V O L N A M E F T N? E M K E L E M E ) F O Z
+14 I D O: 6 E X T A Z N I A M I A M X N K A T I L E
+15 T I CS A K A Z T ) A J N A L O M H O G Y K? E? L
+16 E L N E M K E Z D T E M E L O: 6 6 + I Z E T E:' )
+17 "2" K O F "." N A H O N T A A K A F K E L X T A Z N I
+18 A K A F N E M E:' ) A Z O N K I V X: L M I N D E N
+19 "10 K.m. utan 6 f. es" M I K O F ) Z O L
+20 G A L A T 6 A V A [G] Y O K M I O F A F A "8 fil"
+21 M O ) T + E:' L 6 E K E L E T ) Z A K I T A N I A Z
+22 I F A ) T M E F T E L K E L E T M E N N E M
+23 H E ) T F E A K E L E T I H [A] J A X D V A F A "2" L E V E L E L
+24 V I ) Z A + E L E:' 6 E M E N T E M ) A N D O F H O Z A Z? T
+25 M O N T A H O G Y J O N E:' Z E K K I H O G Y V E T T E ) E M L E M A G A M "." K A H? T A M T O T H I L O N
+26 K? A T O L E:' G Y L A H O T? H A I D E J I 6 E M E G K A H J A A D J A T I ) Z T E L E T E M E T I L O N
+27 K? A N A K "," C Z I M "Holecz Ferencz M.A.V. fekezo Rakos Palota"
+S1 I? ) T E N V E L E
+S2 E:' D E ) E {tear}
+S3 6 O L D [O] G
+S4 V I ) Z O N T
+S5 L A T A ) F A
+S6 CS O K O [L] J A
+S7 I M A D O J A
+S8 + E F I

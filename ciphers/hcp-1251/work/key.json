@@ -1,0 +1,6 @@
+{"family":"Jolánka Hungarian postcards; sign classes as in hcp-1216/SOLUTION.md",
+ "signs":{"a":"two bars","b":"six","c":"opposed bowls = cs","d":"long stroke + short tick, either joined as a peak or crossing (h-like 4)","e":"three bars",
+ "f":"cross + (upright or tilted)","g":"hooked S with descender (large S in boldo|gok row 22, large double-looped form in dragam row 16)","h":"tall stroke + short tick at upper right = h or p","i":"crossed loop with dot, dot often omitted",
+ "j":"inverted T","k":"section-mark S (also a closed 8 in megkaptam)","l":"wave, sometimes a plain chevron without hook","m":"three short strokes","n":"two short strokes",
+ "o":"cursive loop (dots/tick for ö, ő, ó)","r":"F-like","s":"right bowl","t":"gamma","u":"plain cross x (dots for ü)","v":"peak with long left leg","y":"low loop with descender","z":"crossed diagonal with long arm"},
+ "digraphs":{"c":"cs"}}

@@ -1,0 +1,20 @@
+from PIL import Image, ImageOps, ImageEnhance
+im=Image.open('../../work/hires/cpc_1912-03-27_HU__HU_Jasz-Arokszalas_jolanka-13_adr.jpg').convert('RGB')
+def c(n,b,s=4,rot=0):
+    r=im.crop(b); r=r.resize((r.width*s,r.height*s),Image.LANCZOS)
+    if rot: r=r.rotate(rot,expand=True)
+    r.save(n)
+c('z_r02.png',(380,270,1020,400),3)
+c('z_r04end.png',(1000,620,1720,790),3)
+c('z_r12.png',(90,1590,1550,1740),2)
+c('z_r12b.png',(1000,1590,1500,1730),4)
+c('z_r13.png',(90,1720,700,1880),3)
+c('z_r15.png',(90,1960,620,2085),4)
+c('z_r09.png',(90,1210,500,1370),4)
+c('z_r10end.png',(830,1360,1200,1500),4)
+c('pm1.png',(1700,250,2450,1050),2,180)
+c('pm2.png',(2480,130,2850,830),2,180)
+# stamp channels
+s=im.crop((2820,270,3300,560)).resize((1920,1160),Image.LANCZOS)
+ImageOps.autocontrast(s.split()[1],cutoff=1).save('stamp_G.png')
+ImageOps.autocontrast(s.split()[2],cutoff=1).save('stamp_B.png')

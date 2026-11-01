@@ -1,0 +1,24 @@
+# HCP1245 sign ledger, Claude Opus 5.5, 2026-11-01. Read sign by sign from enlarged crops of the hires address side (crops/).
+# One token = one written sign. Letters = family sign classes (HCP1216 legend). )=s (bowl), K=k (section mark), Z=z (crossed diagonal),
+# F=r, X=u, 6=b, H=long+short sign read p/h, D=long+short read d, GY/CS joined digraphs, O:dacute=ő (two strokes seen).
+# <...> = written in plain Latin letters, not cipher. N? = n with a smear (row 5). M? = three strokes, third thick with a tail (row 16).
+# [n?] = row 16 sign 2, a long and a short stroke: uncertain, could be n, the h/p/d sign, or the end of an m (changed from N after review 2).
+# Row 7 sign 3 corrected from Z to T after review 1 (a heavily inked gamma joined to the bowl: este-).
+# [?] = sign(s) lost under a blot. [?]Y = blotted sign joined to a y descender. Other accents are not ledgered (see SOLUTION.md).
+01 E D E ) ) Z E F E L M E M <t> X
+02 D A T O M H O GY ) Z E F E N CS E
+03 ) E N M E G E F K E Z T E M E D E )
+04 J O L A N K A M ) A J N A L A T
+05 T A L K E L T X D A T N? I H O GY
+06 A L E V E L E I <dél> F O:dacute L
+07 E ) T E F E L E ) Z E K K E N Y
+08 T E L E N A T T E N I <az> I F A
+09 ) A T
+10 A ) Z E F E L M E ) M I N D 6 O L O N D
+11 M O N D J A A Z O K O ) A K
+12 X GY L A T ) Z I K M E F E N M I G
+13 E L E K CS A K 6 O L O N D M A F A D O K
+14 6 O L O N D J A K E T ) Z E H ) Z E M E D N E K
+15 E D E ) K I N Y 6 A 6 X ) H A T E L E ) Z E L
+16 [?] [n?] E [?]Y E M? ) Z I V E M E L T E M
+17 N E M L E ) Z 6 O F X )

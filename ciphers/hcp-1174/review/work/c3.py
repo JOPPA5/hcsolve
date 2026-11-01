@@ -1,0 +1,23 @@
+from PIL import Image
+adr=Image.open('work/hires/cpc_1916-02-15_HU_Mezokovesd_HU_Szomolya_szomolya-18_adr.jpg').convert('RGB')
+r=adr.split()[0].point(lambda v:0 if v<75 else (255 if v>150 else int((v-75)*3.4)))
+def S(n,b,f=4,src=adr):
+    c=src.crop(b); c.resize((c.width*f,c.height*f),Image.LANCZOS).save('review/work/%s.png'%n)
+S('z_mondd2',(700,1820,1000,1920))
+S('z_9s',(900,1890,1200,2010),5)
+S('z_salutend',(1000,40,1250,150),5)
+S('z_b2sz',(560,2000,860,2100),5)
+S('z_ked',(950,2000,1400,2100),4)
+S('z_end',(1350,1960,1560,2100),4)
+S('z_szam',(40,1910,240,2010),5)
+# plain text with brown suppressed
+S('p_lagy',(30,1180,1500,1310),1,r)
+S('p_lagy2',(620,1190,1500,1290),2,r)
+S('p_lagy1',(30,1190,700,1300),2,r)
+S('p_at',(30,1400,1100,1520),2,r)
+S('p_csen',(30,1490,1560,1610),1,r)
+S('p_hol',(30,1610,1000,1720),2,r)
+S('p_jovo',(600,520,1560,640),2,r)
+S('p_vas',(30,570,1000,680),2,r)
+S('p_diff',(30,660,1560,800),1,r)
+S('p_stamp',(2300,600,3100,1000),1)

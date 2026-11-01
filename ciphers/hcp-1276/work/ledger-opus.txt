@@ -1,0 +1,28 @@
+# HCP1276 sign ledger, Claude Opus 5.5, 2026-11-01. Read sign by sign from 3-5x enlargements of the un-converted scan
+# work/hires/...adr.jpg (crops in work/crops/). One token = one written sign. Key and sign classes as HCP1216.
+# Tokens: F=r  )=s  X=u  6=b  +=f  (=c  H=h (tall+short)  P=p (same sign class; chosen by word sense)  GY joined gy  7=the digit 7
+# :d = diaeresis-type mark visibly written. Acutes are not transcribed. | = stroke with no value of its own (row 9; see SOLUTION.md).
+# *Z *X *S *GY *P = sign overwritten by a heavy blot, identified from what shows through (see SOLUTION.md).
+# Corrected after review 1: row 9 A | M E N N (6 ledger strokes reduced to the 4 on the card), row 10 first sign A, row 16 phantom E removed.
+# H~ = 2-shaped sign with crossbar (row 14), read h only from the word "hogy".
+01 I G A Z A N ) A J
+02 N A L O M A K E F E ) Z T L A
+03 N Y X N K A T O N N E K E D E ) E M
+04 E V E L A H A L A L L A L
+05 A F E M E N Y E I O ) Z E
+06 D O:d L T E K K E D V E ) E M
+07 A M X L A T ) A G 6 A O K
+08 V E T L E N L E M E GY E K
+09 H A D E L *X T A | M E N N
+10 A K O F E ) T E F E O K V E T
+11 L E N ) Z E *P T E M 6 E F
+12 7 E N L E ) Z E GY ) Z X:d
+13 F E T I M X L A T *S A G I )
+14 D E ) Z E F E T N E M N A H~ O *GY K A N
+15 + E L J O N N E A *Z M *X L A T ) A G 6 A
+16 I ) T E N V E L A V I ) Z O N T L A T A ) F A + E F I
+s1 X:d D V O:d Z
+s2 L O M A T A
+s3 V O L 6 O L
+s4 H X:d K E D V E )
+s5 ( E + E F I

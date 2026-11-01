@@ -1,0 +1,17 @@
+# hcp-1179 ciphertext, in reading order. Tokens are a digit plus its trailing mark
+# (none, "." , ":" or ","). ":1" = dots stand LEFT of the 1. "8." = round dot, see below.
+# [x] = NOT read from the pixels: the value is taken by word sense and printed in brackets.
+#   [7]  in megtenné[k]: the blot and smear (about 157 px on the hires scan, room for 2 or 3
+#        signs) hide an unknown number of signs, followed by a comma-like mark; k is a sense
+#        restoration only, the card does not show a 7 here.
+#   [2.] in n[é]ked: no dot is visible; the pixels favour 2 with a possible comma (or nothing).
+#        The value rests on word sense and on the rhyme with erted.
+8 1 6, 3 1: 6, 8,
+8 1: 4, 8, 1: 6, 6, 2. [7]
+2. 6,
+2. 3, 8, 1: 3
+1.
+5. 1: 4, 7. 1: 1,
+7 1. 3, 8. 1 8
+7 :1 5, 3 0, 8
+6, [2.] 7 1: 3

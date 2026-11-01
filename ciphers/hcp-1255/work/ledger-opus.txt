@@ -1,0 +1,27 @@
+# HCP1255 sign ledger, Claude Opus 5.5, 2026-11-01. Read sign by sign on enlarged crops of work/hires/*_adr.jpg (crops in strips/ and rows/).
+# One token = one written sign, token = letter assigned by the Jolanka family key (hcp-1216 table). GY, CS = joined digraphs.
+# H, P and D below are often the SAME drawn sign (tall stroke + short stroke); which letter is chosen rests on word sense. See SOLUTION.md.
+# E vs A: three bars / two bars. Tokens record the bars seen, normalization corrects them. The writer separates a and e well; only r02 and r20 have a two-bar e.
+# :diaeresis = two marks seen over the sign (o/u), :double-acute = two slanted marks, :acute = one mark seen. Other accents are not seen or not transcribed.
+# [?] = ink blot in row 05, nothing readable; it may hide a sign or be a spill. Corrected after review 1 (r05, r07, r10, r12, r15).
+# Row 10: an isolated slanted mark stands above the l of the final -len of okvetlen; it is not transcribed as a sign.
+01 K E V E S J O L A N K A M B E CS E S
+02 S O R A I T K O:diaeresis S Z O:diaeresis N A T T E L
+03 M E G K A P T A M M E L Y E T E P E
+04 D O:double-acute S Z I V E L V A R T A M I G A
+05 Z A N [?] S A J N A L O M H O GY N E M
+06 V I GY A Z O T M A G A R A D E
+07 A Z M E G N Y U G T A T H O GY M A R
+08 M U L O B A V A N I T N I N S E M I
+09 U T S A:acute G E D E S J O L A N K A M
+10 V A S A R N A P O K V E T L E N L E N
+11 L E N L A N L E M E GY E K A Z T H I
+12 S Z E E D E S A P A M I S L E M E GY
+13 E Z E L B E Z A R O M S O R A I M
+14 I S T E N V E L E A V I S Z O N T
+15 L A T A:acute S R U:diaeresis D V O:diaeresis Z L O M A T A
+16 V O L B O L S I R I G H U:diaeresis T I S Z
+17 T E L O:double-acute J E F E R I E D E S J O L A N
+18 M A R K E S O R E J A R A Z I D I
+19 T O:diaeresis B E T N E M I R O K M A J D
+20 V A S A R N A P B O V A B A N

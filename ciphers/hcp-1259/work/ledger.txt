@@ -1,0 +1,27 @@
+# HCP1259 sign ledger, Claude Opus 5.5, 2026-11-01. One token = one written sign, read on enlarged crops of
+# work/hires/*_adr.jpg (main text, left half of the address side, 18 rows). Not blind: the Jolanka key was known.
+# Codes: b2 two bars | six | sl short+long stroke | b3 three bars | lg open loop with descender | th tall stroke+tick
+# dc dotted crossed curve | ud same curve, no dot | it inverted T | sec section mark or S shape | wv wave
+# s3 three short strokes | s2 two short strokes | lp cursive loop | Fr F-like | rb right bowl | gm gamma | xc plain cross
+# ch chevron | zc crossed diagonal with tail | gy joined cursive gy (the family's gy sign)
+# thd d-shaped sign (short+long) read as h in lathat, row 11 | io sign hidden by a blot, i or o (row 9)
+# Modifiers: ' visible accent; ?x blotted, overlapped, pale or off-form sign whose value rests on word sense (see SOLUTION.md);
+# ~text letters written in ordinary cursive, not enciphered; [ ... ] signs struck through by the writer; . written dot
+01 sec b3 sl ch b3 rb it lp wv b2 s2 sec b2 s3
+02 Fr b3 s3 b3' wv b3 s3 th lp gy b3 wv b3' lg
+03 it lp wv gm b3 wv s2 b3 sec lp' Fr b2' dc
+04 b3 sl b3 rb b3 s3 wv b3 gy ~en b3 wv
+05 s2 b3' zc b3 rb b3 wv [ s2 b3 zc b3 rb b3 ] dc wv lp
+06 s2 b2 ud wv lp s2 b2 dc Fr b2 ?s2 sl b3 s2 b2
+07 gy ~on rb lp sec sl lp wv lg b2 ch b2 s2
+08 ?th dc gy b3 b3 wv b3' sl b3 rb b3 s3
+09 ?io it zc b2 ch b2 Fr lp rb dc Fr b2' rb
+10 ?s3 dc s2 gm dc gm ch b2 s2 b2 s3 dc gm
+11 wv b2 gm ?thd b2 gm rb lp Fr b2 dc s3 zc b2
+12 ch b2 Fr lp rb dc Fr b2' rb b2' six lp wv
+13 ?s3 b3 Fr rb zc b3 gm b2 sec b2 Fr gm b2 s3 gm b3 th
+14 ?s2 dc . b3 sl b3 rb b3 s3 dc Fr ?it lp s2 th lp s2
+15 ?th lp gy s3 dc xc it rb b2 lg ?th lp gy
+16 ?Fr ?b2 ?lg lp sl s2 b2 sec Fr b2 it gm b2 s3 b2 Fr lp rb zc
+17 ?s2 ud ?b3 wv ch b3 sec . dc rb gm b3 s2 ch b3 wv b2
+18 ch dc rb zc lp s2 gm wv b2 gm b2 rb Fr b2

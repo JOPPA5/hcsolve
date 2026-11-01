@@ -1,0 +1,7 @@
+# hcp-1175 digit block, five lines, one sign per token. Mark after the digit is part of the sign: . : , or none.
+# Ambiguous marks: L2 token 4 could be "3." + "1" (dot sits between them, against the 1); L3 last token "9" may carry a comma.
+5 1. 8 2. 4, 1: 4. 7. 1: 3, 1: 5,
+1 6, 3 1. 5, 0 7 2. 7, 0 3 1. 6, 1: 8
+2. 3, 5 1: 8, 1: 7 1. 7 0 3, 1. 9
+1 8, 0 6, 4 0, 1, 5, 0, 3. 0, 8
+8 1. 4, 1. 8

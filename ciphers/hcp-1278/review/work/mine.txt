@@ -1,0 +1,19 @@
+# Reviewer's own sign-class reading of work/hires adr scan, made from review/work/crops before comparing ledgers row by row.
+# Class names: 2bar 3bar six lbowl rbowl tick+long(d) Ccurl(g) tallhi tallhlo(p) loop(o) loopdot(i) invT wave m3 n2 sect(k) F gamma X(u) chev crossd(z) gy
+1 sect 3bar d chev 3bar rbowl invT loop wave 2bar n2 sect 2bar gamma X d 2bar
+2 gamma loop m3 tallhi loop gy rbowl crossd 3bar F 3bar n2 lbowl rbowl 3bar
+3 rbowl 3bar BLOT n2 m3 3bar Ccurl 3bar F sect 3bar crossd gamma 3bar m3
+4 2bar crossd X gamma 3bar wave 3bar Ccurl F loopdd chev loopdot d
+5 chev loop wave gamma m3 loopdot chev 3bar wave tallhi loop gy
+6 sect 3bar gamma 3bar n2 chev loop wave gamma X n2 sect tallhi loop gy
+7 gamma 3bar wave n2 3bar sect m3 loop rbowl gamma 2bar n2 loopdot rbowl crossd loop
+8 m3 loop F X n2 2bar tallhlo invT 2bar loopdot chev loopdot Ccurl BLOT
+9 Ccurl 2bar rbowl crossd gamma 2bar wave loop d invT loop n2 3bar tallhi 3bar rbowl invT loop
+10 wave 2bar n2 sect 2bar m3 3bar crossd 3bar n2 m3 2bar F rbowl 3bar
+11 Ccurl loopdot gamma 3bar n2 loopdot n2 3bar m3 wave 3bar tallhi 3bar gamma
+12 n2 3bar crossd 3bar wave tallhi loop gy loopdot invT rbowl crossd loop m3 loop
+13 F X n2 2bar tallhlo loop sect six 2bar 3bar crossd gamma 2bar wave 2bar tallhlo loop gamma
+14 sect Xdd wave d loopdd sect d 3bar n2 loopdot n2 lbowl rbowl loopdot gamma tallhi loop OVERWRITTEN m3 2bar rbowl
+15 BLOT BLOT chev loopdd crossd wave loopdd m3 2bar gamma 2bar chev loop wave six loop wave
+16 BLOT loop wave 3bar rbowl F gamma loopdot rbowl crossd gamma 3bar wave 3bar m3 2bar crossd loop gamma
+17 m3 2bar F 2bar d gamma 2bar sect 2bar gamma

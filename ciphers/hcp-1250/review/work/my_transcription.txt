@@ -1,0 +1,34 @@
+# Reviewer's independent row-by-row reading from review/work/crops/t*.png; glyph names, not letters.
+# bar2 bar3 six fbar(F) hook(open-g) y lookT(gamma) wave st2 st3 ts(tall+short) ts4(d, long+bowl) loop dot(i) sec(k) rbowl tail(x-with-tail) x x: lo: bow2(cs) plus invT inv(v-chevron)
+01 bar3 d bar3 rbowl bar3 hook y bar3 gamma wave bar3 st2 fbar bar3 st3 bar3 st2 y bar3 st3 sec dot
+02 chev bar2 st2 loop st3 ts loop hook y bar2 wave bar3 hook invT loop six six bar3 hook bar3 rbowl rbowl bar3 hook
+03 six bar3 st2 gamma bar2 wave bar2 wave invT bar2 rbowl loop fbar bar2 dot st3 st3 dot rbowl bar2 invT st2 loop rbowl
+04 fbar dot gamma sec bar2 st2 chev bar2 st2 st3 loop rbowl gamma bar2 st2 bar2 six bar2 invT loop st3 x
+05 wave bar2 gamma bar2 rbowl gamma sec dot chev bar2 st2 loop ts loop wave st2 bar2 ts d bar3 invT loop wave st3 x
+06 wave bar2 gamma hook loop st2 d loop wave invT loop st2 fbar bar2 dot rbowl st3 bar3 fbar gamma st2 bar3 wave
+07 sec x: wave lo: tail st2 lo: st3 sec bar3 wave bar2 invT loop st3 x wave bar2 gamma bar2 rbowl gamma
+08 st3 bar2 hook bar2 st2 bar3 wave sec x: wave st2 bar3 st3 gamma x d loop sec st3 x wave bar2 gamma
+09 rbowl bar2 hook loop gamma rbowl tail bar3 fbar bar3 tail st2 dot bow2 bar2 sec bar2 tail plus bar2 invT st3 bar3 fbar gamma
+10 st2 dot st2 bow2 bar3 hook y sec dot bow2 dot gamma sec loop tail bar3 wave bar3 six ts loop tail bar2 st3
+11 ts loop hook y hook y bar2 sec fbar bar2 six six bar2 st2 gamma bar2 wave sec loop tail
+12 ts bar2 gamma st2 bar2 st2 sec st2 bar3 sec bar3 st3 loop invT ts loop rbowl tail x bar2 tail
+13 dot d lo: st3 dot st2 d bar3 st2 ts bar3 gamma bar3 hook y bar3 rbowl tail gamma bar3 st2
+14 d lo: bar3 rbowl bar2 d dot hook gamma bar2 fbar gamma st3 OVER hook bar2 tail gamma st2 bar3 st3
+15 st3 loop st2 d ts bar2 gamma loop st3 ts loop hook y bar3 st2 y bar3 st3
+16 chev bar2 hook y lo: fbar lo: sec fbar bar3 bar3 rbowl st2 bar3 st3 chev bar2 wave bar2 rbowl tail gamma
+17 bar3 wave bar3 hook y st3 bar3 rbowl gamma loop BLOT rbowl bar3 st3 dot d bar3 rbowl bar2 invT
+18 st2 loop rbowl st3 bar3 hook rbowl loop sec bar2 wave bar3 rbowl tail d bar3 six bar3 tail
+19 x st2 sec bar2 tail dot rbowl gamma bar3 st2 six bar3 st2 tail gamma gamma bar3 fbar gamma loop st3
+20 st3 dot st2 gamma bar2 tail bar3 st2 bar3 sec st3 loop st2 d invT bar2 ts loop hook y
+21 st3 bar3 hook bar3 fbar invT x: sec st3 bar3 bar2 tail gamma bar2 tail dot d lo: gamma
+22 six bar2 six bar2 st3 gamma bar3 wave bar3 rbowl tail bar3 wave bar2 ts bar2 fbar loop st3
+23 bar2 st3 dot gamma bar3 st2 bar2 wave dot hook bar2 wave dot hook chev bar2 fbar loop st3
+24 dot rbowl gamma bar3 st2 chev bar3 wave bar3 bar3 d bar3 rbowl bow2 loop sec loop wave invT bar2 dot st3 bar2 d loop invT bar2 plus bar3 fbar dot
+S1 rbowl tail bar3 ts sec bar2 d
+S2 chev bar3 rbowl bar3 st3
+S3 hook loop st2 d loop wave
+S4 invT loop st2 st2 bar3
+S5 ts FAINT fbar bar2 st3
+S6 chev dot rbowl tail loop gamma
+S7 wave bar2 gamma bar2 rbowl fbar bar2
+S8 plus bar3 fbar dot

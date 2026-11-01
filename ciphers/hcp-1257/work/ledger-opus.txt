@@ -1,0 +1,46 @@
+# HCP1257 sign ledger, Claude Opus 5.5, 2026-11-01. Read from enlarged crops of work/hires/..._adr.jpg (crop.py, crop2.py, z.py).
+# One token = one written sign. Letter classes as in hcp-1216: F=r )=s X=u 6=b +=f H=h/p Z=crossed diagonal z CS=opposed bowls
+# :diaeresis = dots visible. Accents (a/e/o acute) are faint and not transcribed unless needed.
+# Special tokens: N? = joined two-stroke sign (Lambda-like) on the printed line, read n from sense; ??=not a word sign:
+#   [blot] ink blot with no letter value; [o?] small stroke after the k, read as a reduced o; E? = three bars with a stray oblique stroke;
+#   L? = washed-out Y-shaped remnant, not identifiable by shape; I? = i under a stain or overwritten: row 8 filled body with a separate dot and right arm, row 23 top on a stain, row 30 under a brown stain; Y? = open hook sign after d (row 24);
+#   [646] = three digit-like marks over the o; [D] = RESTORATION, sign hidden by the stamp tear; L~ and A~ = very faint under the stamp.
+01 ) Z E F E T E T E D E ) J O L A N K A M E N
+02 6 E L A T O M H O G Y K E L L E M E T L E N
+03 L E H E T E T M A G A N A K M I K O F A Z T
+04 M O N D J A V A L A K I H O G Y M A ) T 6 O L
+05 D O G I T O K N E M M A G A T E D E ) E M A Z T
+06 T A N A CS O L O M M A G A N A K H O G Y
+07 CS A K A Z T M O N J A N E K I H O G Y ) Z A
+08 6 A D A Z X T H I? G Y J E E L N E M ) Z E F E Z
+09 N E K I K A N N Y I O:diaeresis F O:diaeresis M E T M I N T H A
+10 A Z T L A T J A K M A G A N [blot] H O G Y + A J D A L
+11 M A T O K [o?] Z T A K M A G A N A K V E L E E? N
+12 I ) CS A K A Z T M O N D O M H O G Y 6 O L
+13 D O G E M 6 E F A K I E L H O D I T J A
+14 M X ) Z A J E Z T X D M I N D E N K I N? E K
+15 H O G Y M I T E F Z E K L E G Y E N M A
+16 G A E D E ) E M E G E ) Z N Y X G O D T
+17 E N 6 E N N E M N E M CS A L O D I K ) O H A
+18 M E F T M I H E J T T E H E T ) E G E ) L E ) Z
+19 E G Y 6 E K E L E ) X:diaeresis N N E K K O:diaeresis L T ) E G E I T
+20 M E G ) Z E F E Z N I F O:diaeresis T O:diaeresis N + E L E ) E
+21 G E M E T E ) Z E M 6 A F N A F H O L N A H
+22 V O L N A E D E ) E M ) O F A F O:diaeresis T O:diaeresis N
+23 V A L A ) Z O L O K CS A K 6 E L I? E G E T T X
+24 D Y? N E H E Z E N ) Z E F E Z N I E D E ) J O
+25 L A N K A M M E G A Z A K E F E H A T E H E T I
+26 G Y A F A 6 A N I F J O N A F O L A + E F + I
+27 F O:diaeresis L A M I K O F O F A K A F I F H A T E N + E L K E N N E M V A G Y O K H A G X J T ) E ) M O [646] Z A
+28 F N E V E T E K E Z 6 E E Z T A F A G A L? M A T A K O F E G E ) Z A F O K ) Z A L A ) T X D J A CS A K
+29 A Z T ) Z E F E T N E M T X D N I M E F T F A G O D N A K M I N D E N F A J T A M T A L A N M A G A J O 6
+30 6 A N T X D J A ) O F A I T V A F V A M A F D O G I? M A D O J A + E F I
+S1 CS O K O L~
+S2 L O M ) Z A
+S3 M T A L A N
+S4 ) Z O F I M A
+S5 [D] O J A + E F I
+S6 G O N D O L
+S7 J O N N E H A~
+S8 F A M
+# Corrected 2026-11-01 after review 1: rows 5, 7, 15, 23, 26 (reviewer findings), rows 8 and 29 (solver re-check, see SOLUTION.md).

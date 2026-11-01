@@ -1,0 +1,40 @@
+# HCP1279 sign ledger, Claude Opus 5.5, 2026-11-01. Read from enlarged crops of work/hires/*_adr.jpg (crops/). One token = one written sign.
+# Tokens: letter classes of the Jolanka key (see SOLUTION.md). F=r ")"=s X=u 6=b +=f H=h/p sign CS=joined bowls, gy is written g+y.
+# :d = a dot/tick mark seen over the sign (o->ö/ő, u->ü/ű); :a = accent tick seen. Accents otherwise not transcribed.
+# [T] = sign physically hidden, restored (disclosed); AE = two/three bars not decidable (a or e); OI = loop, dot not visible (o or i);
+# * = scribbled-out sign, no value. S2 sign 6 has a separate tick at its upper right, not coded (accent on o, or stray). S-rows stand round the stamp at upper right; S0 is a fragment beside the stamp.
+# Review 1 changes: rows 1, 9, 14, 19, S3 (five signs, one accent); row 10 [H] added (stroke + short mark under the postmark after csak, formerly "stray tick"); row 11 first sign NH = n or h undecided (written {n|h}).
+01 N E Z H O G Y A CS A L D I T X:d Z H E L Y AE T
+02 M E G ) Z E F E Z E M A D I G K E L ) O K A T
+03 K X:d Z D E N E M [)] O K ) Z O F E L V E ) Z
+04 T E T X:d F E M H O G Y M I E F T N E M
+05 [F] E N D E L K E Z E M M A:a F L E G A L A 6
+06 [AE] [N] Y I H E:a N Z E L A M I E F F E
+07 D E 6 I Z O M A Z I ) T E N 6 E
+08 H O G Y M E G E Z I ) M E G E L E M
+09 E G Y ) Z E F X G Y O:d F X L O K E:a D E
+10 ) E M H O G Y M A F CS A K [H] E F O M
+11 NH E V A L A ) Z T E L A T T O L H O G Y
+12 V I ) Z O N T L A T H E ) ) E M H O G Y
+13 L E ) Z A K I V E Z E F E L J E N
+14 E ) K I T O:d J O T A N A CS O K A T K E F
+15 J E K M E F T E N CS A K X G Y A K A F O K
+16 E L N I A H O G Y M A G A K I V A N J A
+17 V A G Y J O 6 6 A N M O N D V A CS A K
+18 M A G A N A K E ) ) Z O L G A L A T O M
+19 N A K + O G O M E L N I 6 A F M A F
+20 I T V O L * A A Z A H E F C Z H O G Y
+21 L A T H A ) ) A M A M I A ) Z X:d L E
+22 I M E T I L L E T I E G Y G Y E N
+23 L O:d F E N E M K X:d L D O M M E G M E F T
+24 M A ) F A K E L A H E N Z M E F T M O ) T
+25 A K A F X H A T OI ) CS I N A L T A T
+26 N I E ) H E D I G K E ) Z H E N Z E F
+27 D E H A M A G A K I V A N J A A K O F E L K X L D O:d M D O M E L ) E J E N E Z CS A K M A
+28 G A T O L + X:d G D E E N ) Z E F E T N E K E L O:d 6 A T O:d L T O:d Z N I E Z E L
+29 6 E Z A F O M ) O F A I M M A F A D O K ) Z E F E T O:d K E D V E ) E + E F I
+S0 O G
+S1 CS O K J A I
+S2 E:a V AE G Y O
+S3 K E D V E ) ) E
+S4 + E F I

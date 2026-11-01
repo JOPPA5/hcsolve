@@ -1,0 +1,28 @@
+# Reviewer's own glyph reading, made from review/work/crops before comparison. Names are graphic classes.
+01 two three hk bar2 Fsign bar2 opng cross tkd invT lp two three Fsign gam three hk lp gyj
+02 dcurve invT rbowl cross" Fsign cross" two sect cross" wave tkd lp" strk3 bar2 wave bar2 hk lp
+03 sect bar2 gam tkd three three two two three strk3 bar2 gyj opng lp two tkd lp wave
+04 sect lp zed lp strk3 strk3 dcurve two gam lp" two three two three sect three strk3
+05 invT lp wave three rbowl dcurve sect hk bar2 lp" two two three wave six three rbowl zed three wave
+06 hk three gam three sect three tkd three rbowl invT lp wave bar2 two sect bar2 strk3 strk3 three Fsign gam
+07 three two strk3 dcurve sect lp Fsign rbowl lp Fsign bar2 dcurve strk3 dcurve Fsign lp strk3
+08 lp" BLOT two tkd three sect cross gyj three Fsign zed three strk3 strk3 bar2 opng bar2 strk3 strk3 dcurve two gam
+09 hk bar2 six three rbowl zed wave opng two three sect three tkd three rbowl invT lp wave bar2 two sect bar2 strk3
+10 three wave rbowl three strk3 gam cross tkd invT bar2 sect three hk zed three wave bar2 dcurve strk3 dcurve wave ydesc
+11 hk lp rbowl zed cross dcurve tkd lp" bar2 zed strk3 three opng strk3 three opng sect bar2
+12 hk lp strk3 rbowl lp Fsign dcurve gam cross gyj rbowl zed three Fsign three gam two three strk3
+13 hk bar2 Fsign three hk cross" wave two three bar2 wave three BLOT three wave three Fsign three hk cross" wave lp"
+14 opng three hk three gam rbowl zed three Fsign zed three sect six three hk lp gyj gyj
+15 lp Fsign rbowl bar2 six bar2 two invT lp" two two three six three sixbowl three rbowl wave bar2 hk invT bar2 dcurve
+16 capM dcurve tkd three two opng lp two tkd lp wave bar2 gam two bar2 wave
+17 bar2 gam three gam gam wave three opng gam lp" six six three gam three Fsign
+18 dcurve gyj gam three BLOT zed sect dcurve sixbowl lp sect lp gam bar2 tkd
+19 rbowl two three strk3 hk three tkd dcurve opng wave three two sect three Fsign
+E six dot rbowl lp Fsign bar2 dcurve gam
+B chev bar2 Fsign chev bar2 strk3 bar2 Fsign bar2 strk3 bar2 Fsign bar2 tkd lp sect rbowl zed dcurve chev three two three sect Fsign bar2 six rbowl zed lp wave opng bar2 invT bar2 cross+ three Fsign dcurve
+S1 dcurve rbowl gam three two chev three wave three
+S2 BLOT gam bar2 chev lp wave six dot
+S3 lp wave sixbowl lp sect lp
+S4 wave invT bar2 rbowl zed bar2 strk3
+S5 gam bar2 wave bar2 two rbowl zed lp
+S6 Fsign

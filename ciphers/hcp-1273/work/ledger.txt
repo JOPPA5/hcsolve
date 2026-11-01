@@ -1,0 +1,26 @@
+# HCP1273 sign ledger, Claude Opus 5.5, 2026-11-01. Manual transcription from enlarged crops of the hi-res address scan
+# (work/hires/..._adr.jpg, crops in work/crops/); not OCR. One token = one written sign; rows follow the card's written lines.
+# Tokens: letter classes as on hcp-1216; F=r  )=s  X=u  6=b  +=f  H=h/p (tall + short stroke)  GY/CS joined signs
+# :diaeresis = dots/ticks seen over the sign. Other accents are faint and NOT transcribed (supplied in normalization).
+01 K E D V E ) J O L A N K A M 6 E CS E )
+02 ) O F A I T M E G K A H T A M E GY E F F E
+03 + O G A D J A K O:diaeresis ) Z O:diaeresis N E T E M E T A M X
+04 L A T ) A G 6 A N CS A K M X L A T T A M
+05 M E F T M X ) Z A J V O L T M E F T
+06 A K I T E L + O G A D T A M A V A L
+07 M X ) Z A J V O L T T A N C Z O L N I
+08 D E ) O K ) Z O F E L G O N D O L T A M
+09 H A I T L E T V O L N A A Z E N CS I L
+10 L A G O M E N Y E M V O L N A A T A N C Z
+11 T E F E M M A F E GY O F A K O F
+12 H A Z A M E N T E M E D E ) J O L A N
+13 K A M ) A J N A L A T T A L K E L T X
+14 D A T N I H V A ) A F N A H L E ) Z A Z
+15 E GY L E T 6 E V A L A ) Z T M A N Y I
+16 X:diaeresis L E ) E ) E M I A T N E M M E H E T E K L E
+17 A V A ) A F N A H I M X L A T A ) T M E G
+18 I F T A M K E D V E ) J O L A N K A M A M I
+19 A V E F ) E I T I L E T I A Z O K E G E ) Z
+20 A ) Z I V E M I G H A T H A O:diaeresis N ) Z I V 6 O:diaeresis L I F
+21 J A A M I 6 O L D O G ) A G X N K O:diaeresis F O:diaeresis K E + O G T A F T A N I I ) T E N V E L E E D E ) E M
+22 A V I ) Z O N T L A T A ) F A J O:diaeresis V O:diaeresis V A ) A F N A H

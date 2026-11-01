@@ -1,0 +1,14 @@
+# HCP1252 sign ledger, Claude Opus 5.5, 2026-11-01. Read from enlarged crops (2.5-5x) of work/hires/*_adr.jpg (crops in work/crops/).
+# One token = one written sign, rows as on the card. Letter classes as in hcp-1216 (see SOLUTION.md):
+# F=r  )=s  (=c  CS=opposed bowls  X=plain cross u  Z=crossed diagonal z  6=b  H=tall stroke + tick to its right (h/p)
+# D=stroke + tick to its left  Y=low descender (g + y are written as two signs on this card).
+# :d = dot mark visible over the sign. Other accents are invisible and supplied only in normalization.
+# 1 0 are the digits written plain inside the cipher block. , . - are punctuation written on the card.
+1 ) Z E F E T E T E T E D E ) J O L A N K A M
+2 6 E CS E ) ) O F A I T M E G K A H T A M M E L Y E T
+3 I G E N K O ) Z O:d N O:d K . I G A Z A N O F X:d -
+4 L O:d K H O G Y I G Y ) Z O L I M A F N E
+5 K X:d N K T E G E Z N I K E L E N E E G Y M A ) T
+6 E D E ) E M , K E D V E ) E M N E H A F A G X D J O N
+7 H O G Y F O:d V I D E N I F O K D E 1 0 F E
+8 F E N D E Z O N K E L L E N N I .

@@ -1,0 +1,24 @@
+# HCP1272 sign ledger, Claude Opus 5.5, 2026-11-01, read from enlarged crops of work/hires/*_adr.jpg (work/crop*.py).
+# One token = one written sign. Tokens: A two bars, E three bars, S right bowl, K section mark, F F-like (r), T gamma, J inverted T,
+# O loop, L wave, N two equal strokes, M three strokes, D short+long stroke, P tall+short stroke (h/p sign, value given as H or P),
+# X plain cross (u), Z tailed cross, V chevron, I dotted crossed curve, 6 six (b), C left bowl, G open loop with descender, Y low descender,
+# CS opposed bowls, GY = G+Y. Suffix ' accent seen; : dots seen; " double mark seen.
+# ~word = ordinary cursive, not enciphered. {lm} = label for the three-arched cursive sign (probably plain cursive m, l unwritten), see SOLUTION.md item 2. = at row 4 end = extra bar, T by word sense, see item 3. Row 2 L has an extra arch, see item 9. . = point.
+01 K E D V E S J O L A N K A M ~lev
+02 ~la P J A' T M E L Y E T N A
+03 GY O' N K O: S Z O: N O: K I G A
+04 Z A N O: F O: M M E L V E T =
+05 T E M T X D O M A S X L H O GY
+06 S Z E F E N CS E' S E N M E G
+07 E' F K E Z E T . D E M E' G N A GY O 6 6
+08 O: F O: M M E M F E S Z O L G A L
+09 H A S Z E F E N CS E V I S Z A
+10 E F K E Z I K K E D V E S E M
+11 H O GY M X L A T O T J A' S Z
+12 6 E F E' N Y 6 E A D J A A' T K O:
+13 S Z O: N E T E M E T I L O N K A X N O
+14 K A N O" V E F N E K 6 A F I S M E F E T
+15 L E N V A GY O K E L O T E E' S A D
+16 J A A' T X: D V O: Z L E T E M E T . M A G A M
+17 F E' S Z E' F O: {lm} A S I L A P O N I S T E N V E L E S O F A I T V A' F V A ~Feri
+A1 S Z E F E T E T E L

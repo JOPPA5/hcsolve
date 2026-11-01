@@ -1,0 +1,39 @@
+# HCP1277 sign ledger, Claude Opus 5.5, 2026-11-01, corrected after review 1, read from 2x-3x crops of hires/*_adr.jpg (crops/). One token = one written sign.
+# Tokens: letters as themselves; F=r  )=s  X=u  6=b  +=f  H=h/p sign  CS joined digraph  :d = dot mark over the sign (ö/ü).  V/6 = chevron and small b-bowl written on top of each other. gy is always two signs, G then Y.
+# Acute accents are mostly faint and are NOT transcribed. # = blotted sign with no reading; [ = run of signs physically hidden.
+01 ) Z E F E T E T E D E ) J O L A N K A M K I V A N O M
+02 H O G Y A L E G J O 6 E G E ) E G 6 E N T A L A L J A ) O F A
+03 I M M I N T I F T A M I ) E D E ) E M H O G Y A K O:d Z
+04 6 E J O:d T T A K A D A J O K M I A T N E M E L V E Z
+05 H E T X:d K A V I ) Z O N T L A T A ) O:d F O:d M E I T
+06 D E 6 I Z X N K A Z I ) T E N 6 E N E ) L E G Y E N
+07 T X:d F E L E M M E L A L E G K O:d Z E L E 6 6 I
+08 A L K A L M A T K E F E ) N + O G O M H O G Y
+09 V I ) Z O N T L A T H A ) ) A M 6 A F N E H E
+10 Z E N M E G Y M O ) T M A F V I ) Z A
+11 K E F X:d L T E M A F E G I X T A Z A ) I
+12 M E D E F 6 E E ) T E M V I ) Z A E ) A F A
+13 K E L V A F N O M M E G A + O F G A L O M
+14 E G Y K I CS I T E N Y H E 6 6 E K N E M L E ) Z
+15 N E K M O ) T N I N CS M A ) H A T F A E D E
+16 ) E M M I N T E G Y E N L O:d F E L E M O N
+17 D A N I A V I ) Z O N T L A T A ) F O L
+18 M I T N A G Y O N ) A J N A L O K E D E
+19 ) E M X G Y V A F T A M A Z T A Z I D O:d T
+20 H O G Y 6 I Z T O ) A N M E G T X D T A M
+21 H O G Y L E ) Z E ) Z A 6 A D O M V A G Y
+22 ) E M G O N D O L H A T J A E D E ) E M M I J
+23 E F Z E ) + O G O T E L M I K O F M E G T X D
+24 T X T A M H O G Y E G Y H O ) Z X X T F A
+25 K X:d L D T E K E ) E 6 V/6 E L K E F E ) Z T X:d L
+26 H X Z T A K M I N D E N ) Z A M I T A ) O
+27 M A T M O ) T 6 E Z A F O M ) O F A I M
+28 M A F A D O K ) Z E F E T E T O K E D V E ) E + E F I
+29 ) O F A I T V A F O M I F J O N E D E ) M I X J ) A G
+S1 E D E ) E M
+S2 CS O K O L O
+S3 L O M ) Z A
+S4 M T A L A N
+S5 ) Z O F ) Z E
+S6 F E T # # E D
+S7 ) [ E F #

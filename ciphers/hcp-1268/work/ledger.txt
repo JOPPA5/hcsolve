@@ -1,0 +1,25 @@
+# HCP1268 sign ledger, Claude Opus 5.5, 2026-11-01, corrected after review 1. Manual reading from enlarged crops of the hires address scan (work/crops/, review/work/crops/). One token = one written sign, named by SHAPE; decode.py applies the key.
+# Not OCR and not blind: the family key was known and word sense helped.
+# bar2 two bars | bar3 three bars | six | ls long+short stroke | chev chevron either way up | rb right bowl | lb left bowl with hook | bb barred left bowl + right bowl | it inverted T
+# loop | loop2 loop with two ticks | wave | st2 two short strokes | st3 three short strokes | sec section mark | gam gamma | eff F-like | cc crossed curve, dotted | cn crossed curve, no dot
+# hi1 tall+tick high | lo1 tall+tick low | tq tall+tick, tick low but read high (row 15, from sister cards) | xx crossed x | xd crossed x with dots | gy loop+descender joined | plus upright cross
+# Special: strk3 struck sign, three tiers | strk2 struck sign, two bars | over overwritten final sign | loopn loop with heavy strokes and arched tail (row 6) | meg, hi plain longhand | . written dot
+01 sec bar3 ls chev bar3 rb bar3 ls bar3 rb it loop wave bar2 st2 sec bar2 st3
+02 sec cc chev bar2 st2 loop st3 gam cn rb xx gam bar2 rb xx cc
+03 chev bar3 six loop2 wave hi1 loop gy wave bar3 lb it loop six
+04 sec bar3 ls chev bar3 six bar3 st2 gam bar2 wave bar2 wave it bar2
+05 rb loop eff bar2 cn st3 . loop wave chev bar2 rb gam bar2 st2
+06 bar2 xx bar3 gy wave bar3 gam six bar3 st2 bar2 rb xx bar2 six loopn sec
+07 meg hi chev loop it bar3 rb chev bar2 rb bar2 eff
+08 st2 bar2 lo1 wave bar3 rb xx strk3 xx cc rb hi1 bar2 bb bar2 sec
+09 wave bar3 hi1 bar3 bar3 six six bar3 st3 bar3 st2 it xd st2 sec
+10 bar2 rb cn eff it bar2 st3 bar3 lb hi1 loop gy
+11 st3 cn six bar3 st2 bar2 wave bar2 lo1 loop ls loop eff
+12 st3 bar3 lb six bar3 bb bar3 rb rb loop eff bar2 cn gam
+13 chev bar2 eff chev bar2 st3 bar2 eff bar2 ls loop sec bar3 lo1 bar3
+14 ls loop2 rb xx cn chev bar3 wave strk2 eff bar2 chev loop
+15 six bar2 st2 tq loop wave bar3 rb plus bar3 eff bar3 st2 over
+S1 bb loop sec loop
+S2 wave loop st3
+S3 bar2 sec cc rb
+S4 rb xx bar2 it bar2 gam

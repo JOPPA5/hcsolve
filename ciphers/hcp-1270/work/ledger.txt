@@ -1,0 +1,43 @@
+# HCP1270 sign ledger, Claude Opus 5.5, 2026-11-01. Read from enlarged crops of work/hires/*_adr.jpg (key from the Jolanka family, HCP1216).
+# One token = one written sign. Letter tokens as family key; F=r  )=s  X=u  6=b  +=f  H=h/p sign (tall+short)  CS=opposed/closed bowls.
+# :d = visible dot mark over o/u. Accents are mostly faint and are not transcribed.
+# #  = false start / cancelled sign, no letter value.   | = isolated stray stroke, no letter value.
+# [x] = sign physically damaged or blotted, value chosen because only it gives the word (see SOLUTION.md).
+01 ) Z E F E T E T E D E ) J O L A N K A M K E CS E ) ) O
+02 F A I T M E G K A H T A M M E L Y E T K O:d ) Z O:d
+03 N O:d K ) Z E H E N A M I ) O F A I L E T O E N
+04 F O:d G T O:d N V A L A ) Z O L T A M I G A Z
+05 H O G Y N A H I G X T A Z O T E Z A # L A H
+06 A Z ) E 6 E M 6 E E D E ) E M ) A J N A L A T O
+07 M A T K E L K I + E J E Z N E M H O G Y O #
+08 J A N F O ) ) Z X L V E G Z O:d D O:d T A M X L A T
+09 ) A G E D E ) E M H A K E ) I K A V A L A ) Z O M
+10 A Z T CS A K E L + O G L A L T ) A G O M N A K
+11 T X L A D O N I T ) A H A L A I ) T E N
+12 N A K E Z I D O:d ) Z E F I N T N I N CS
+13 ) E M M I 6 A J O M A M I A Z O F V O
+14 ) I V I Z I T E T I L E T I M E G N E M
+15 V O L T A M O:d ) Z I N T E N M E G V A L
+16 V A H A N E M ) I K E F X:d L A + E L X:d L
+17 V I ) Z G A L A T A K O F L E G J O 6 6
+18 6 A [N] L E ) Z H A E L 6 X CS X Z X N K E G Y
+19 M A ) T O L E ) E N M A J D 6 X CS X T
+20 M O N D O K M I N D E N N E K E ) X G Y
+21 E L T X:d N O:d [K] H O G Y H I F E M ) E M |
+22 H A L J A ) E N K I M E F T A K O F M A F
+23 L A T O M A Z T H O G Y X:d L D O:d Z A 6 A [L]
+24 ) O F ) E ) H A E N E K E M N I N CS ) Z E
+25 F E N CS E M N E M T E ) Z E M ) Z E F E N CS E T L E N N E M A G A T I ) 6 I Z T A T O ) Z A V A M
+26 M E L M E G M A G A 6 O L D O G L E H E T M A ) + E F + I M E L E T I ) M E F T A N O:d I ) Z I V K O:d
+27 N Y E N + E [L] E J T D E A Z T H A G Y J X K X T O L J A F A T A L A N E F F E N E M K E F X:d L A
+28 ) O F K E D V E ) E M A M I A [M] E N E T E L E M E T I L E T I X G Y A L A D O L O G N A G Y O N ) Z E
+29 F E T N E K M E N N I H O G Y L A T H A ) ) A M D E A Z T A F T V I ) Z A H O G Y N I N CS K E D
+30 V E M F E V A L O F X H A M ) O H A M O ) T V A Z A Z O L T O N Y A M I T M A 6 I ) T X D
+S1 [CS] O K O L
+S2 [J] A # ) [Z] [A] M
+S3 T A L A N
+S4 ) Z O F
+S5 ) [Z] E F E
+S6 [T] O K E D
+S7 V E ) ) E
+S8 + E F I

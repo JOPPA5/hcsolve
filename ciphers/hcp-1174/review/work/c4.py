@@ -1,0 +1,15 @@
+from PIL import Image
+adr=Image.open('work/hires/cpc_1916-02-15_HU_Mezokovesd_HU_Szomolya_szomolya-18_adr.jpg').convert('RGB')
+r=adr.split()[0].point(lambda v:0 if v<75 else (255 if v>150 else int((v-75)*3.4)))
+def S(n,b,f=3,src=adr):
+    c=src.crop(b); c.resize((c.width*f,c.height*f),Image.LANCZOS).save('review/work/%s.png'%n)
+S('y_mondd3',(950,1810,1450,1930),3)
+S('y_end',(1540,1960,2060,2100),3)
+S('y_ll',(240,1990,620,2100),4)
+S('y_acc',(850,110,1420,240),3)
+S('y_date',(1480,20,2650,160),1)
+S('q_l1',(30,130,1560,470),1,r)
+S('q_l2',(30,460,1620,800),1,r)
+S('q_l3',(30,780,1620,1010),1,r)
+S('q_h',(30,1260,1100,1420),1,r)
+S('q_h2',(30,1600,1620,1760),1,r)

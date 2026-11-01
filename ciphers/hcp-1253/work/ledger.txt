@@ -1,0 +1,36 @@
+# HCP1253 sign ledger, Claude Opus 5.5, 2026-11-01. One token = one written sign, read from enlarged crops of the
+# un-converted address scan in work/hires/ (rows rise up to about 5 degrees, so crops were rotated before reading).
+# Rows are the writer's own lines, 01-20 in the left panel (rows 19-20 run on past the divider), S1-S7 in the stamp box.
+# Tokens: plain letters = the family sign of that letter. Special: F=r  )=right bowl s  (=left bowl, on this card s
+# 6=b  +=f  X=u  H=tall stroke+tick on right (h/p; p is by word sense)  D=d  GY=gy  CS=cs (opposed bowls, or left bowl + stroke)
+# #=struck/overwritten two-stroke sign read n from context  CS?=first sign of stamp box, only a blot survives
+# D?=tick-on-right sign read d by word sense  T?=heavy overwritten sign, inverted T and gamma superimposed
+# I?=undotted loop, literally o, read i by word sense (S7 only)
+# :acute :diaeresis :double-acute only where a mark is actually seen. Other accents are supplied in the normalization.
+01 ( ) Z E F E T E T E:acute D E ) J O L A:acute N K A:acute M
+02 K I V A N O M H O GY J O E G E ) Z E:acute G
+03 6 E N T A L A:acute L J A ) O F A I M
+04 H O GY M U L A T N A K O D A
+05 H A Z A F E M E:acute L E M J O L
+06 6 E J O:diaeresis N H E:acute N T E K E N V A
+07 F O M H A N E M J O:diaeresis N L E E:acute D E
+08 ) E M E:acute ) I:acute F J A M E G H A L E
+09 K E L L E N E V I N N V A L A
+10 M I T ) Z I V E ) E N L E
+11 V I ) Z E M I T N I N CS
+12 ( E M I X J ) A G M U N K A M
+13 N I N CS A M I T # E M I ) N A
+14 GY O K E F E ) E K M E F T CS A K
+15 L E N T ( Z E F E T N E:acute K D O L G O Z
+16 N I E:acute ) M A F K E Z D O:double-acute D I A
+17 M U N K A E ) I T H O N N E M
+18 A K A F O K D O L G O Z N I
+19 M A ) X J ) A G I T N I N CS X GY A N E:acute Z I )
+20 F E:acute G I I ) T E N V E E:acute D E ) E M
+S1 CS? O K O L O M
+S2 ) Z A M T A L A N
+S3 ) Z O F I M A
+S4 D? O T? A E:acute )
+S5 I F I G H X:diaeresis
+S6 K E D V E ) E
+S7 + E F I?

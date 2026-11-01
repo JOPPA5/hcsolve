@@ -1,0 +1,39 @@
+# HCP1251 sign ledger, one character per written sign (Claude Opus 5.5, 2026-11-01). Manual reading of work/hires/*adr.jpg.
+# a=two bars, e=three bars, h=h/p sign, c=opposed bowls (cs), others as in key.json. ö ü ő ó = accent mark seen.
+# The bar count is often unclear; a/e below is the value chosen, by word sense where SOLUTION.md says so.
+# [x] restored: sign hidden or only traces seen. {x} stray or doubtful sign kept as seen.
+01 szeretetedesjolankambe
+02 cessoraitmegkahtammelyet
+03 köszönömszehenedesem
+04 enküldtemmaganakegylahot
+05 multlevelerejaszberenybe
+06 m[a]jdmegfogjakahniilon
+07 katoldemostsietekvala
+08 szolnijelensorairaminde
+09 ne[k]elotkivanokkellemhusv{o}
+10 tiünneheketremelemajöhu[s]vet
+11 kelemesebesboldogableszmint
+12 amostaniigazavanedesemhogy
+13 aszülőnekmindentsz[a]badcak
+14 nemillikestudomhogyaz
+15 atervehogyszetvalasszonben
+16 nünketugyedragamaznemfog
+17 nekisikerülnimertnincaza
+18 hatalomamielvaszonegymas
+19 tolcakahalaldeezthagyjuk
+20 utoljaraedesembarmijen
+21 szegenyekleszünkisdeboldo
+22 gokesnekemnemkelsemmimas
+23 nemad[o]msemenyivagyon
+24 ermagatmertavagyonazel
+25 fogydemagaedesmegmarad
+26 kösznömmaganakedesemhogyanyiraönfelaldozódere
+27 melemhogyerrenemleszszükségemmertmindigfogokanyi[t]
+28 keresnihogyszenyenegycaladoteltartsakcakez
+S1 [is]tenve
+S2 {e}ledese[m]
+S3 aboldog
+S4 viszont
+S5 latasra
+S6 imado[ja]
+S7 fer[i]

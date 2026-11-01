@@ -1,0 +1,36 @@
+# HCP1281 sign ledger, Claude Opus 5.5, 2026-11-01. One token = one written sign, read by eye on enlarged crops of
+# work/hires/..._adr.jpg (crop scripts crop*.py, row.py, z.py, shear.py). The computer decodes nothing from pixels.
+# Tokens are the family-key values of the signs (see SOLUTION.md). h = tall stroke + tick, the h/p homograph.
+# Digits and 1/4 are written in clear on the card. [x] = doubtful or unexplained sign, listed in SOLUTION.md.
+# Revised after review 1: gy is written as two separate signs on this card (g, then y); rows 7, 11, 16, 22, 23 corrected.
+01 s z e r e t e t e d e s j o l a n k a m
+02 k i v a n o m h o g y a l e g j o b k e d
+03 v e b e n t a l a l j a s o r a i m
+04 n e h a r a g u d j o n r a m e d e
+05 s e m h t e g n a h n e m t e t e m
+06 t i s z t e l e t e m e t k e d v e s
+07 s a m ö n n e l d a l e g n a g y o b
+08 s a j n a l a t o m r a e [z] s l e g
+09 n a g y o b b o s s z u s a g o m
+10 2 o r a k e s s e s e l e r k e z
+11 t e m [||,] v a g y i s 1/4 10 o r a k o r
+12 e r k e z t e m h a z a i g a
+13 z a n s a j n a l o m h o g y
+14 n e m m e h e t t e m e l m e r t
+15 b i z o n y ö t n a h i g n e m
+16 l a t n o n [t] a g a t e z n a g y
+17 d o l o g a z e n e h ö s z i
+18 v e m n e k d e b i z t a t a z a r e
+19 m e n y h o g y 3 0 o r a m u l
+20 v a v i s z o n t l a t j o k e g y
+21 a z a z h o l n a h d e l u t a n
+22 f o g o m [ö] [t] o k k o r f o g o m
+23 t i s z t e l e t e m e t e z e l b e z a r o m s o r m a r a d o [k] i m a d o
+24 f [t] e r i
+S1 cs o k o l
+S2 j a s z a m
+S3 t a l a n
+S4 s z o r
+S5 s i r i g
+S6 h ű f e r i
+S7 f [e] [...]

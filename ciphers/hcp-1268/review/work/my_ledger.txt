@@ -1,0 +1,22 @@
+# Reviewer's own sign-by-sign reading (shape classes) from review/work/crops, made before diffing with work/ledger.txt
+# shapes: 2=two bars 3=three bars 6=six Y=d(long+short) V=chevron S=right bowl C=left bowl hook(g) B=barred bowl+right bowl(cs) J=inverted T 
+# O=loop Q=loop+dots/ticks L=wave N=two strokes M=three strokes K=section T=gamma R=F I=crossed curve H=tall+tick(high) P=tall+tick(low) Z=crossed x U=crossed x+dots G=gy F=upright cross ?=overwritten
+01 K 3 Y V 3 S 3 Y 3 S J O L 2 N K 2 M
+02 K I V 2 N O M T I S Z T 2 S Z I
+03 V 3 6 Q L H O G L 3 C J O 6
+04 K 3 Y V 3 6 3 N T 2 L 2 L J 2
+05 S O R 2 I M . O L V 2 S T 2 N
+06 2 Z 3 G L 3 T 6 3 N 2 S Z 2 6 ?O+n? K
+07 meg hi V O J 3 S V 2 S 2 R
+08 N 2 P L 3 S Z ?3 Z I S H 2 B 2 K
+09 L 3 H 3 3 6 6 3 M 3 N J U N K
+10 2 S I R J 2 M 3 C H O G
+11 M I 6 3 N 2 L 2 P O Y O R
+12 M 3 C 6 3 B 3 S S O R 2 I T
+13 V 2 R V 2 M 2 R 2 Y O K 3 P 3
+14 Y Q S Z I V 3 L ?2 R 2 V O
+15 6 2 N H O L 3 S F 3 R 3 N ?C
+S1 B O K O
+S2 L O M
+S3 2 K I S
+S4 S Z 2 J 2 T

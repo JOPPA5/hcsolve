@@ -1,0 +1,27 @@
+# HCP1274 sign ledger, Claude Opus 5.5, 2026-11-01. Read from enlarged crops of work/hires/*_adr.jpg. One token = one written sign.
+# Letter tokens are the sign classes of the Jolánka key (see SOLUTION.md). CS = opposed bowls, GY = joined g+y loop, NY = n+y run together.
+# :d = two-mark diacritic (ö/ő/ü), :a = single accent tick (only where clearly seen; the rest are supplied in normalization).
+# [X] = a sign the writer struck out himself (no reading claimed).
+# Row 19 last E: top bar plus one kinked lower stroke; e on word sense (kellene), could be a two-bar a as a slip. See SOLUTION.md uncertainty 12.
+01 K E D V E S J O L A N K A M
+02 S A J N A L A [X] T T A L K E L T U
+03 D A T N O M H O GY A V I S Z O N T
+04 L A T A:a S O:d R O:d M E I T K E NY
+05 T E L E N V A GY O K E GY H E T
+06 T E L O D A B H A S Z T A N I
+07 E D E S E M M O S T CS I N A L U N K
+08 A R O:d F O:d S K E S K E R E S K E D O:d
+09 N E K B E R E N D E Z E S T E S M A
+10 K E L E T V O L N A K E S Z L E N
+11 N I E M I A T V A GY O K K E NY
+12 T E L E N E L [X] H A L A S Z T A
+13 N I A Z T A B O L D O G S A G O T
+14 M E L Y E T O L D A L A M E L
+15 L E E:a L V E Z H E T T E M V O L
+16 N A M U L A S S O N J O L E D E
+17 S E M E:a S G O L J O:d R A M A K I
+18 M E:a G A K O R D O G O Z I K M I K O T
+19 S E:a T A L N I K E L E N E
+20 I S T E N V E L E E D E S E M
+21 U:d D V O:d Z O:d L V E A T A V O L
+22 B O L

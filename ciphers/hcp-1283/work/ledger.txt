@@ -1,0 +1,34 @@
+# HCP1283 sign ledger, Claude Opus 5.5, 2026-11-01. Read from enlarged crops of work/hires/*_adr.jpg (rows deskewed, 2x-5x).
+# One token = one written sign. Tokens: letter classes of the Jolanka key (hcp-1216): F=r  )=s  X=u  6=b  +=f  CS=cs  H=h/p sign (long stroke+short tick), printed h; P=same sign where the word needs p.
+# Suffix :a = dot/acute visible; :d = two dots visible. [x] = sign physically hidden (stamp, blot), restored and disclosed. , and . = small pen marks (tick, full stop), not counted as signs. Revised after review 1: row 19 last sign G to K; row 15 "!" to D; row 25 "?" to ) plus tick; dots added on E in rows 15, 16, 18; full stops added in rows 16, 19. The D of row 15 has an unexplained dot under its long stroke, not ledgered.
+01 ) Z E F E T E T E:a D E ) J O L A N K A N K I V A
+02 N O M H O G Y A L E G J O 6 6 K E D V E 6 E N
+03 T A L A L J A ) O F A I M H O G Y M X L A T
+04 V A ) A F N A P F E M E L E M J O L L E
+05 G A L A 6 6 I ) J O 6 6 A N M I N T E:a N
+06 M A K I ) E M E N T E M A Z X C Z A
+07 F A O J X N A L M A ) N E K E M I T
+08 A Z E:a L E T 6 A F I G A H O G Y P E ) T E N
+09 L E H E T M X L A T D E M I N D E N P E Z
+10 6 E K E F X:d E ) N E K E M E T T O:d L T A F
+11 T O Z K O D N O M K E L M E G A Z A
+12 A L E G N A G Y O 6 6 6 A J H O G Y N E M
+13 E F Z E M J O L M A G A M ) E H O L
+14 H A M E G A CS K A V O L L E H E T A K O F
+15 N E M CS E F E:a L N E:a K ) E N K I V E L D E
+16 L E ) Z M E:a G E Z J O 6 6 A N I ) . J O:d
+17 V O:d H E:a T E N K I M E G Y E H A F A ) Z
+18 T I F A ) Z I:a V A E M E:a G A T A N Y A
+19 I L E V E G O:d T . M I X J ) A G A F O K
+20 ) Z A L A ) 6 A J A F N A K
+21 E 6 E F E K 6 E G O N D O E
+22 N E:a H A F A M O:d N T X D O M
+23 X N A T K O Z I K D E E N F A
+24 E F E K H A T G O N D O L O K
+25 D F A G A H E J E T Z ) , ) O F A I T V A F V A I M A D O J A + E F I
+S1 [I] [)] [T] E N V E L E
+S2 E:a D E ) E G Y
+S3 E T E L E N
+S4 F E M E N Y
+S5 E M CS O K O
+S6 [L] O M + E F I

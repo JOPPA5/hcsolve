@@ -1,0 +1,7 @@
+# Notes hcp-1277
+
+2026-11-01: captured by Claude Opus 5.5 (orchestrator).
+
+2026-11-01 (Claude Opus 5.5, solver): identified as Jolánka-family MASC; HCP1216 key transferred unchanged. Read all rows from 2x-3x crops in work/crops/ (w*.png overlapping windows; r*.png doubtful rows; st*.png stamp; st3b.png = blue channel, which brings up the faded orange ink). Steps worth recording: first read row 3 end as *kiz*; the dots above give *köz* and row 4 *bejött akadajok miatt*. "III ‖'" at end of row 12 was a crop-overlap duplicate, not extra signs (w20 and w21 overlap). "nek" at head of row 15 joins *lesz|nek*. "azt az inöt" corrected to *időt* on r19b.png. Row 23 *mos or* corrected to *mikor* (the third sign is S k, not a bowl). Open: *esara* (row 12), *esebvel* (row 25), stamp closing damaged. Tried and rejected for esara: estére (needs t and e-bars; the bars are a), sorára (needs o). Ledger, decoder, normalized text in work/. DONE1 follows.
+
+2026-11-01 (Claude Opus 5.5, solver, after REVIEWED1): re-judged the review's findings on the pixels. Accepted es|ara and es|eb?el (acute over row 12 e confirmed free-standing, r12acc.png), mar in row 10, tutam / küldtek in rows 24-25, gy as two signs (all 14 viewed), S7 last sign {?}. Ledger corrected (round-1 copy kept), V/6 token added to decoder. Disputed: comma before *a régi utazási mederbe estem vissza*; postmark year: digits are 91 upright, third digit under the pen, so review's 916 not confirmed. No letter change except row 10 a, row 24 u, row 25 ü, S7. Reading not substantially changed; finishing.

@@ -1,0 +1,36 @@
+# HCP1250 sign ledger, Claude Opus 5.5, 2026-11-01. Read from enlarged crops of work/hires/*_adr.jpg, one token = one written sign.
+# Tokens: A-Z letter of the key (X=u, Z=z tailed cross, F=r, 6=b, )=s, +=f, CS=opposed bowls, H/P=the same tall+short sign, split by word sense).
+# G Y are two signs on this card (open loop + y-sign). Accents are not transcribed; Ö Ü = dots seen over the sign.
+# Special: [L] = sign under ink blot, restored; [A] = faint in the printed seal, restored; E/I = overwritten sign (three bars with a crossing stroke).
+01 E D E ) E G Y E T L E N F E M E N Y E M K I
+02 V A N O M H O G Y A L E G J O 6 6 E G E ) ) E G
+03 6 E N T A L A L J A ) O F A I M M I ) A J N O )
+04 F I T K A N V A N M O ) T A N A 6 A J O M X
+05 L A T A ) T K I V A N O H O L N A P D E J O L M X
+06 L A T G O N D O L J O N F A I ) M E F T N E L
+07 K Ü L Ö Z N Ö M K E L A J O M X L A T A ) T
+08 M A G A N E L K Ü L N E M T X D O K M X L A T
+09 ) A G O T ) Z E F E Z N I CS A K A Z + A J M E F T
+10 N I N CS E G Y K I CS I T K O Z E L E 6 H O Z A M
+11 H O G Y G Y A K F A 6 6 A N T A L K O Z
+12 H A T N A N K N E K E M O J H O ) Z X A Z
+13 I D Ö M I N D E N H E T E G Y E ) Z T E N
+14 D Ö E ) A D I G T A F T M E/I G A Z T N E M
+15 M O N D H A T O M H O G Y E N Y E M
+16 V A G Y Ö F Ö K F E E ) N E M V A L A ) Z T
+17 E L E G Y M E ) T O [L] ) E M I D E ) A J
+18 N O ) M E G ) O K A L E ) Z D E 6 E Z
+19 X N K A Z I ) T E N 6 E N Z T T E F T O M
+20 M I N T A Z E N E K M O N D J A H O G Y
+21 M E G E F J Ü K M E A Z T A Z I D Ö T
+22 6 A 6 A M T E L E ) Z E L A P A F O M
+23 A M I T E N A L I G A L I G V A F O M
+24 I ) T E N V E L E E D E ) CS O K O L J A I M A D O J A + E F I
+S1 ) Z E P K A D
+S2 V E ) E M
+S3 G O N D O L
+S4 J O N N E
+S5 H [A] F A M
+S6 V I ) Z O T
+S7 L A T A ) F A
+S8 + E F I

@@ -1,0 +1,34 @@
+# HCP1260 sign ledger, Claude Opus 5.5, 2026-11-01; one token = one written sign, read from enlarged crops of work/hires/*_adr.jpg.
+# Tokens: lower-case letter = sign class of that letter; F=r  )=s  X=u  6=b  +=f  CS=opposed bowls  g and y are separate signs here
+# O=o with two dots (o umlaut)  OO=o with two ticks (o double acute)  U=x with two dots (u umlaut; the card has no separate mark for u double acute)
+# Suffix ? = shape does not cleanly match; value taken from word sense (see SOLUTION.md).  7 and 'het' in C7: written in the clear.
+01 ) z e F e t? e t e d e ) j o l a n
+02 k a m e g y e t l e n F e m e n y e m n e
+03 h a F a g X d j? o n F a m h o g y i j e n
+04 F i t k a n i F o k m i t m a g a m i )
+05 F e ) t e l e k d? e a n y i F a i d e g e )
+06 v a g y o k d e n e CS o d e l k o z o n
+07 F a j t a e d e ) e m h o g y h o g y
+08 v o l n a j o 6 6 d? e e F O l n e m
+09 i F o k m a j d ) z o v a l + o
+10 g o m e l i n t e z n i e z t a z
+11 U g y e t m e F t n e m a k a F o k
+12 e F O l i F a ) 6 a n t a F g y a l
+13 n i d e i t l e ) z n e m ) o k a
+14 F a a z i d OO h? o g y ) z o v a l
+15 6 e ) z e l h e t e m a g a v a l
+16 e d e ) e m m i t a l i g v a
+17 F o k h o g y m X l a t o t
+18 v a ) a F n a p? F e m e l e m
+19 j o l h o g y ) z o l g a l
+20 j? a a z e g e ) e g? F e m e l e m
+21 j o l e z e l z a F o m ) o
+22 F a i m m a F a d o k ) i F i g h U k e d e ) e + e F i
+C1 i ) t e n v e
+C2 l e v e e d e
+C3 ) e m ) i F i g
+C4 h U k e d? v e
+C5 j? e v i ) z o n t
+C6 l a t a ) F a
+C7 7 h e t m X l
+C8 v a

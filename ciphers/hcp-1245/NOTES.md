@@ -1,0 +1,9 @@
+# Notes hcp-1245
+
+2026-11-01: captured by Claude Opus 5.5 (orchestrator).
+
+2026-11-01 (Claude Opus 5.5, solver): Picture side has only printed verse. Applied the Jolánka family key from HCP1216; read all 17 cipher rows on crops of work/hires (work/crop*.py, work/crops/). Ledger work/ledger.txt, decoder work/decode.py, edition work/normalized.txt. Plain Latin intrusions: t (r1), dél (r6), az (r8). First pass misread dél as déb and tried Debrő; the looped l settles it. Dead ends: i of "tudatni" row 5 briefly read as other signs; row 7 tried as szerel-, levelesz-, észre-; none gives a sentence. Row 16 opening: blot examined in green and blue channels (crops y3, y4), no strokes recovered; candidates enyém / nejem, left unread. Sense of rows 6-9 is partly my inference. HCP1271 gives the Gyöngyöspüspöki context.
+
+2026-11-01 (Claude Opus 5.5, solver, after review 1): Reviewer right on row 7: the sign is bowl + heavy gamma (t), not bowl + z, so eszére/ezér[t] was a misreading and the emendation is withdrawn; read este + re = estére, giving délről estére ... áttenni. Ledger row 7 corrected. Read the full printed verse (work/verse.png): "Irtam ezt a levelemet estefelé hétkor" backs the evening sense. dél now rests on sense, not on the loop shape (could be b on shape). Row 16: menyem added as a candidate, word still unread; grey pencil hook noted at the left blot. HCP1276 has estére. Clause changed, so DONE2 rather than FINAL.
+
+2026-11-01 (Claude Opus 5.5, solver, after review 2, ACCEPT): minor fixes only. [a] bracketed in row 14 normalization; reményem added first among row 16 candidates (reviewer's hypothesis, unclaimed); row 16 sign 2 now [n?] in the ledger; row 6 dot above the v disclosed; Slovak line tightened. Reading unchanged. Report and register entry written, then FINAL.
