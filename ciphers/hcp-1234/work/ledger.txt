@@ -1,0 +1,32 @@
+# HCP1234 sign ledger, one token per written sign, one line per written row. Transcribed by hand from
+# enlarged crops of the hires address side (not OCR; the reader knew the family key).
+# Token = letter value of the family sign class (see SOLUTION.md). H = the tall stroke + short tick on the
+# right (h/p near-homograph; the decode prints it as h). gy/ny are two signs here, so two tokens.
+# Suffixes: :a acute tick seen; :d dots seen; ! sign overwritten/blotted, value read per SOLUTION.md uncertainties.
+# Cap* = not a cipher sign: a cursive Latin capital at sentence start. | = word division added editorially (not on the card).
+01 s z e r e t e t | e:a d e s | j o l a n k a m
+02 g y a k o r l a t o t | t a r t o k
+03 a z | i:a r a s b a n | H o g y | e l | n e
+04 f e l e j t s e m | t u d a t o m | H o g y
+05 n e m | s! i k e r u:d l t | H a z a m e n
+06 n i | d e:a l e l o!:2 t | i:a r o k | e g y
+07 H! a r a t | a | g o n d o l a t a i m b o l
+08 b o l d o g | c s a k | u g y | l* e H! e t e k | e:a n
+09 H o g y | H a | t e | l e s z e l | a z | e n y e m
+10 n e m | s z e r e t e k | m a s t | c s a k | t e:a g e d
+11 c s o k a l | t e s z e k | r a | H e c s e:a t e t
+12 A* | c s o:a k a d a s | n e m | s! z e:a g y e n
+13 H a n e m | i n k a:a b | e r e:a n y
+14 H a | c s o k o! t | a d! s z | b a b a:a m
+15 s o H a s e m | l e:a g y | s z e r e:a n y
+16 N* e m | k e:a r e k | e:a n | l e H e t e t l e n t
+17 c s u H a n | a z t | H o g y | s z e r e s
+18 H e d i g | e z | o k v e t l e n u:d l | k e l l
+19 H o g y | t e | b o l d o g | l e H e s s!
+20 i s t e n | v e l e | a | v i s z o n t l a:a t a:a s r a | i m a:a d o j a | f e r i
+S1 H i t | r e m e n y
+S2 e:a s | s z e r e t e t
+S3 k o:d s s e | o:d s s z e
+S4 s z i v o n k e t
+S5 i m a d o j a
+S6 f e r i

@@ -1,6 +1,6 @@
 # HCP1294 — Feri to Jolánka Tóth: thanks for her letter, "why take on so much work?"
 
-**Status: PARTIAL. Every sign of the card is transcribed and has a value, and 200 of 209 signs give a clear message, but one stretch of 9 signs in row 8, literally `oszeholad`, is read sign by sign and NOT understood as a word. It is reported literally and not translated, and the clause it stands in cannot be fully translated. No register entry is written for this card.** By Claude Opus 5.5, 2026-10-30. No earlier work exists on this number. Portal status Not solved, no attached transcription or solution; the orchestrator's AI-register check (2026-10-30) found no record. No published solution was seen.
+**Status: PARTIAL. Every sign of the card is transcribed and has a value, and 200 of 209 signs give a clear message, but one stretch of 9 signs in row 8, literally `oszeholad`, is read sign by sign and NOT understood as a word. It is reported literally and not translated, and the clause it stands in cannot be fully translated. No register entry is written for this card.** By Claude Opus 5.5, 2026-10-30. No earlier work exists on this number. Portal status Not solved, no attached transcription or solution; the orchestrator's AI-register check (2026-10-30) found no record. No published solution was seen. Revised 2026-11-02: still PARTIAL, the word stays unread; see "Revision 2026-11-02".
 
 ## Cipher type and key
 
@@ -93,6 +93,26 @@ Verdict REVISE; all six findings are addressed. `python3 -I ciphers/hcp-1294/wor
 4. **Dots under k (minor): fixed.** Uncertainty 2 is rewritten and the claim in NOTES.md corrected. I checked the row 9 case on `review/work/crops/r09_2.png`: two dots stand there, as the reviewer says. The count of 7 of 11 is the reviewer's; I did not recount every k.
 5. **Undisclosed damage (minor): fixed.** New uncertainty 7, checked on `work/crops/r10_a.png` and `r13_a.png`.
 6. **Ledger header (minor): fixed.** The header now lists the tokens actually used (H, P, plain d).
+
+## Revision 2026-11-02
+
+Second attempt by Claude Opus 5.5, ordered by the human. Status unchanged: PARTIAL. No sign of the ledger, no reading and no translation changed. The only unread passage is row 8 `oszeholad`.
+
+What was tried:
+
+1. **New crops from the original** (`work/crop2.py`, `crop3.py`, `crop4.py`, output in `work/crops2/`): every row at full scale, row 8 in the green channel with contrast at 3x, and the stamp box in the blue channel at 2x.
+2. **o against i, a new test.** The second loop of the word has a narrow slit, so it might have been the i-sign, and the dotted sign before the k might have been a dotted i (which would give `-hilad` or `-adik`). The gallery `work/crops2/loops.png` compares five o and five i from this card with the three loops of row 8. On this card o has a round arch and a tail ending in a downward hook, and i has a straight top and a straight tail. All three row 8 loops have the arch and the hook, so all three are o. The earlier reading stands, independently of the old ledger.
+3. **The other signs of the word** were re-read and agree: right bowl s, tailed z, three bars e, tall stroke + short (h/p), wave l, two bars a, short tick + long stroke d. The final sign leans to d but n is not excluded by shape alone. The lead-in stroke on the first loop is real and separate in origin from the t before it. I cannot tell whether it is a dash, a stray pen stroke or a mark on the o.
+4. **Family formulae.** "okvetlen lemegyek" usually has a time word before it (HCP1255 *vasárnap*, HCP1264 *csütörtökön*), or a place (HCP1264, 1276 *a mulatságba*). No day or place name fits these signs. HCP1254, dated one day later, begins *szerencsésen megérkeztem*, so the trip probably took place, but it does not mention this word. A search of all family SOLUTION.md files for the stems `szehol, sepol, holad, polad, ehola` found only this card.
+5. **New leads, none adopted** (all rest on word sense):
+   - A verb in -ad, third person as the formal address of *dolgozik, vállal*: "why take on so much work, you will [wear out]". This shape suits the sentence, but the verbs that carry that sense do not match the signs: *összeroskad* (r, s, k against h, o, l), *összehorpad* (no rp), *összeomlad* (h extra, m missing). *Összehullad* would need o for u and one l, and I could not confirm the word exists.
+   - `o szép olan`, with the h/p sign as p, d as n, and *olan* for *olyan*: "[?] nice like that". The writer spells this word with y or j elsewhere, and the first o stays unexplained; *ha szép* ("if it is fine") would suit the weather talk but h, a are not on the card.
+   - *e hó* ("this month") inside the string: nothing usable follows it.
+6. **Dictionary check.** No Hungarian word list exists on this machine, and one web search for *összehalad, összeholad, összehullad* found no entry for any of them. That is no proof of absence; the regional dictionary ÚMTSz. was not consulted.
+
+Why this stays partial: the rule allows a card with an un-understood word only if the word is alone, and it is not established here that the word is alone. The string has no divider, the prefix lead suggests a compound or two words, and its function in the sentence is unknown, so it may be a clause of its own. Nothing in the reading has improved since review 1, so there is no ground to raise the status. No DONE2 and no register entry.
+
+Under the stamp, the blue-channel crop confirms `csokolja / szamtala[n] / szor hű… / kedvese / Feri`; the torn end of line 3 stays as in uncertainty 10.
 
 ## Credit
 

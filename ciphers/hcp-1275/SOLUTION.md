@@ -1,6 +1,6 @@
 # HCP1275 — Feri to Jolánka Tóth: a farewell after she cooled towards him
 
-**Status: PARTIAL. All of the card's roughly 721 signs are transcribed and decoded, but one whole clause (rows 2–4) is not understood, and two further isolated words are not understood. Review 1 verdict REVISE; findings addressed. No register entry is made for this card.** Written 2026-11-01 by Claude Opus 5.5. No earlier work exists on this number. The key comes from the finished Jolánka-family cards (HCP1216, 1212, 1301 and others; their earlier work is credited on those cards to the OpenAI GPT solver and Claude Opus 5.5). The portal shows *Not solved* and attaches no transcription or solution; no published solution of this card was found or used. The ledger is my own manual transcription from `work/hires/*_adr.jpg`; the portal attaches none.
+**Status: PARTIAL (revised 2026-11-02). All of the card's roughly 721 signs are transcribed and decoded, but one whole clause (rows 2–4) is not understood, and one further isolated word (row 24 `eden`) is not understood. Row 12 is now read. Review 1 verdict REVISE; findings addressed. No register entry is made for this card.** Written 2026-11-01 by Claude Opus 5.5. No earlier work exists on this number. The key comes from the finished Jolánka-family cards (HCP1216, 1212, 1301 and others; their earlier work is credited on those cards to the OpenAI GPT solver and Claude Opus 5.5). The portal shows *Not solved* and attaches no transcription or solution; no published solution of this card was found or used. The ledger is my own manual transcription from `work/hires/*_adr.jpg`; the portal attaches none.
 
 ## Cipher type and key
 
@@ -43,7 +43,7 @@ It checks the SHA-256 of all four image files, decodes `work/ledger-opus.txt` (o
 09 sikakigazdagabescsinosabb         23 szo.fenyke{p}itaztsoheki
 10 legenyakinekszerencseje           24 nemadomkezböleden,ugyatöbbi{g}{t}ergyakotsemlegelabb
 11 voltmagatelhoditani               25 ezeketlethatomesmegleszorökitveemlekeber{z}ivem
-12 nemalokutja{d}alegyan              26 beotleszorökreazenyemeltehetamitakarnekemmindegy
+12 nemalokutja{b}alegyan              26 beotleszorökreazenyemeltehetamitakarnekemmindegy
 13 boldoojanbodoghogy                27 ha{t}üzbeteszivagyviszakildííslegalabbnemzaverjabold
 14 eszebesejusakhogynebant           E1 ogsagat (up the right edge)
 under the stamp: sir{i?}[g] | hüima | dojaes | volt | kedves | se{f}eri
@@ -51,29 +51,29 @@ under the stamp: sir{i?}[g] | hüima | dojaes | volt | kedves | se{f}eri
 
 ## Hungarian (normalized)
 
-Mélyen tisztelt Jolánka kisasszony! Ön azt mondta, [olvasatlan tagmondat: a nagy kör(?), hogy nem hallgat a h?ely(?), kár(?),] amikor még szeretet(?) volt irántam. Ez nem lehet oka elhidegülésének irántam; mást nem találhatok, mint hogy akadt egy másik, aki gazdagabb és csinosabb legény, akinek szerencséje volt magát elhódítani. Nem a lokutja(?), de legyen boldog, olyan boldog, hogy eszébe se jussak, hogy ne bántsa a lelkiismeret, hogy az [én] szívem összetört. Lehet, hogy az Isten majd olyan jó, hogy megvált a fájdalmaimtól, majd akkor én is boldog leszek. Ezt a vasutasnak a lányáról, amit ír, nem tudok semmit írni, mert nem tudom, miről van szó. Fényképét azt soha ki nem adom kezből, eden(?), úgy a többi tárgyakat sem; legalább ezeket láthatom, és meg lesz örökítve emlékbe, szívembe ott lesz örökre az enyém. Eltehet, amit akar, nekem mindegy, ha tűzbe teszi vagy visszaküldi is, legalább nem zavarja boldogságát.
+Mélyen tisztelt Jolánka kisasszony! Ön azt mondta, [olvasatlan tagmondat: a nagy kör(?), hogy nem hallgat a h?ely(?), kár(?),] amikor még szeretet(?) volt irántam. Ez nem lehet oka elhidegülésének irántam; mást nem találhatok, mint hogy akadt egy másik, aki gazdagabb és csinosabb legény, akinek szerencséje volt magát elhódítani. Nem állok útjába, legyen boldog, olyan boldog, hogy eszébe se jussak, hogy ne bántsa a lelkiismeret, hogy az [én] szívem összetört. Lehet, hogy az Isten majd olyan jó, hogy megvált a fájdalmaimtól, majd akkor én is boldog leszek. Ezt a vasutasnak a lányáról, amit ír, nem tudok semmit írni, mert nem tudom, miről van szó. Fényképét azt soha ki nem adom kezből, eden(?), úgy a többi tárgyakat sem; legalább ezeket láthatom, és meg lesz örökítve emlékbe, szívembe ott lesz örökre az enyém. Eltehet, amit akar, nekem mindegy, ha tűzbe teszi vagy visszaküldi is, legalább nem zavarja boldogságát.
 
 Under the stamp: Sírig hű imádója és volt kedvese, Feri.
 
 ## English
 
-Deeply respected Miss Jolánka! You said [unread clause: literally perhaps "the great kör(?), that does not listen to the h?ely(?), a pity(?)"], when there was still love(?) for me. That cannot be the reason for your cooling towards me; I can find no other than that there is another, a richer and more handsome young man, who had the luck to win you. Not the [lokutja?], but may you be happy, so happy that I do not even come to your mind, that your conscience does not trouble you that my heart is broken. Perhaps God will be so good as to deliver me from my pains; then I too shall be happy. About the railwayman's daughter whom you write of, I can write nothing, because I do not know what it is about. Your photograph I will never let out of my hand, [eden?], nor the other things; at least I can look at these, and it will be immortalized in memory; in my heart, there it will be mine forever. You may put away what you want, it is all the same to me, even if you put it in the fire or send it back; at least it does not disturb your happiness.
+Deeply respected Miss Jolánka! You said [unread clause: literally perhaps "the great kör(?), that does not listen to the h?ely(?), a pity(?)"], when there was still love(?) for me. That cannot be the reason for your cooling towards me; I can find no other than that there is another, a richer and more handsome young man, who had the luck to win you. I will not stand in your way; may you be happy, so happy that I do not even come to your mind, that your conscience does not trouble you that my heart is broken. Perhaps God will be so good as to deliver me from my pains; then I too shall be happy. About the railwayman's daughter whom you write of, I can write nothing, because I do not know what it is about. Your photograph I will never let out of my hand, [eden?], nor the other things; at least I can look at these, and it will be immortalized in memory; in my heart, there it will be mine forever. You may put away what you want, it is all the same to me, even if you put it in the fire or send it back; at least it does not disturb your happiness.
 
 Under the stamp: Your adorer, faithful unto the grave, and former sweetheart, Feri.
 
 ## Slovak
 
-Hlboko vážená slečna Jolánka! Povedali ste, [neprečítaná veta: doslova azda „veľký kör(?), že nepočúva h?ely(?), škoda(?)“], keď ešte bola(?) láska ku mne. To nemôže byť príčinou Vášho ochladnutia voči mne; nemôžem nájsť inú, než že sa našiel iný, bohatší a krajší mládenec, ktorý mal šťastie Vás získať. Nie [lokutja?], ale buďte šťastná, taká šťastná, aby som Vám ani na um neprišiel, aby Vás netrápilo svedomie, že moje srdce je zlomené. Možno bude Boh taký dobrý, že ma vyslobodí z mojich bolestí, potom budem šťastný aj ja. O tej dcére železničiara, o ktorej píšete, nemôžem napísať nič, lebo neviem, o čo ide. Vašu fotografiu nikdy nedám z ruky, [eden?], ani ostatné veci; aspoň sa na ne môžem pozerať, a bude zvečnená v pamäti; v mojom srdci, tam bude navždy moja. Môžete si odložiť, čo chcete, mne je to jedno, aj keď to dáte do ohňa alebo pošlete späť; aspoň to neruší Vaše šťastie.
+Hlboko vážená slečna Jolánka! Povedali ste, [neprečítaná veta: doslova azda „veľký kör(?), že nepočúva h?ely(?), škoda(?)“], keď ešte bola(?) láska ku mne. To nemôže byť príčinou Vášho ochladnutia voči mne; nemôžem nájsť inú, než že sa našiel iný, bohatší a krajší mládenec, ktorý mal šťastie Vás získať. Nebudem Vám stáť v ceste, buďte šťastná, taká šťastná, aby som Vám ani na um neprišiel, aby Vás netrápilo svedomie, že moje srdce je zlomené. Možno bude Boh taký dobrý, že ma vyslobodí z mojich bolestí, potom budem šťastný aj ja. O tej dcére železničiara, o ktorej píšete, nemôžem napísať nič, lebo neviem, o čo ide. Vašu fotografiu nikdy nedám z ruky, [eden?], ani ostatné veci; aspoň sa na ne môžem pozerať, a bude zvečnená v pamäti; v mojom srdci, tam bude navždy moja. Môžete si odložiť, čo chcete, mne je to jedno, aj keď to dáte do ohňa alebo pošlete späť; aspoň to neruší Vaše šťastie.
 
 Pod známkou: Váš do hrobu verný ctiteľ a bývalý milý, Feri.
 
 ## Uncertainties
 
-**Not understood: one whole clause and two further isolated words. The letters are read, apart from the marked signs; the sense is not. Because the clause in item 1 is whole, the card counts as partial.**
+**Not understood: one whole clause and one further isolated word (the second earlier gap, row 12, is resolved; see Revision 2026-11-02). The letters are read, apart from the marked signs; the sense is not. Because the clause in item 1 is whole, the card counts as partial.**
 
 1. **Rows 2–4, clause after *Ön azt mondta*.** It contains row 3 `h{?l}ely`: h sign, then a long wave sign crossed by the black postmark (best match wave l, not certain), e, l, y. No word established. The next sentence (*Ez nem lehet oka…*) answers exactly this clause, so the surrounding argument does not supply its content.
-2. **Row 12 `alokutja`** after *nem*: all signs clear (a l o k u t j a). Word not identified.
-3. **Row 24 `eden`** after *kezböl*: e d e n and a comma, all clear. Could be a noun of address; not established. It does not affect the surrounding sentence.
+2. **Row 12**: resolved, *nem állok útjába* (see Revision 2026-11-02).
+3. **Row 24 `eden`** after *kezböl*: e d e n and a comma, all clear. Could be a noun of address; not established. It does not affect the surrounding sentence. The last sign's left stroke is a little longer than its right; I keep n, h/p would give no word either.
 
 The count of 721 is approximate: at rows 24 (`{g}{t}`), 25 (`R {z}`) and 27 (`{t} U:`) the tokens are context decisions, not clean sign readings (items 5–7).
 
@@ -81,7 +81,7 @@ The count of 721 is approximate: at rows 24 (`{g}{t}`), 25 (`R {z}`) and 27 (`{t
 
 **Sign calls that rest on word sense or are restorations:**
 
-4. Row 12 `{d}`: a blotted tall sign, then two bars: `{d}a`, normalized *de* ("but"). The bars may be three (one lost in the blot). h is not excluded (*ha*, "if").
+4. Row 12 `{b}`: a faded tall sign in a water stain, then two bars. Revised from `{d}`: the shape is compatible with the six, but it rests partly on word sense (*útjába*).
 5. Row 24 `{g}{t}`: after *többi* a small raised squiggle like g (treated as stray), then a tall stroke with a short falling tick, closest to t: *tergyakot* = *tárgyakat*. Sense-based; the shape is not the usual gamma.
 6. Row 25 `{z}`: at the end of `emlekeber` (F clear) comes an overwritten composite with crossing strokes, probably not two signs, then *ivem*. Read as z of *[sz]ivem*; the F may be a false start. Normalized *emlékbe, szívembe* (with *be* from row 26). The second word's first s is not visible as a separate sign.
 7. Row 27 `{t}ü`: after *ha* a single wide arch running into the bottom card edge, with two dots and a faint downstroke at its right. This is not a separate t and ü on the pixels; *tűzbe* ("into the fire") comes from context, not from a sign reading; an arc with dots also resembles ö, which gives no word. The rest of the clause (*beteszi vagy visszakildóís*) supports it.
@@ -122,3 +122,21 @@ Verdict REVISE. All nine findings accepted. No letter value changed; the reading
 9. **Date: fixed.** See the Date section.
 
 Reproduction re-run after the fixes: all four SHA-256 checks pass and the output matches the rows above.
+
+## Revision 2026-11-02
+
+Second attempt by Claude Opus 5.5, ordered by the human. New crops from `work/hires/*_adr.jpg` with green-channel contrast at 3 to 7x are in `work/rev2/`. Unread at the start: the clause in rows 2–4, row 12 `alokutja`, row 24 `eden`. No letter value of the key changed.
+
+**Resolved: row 12.** The earlier reading failed on word division. `nem alok utja{b}a legyan` is *nem állok útjába, legyen boldog*, "I will not stand in your way; may you be happy", the single l being the writer's usual habit (*halgata, akor*). The sign after the faded a was read `{d}` with the normalization *de*. On `work/rev2/r12w.png` and `r12z.png` it is a tall stroke falling from the upper right to a low bowl, faded in a water stain and cut by the stain's edge. This is compatible with the six and not with a stroke pair. The closed loop of the six is only partly visible, so the b is a call by shape together with word sense, disclosed in the ledger as `{b}`. The two bars after it are clear. No *de* now stands in the text.
+
+**Still unread: row 24 `eden`, an isolated word.** `work/rev2/r24z.png`: three bars; short then long stroke (d); three bars; a stroke pair, the left a little longer; a mark like a comma. The stroke difference in the pair is well below that of a real h (row 3), so n stays. I tested a reversed p (*éppen*), but the first pair is plainly short then long, so that attractive reading is not on the pixels and is rejected. Also rejected: *ezen* (no z), *édes* (no s), *eddig*. The sentence reads without this word.
+
+**Still unread: rows 2–4, a whole clause.** What the pixels show:
+
+- Row 2 blot (`work/rev2/bl.png`): wet ink wiped with a finger, leaving a diagonal mass with a small tail. Two bars and a clear joined gy follow. No stroke pair can be separated, so n, h and m all stay open; *nagy* is context only.
+- Row 3 second sign: the loop form of o (compare row 4 *amikor*), not the crossed i. One dot lies above it, so ö or ó: *kör* or *kór*, also *kor*.
+- Row 3 end (`h1g.png`): h (ratio of strokes clear), then a short wave fused with the postmark arc, three bars with the lowest faint, then an arch running into y. The arch may belong to the wave l or be the entry stroke of y, whose form elsewhere starts with an arch (row 2). So the word is `h ? e [l] y` or `h ? e y`. The writer never otherwise spells ly as l + y (he writes j: *mejen, ojan*), which counts against *hely*.
+
+Tried as divisions or spellings, none giving a sentence: *nagy kár/kór/kor*, *nagykorú*, Nagykörű (place), *magy. kir.*, *hely kár*, *helykor*, *hegy*, *hölgy*, *hüvely*, *hülye kor*, *lelkére*, *hallgatá h[ogy]*, *ahelyett*, and the same with p for h. Sister cards have no matching formula: the nearest is HCP1204 *nem hallgatok az itteni pletykákra*, a different correspondent and wording. Each of these either needs signs that are not there or leaves the clause senseless, so none is adopted.
+
+**Result.** The card stays partial, because a whole clause is unread. No DONE2, no register entry. The existing markers are kept. Normalized text, the three translations, the ledger (`{d}` to `{b}`), `report/report.md` and the PDF are updated.

@@ -1,0 +1,34 @@
+# HCP1223 sign ledger, Claude Opus 5.5, 2026-11-02. Read by hand from enlarged crops of work/hires/*_adr.jpg (crops/). One token = one written sign.
+# Corrected after review 1: row 19 N deleted (three strokes, not five, at the seam of the crops), row 21 gondolt d marked HD.
+# Tokens: letter = family sign class of that letter. Sign shapes: F-like=R, right bowl=S, section mark=K, inverted T=J, gamma=T, three bars=E, two bars=A,
+# cursive loop=O, dotted loop=I, wave=L, chevron=V, three strokes=M, two strokes=N, short stroke on the left + long stroke on the right=D, long stroke + separate short tick on its right=H or P (one sign class, chosen by word),
+# HD = stroke+separate tick used where only d makes a word, cross X=U, tailed cross=Z, 6=B, open loop=G, low descender=Y, LY=joined wave+descender, upright cross=FF, CS=opposed bowls.
+# :acute = a dot/tick seen over the sign; :diaeresis = two dots seen. Accents not seen are NOT transcribed. . = written point.
+01 S Z E R E T E T E:acute D E S J O L A N
+02 K A M V A:acute R V A V A:acute R T S O R A
+03 I T M E G K A P T A M M E LY N E K
+04 N A G Y O N M E G O:diaeresis R U:diaeresis L T E M
+05 K I V A N O M H O G Y A L E G
+06 J O B B K E D V E B E N T A L A L
+07 J A S O R A I M . N E H A R A
+08 G O D J O N R A:acute M E:acute D E S E M
+09 H O . G Y M A N E M M E H E T T E M
+10 L E HD E L E K E:acute S T E M A V O N A T
+11 R O L A M I T I G A Z A N .
+12 S A J N A L O K S Z A M I T T O T
+13 T E M K E D D E N R E G G E L L E
+14 M E N N I HD E A Z T G O N D O L
+15 T E M H E:acute T K O:diaeresis Z N A P N E M
+16 A L K A L M A T L A N K O D O K
+17 S Z E R E L M E M E:acute S M I N D E
+18 N E M A Z E:acute R T N E M M E H E T
+19 T E M M A L E M E R T A T U:diaeresis Z
+20 O L T O T T E S T U:diaeresis L E T N E
+21 V A N A K O:diaeresis Z G Y U:diaeresis L E:acute S E . H O G Y M U L A T O T G O N HD O L T
+22 E N E:acute H R M I M A D O J A R A I S T E N V E L E E:acute D E S E M
+S1 I S T E N
+S2 V E L E
+S3 E:acute D E S E M
+S4 CS O K O L
+S5 J A H U:diaeresis K E D
+S6 V E S S E FF R

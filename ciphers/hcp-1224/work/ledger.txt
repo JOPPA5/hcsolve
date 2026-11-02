@@ -1,0 +1,38 @@
+# HCP1224 sign ledger, Claude Opus 5.5, 2026-11-02. Read by eye from enlarged crops of the hires address side; one token = one written sign.
+# Tokens: a letter = the family sign of that letter. O: U: = sign with dots/marks above (ö/ő, ü/ű). GY, CS, SZ-free: sz and zs are written S Z / Z S.
+# D = joined long+short stroke (d; 4-like in rows 1, 5, 8, 16). H:h H:p H:d = tall stroke + short companion; the value after the colon rests on word sense (h/p/d near-homographs).
+# plain:xxx = written in clear. X = struck-through two-stroke sign (row 21). Q = the undotted curved sign of row 26 (o or undotted i; not z), decoded {o|i?}. Every other doubtful call is listed in SOLUTION.md.
+# Acute accents are often faint and are not transcribed.
+01 K E D V E S J O L A N K A M B E CS E S
+02 S O R A I T M E G K A H:p T A M M E L Y
+03 E T N A GY O N K O: S Z O: N O: K A M I
+04 A M J O B A N L E T U: N K H:h A R A J T A M
+05 F U: G N E M V A L U N K E L S O H:h A E D E
+06 S E M A N A K H:h O GY J O B E I T M I N T
+07 GY O: N GY O: S O: N A Z N E K E M M I N
+08 D E GY V O L N A CS A K A K A Z F A J
+09 H:h O GY J O L A N K A M O L Y T A V O L
+10 V A N T O: L E M A M I A F I Z E
+11 T E S T I L E T I I T plain:_43_fil_k E
+12 R E S E K T O: B E T N A H:p O N T A M I N T
+13 GY O: N GY O: S O: N H:d E CS A K A Z
+14 A B A J H:h O GY J O: N A T E L E S
+15 I J E N K O R K E V E S A M U N K A
+16 D E M A J D CS A K K I T E L E L E K V A
+17 L A H:h O GY K E D V E S E M O L V A S S A
+18 CS A K E L H:h A R M A H:d I K L A H:p O M A T
+19 M A R A B A I R T A M H:h O GY J O Z S I
+20 E K A L T O: L T O: T O T E M A V A S A R N A H:p O T
+21 M O S T V A S A R N A H:p X E M V O L T A M
+22 S E H:h O L K O: S Z O N O M A V E R S E T H:h A
+23 S Z I V B O: L I R T A A S Z I V E M M A R R E G
+24 A Z O: N E E H:d E S E M H:h O GY G O N H:d O L
+25 H:h A T O J A T H:h O GY L A H:p J A T M U T O G A
+26 T O M V A L K I N E K J O E G Q S E G E T K I V A N O K I S T E N V A L E E H:d E S E M F
+S1 G O N H:d O L J
+S2 N E H:h A A T A
+S3 V O L B A N
+S4 E H:p E H:d O:
+S5 S Z I V R E
+S6 H:h U: I M A
+S7 H:d O H:d F E R I

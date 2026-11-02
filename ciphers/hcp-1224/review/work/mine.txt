@@ -1,0 +1,35 @@
+# Reviewer's sign-class transcription of the hires address scan (not blind: the solver's text had been read first).
+# One token per sign. Class names are mine. ^ = marks above. ? = disputed class.
+01 sect bar3 d chev bar3 rb j loop wave bar2 st2 sect bar2 st3 six bar3 cs bar3 rb
+02 rb loop F bar2 i gam st3 bar3 g sect bar2 tall gam bar2 st3 st3 bar3 wave y
+03 bar3 gam st2 bar2 gy loop st2 sect loop^ rb x loop^ st2 loop^ sect bar2 st3 i
+04 bar2 st3 j loop six bar2 st2 wave bar3 gam plus^ st2 sect tall bar2 F bar2 j gam bar2 st3
+05 f plus^ g st2 bar3 st3 chev bar2 wave plus st2 sect bar3 wave rb loop tall bar2 bar3 d bar3
+06 rb bar3 st3 bar2 st2 bar2 sect tall loop gy j loop six bar3 i gam st3 i st2 gam
+07 gy loop^ st2 gy loop^ rb loop^ st2 bar2 x st2 bar3 sect bar3 st3 st3 i st2
+08 d bar3 gy chev loop wave st2 bar2 cs bar2 sect bar2 sect bar2 x f bar2 j
+09 tall loop gy j loop wave bar2 st2 sect bar2 st3 loop wave y gam bar2 chev loop wave
+10 chev bar2 st2 gam loop^ wave bar3 st3 bar2 st3 i bar2 f i x bar3
+11 gam bar3 rb gam i wave bar3 gam i i gam [43fil] [k] bar3
+12 F bar3 rb bar3 sect gam loop^ six bar3 gam st2 bar2 tall loop st2 gam bar2 st3 i st2 gam
+13 gy loop^ st2 gy loop^ rb loop^ st2 tall bar3 cs bar2 sect bar2 x
+14 bar2 six bar2 j tall loop gy j loop^ st2 bar2 gam bar3 wave bar3 rb
+15 i j bar3 st2 sect loop F sect bar3 chev bar3 rb bar2 st3 plus st2 sect bar2
+16 d bar3 st3 bar2 j d cs bar2 sect sect i gam bar3 wave bar3 wave bar3 sect chev bar2
+17 wave bar2 tall loop gy sect bar3 d chev bar3 rb bar3 st3 loop wave chev bar2 rb rb bar2
+18 cs bar2 sect bar3 wave tall bar2 F st3 bar2 tall i sect wave bar2 tall loop st3 bar2 gam
+19 st3 bar2 F bar2 six bar2 i F gam bar2 st3 tall loop gy j loop x rb i
+20 bar3 sect bar2 wave gam loop^ wave gam loop^ gam loop gam bar3 st3 bar2 chev bar2 rb bar2 F st2 bar2 tall loop gam
+21 st3 loop rb gam chev bar2 rb bar2 F st2 bar2 tall HASH bar3 st3 chev loop wave gam bar2 st3
+22 rb bar3 tall loop wave sect loop^ rb x loop st2 loop st3 bar2 chev bar3 F rb bar3 gam tall bar2
+23 rb x i chev six loop^ wave i F gam bar2 bar2 rb x i chev bar3 st3 st3 bar2 F F bar3 g
+24 bar2 x loop^ st2 bar3 bar3 d bar3 rb bar3 st3 tall loop gy g loop st2 d loop wave
+25 tall bar2 gam loop j bar2 gam tall loop gy wave bar2 tall j bar2 gam st3 plus gam loop g bar2
+26 gam loop st3 chev bar2 wave sect i st2 bar3 sect j loop bar3 g ? rb bar3 g bar3 gam sect i chev bar2 st2 loop sect i rb gam bar3 st2 chev bar2 wave bar3 bar3 d bar3 rb bar3 st3 f
+S1 g loop st2 d loop wave j
+S2 st2 bar3 tall bar2 bar2 gam bar2
+S3 chev loop wave six bar2 st2
+S4 bar3 tall bar3 d loop^
+S5 rb x i chev F bar3
+S6 tall plus^ i st3 bar2
+S7 d loop d f bar3 F i

@@ -2,13 +2,13 @@
 
 Human solver: Tomáš Pavuk
 
-**Status: PARTIAL. All of the card's roughly 721 cipher signs are transcribed and decoded and nearly all of the letter reads, but one whole clause (rows 2–4) and two further words are not understood. Independent review 1 verdict REVISE; findings addressed, no letter value changed. No register entry is made for this card.** Report dated 2026-11-01.
+**Status: PARTIAL (revised 2026-11-02). All of the card's roughly 721 cipher signs are transcribed and decoded and nearly all of the letter reads, but one whole clause (rows 2–4) and one further word (row 24) are not understood. Independent review 1 verdict REVISE; findings addressed, no letter value changed. No register entry is made for this card.** Report dated 2026-11-01.
 
 ## Origin and context
 
 The cryptogram is record 1275 of the HC Portal (https://crypto.hcportal.eu/dashboard/cryptograms/1275), portal name cpc_1913-08-13_HU__HU_Jasz Arokszalas_jolanka-40, from Tobias Schrödel's collection of cryptographic postcards (private collection). When captured on 2026-11-01 the portal listed it as **Not solved**, tagged Postcard, T. Schrödel Collection, category Substitution, language Unknown, sender Unknown, recipient Tóth Jolánka, with no transcription or solution attached. No published solution of this card was found or used.
 
-The picture side is a printed tinted photograph of a young couple, headed *Két szív ha földobog…* ("When two hearts leap up…"). The printed verse beside it says that the rich may hope while the poor stays alone. It carries no cipher, but it matches the complaint in the message about a richer rival.
+The picture side is a printed tinted photograph of a young couple, headed "Két szív ha földobog…" ("When two hearts leap up…"). The printed verse beside it says that the rich may hope while the poor stays alone. It carries no cipher, but it matches the complaint in the message about a richer rival.
 
 The address side is in plain writing to Tóth Jolánka at Jászárokszállás, Hungary. The date 1913-08-13 comes from the portal file name; only 913 can be read in the cancellation at the stamp. The cipher fills the left half of the address side, then runs in four long rows across the bottom and up the right edge. Six more short rows, holding the signature, were written under the stamp, which has since been lifted.
 
@@ -39,7 +39,7 @@ Monoalphabetic substitution with invented graphic signs (register label MASC). O
 | lightning-shaped sign | g | dotted crossed curve | i | crossed diagonal with flag | z |
 | inverted T | j | large joined loop + y | gy | | |
 
-The h/p sign is one class; the only p on this card (*fénykép-*) is decided by word sense.
+The h/p sign is one class; the only p on this card ("fénykép-") is decided by word sense.
 
 ## Literal decipherment
 
@@ -57,7 +57,7 @@ The h/p sign is one class; the only p on this card (*fénykép-*) is decided by 
 09 sikakigazdagabescsinosabb
 10 legenyakinekszerencseje
 11 voltmagatelhoditani
-12 nemalokutja{d}alegyan
+12 nemalokutja{b}alegyan
 13 boldoojanbodoghogy
 14 eszebesejusakhogynebant
 15 saalelkiismerethogyaz
@@ -84,35 +84,35 @@ S6 se{f}eri
 
 ## Plaintext (normalized Hungarian)
 
-Mélyen tisztelt Jolánka kisasszony! Ön azt mondta, [unread clause: a nagy kör(?), hogy nem hallgat a h?ely(?), kár(?),] amikor még szeretet(?) volt irántam. Ez nem lehet oka elhidegülésének irántam; mást nem találhatok, mint hogy akadt egy másik, aki gazdagabb és csinosabb legény, akinek szerencséje volt magát elhódítani. Nem a lokutja(?), de legyen boldog, olyan boldog, hogy eszébe se jussak, hogy ne bántsa a lelkiismeret, hogy az [én] szívem összetört. Lehet, hogy az Isten majd olyan jó, hogy megvált a fájdalmaimtól, majd akkor én is boldog leszek. Ezt a vasutasnak a lányáról, amit ír, nem tudok semmit írni, mert nem tudom, miről van szó. Fényképét azt soha ki nem adom kezből, eden(?), úgy a többi tárgyakat sem; legalább ezeket láthatom, és meg lesz örökítve emlékbe, szívembe ott lesz örökre az enyém. Eltehet, amit akar, nekem mindegy, ha tűzbe teszi vagy visszaküldi is, legalább nem zavarja boldogságát.
+Mélyen tisztelt Jolánka kisasszony! Ön azt mondta, [unread clause: a nagy kör(?), hogy nem hallgat a h?ely(?), kár(?),] amikor még szeretet(?) volt irántam. Ez nem lehet oka elhidegülésének irántam; mást nem találhatok, mint hogy akadt egy másik, aki gazdagabb és csinosabb legény, akinek szerencséje volt magát elhódítani. Nem állok útjába, legyen boldog, olyan boldog, hogy eszébe se jussak, hogy ne bántsa a lelkiismeret, hogy az [én] szívem összetört. Lehet, hogy az Isten majd olyan jó, hogy megvált a fájdalmaimtól, majd akkor én is boldog leszek. Ezt a vasutasnak a lányáról, amit ír, nem tudok semmit írni, mert nem tudom, miről van szó. Fényképét azt soha ki nem adom kezből, eden(?), úgy a többi tárgyakat sem; legalább ezeket láthatom, és meg lesz örökítve emlékbe, szívembe ott lesz örökre az enyém. Eltehet, amit akar, nekem mindegy, ha tűzbe teszi vagy visszaküldi is, legalább nem zavarja boldogságát.
 
 Under the stamp: Sírig hű imádója és volt kedvese, Feri.
 
 ## English translation
 
-Deeply respected Miss Jolánka! You said [unread clause: literally perhaps "the great kör(?), that does not listen to the h?ely(?), a pity(?)"], when there was still love(?) for me. That cannot be the reason for your cooling towards me; I can find no other than that there is another, a richer and more handsome young man, who had the luck to win you. Not the [lokutja?], but may you be happy, so happy that I do not even come to your mind, that your conscience does not trouble you that my heart is broken. Perhaps God will be so good as to deliver me from my pains; then I too shall be happy. About the railwayman's daughter whom you write of, I can write nothing, because I do not know what it is about. Your photograph I will never let out of my hand, [eden?], nor the other things; at least I can look at these, and it will be immortalized in memory; in my heart, there it will be mine forever. You may put away what you want, it is all the same to me, even if you put it in the fire or send it back; at least it does not disturb your happiness.
+Deeply respected Miss Jolánka! You said [unread clause: literally perhaps "the great kör(?), that does not listen to the h?ely(?), a pity(?)"], when there was still love(?) for me. That cannot be the reason for your cooling towards me; I can find no other than that there is another, a richer and more handsome young man, who had the luck to win you. I will not stand in your way; may you be happy, so happy that I do not even come to your mind, that your conscience does not trouble you that my heart is broken. Perhaps God will be so good as to deliver me from my pains; then I too shall be happy. About the railwayman's daughter whom you write of, I can write nothing, because I do not know what it is about. Your photograph I will never let out of my hand, [eden?], nor the other things; at least I can look at these, and it will be immortalized in memory; in my heart, there it will be mine forever. You may put away what you want, it is all the same to me, even if you put it in the fire or send it back; at least it does not disturb your happiness.
 
 Under the stamp: Your adorer, faithful unto the grave, and former sweetheart, Feri.
 
 ## Slovak translation
 
-Hlboko vážená slečna Jolánka! Povedali ste, [neprečítaná veta: doslova azda „veľký kör(?), že nepočúva h?ely(?), škoda(?)“], keď ešte bola(?) láska ku mne. To nemôže byť príčinou Vášho ochladnutia voči mne; nemôžem nájsť inú, než že sa našiel iný, bohatší a krajší mládenec, ktorý mal šťastie Vás získať. Nie [lokutja?], ale buďte šťastná, taká šťastná, aby som Vám ani na um neprišiel, aby Vás netrápilo svedomie, že moje srdce je zlomené. Možno bude Boh taký dobrý, že ma vyslobodí z mojich bolestí, potom budem šťastný aj ja. O tej dcére železničiara, o ktorej píšete, nemôžem napísať nič, lebo neviem, o čo ide. Vašu fotografiu nikdy nedám z ruky, [eden?], ani ostatné veci; aspoň sa na ne môžem pozerať, a bude zvečnená v pamäti; v mojom srdci, tam bude navždy moja. Môžete si odložiť, čo chcete, mne je to jedno, aj keď to dáte do ohňa alebo pošlete späť; aspoň to neruší Vaše šťastie.
+Hlboko vážená slečna Jolánka! Povedali ste, [neprečítaná veta: doslova azda „veľký kör(?), že nepočúva h?ely(?), škoda(?)“], keď ešte bola(?) láska ku mne. To nemôže byť príčinou Vášho ochladnutia voči mne; nemôžem nájsť inú, než že sa našiel iný, bohatší a krajší mládenec, ktorý mal šťastie Vás získať. Nebudem Vám stáť v ceste, buďte šťastná, taká šťastná, aby som Vám ani na um neprišiel, aby Vás netrápilo svedomie, že moje srdce je zlomené. Možno bude Boh taký dobrý, že ma vyslobodí z mojich bolestí, potom budem šťastný aj ja. O tej dcére železničiara, o ktorej píšete, nemôžem napísať nič, lebo neviem, o čo ide. Vašu fotografiu nikdy nedám z ruky, [eden?], ani ostatné veci; aspoň sa na ne môžem pozerať, a bude zvečnená v pamäti; v mojom srdci, tam bude navždy moja. Môžete si odložiť, čo chcete, mne je to jedno, aj keď to dáte do ohňa alebo pošlete späť; aspoň to neruší Vaše šťastie.
 
 Pod známkou: Váš do hrobu verný ctiteľ a bývalý milý, Feri.
 
 ## What remains uncertain
 
-- **Rows 2–4, the unread clause (the reason the card is partial).** *Ön azt mondta* and *amikor … volt irántam* are sure. Between them the row 2 sign is a blot, not recognisably n, so *a nagy* is context only. The word `h{?l}ely` has a sign under the postmark and is not established. *kör* could also be *kor*. `kar` may be *kár* ("a pity") or the end of the previous word. Row 4 could be *még szeretet volt* or *meg szerettél volt*. The next sentence answers this clause, so the context does not supply it.
-- **Row 12 `alokutja`:** all signs are clear, but the word is not identified.
+- **Rows 2–4, the unread clause (the reason the card is partial).** "Ön azt mondta" and "amikor … volt irántam" are sure. Between them the row 2 sign is a blot, not recognisably n, so "a nagy" is context only. The word `h{?l}ely` has a sign under the postmark and is not established. "kör" could also be "kor". `kar` may be "kár" ("a pity") or the end of the previous word. Row 4 could be "még szeretet volt" or "meg szerettél volt". The next sentence answers this clause, so the context does not supply it.
+- **Row 12:** resolved on 2026-11-02 by re-division, nem állok útjába ("I will not stand in your way").
 - **Row 24 `eden`:** all signs are clear, but the word is not identified. It does not affect the sentence around it.
 - **Readings from context, not from clean signs:**
-  - Row 12 `{d}` is a blotted sign before two bars (*de*; h is not excluded).
-  - Row 24 `{g}{t}` gives *tárgyakat*.
-  - Row 25 `R {z}` is one overwritten composite, and no s is visible for *szívem*.
-  - Row 27 `{t}ü` is a single wide arch with two dots running into the card edge, so *tűzbe* rests on context.
+  - Row 12 `{b}` is a faded tall sign in a water stain before two bars; its shape fits the six, and the call rests partly on word sense.
+  - Row 24 `{g}{t}` gives "tárgyakat".
+  - Row 25 `R {z}` is one overwritten composite, and no s is visible for "szívem".
+  - Row 27 `{t}ü` is a single wide arch with two dots running into the card edge, so "tűzbe" rests on context.
   - Row 13 `boldo ojan` has an o-like sign where g is expected.
   - S6 `{f}` is blotted and rests on the name Feri.
-  - The g in S1 is hidden and restored from the family formula *sírig hű*.
+  - The g in S1 is hidden and restored from the family formula "sírig hű".
 - **Sign count:** 721 is approximate, because of the places above.
 - **Spelling:** the writer spells unevenly (ly as j, single for double consonants, a and e swapped). The normalized text is an editorial step. Marks at the torn edge below S6 look like remains of the printed stamp, but a further sign cannot be excluded.
 - **People:** Feri and the railwayman's daughter are not identified.
@@ -122,12 +122,12 @@ Pod známkou: Váš do hrobu verný ctiteľ a bývalý milý, Feri.
 An independent reviewer (a separate Claude Opus 5.5 agent) re-ran the decoder, read the card from its own crops and recorded the signs in its own codes. 718 characters agreed with the solver, and six spans differed. Its verdict was **REVISE**: cipher and key are right, but the status and one passage had to change.
 
 1. The card was called "whole message deciphered". It is now labelled partial because of rows 2–4, and no register entry is written. Further attempts on the clause gave no sentence.
-2. Rows 20–21 were mis-divided (*írnom tudok*). They now read *amit ír, nem tudok semmit írni*, "whom you write of, I can write nothing".
+2. Rows 20–21 were mis-divided ("írnom tudok"). They now read "amit ír, nem tudok semmit írni", "whom you write of, I can write nothing".
 3. Row 10 ends in e, not a (`szerencseje`).
 4. Row 27 has two ticked i signs (`viszakildíís`), not o + í.
 5. S6 is marked doubtful (`{f}`).
 6. The one p is marked as a word-sense decision.
-7. Row 25 is *meg lesz örökítve*, "will be immortalized", not *még*.
+7. Row 25 is "meg lesz örökítve", "will be immortalized", not "még".
 8. The sign count is now called approximate.
 9. The date and its evidence are stated.
 
@@ -144,3 +144,7 @@ python3 -I ciphers/hcp-1275/work/decode_opus.py
 ## Credits
 
 Portal capture, key transfer, transcription, decipherment, response to review and this report: Claude Opus 5.5, 2026-11-01. The family key comes from earlier cards, where the work is credited to the OpenAI GPT solver and Claude Opus 5.5. Independent review: a separate Claude Opus 5.5 agent.
+
+## Revision of 2026-11-02
+
+A second attempt on new high-contrast crops resolved row 12 (nem állok útjába, legyen boldog; the former "de" is gone). Row 24 "eden" and the clause in rows 2–4 stay unread after testing other divisions, spellings and sister cards. The tempting "éppen" for row 24 was rejected because the sign order does not allow it. The card stays partial and has no register entry.

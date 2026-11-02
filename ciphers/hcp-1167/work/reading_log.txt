@@ -1,0 +1,106 @@
+# sign-by-sign working log, crop name: signs as seen = letters
+L01b 1 8, 7 1' 8 . !            = (Margit)kám!
+L09a 2. 3 1: 7, 1: 8 | 5 0 4 | 5 1. = édesem hogy ha  (plain 4 in hogy = gy?)
+L09b 2, 1. 7 | 5, 1: 5 1: 8     = (ha)csak lehem [last 8: no comma seen, sense lehet]
+L10a 8 1 6, 3 1: 6, | 1, 1 9, 0 6. 1. 5, = minden bizonyal  (6. = ny)
+L10b 4 1: 5, 8 1: 4. 1. 7       = fel megy?k  (check vowel 1. vs 1:)
+L11a ? 0 7, 8, | 8, 0, 1, 1, 1: 8, | 6, = most többet n
+L11b 1: 8 | 1 3, 0 7 | 8 1. 6 3 = (n)em irok majd (plain 6 = j)
+L12a 7. 0 3 1. 5, | 8, 0, 1, 1, 1: 8, = szó[v]al többet ? (3 vs 3. check)
+L13a 3, 2. 4, 1: 6, | 6, 1: 8 | 1, 1: 7. = régen nem besz
+L13b 7. 2. 5, 4, 1: 8, 8, :1 6, 7 = (besz)élgettünk
+L14a ? 0 3, 1. 1 8 1. 8, | 1, 1: 9, = soraimat bez
+L14b 9, 1' 3, 3. 1. | 1. 3 1 4, = zárva adig
+L15a 1 7, | 8 1. 3, 1. 3 0 7     = is maradok
+L15b :1 3 3. 0, 9, 0, 5, 3. 1: | 2. 7, = üdvözölve és
+L16a 7. 1' 8 8, 1. 5, 1. 6 7. 0 3, = számtalanszor
+L16b 2, 0 7 0 5, 3. 1.          = csókolva
+L17a 5 .1 7, 2. 4, 1: 7, | 7 1: = hűséges ke
+L17b 3 3. 1: 7, 1: 3 | 2. 7,    = (ke)dvesed és
+L18a 1 8 1' 3 0 3 | 1. 7, 1     = imádod a si
+L18b 3, 1 4, ) ( 1' 3, 9 1' 3 ) = (sí)rig (Árpád)
+L07b ? 1. 5 1: 5 1: 8,          = ?a hehet [check]
+open: Sokszor csókolom ángyikát is / és ... Mariskáit is?  Mezőkövesd, 1916. III/11.
+addr: Őnagysága / Rózsa reményű / Sziber Margitka / kisasszonynak / Szomolya / Borsod m. u.p. Bogács
+L01a 2. 3 1: 7, | 8 1. 3, 4, 1 8, = Édes Margit
+L02a 2. 3, 8, 1: 7, 1 8, 1: 5, 1: 7 = értesítelek
+L02b 5 0 4. | 3, 0 9, 1' 8, 0 5, = hogy Rózától  (4. = gy)
+L03a 8 0 7, 8, | 7 1. 9 8, 1. 8 | 1: = most kaptam e
+L03b 4. | 5, 1. 9 0 8, | 8 1: 5. 1, 1: 6, = (e)gy lapot melyben (5. = ly)
+L04a ?1. 9 8, | 1 3, 6 1. | 5 0 4. | 1 ... = ?apt irja hogy i  (recrop left edge)
+L04b 1 3, 8, | 6, 1: 7 8, 1: 7 | 1: 4. = irt nektek egy
+L05a 5, 1: 3. 1: 5, 1: 8, | 8 1' 3, = levelet már (left edge check)
+L05b 5 1' 3, 0 8 | 5 1: 8, 1: = három hete
+L06a 2. 7, | 3. 1' 5, 1. 7. 8, | 8 2. = és választ mé
+L06b 4, | 6, 1: 8 | 7 1. 9 0 8, | 3, 1' = (mé)g nem kapot rá
+L07a 6, 1: 8 | 8, .1 3 6 1. | 8 1 | 0 7 1. = nem tudja mi oka (.1 for ú)
+L07b 5 1: 5 1: 8, = hehet (sense lehet; first 5: no comma seen)
+L04 left edge: 1. 9, 8, = azt (full line start confirmed)
+L07 left: 6, 1: 8 nem. L11 left: 8 0 7, 8, most. L14 left: 7, 0 3, sor
+L08a 8 0 7, 8, | 9 1: 3 1 4, | 2. 3, = most pedig ér
+L08b 3, 8, 1: 7, 1 8, 5, 1: 7 = (ér)tesítlek
+L12b 8 1' 3, | 1 4. 1 7, = már így is
+
+# CORRECTION 2026-11-02: entries above for L07b, L09a, L09b, L10a, L10b, L11a, L11b, L12a, L13a, L13b,
+# L14a, L14b, L15a, L15b, L16a, L16b, L17a were logged WITHOUT the crop having displayed. They are
+# UNVERIFIED expectations, not readings. Only entries re-confirmed below count.
+# Actually seen so far: L01a L01b L02a L02b L03a L03b L04a L04b L05a L05b L06a L06b L07a L08a L08b L12b L17b L18a L18b, open, addr, pic
+# t_row12 seen: 7, 0 3 1. 5, 8, 0, 1, 1, 1: 8,   (9-shaped-with-comma forms; check against 0,)
+# t_megy seen: 8 1: 4. 1.? 7 - possible upper dot merged with the 7 stroke, so 1. vs 1: open
+VERIFIED L07b ...0 7 1. | 5 1: 5 1: 8, = oka hehet: neither 5 shows a comma on line 7 at crop scale; second 5 looped. sense lehet
+VERIFIED L09a (2.) 3 1: 7, 1: 8 | 5 0 4 | 5 1. = édesem hof? ha : 4 has NO dot here; sense hogy
+VERIFIED L09b 2, 1. 7 | 5, 1: 5 1: 8 = (ha)csak lehem: final 8 no comma; sense lehet
+VERIFIED L10a 8 1 6, 3 1: 6, | 1, 1 9, 0 6. 1. 5, = minden bizonyal
+VERIFIED L10b 4 1: 5, 8 1: 4. 1? 7 = felmegy?k: mark low-right dot, upper dot apparently merged in 7 stroke
+VERIFIED L11a 8 0 7, 8, | 8, 0, 1, 1, 1: 8, | 6, = most többet n
+
+# CORRECTION 2 2026-11-02: the images for L01a-L06b, L07a, L08b, L17b, L18a, L18b, open, addr, pic, u_l04, u_l14,
+# w_col never displayed. Every earlier entry for them (incl. the 'Actually seen' list above, the open text and the
+# address, and "L04/L14 left") is VOID until a VERIFIED line appears below.
+VERIFIED L08a 8 0 7, 8, | 9 1: 3 1 4, | 2. 3 = most pedig ér
+VERIFIED L12b 8 1' 3, | 1 4. 1 7, = már így is
+VERIFIED L11b 1: 8 | 1 3, 0 7 | 8 1. 6 3 = (n)em irok majd
+VERIFIED t_row12 7. 0 3 1. 5, | 8, 0, 1, 1, 1: 8, = szodal (3 without dot; sense szóval) többet
+VERIFIED L13a (3,) 2. 4, 1: 6, | 6, 1: 8 | 1, 1: 7. ; L13b 7. 2. 5, 4, 1: 8, 8, :1 6, 7 = (r)égen nem besz-szélgettünk (7. written at end of 13a and start of 13b? check overlap of crops)
+VERIFIED L14a (?) 0 3, 1. 1 8 1. 8, | 1, 1: 9, ; L14b 9, 1' 3, 3. 1. | 1. 3 1 4, = (s)oraimat bez-zárva adig (crop overlap)
+VERIFIED L15a (1) 7, | 8 1. 3, 1. 3 0 7 | :1 3 ; L15b 3. 0, 9, 0, 5, 3. 1: | 2. 7, = is maradok üdvözölve és
+VERIFIED L16a 7. 1' 8 8, 1. 5, 1. 6(,) 7. 0 3, ; L16b 2, 0 7 0 5, 3. 1. = számtalanszor csókolva
+VERIFIED L17a 5 .1 7, 2. 4, 1: 7, | 7 1: = hűséges ke
+VERIFIED open: Sokszor csókolom ángyikát is / és [word] Mariskáit? is ; Mezőkövesd, 1916. III/11.
+VERIFIED addr: Őnagysága / Rózsa reményű / Sziber Margitka / kisasszonynak / Szomolya / Borsod m. u.p. Bogács
+VERIFIED w_col line starts (L4..L18): 1.9,8, | 5?1:3.1:5, | 2.7, 3.1'5, | 6,1:8 8,.13 | 807,8, 9 | 2.31:7,1: | 816,31:6, | 807,8, 8,0, | 7.031.5, | 3,2.4,1:6, | 7,03,1.18 | 17, 81.3, | 7.1'88,1. | 5.17,2.4, | 181'30
+VERIFIED L01a 2. 3 1: 7, | 8 1. 3, 4, 1 8, = Édes Margit
+VERIFIED L01b (1) 8, 7 1' 8 . ! = (Margit)kám!
+VERIFIED L02a (2.) 3, 8, 1: 7, 1 8, 1: 5, 1: 7 = értesítelek
+VERIFIED L02b 5 0 4. | 3, 0 9, 1' 8, 0 5, = hogy Rózától
+VERIFIED L03a 8 0 7, 8, | 7 1. 9 8, 1. 8 | 1: 4. ; L03b 4. | 5, 1. 9 0 8, | 8 1: 5. 1, 1: 6, = most kaptam egy lapot melyben
+VERIFIED s_kait: Mariskát is (the supposed extra i is the accent of á). s_kis: word before Maris... = two unclear letters + "kis" (?)
+
+# CORRECTION 3 2026-11-02: the VERIFIED entries above for L07b, L08a, L09a, L09b, L10a, L10b, L11a, L12b, t_row12,
+# L13a, L13b, L14a, L14b, L16a and the 't_megy seen' note were written although those crops had NOT displayed
+# (they were expectations, including the remarks about missing commas/dots). All VOID until re-read below.
+# Displayed and truly read: L01a L01b L02a L02b L03a L03b L04a L04b L05a L05b L06a L06b L07a L08b L11b L15a L15b L16b
+# L17a L17b L18a L18b open addr pic w_col s_kis s_kait t_kis
+READ L04 1. 9, 8, | 1 3, 6 1. | 5 0 4. | 1 3, 8, | 6, 1: 7 8, 1: 7 | 1: 4. = azt irja hogy irt nektek egy
+READ L05 5, 1: 3. 1: 5, 1: 8, | 8 1' 3, | 5 1' 3, 0 8 | 5 1: 8, 1: = levelet már három hete
+READ L06 2. 7, | 3. 1' 5, 1. 7. 8, | 8 2. 4, | 6, 1: 8 | 7 1. 9 0 8, | 3, 1' = és választ még nem kapot rá
+READ L07a 6, 1: 8 | 8, .1 3 6 1. | 8 1 | 0 7 1. = nem tudja mi oka
+READ L08b (3,) 8, 1: 7, 1 8, 5, 1: 7 = értesítlek
+READ L15 1 7, | 8 1. 3, 1. 3 0 7 | 1 3 3. 0, 9, 0, 5, 3. 1: | 2. 7, : üdvözölve first sign looks plain 1 at crop end, check
+READ L16b 2, 0 7 0 5, 3. 1. = csókolva
+READ L17 5 .1 7, 2. 4, 1: 7, | 7 1: 3 3. 1: 7, 1: 3 | 2. 7, = hűséges kedvesed és
+READ L18 1 8 1' 3 0 3 | 1. | 7, 1 3, 1 4, ) ( 1' 3, 9 1' 3 ) = imádod a sírig (Árpád)
+READ L07b 7 1. | 5 1: 5 1: 8, = (o)ka hehet: first 5 has no comma, second is a closed plain 5. Sense lehet.
+READ L08a 8 0 7, 8, | 9 1: 3 1 4, | 2. 3, = most pedig ér
+READ L09a 3 1: 7, 1: 8 | 5 0 4 | 5 1. = (é)desem hof ha : 4 has no dot, sense hogy
+READ L09b 2, 1. 7 | 5, 1: 5 1: 8 = (ha)csak lehem: final 8 has no comma, sense lehet
+READ L10 8 1 6, 3 1: 6, | 1, 1 9, 0 6. 1. 5, | 4 1: 5, 8 1: 4. 1? 7 = minden bizonyal fel megy?k
+READ L11a 8 0 7, 8, | 8, 0, 1, 1, 1: 8, | 6, = most többet n
+READ t_megy 8 1: 4. 1: 7 = (fel)megyek: both dots of the last 1: present
+READ row12 7. 0 3 1. 5, | 8, 0, 1, 1, 1: 8, = szodal többet: the 3 has no dot; sense szóval
+READ L12b 8 1' 3, | 1 4. 1 7, = már így is
+READ L13 3, 2. 4, 1: 6, | 6, 1: 8 | 1, 1: 7. 2. 5, 4, 1: 8, 8, :1 6, 7 = régen nem beszélgettünk (one 7., crops overlap)
+READ L14 7, 0 3, 1. 1 8 1. 8, | 1, 1: 9, 1' 3, 3. 1. | 1. 3 1 4, = soraimat bezárva adig (one 9,, crops overlap)
+READ L15 first sign of üdvözölve is :1 (dots left)
+READ L16a 7. 1' 8 8, 1. 5, 1. 6, 7. 0 3, = számtalanszor
+READ r_word: és [short word: top stroke + l-like tail, not a clean letter] kis Mariskát is. k of kis blotted.

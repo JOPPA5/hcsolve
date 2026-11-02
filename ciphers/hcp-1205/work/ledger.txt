@@ -1,0 +1,49 @@
+# HCP1205 sign ledger, Claude Opus 5.5, 2026-11-02. Made by eye from enlarged crops of work/hires/ (crop.py, croprot.py), not OCR; not blind (family key known).
+# One character = one written sign. lower case = sign class of the Jolanka key with that value (a two bars, e three bars, m three strokes, n two strokes, ...).
+# C = opposed bowls cs; G = g+y joined (loop + descender); Y = zigzag/low descender y; H, P = tall stroke + short tick read h, p (near-homographs, chosen by word sense); N = the same tall + short form read n, one token only (row 06 Nagyon, by sense);
+# D = double slash // read h (normally d); M = two visible strokes read m (row 23; row 24 next to the struck sign, where a third stroke may lie under the hatching); # = sign struck through by the writer; ? after a sign = doubtful, see SOLUTION.md.
+# 5 = a written digit 5 (row 08). Review round 1 changes applied 2026-11-02; G = tailed loop gy, g = plain loop (vag, dog keep the plain form as written). H? in row 24 = flagged x composite used for h of hogy. Review round 2 changes applied 2026-11-02: row 25 N to P (jo nepek); rows 04 and 14 N to plain n.
+# Order: main text rows 01-27 upright, then rows U1-U8 written with the card turned 180 degrees (upper right), then S1-S8 under the stamp.
+01 szeretetkedvesferilapjaitmegkaptam
+02 amiketköszönökedesemmostkaptammeg
+03 magatole?ketszazadiklapotszeretnem
+04 tudniHoGenmenYitküldtemmaganakaz
+05 HiszemHarmedresziteniselküldtem
+06 NaGonsajn?alomedesemHoGeztkel
+07 irniHoGamulatsagbanemmeGek
+08 PestremeGek5ikenotleszekde
+09 megnemtudokPontosidötirniDoG
+10 mikormeGekamamanaknemismondom
+11 amulatsagotmertmajdmegmegtesziHoG
+12 PestreseengedneHakedvevanedesuG
+13 bemeHetmagaennelkülemismajdHa
+14 vasutasneleszekHauganleszekmert
+15 megmindenmegtörtenHetamielnem
+16 multakormajdenismeGekavasutasok
+17 nakamulatsagokbaedesrem?enYem
+18 tudjaaztmaganaGonjolHaennem
+19 iromisHoGenekemmindegHabarmij?en
+20 ruHabolat?ommivelennemaruDatnezem
+21 PerszearokonsagkivanCimagaraesHanem
+22 uGjelenikmegmintazizlesükszerint
+23 mindjartMegvanaPletYkaeGHetigidegeneknelleszekesmaremlitetemisma
+24 gatHoGHamegengedikH?oGmaga#MegletigasonuGmeginvitelomesaztfelelteDoG
+25 CakjöjöHozejokmintHaotHonramenena?GonjonePekeGDetisPedigaroko
+26 nalleszekotaHone?nmagaegiszerabelatiskiHivitadeezeknelnemjokeedvem
+27 bölleszekCakHanemmeGekHaragszanak
+U1 edesemHaruDatveszsötetkeket
+U2 vagvilagosszürketveGendeinkab
+U3 sötetkeketmertmaganakaza?la
+U4 legjobanazenizlesemszerint
+U5 Cakneojandurvasötetkeket
+U6 mintlegutobvoltsimabkel
+U7 mebölneHaragudjonekis
+U8 keresemertdeHaszeretmegteszi
+S1 istenvele
+S2 edesemabol
+S3 dogviszont
+S4 letesra?üd
+S5 vözlöma
+S6 tavolbol
+S7 akiojnaGon
+S8 szeretijolanka

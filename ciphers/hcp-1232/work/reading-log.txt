@@ -1,0 +1,32 @@
+# working log of reading, Opus 5.5 2026-11-02 (rows counted from the top)
+01 Szer(plain) e t e t e d? e s j o l a n k a m
+02 k i v a n o m h o g y a l e g j o b b
+03 k e d v e b e n t a ?? ? j? e s o r a i m
+04 h/p o g y m u l a t u r n a ?? j a n
+stamp: csokolom szamta lanszor (dash) imdoja Feri (check)
+03b t a l(under postmark) j a s o r a i m  -> talalja soraim
+04b hogy mulat u r n a [crossed out two strokes] j a n?
+05 r e m e l e m? j o l e n d o l
+06 g o z t a m m i t t u d j a k c s i n a l
+07 n i l e g a l a b b t e l i k a v a l
+08 o s a z? i d o: m e g ...
+(revised alignment)
+08 o s a z i d o: m e g m o s t?(F-like) a z t i s    ["valos az idom. meg most azt is"]
+09 e l v(heavy) e s z t e m a m i e d i g s z o r a
+10 k o z a s o m v o l t a j a g e r j o
+11 z s(blot) i h a z a m e g y m o c z a r h o z
+12 d o l g o z n i m e r n a g y a m u k a
+(08 start = i s: "a val|is az idom" = avval is az idom; "most" t sign has ink pool)
+13 h i a n y [blot]n? e m t u d o m h o g y m e l i k
+14 s z o m b a t o n k a p o m k i a k o n y
+15 v e t ...d? e [blot] ...?r o k s z a l a s r a c s a k? a k
+16 k o r m e g y e k h?a m e g ...
+17 h ? v? h a z a r? o k s z a l a s b a ,
+(the scratchpad crop script was overwritten by another agent; own copy now in work/zoom.py)
+16b k o r m e g y e k h a m e g e d e s e m
+17 h i v h a z a a r o k s z a l a s b a ,
+18 t i s z e l e t e t e t m e g k a p/h
+19 t a m m e l y e t k o: s z o: n o: k
+20 o: r u: l o: k h o g y s z e s e n f o
+21 g e n t a ... s z o b a ... s z o n y o n ?
+04 corrected: u r n a p(smeared) j a n = Urnapjan; 12-13 munka hiany; 16 ha maga edesem; 21 g a d t a a s z o b a a s z o n y o m; 22 a z e l b?v? e v a r o m s o r a i m ; 23 m a r a d o k i m a d j a f e r i

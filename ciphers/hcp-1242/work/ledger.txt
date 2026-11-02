@@ -1,0 +1,21 @@
+# HCP1242 sign ledger, Claude Opus 5.5, 2026-11-02. One token = one written sign, read from enlarged crops of work/hires/*adr.jpg.
+# Tokens as in hcp-1216: letters by key class; F=r )=s X=u 6=b +=f H=h/p sign GY/CS digraphs; :diaeresis / :double-acute = marks seen.
+# P = tall stroke + short stroke read p on word sense (h/p near-homograph). [s] [u] = restoration under ink blot. Row-final hyphens not tokenized.
+01 D F A G A CS I L L A G O M
+02 T X D A T O M H O GY ) Z E F E N
+03 CS E ) E N M E G E F K E Z T E M
+04 E D E ) J O L A N K A M H A O:diaeresis N
+05 M A I T L E T V O L N A N E
+06 V E T E T V O L N A E GY J O T
+07 F A J T X N K H O GY E Z E K A
+08 6 O L D O K H O GY K O P T A T
+09 J A K A GY O:diaeresis N GY O:diaeresis [s] I J A F
+10 D A T A M I 6 E L A T I L E T I
+11 T E L J E ) E N M E G V A N E L E
+12 G E D V E M A F G I T K A V A L
+13 A M E F G I T K A V E L E M E
+14 N Y E T A L A N O:diaeresis N J O 6 6 A N
+15 T X D J A E V E L 6 E Z A F O M
+16 ) O F A I M M A F A D O K ) I F I G
+17 H X:double-acute T I ) Z T E L O:diaeresis J E + E F I
+18 A ) Z E F E L E M ) Z A F J A N F E P [u]:diaeresis L J O:diaeresis N E L A P

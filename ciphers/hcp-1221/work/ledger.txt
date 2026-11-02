@@ -1,0 +1,35 @@
+# HCP1221 sign ledger, Claude Opus 5.5, 2026-11-02. Read row by row on enlarged crops of work/hires/*_adr.jpg (crop.py, crops/).
+# One token = one written sign, in Jolanka family classes (hcp-1216): A two bars, E three bars, F = r, ")" = s (right bowl, also with small
+# upper loop), X = u, Z = z (crossed diagonal with tail), K = k (8 / S / section-mark forms), H and P = the one h/p sign (long stroke + short tick RIGHT),
+# D = d (tick LEFT), T = gamma t, J = inverted T, O/I = same crossed curve, I carries a dot, O not; CS opposed bowls; 6 = b.
+# This writer spells gy as separate G Y. Marks: :acute, :double (two ticks), :diaeresis (two dots/ticks over X), :dot.
+# Special: {x} = letter restored under an overwrite/blot (see SOLUTION.md); * = blot with no letter value kept; 8 = sign read as the digit 8;
+# I? = crossed curve with no dot visible, i from word sense. D? = long stroke with tick RIGHT read as d from word sense (row 7, dolgozok; same anomaly as hcp-1216 "de").
+# Changed after review 1: row 7 H/D? (was P P), row 16 E (was A), row 18 first a gets its acute.
+01 ) Z E F E T E T E D E ) J O L A N
+02 K A M N E H A F A G X D J O N H O G Y
+03 O J F I:dot T K A N I:dot F O:acute K M E F T
+04 N A G Y O N E L V A G Y O K
+05 + O G L A L V A M E E ) T E
+06 8 O F A I? G D O L G O Z O K
+07 M E F T A H O L D? O L G O
+08 Z O K ) X:diaeresis F G O:double ) A M X N
+09 K A E:acute ) O J K E:acute ) O:double I:dot D E G E N
+10 H A Z * N A L N E M L E
+11 H E T O J K E ) O:double N + E L
+12 L E N N I:dot M E G M O ) T N E M
+13 T X D {O} K I:dot:acute F N I:dot ) E M I:dot
+14 X J ) A K O T M E F T CS A K
+15 ) Z O M 6 A T O N E G Y E Z E K
+16 A M E ) T E F F E L H A T
+17 J O L A K A E:acute K N A L M I:dot X J
+18 ) A:acute G V A ) A:acute F {NA} P 6 E M E G Y E K
+19 P E ) T F E M E G N E Z E M L A T O G A T O M A P E ) T I:dot
+20 E K E T
+S1 I? ) T E N V E
+S2 L E A V I:dot
+S3 ) Z O N T
+S4 L A T A )
+S5 I? G M E L Y
+S6 6 A F ) O
+S7 K A L E ) Z

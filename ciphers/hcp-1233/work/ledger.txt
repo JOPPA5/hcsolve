@@ -1,0 +1,32 @@
+# HCP1233 sign ledger, Claude Opus 5.5, 2026-11-02. Made by eye from enlarged crops of work/hires/*_adr.jpg and a purple-ink mask (R+B)/2-G
+# that removes the blue printed triangle and most of the black portal stamp. One token = one written sign.
+# Tokens: letters; F=r  )=s  X=u  6=b  +=f  H=h/p near-homograph  CS=opposed bowls; :diaeresis / :double-acute = visible mark;
+# [E] = sign whose value rests on word sense or on a damaged trace, not on a clean shape (see SOLUTION.md); ? = a visible mark with no value. Faint acutes are not transcribed.
+# Revised 2026-11-02 after review 1: row 13 first sign, row 18 tail, row 20 after sz.
+# Revised 2026-11-02 after review 2: token [L] removed from row 18; that stroke is the upper arm of the following i/o sign. No l is written.
+01 ) Z E F E T E T E D E ) J O L A N
+02 K A M T X D A T O M H O G Y E L
+03 ) O:double-acute V I Z ) G A M M A ) I
+04 K E F F E L V E G Z O:diaeresis D O:diaeresis T
+05 H E D I G O J E L O:double-acute K E ) Z X:diaeresis
+06 L E T L E N X:diaeresis L T A L A L T
+07 M E F T N E M ) Z A M I
+08 T O T T A M F A CS A K ) Z O M
+09 6 A T O N T X D T A M M E G
+10 H O G Y M A H E T + O N
+11 V I Z ) G A L E ) Z E )
+12 N A G Y I N X T A N N A
+13 K E L E T N E Z N E M
+14 H O G Y T X D J A K V A
+15 L A M I E J ) Z A H I G
+16 6 E N A V O N A T O N I )
+17 T A N X L T A M H O G Y
+18 A K E Z E M F A + A G Y O T T A K O:diaeresis N Y V F E D E [H] A [I] ) T [E] N
+19 N E K N E M T A N X L T A M H I A 6 A M O ) T M A F L E + E K
+20 ) Z ? [O] M E F T K E T N A H O T A N E M
+21 A L X D T A M I ) T E N V E L A
+22 CS O K O L
+23 J A ) Z A
+24 M T A
+25 L A N ) Z
+26 O F + E [F] [I]

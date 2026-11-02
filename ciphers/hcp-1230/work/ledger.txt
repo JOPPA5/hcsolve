@@ -1,0 +1,35 @@
+# HCP1230 sign ledger, Claude Opus 5.5, 2026-11-02. One token = one written sign, read from enlarged crops of the
+# un-converted work/hires/*_adr.jpg (grey crops from crop.py, stamp-free violet-channel crops from violet.py).
+# Not blind: the sign classes come from the Jolanka family (hcp-1216), and word sense was used on the calls listed in SOLUTION.md.
+# Tokens: A two bars; E three bars; F r-sign; ) s bowl; K S-shaped section sign; 6 b; + f; X plain cross u; Z crossed x with tail;
+# G open loop with descender; Y y-loop (G Y = gy, written as two signs on this card); CS opposed bowls; O cursive loop; I crossed curve;
+# T gamma; J inverted T; V chevron; L wave; M three strokes; N two strokes; H long stroke + tick to its right; D long stroke + tick to its left;
+# P the same kind of pair in row 19 (tick left, d shape), value p by word sense only. Row 23 D has the h shape, value d by word sense only.
+# :acute :diaeresis :double = mark seen over the sign. The record of marks is selective: faint accents are not all transcribed.
+# [X] = restoration of a physically hidden sign (see SOLUTION.md). Corrected after review 1, findings 1-8, 12, 13. The final i of Feri is no sign on the card and is not in this ledger.
+01 ) Z E F E F E T E D E ) J O L A:acute N [K] A:acute M
+02 6 I V A N O M H O G Y A L J O 6 E G E Z E G
+03 6 E N T A L A L J A ) O F A I M E N ) Z E
+04 F E N CS E:acute ) E N M E G E:acute F K E Z T E M
+05 I G A Z H O G Y N E M A V A L A V O
+06 N A T T A L A M E L I K K E L ) Z A:acute
+07 M I T O T O T T A M M E F T A Z CS A K
+08 E G Y O F A:acute V A L M I N T ) Z A M I T O T
+09 T A M E ) I G Y CS A K F E G E L H E T
+10 O F A K K O F E:acute F T E M H A Z A
+11 ) Z E M E:acute L Y V O N A T T A L D E
+12 T A L A N N E M L E ) Z 6 E L O:double
+13 L E ) E M M I 6 A J CS A K E Z A
+14 ) T I K L I M E L ) I M X L J T O:diaeresis 6
+15 6 E T N E M CS I N A L O K I J E )
+16 M I T M E F T N E M A 6 X:diaeresis N T E T E:acute )
+17 ) A N A:acute L O M H A N E M A Z T A Z
+18 I J E ) M I T 6 E J E G Y Z I E )
+19 H A E L O L E P T E T E ) K O F A Z T
+20 N E:acute Z I K V O L T E M A F 6 X:diaeresis N T E T
+21 V E E ) H A N Y ) Z O F E Z F O N T
+22 J A A Z E L O:double F H A L A D A ) T
+23 D E M O ) T M A ) T N E M I F O K
+24 M I V E L N A G Y O N A L M O )
+25 D A K I ) T E N V E L E E D E ) E M
+26 M A F A D O K ) I F I G H X K E D V E ) E + E F

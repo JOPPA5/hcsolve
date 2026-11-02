@@ -1,0 +1,35 @@
+# HCP1227 sign ledger, Claude Opus 5.5, 2026-11-02. Read from enlarged crops of work/hires/*_adr.jpg, one token = one written sign.
+# Tokens are the key value of the sign. h = tall stroke + tick (h/p near-homograph; p where the word needs it is written p and listed in SOLUTION.md).
+# gy = g sign + y sign as written (two tokens). cs = opposed bowls. 2 8 = literal digits. | = stray stroke without value.
+# Suffix :" = dots seen over the sign, :' = accent seen. ? = sign lost with no restoration (none left). [x] = sign not readable, restored: S5 under the printed green triangle by the word; S3 and S4 in the torn stamp patch from the family closing formula (number of signs there estimated).
+01 s z e r e t e t t e d e s j o l a n k a m
+02 b e cs e s s o r a i t m e g k a p t a m m i t
+03 n a g y o:" r o:" m m e l f o g a d o k
+04 e s k o s z o:" n o:" k s o r a i n n e m
+05 t u d o k e l i g a z o d n i h o g y
+06 s z o m b a t o n g y o:" n e v a g y
+07 2 8 a:' n m e r e z k e t o:" e:' n
+08 h a t e h e t a m s z o m b a t o n
+09 v a r o m v a l a h o l d e h o g y
+10 h o l a z t e n n e m t u d u m m e g
+11 j e g y z e m a z t i s h o g y e n
+12 n e m a z o n a r a k o s o n v a g y o k
+13 a m e l i k a z o n a v o n a l o n
+14 v a n e:' n a n y u g a t i o l d a l o n
+15 v a g y o k e s a r r a k e r e m h o g y
+16 a n e m d o h a n y z o s z a k a s z
+17 b a u t a z z o n h o g y e s e t
+18 l e g k o n y e n m m e g t a l a l
+19 j a m e s e d e s e m m e r f e l
+20 a t u l v a s u t a s r u h a t o l
+21 a n y i r a h o g y l a t n i s e a k a r
+22 b e n n | e p e d i g a z e l s o t a l a l k o z a s o m a b a l e s z
+23 m e r t h a s i k e r u:" a v o n a t o n t a l k o z n i cs a k i s
+24 a b b a l e s z e k
+S1 i s t e n
+S2 v e l e e d e
+S3 [s] [e] [m] a b o l
+S4 [d] [o] g v i
+S5 s [z] [o] [n] t
+S6 l a t a s i g
+S7 f e r i

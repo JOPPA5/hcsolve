@@ -1,6 +1,6 @@
 # HCP1275 sign ledger, Claude Opus 5.5, 2026-11-01. One token = one written sign, read on enlarged crops of work/hires/*_adr.jpg (crop.py, crop2.py -> work/crops/).
 # Tokens: the letter of the sign class (Jolanka key, see SOLUTION.md); GY, CS = joined or paired digraph signs; H = tall+short h/p sign (the same sign is coded {p} in row 23, the only p on the card, decided by word sense: fenykep-); O: U: = two dots seen; O' I' = accent tick seen.
-# Curly tokens are doubtful signs, explained in SOLUTION.md: {n} blotted sign; {?l} wave sign disturbed by the postmark; {d} blotted tall sign; {t} sign at bottom edge or malformed sign; {z} overwritten sign; {g} stray squiggle; {i?} sign at stamp tear; {f} blotted, slanted sign in the name Feri; [g] hidden under stamp residue, restored.
+# Curly tokens are doubtful signs, explained in SOLUTION.md: {n} blotted sign; {?l} wave sign disturbed by the postmark; {b} faded tall sign in a water stain, value by shape and word sense (revision 2026-11-02); {t} sign at bottom edge or malformed sign; {z} overwritten sign; {g} stray squiggle; {i?} sign at stamp tear; {f} blotted, slanted sign in the name Feri; [g] hidden under stamp residue, restored.
 # M in row 01 is an ordinary Latin capital.
 01 M E J E N T I S Z T E L T J O L A N K A
 02 K I S A S Z O N Y O: N A Z T M O N D T A {n} A GY
@@ -13,7 +13,7 @@
 09 S I K A K I G A Z D A G A B E S CS I N O S A B B
 10 L E G E N Y A K I N E K S Z E R E N CS E J E
 11 V O L T M A G A T E L H O D I T A N I
-12 N E M A L O K U T J A {d} A L E G Y A N
+12 N E M A L O K U T J A {b} A L E G Y A N
 13 B O L D O O J A N B O D O G H O G Y
 14 E S Z E B E S E J U S A K H O G Y N E B A N T
 15 S A A L E L K I I S M E R E T H O G Y A Z

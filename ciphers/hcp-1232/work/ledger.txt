@@ -1,0 +1,33 @@
+# HCP1232 sign ledger, Claude Opus 5.5, 2026-11-02, read from enlarged crops of work/hires/*_adr.jpg (zoom.py).
+# One token = one written sign, named by a label: F=r )=s X=u 6=b +=f; every other label is simply the letter of that sign's value in the HCP1216 table
+# (so the ledger is a sign-by-sign transcription already written mostly in plaintext letters, not ciphertext). H and P are the same near-homograph sign.
+# O: and X: = dots seen over the sign. {x} = sign hidden, smeared, overinked or corrected, value resting on word sense (see SOLUTION.md).
+# # = blot with no value. =text = plain Latin script.
+01 =Szer E T E T E D E ) J O L A N K A M
+02 K I V A N O M H O G Y A L E G J O 6 6
+03 K E D V E 6 E N T A {L} J A ) O F A I M
+04 H O G Y M X L A T X F N A {P} J A N
+05 F E M E L E {M} J O L E N D O L
+06 G O Z T A M M I T T X D J A K C ) I N A L
+07 N I L E G A L A 6 6 T E L I K A V A L
+08 I ) A Z I D O: M E G M O ) {T} A Z T I )
+09 E L {V} E ) Z T E M A M I E D I G ) Z O F A
+10 K O Z A ) O M V O L T A J A G E F J O
+11 Z {)} I H A Z A M E G Y M O C Z A F H O Z
+12 D O L G O Z N I M E F N A G Y A M X K A
+13 H I A N Y {N} E M T X D O M H O G Y M E L I K
+14 ) Z O M 6 {A} T O N K A P O M K I A K O: N Y
+15 V E T D E # A F O K ) Z A L A ) F A C ) A G A K
+16 K O F M E G Y E K H A M A G A E D E ) E M
+17 H I V H A Z A A F O K ) Z A L A ) 6 A
+18 T I ) Z E L E T E T E T M E G K A P
+19 T A M M E L Y E T K O: ) Z O: N O: K
+20 O: F X: L O: K H O G Y ) Z E ) E N + O
+21 G A D T A A ) Z O 6 A A ) Z O N Y O M
+22 E Z E L {6} E Z {A} F O M ) O F A I M
+23 M A F A D O K I M A D J A + E F I
+S1 {C} ) O K O L O M
+S2 ) Z A M T A
+S3 L A N ) Z O F
+S4 I M D O J A
+S5 + E F I

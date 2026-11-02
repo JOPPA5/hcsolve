@@ -1,6 +1,6 @@
 # HCP1254 — to Jolánka Tóth: "I arrived safely", Jászárokszállás, March 1912
 
-**Status: PARTIAL as a card. The whole enciphered message (15 rows) is read, with the small residual points listed below, but four lines of the separate unenciphered note under the stamp are rubbed out and unread (Uncertainties, item 1). Review 1 verdict ACCEPT. No register entry is written; see Response to review 1, finding 1.**
+**Status: PARTIAL as a card (confirmed by the revision of 2026-11-02). The whole enciphered message (15 rows) is read, with the small residual points listed below, but four lines of the separate unenciphered note under the stamp remain unread as words, although colour separation now shows their strokes (Uncertainties, item 1; Revision 2026-11-02). Review 1 verdict ACCEPT. No register entry is written; see Response to review 1, finding 1.**
 
 Credit: transcription and decipherment by Claude Opus 5.5, 2026-11-01. There is no earlier work on this number. The key was not recovered here: it was transferred from the finished Jolánka cards, chiefly HCP1216. The portal shows status Not solved and attaches no transcription or solution. I found no published solution, but I ran no separate web search; the orchestrator's AI-register check of 2026-11-01 has no record of this card.
 
@@ -69,10 +69,10 @@ Pod známkou: Bozkávam [... zotreté ...] nespočetnekrát, moja milá.
 
 ## Uncertainties
 
-1. **Note under the stamp (unenciphered, not fully read).** The first line *csókolom* and the last three *számta / lanszor / édesem* are legible. Between them four lines were rubbed out while the ink was wet, and they sit under the printed wreath. Green-channel and sharpened crops (`work/crops/stamp_g.png`, `stamp_us.png`) give only the line ends -d, -on, -is and -at. I do not restore these lines. The blot on the first letters of *édesem* also makes that word a reading from shape and sense. The lost text is plain writing, not cipher, and the surviving frame looks like a closing kiss formula, but its content is unknown. The reviewer should judge whether this gap is acceptable.
+1. **Note under the stamp (unenciphered, not fully read).** The first line *csókolom* and the last three *számta / lanszor / édesem* are legible. Between them four lines were rubbed out while the ink was wet, and they sit under the printed wreath. Green-channel and sharpened crops (`work/crops/stamp_g.png`, `stamp_us.png`) gave only line ends; the revision of 2026-11-02 recovers more strokes (see that section) but no whole word that I can defend. I do not restore these lines. The blot on the first letters of *édesem* also makes that word a reading from shape and sense. The lost text is plain writing, not cipher, and the surviving frame looks like a closing kiss formula, but its content is unknown. The reviewer should judge whether this gap is acceptable.
 2. **Row 4, the sign between *igaz* and *hogy*.** A small cross-like sign, close to the f sign but lighter. At 3x its bar runs up to the head of the tall stroke of the h of *hogy*, so it may be a false start of that h, or a slip or a punctuation mark. *igazf* is no word, so it is left without a letter value (`{+}`). The normalized text ignores it.
 3. **Row 5, *kics*.** The signs are plainly i + opposed bowls, followed directly by s-z of *szaladni*. Normalized as *kics[it]*, an abbreviated or slipped word. *egy kis szaladni* ("a bit of running") would mean the same but does not match the opposed-bowls sign, which also stands for cs in row 3 (*szerencsésen*).
-4. **Row 9, deleted word.** The writer scored through about four signs before *áldozatokra*. They are not read and are not part of the text.
+4. **Row 9, deleted word.** The writer scored through three signs before *áldozatokra*. On the 2026-11-02 crop they look like six, loop, wave, that is *bol*, a false start; this is tentative and not part of the text.
 5. **Row 10, *lannék*.** The sign after l is clearly two bars (a); normalized to *lennék* as a slip. A small dot of ink sits in the wave sign and is taken as a stray mark.
 6. **Row 12, *néh*.** The row ends in the h sign and no a is written, here or at the start of row 13; *néh[a]* supplies a letter that was never written (not a hidden sign). The same phrase *gondoljon néha rám* occurs on HCP1217.
 7. **Row 13, *rám*.** The middle sign is e: its third bar is short, like the short third bar of ordinary e in row 1, and accents in this hand go above a sign, not below. The literal is therefore *rem*, normalized *r[á]m* as a writer's slip, by sense.
@@ -103,3 +103,30 @@ Verdict ACCEPT, seven minor findings. I checked findings 2, 3, 5 and 6 on the re
 7. **Sender and picture side: fixed.** Items 12 and 13.
 
 Re-run after the edits: all four SHA-256 checks print OK and the output matches the literal and normalized text above. The only changed decoded character is row 13, *{e|a}* to *e*, which leaves the reading unchanged. 194 ledger tokens.
+
+## Revision 2026-11-02
+
+Second attempt, ordered by the human, by Claude Opus 5.5. Target: everything left unread, chiefly the four lines of the plain note under the stamp.
+
+**What was tried.** The earlier channel crops were not enough because the printed teal wreath and the smear both compete with the ink. New this round: colour deconvolution of the original scan into pink ink, teal print and residual in optical density (`work/rev2/stamp5.py`, `stamp6.py`), followed by local contrast normalization (`work/rev2/stamp7.py`). Run from `ciphers/hcp-1254`, it prints the wreath almost entirely out of the image. Views: `work/rev2/dec_ink.png`, `dec_hp.png`, `lcn_all.png`, line crops `L2_*` to `L6_*`. The JPEG stores colour at half resolution, so the ink map is soft, and the left third of lines 2 to 4 stays diffused.
+
+**What changed.** The note now has visible strokes across its width, but I can read only the following:
+
+| Line | Seen after separation | Status |
+|---|---|---|
+| 1 | csókolom | read |
+| 2 | two or three smeared letters; then a, a tall or peaked letter, a bowl, final bowl + looped stem | ends -ad or -od; *a szád* suggested itself, but the sz is not established |
+| 3 | smeared left and centre; end is a letter with a long descender loop, then n with an upward exit stroke | possibly -gyon, as in *nagyon*, but no o is visible before the n; not read |
+| 4 | smeared start, about three or four letters across the wreath, then ascender + c/i + i + s | ends -is, or the word *kis* or *his*; the stroke before cis may be the descender of line 3 |
+| 5 | rising first stroke (k, h or long s), several blotted letters, a tall stem, a, t | ends -lat or -dat; *hódolat* and others fit the end but not provably the start |
+| 6 to 8 | számta / lanszor / édesem | read; *édesem* is now clearer |
+
+None of the suggested words is adopted: each fits only a word end. Line 2 *szád* would also be familiar in address, while the cipher text uses formal *Ön*, a further reason not to adopt it. The corrected end of line 2 replaces the earlier -d, and line 5 replaces -at with -lat/-dat. This does not change the normalized text, where these lines remain marked as lost.
+
+**Row 9.** The deleted word is three signs, tentatively *bol* (item 4). No effect on the text.
+
+**Row 15, first sign.** A 5x crop shows a tall stem, side strokes and a looped base. It still gives no shape-based value. j stays a call from sense alone (item 8); *imádja* is the only sensible word.
+
+**Row 4 cross and the rest of the cipher.** No change; the key and ledger are unchanged, and the reproduction command gives the same output.
+
+**Result.** The card does not meet the completeness rule: four lines of the note remain a whole unread clause. It stays partial, with no DONE2 marker, no report and no register entry. The next real gain would need a better colour capture of the original card (uncompressed or multispectral), since the available scan's chroma resolution is the limit.

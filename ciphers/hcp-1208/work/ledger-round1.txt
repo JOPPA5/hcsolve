@@ -1,0 +1,31 @@
+# HCP1208 sign ledger, one token per written sign, read by Claude Opus 5.5 from work/hires (adr), 2026-11-02.
+# A token is a letter of the Jolanka key (hcp-1216); GY is not used, g and y are written as two signs here.
+# :d = diaeresis mark seen, :2 = two marks (double acute), :a = acute mark seen. Other accents are not marked.
+# h stands for the h/p sign (tall + short stroke); see SOLUTION.md for calls that rest on word sense.
+01 S Z E R E T E T E D E S J O L A N K A M
+02 K I V A N O M H O G Y A L E G J O B B K E D
+03 V E B E N T A L E L J A S O R A I M
+04 S A J N A L O M H O G Y E Z T A L A P O T
+05 K E L K U L D E N E M M E R T M A G A I S
+06 G O N D O L J A H O G Y V A L A M I
+07 K U:d L O:d N O:d S D O L O G A D T A E L O
+08 M A G A T S A J N A L A T T A L K E L T U
+09 D A T N O M E D E S E M H O G Y A V O N A
+10 T U N K A T L E M O N D J A K E S I G Y
+11 M O S T M A R N E M T U D O M H O G Y
+12 H O L N A P A Z A Z P E N T A K A N
+13 D E L U T A N S Z A B A D L E S Z E K E
+14 E S H O G Y E L M E H T E K E M E G
+15 H O Z E:a D E S E M M I V E L M E G
+16 N E M T U D O M H O G Y H O V A
+17 M E G Y U:d N K E S M I K O R J O:d
+18 V U:2 N K V I S Z S Z A D E H A L E
+19 H E T A L M E G Y E K E Z E L
+20 B A N A T O M S O R A I M
+21 M A R A D O K S Z R E T O K H U:2
+22 K E D V E S E F E R I
+S1 C S O K O L
+S2 S Z A M
+S3 T A L A N
+S4 S Z O R
+S5 F E R I D

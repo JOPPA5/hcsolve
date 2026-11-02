@@ -1,0 +1,23 @@
+# HCP1211 sign ledger, one token per written sign, read from enlarged crops of work/hires/*adr.jpg.
+# Token: = a, 6 b, C C-shaped g, CY joined g+y, CS opposed bowls, / d (short+long joined), E e (three bars),
+# E* ornate initial, + f, P tall stroke+short tick (h/p), I dotted crossed curve i,
+# J inverted T, S k, ~ written L here, III m, II n, NY n+y joined, LY l+y joined, O cursive loop, F r, ) s,
+# T t, X u, V v, Z z, is = plain Latin word, {O} over-inked ring, {blot} ink blot.
+# Suffix ' acute/accent mark, " two dots or double mark.  Row number = written row.
+01 E*' / E ) E CY E T L E II F E III E'
+02 NY E III ) O F = I T S O" ) Z O" II E T
+03 T E L III E C S = P T = III III E LY = V = F
+04 V = V = F T I / O" = 6 E L O L III E C
+05 E' F S E Z E T E' / E ) J O L =' II S = III
+06 = 6 O L / O C ) = C T O L = L I C
+07 T X / O S V =' L = ) Z O L = I
+08 ) Z E' P ) Z E III E' 6 E II NY I L I S
+09 E' II F E ) Z E III F E = L E C {O} ) Z E 6 6
+10 F O Z ) = E' ) ) Z I V E' 6 E II = II E
+11 + E L E J CS is CS = S II E S E III V I F X L
+12 {blot} O II ) Z I V E V I F =' C = E' ) II E P E F
+13 V = / J O II E L ) O P = L E CY E II
+14 = ) O F 6 = F III I LY III O ) T O
+15 P = = Z E II E / E ) J O L =' II S =' III = T
+16 E L + E L E / II I II E III 6 I F II =' III
+17 ) O P = I ) T E II V E L E E' / E ) E III = V I ) Z O L = T = ) F = + E F I

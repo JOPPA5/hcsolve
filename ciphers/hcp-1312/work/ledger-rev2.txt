@@ -1,0 +1,19 @@
+# HCP1312 sign ledger, read from work/hires on 2026-11-02 (Claude Opus 5.5). One token per written sign.
+# Trailing ~ = washed or stained sign, read from enhanced crops (work/rev2/). Token names: see KEY in decode_rev2.py.
+# Trailing ^ = restored, not read: only stroke width and count fit, the sign value comes from the word and the family closing (review 1, finding 1).
+# Rows 1-14 left panel; row 15 runs along the bottom edge and its last seven signs (l a t a s r a) cross the divider rising towards row 14 height.
+01 sect bars3 slashd chev bars3 rbowl invT oloop wave bars2 st2 sect bars2 st3
+02 F bars3 st3 bars3 wave bars3 st3 tallH oloop gy bars2
+03 sect bars3 slashd chev bars3 six bars3 st2 gamma bars2 wave bars2 wave
+04 invT bars2 lbowl oloop F bars2 icurve st3 st2 bars2 wave xcross st2 sect
+05 st2 icurve st2 opp rbowl bars3 st3 st3 icurve xcross invT rbowl bars2 loopg
+06 tallH bars2 gamma oloopdots st2 sect st2 bars3 wave bars3 slashd bars3 rbowl bars3 st3
+07 chev bars2 wave bars2 st3 icurve xcross invT rbowl bars2 loopg st3 oloop rbowl gamma
+08 st3 bars2 rbowl gamma st2 bars3 st3 lbowlbar bars2 sect bars2 zcross bars2 chev bars3 F
+09 rbowl bars3 gamma slashd bars3 bars3 six bars3 bars2 wave bars3 loopg invT oloop six six
+10 loopg oloop st2 slashd oloop wave bars2 gamma bars2 icurve six bars3 st2 st2 bars3 chev bars2 st2
+11 bars3 st2 bars2 zcross gamma tallH icurve rbowl zcross bars3 st3 bars3 slashd bars3 rbowl sect icurve st2 opp bars3 st3
+12 rbowl bars2 zcross st3 bars2 rbowl sect bars3 tallP bars3 st3 icurve rbowl wave bars3 tallH~ bars3~ gamma
+13 tallH oloop gy st3 icurve st2 sect bars3 gamma bars2 zcross xcross F icurve rbowl gamma bars3 st2~
+14 bars3~ gy~ st3~ bars2~ rbowl~ st2~ bars2~ sect~ gamma~ bars3~ F~ bars3~ st3~ gamma~ bars3~ gamma~
+15 icurve^ rbowl^ gamma^ bars3~ st2~ chev~ bars3~ wave~ bars3~ bars2~ chev~ icurve^ rbowl^ zcross^ oloop^ st2^ gamma~ wave~ bars2~ gamma~ bars2~ rbowl~ F~ bars2~

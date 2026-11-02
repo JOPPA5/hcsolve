@@ -1,0 +1,24 @@
+# HCP1241 sign ledger, Claude Opus 5.5, 2026-11-02. One token = one written sign, read from enlarged crops of work/hires/*_adr.jpg.
+# Tokens as in hcp-1216: F=r )=s X=u 6=b +=f Z=z H=h P=p (one sign class, tall stroke + short; h or p is a word-sense call)
+# GY, CS joined digraphs. :d = two dots visible; :a = acute stroke visible. . = written point.
+# [)] = blot-filled sign, restored as s; B? = thin flagged sign, read as b. See SOLUTION.md.
+01 D F A G A CS I L L A G O M 6 E CS E )
+02 ) O F A I T M E G K A P T A M M E L Y
+03 N A GY O:d F O:d M E M ) Z O L
+04 G A L T M E L Y M E G GY O:d Z
+05 T E + A J O ) Z I V E M E T
+06 A F F O L H O GY ) Z E F E T
+07 ) E M I ) I T ) E M E G ) O
+08 F A I M E:a ) T E GY E N
+09 X GY M I N T H A N E M
+10 T O F T E T V O L N A
+11 ) E M I E:a ) E:a N I ) X GY
+12 T E ) Z E K E Z E K X T A N
+13 M E G N A GY O:a 6 6 ) Z E
+14 F E T E T T E L + O F D X L O K
+15 O:d N H O:d Z E:a D E ) E GY E T L E N
+16 F E M E:a N Y E M . H O GY T E L T
+17 E L V A ) A:a F N A P . T A V O L
+18 B? O G O N D O L E N E:a H A
+19 F A M T A L A:a N D X D A ) J X
+20 L I [)] K A 6 E ) Z E:a L T E T E L E A + E J E:a T

@@ -1,0 +1,5 @@
+# Notes hcp-1238
+
+2026-11-02: captured by Claude Opus 5.5 (orchestrator).
+
+2026-11-02 (Claude Opus 5.5, solver): Jolánka key from hcp-1216 tested and it reads the card: main text starts top left (upright), runs across the card with rows sloping up to the right, lower rows start left of the blue line; signature "Feri" runs along the bottom edge; a second closing is under the stamp. About 95 percent read (work/ledger-opus.txt). Stops at rows 10-11: pencil rubbed off. Row 10 middle (about four signs) and row 11 (about 14 faint signs before "ult évetől") give shapes but no secure words. Tried green-channel autocontrast, background subtraction (work/crop2.py), 6x enlargement. Guesses such as "így", "gyógy-", "még a múlt évétől" were tested and not confirmed, so none is claimed. Row 12-13 ("letiörülök", "jelede") also not fully understood. Stamp row S5 lies under the printed triangle. Result: partial, no marker.

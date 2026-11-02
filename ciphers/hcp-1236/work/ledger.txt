@@ -1,0 +1,24 @@
+# HCP1236 sign ledger, Claude Opus 5.5, 2026-11-02. Manual transcription from enlarged crops of work/hires/*_adr.jpg (not OCR).
+# One token = one written letter sign; punctuation is NOT recorded here (see list below). Tokens as in hcp-1216: F=r )=s X=u 6=b +=f H=h/p sign (tall stroke + short on right) GY CS joined digraphs.
+# :diaeresis = two ticks seen over the sign; :acute = a separate accent tick seen. Accents not seen are NOT marked.
+# Punctuation on the card, left out of the tokens: hyphens after Jolan- (row 1) and sora- (row 3); full stops after soraim (row 4, in the stain) and volt (row 9); comma stroke after farsangba (row 5).
+# VT = merged sign in row 13 (v and t sharing a stroke); I? = heavy undotted sign in row 17 read as i; A! = thickly re-inked a in row 8.
+# A in rows 11 and 17 (gOAdol, viszOAt) is what is written: horizontal two bars, where the words need n (see SOLUTION.md).
+01 ) Z E F E T E T T E:acute D E ) J O L A N
+02 K A:acute M K I V A:acute N O M H O GY L E G J O 6 6
+03 K E D V E 6 E N T A L A:acute L J A ) O F A
+04 I M H O GY M X L A T O T T A + A F
+05 ) A N G 6 A A M I E N G E M I L L
+06 L E T H E T + O:diaeresis T A:acute T D O L G O Z
+07 T A M K E D D E N H E D I G E L M E N
+08 T E M A! Z E GY L E T 6 E A H O L
+09 ) Z I N E O:diaeresis A D A ) V O L T
+10 E D E ) E M H O GY E:acute F Z I
+11 M A G A:acute T G O A D O L E N E H A
+12 A T A V O L 6 A N O:diaeresis N E F T
+13 E H E D O:diaeresis ) Z I VT X L A J D O
+14 N O ) ) A F A E:acute N CS A K A K K O F
+15 V A GY O K I G A Z A:acute N 6 O L
+16 D O G D A A ) Z E:acute H ) Z E M E:acute 6 E
+17 N E:acute Z H E T E K I? ) T E N V E L E A V I ) Z O A T
+18 L A T A ) F A

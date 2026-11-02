@@ -1,0 +1,23 @@
+# HCP1214 sign ledger, Claude Opus 5.5, 2026-11-02. Read by eye from enlarged crops of work/hires/*adr.jpg. One token = one written sign.
+# Tokens: letters = key classes as in hcp-1216; F=r  )=s  X=u  6=b  +=f  H=h/p sign (tall stroke + tick)  GY = joined gy sign (G Y on row 13 = the same digraph, read as separate parts); C ) = cs written as two opposed bowls; :  = dots seen over sign.
+# Review 1: M? removed from row 1 (those strokes are the diaeresis of the O: in row 2); row 14 second d now plain D.
+# Special: Z# z under ink blot (restored); A# a with lower bar under blot (top bar seen);
+#          # overwritten sign, no value; J! upright T shape read j on word sense; D! h/p-shaped sign (tick right of stem) read d on word sense, row 11 only; E? two-or-three-bar sign read e, touched by y tail.
+01 K E D V E ) J O L A N K A
+02 M A F L A T O M K O: Z E L
+03 A L O K A H O Z H O GY
+04 K I X T A ) I T N A K H A Z O K
+05 6 O L 6 O C ) A ) O N M E G
+06 N E K E M M E F T A Z# T
+07 O: N I T X D J A # H O GY
+08 M I J N E H E Z E M F E
+09 E ) I K 6 E C ) E H A Z O K O T
+10 K E F X: L N I H A + A J!
+11 D! A L O M M E G K E L
+12 T E N E M ) Z I 6 O: L
+13 K I V A N O M L E G Y E?  N
+14 6 O L D O G 6 O L D O G I T
+15 ) A A Z A T X D A# T H O GY
+16 M E G T O: F T E GY
+17 ) Z I V E T I ) T E N V E L E
+18 V O L T K E D V E ) ) E + E F I

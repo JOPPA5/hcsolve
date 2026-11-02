@@ -1,0 +1,30 @@
+# Reviewer's own row reading from review/work/crops (Claude Opus 5.5, review 1). Not blind: the solver's text had been seen.
+# Glyphs: = two bars; E three bars; 6 six; S section; ~ wave; M three strokes; N two strokes; O loop; Q loop with dots; P long+tick right (h/p);
+# D tick left+long; I dotted curve; T inverted T; F F-sign; ) right bowl; ( left bowl; G gamma; X cross (u/z not separated); U cross with dots;
+# + upright cross; g hook; y low descender; V chevron; a n l = Latin A, N, L (not cipher signs); - long dash, no value. Spaces are the reviewer's.
+01 )XEFEGEG EDE) TO~=NS=M
+02 gy=SOF~=GOG G=FGOS
+03 =X IF=)6=N POgy E~ NE
+04 +E~ETG)EM GXD=GOM POgy
+05 NEM )ISEFU~G P=X=MEN
+06 NI DE~E~QG IFOS Egy
+07 P=F=G = gONDO~=G=IM6O~
+08 6O~DOg ()=S Xgy lEPEGESEN
+09 POgy P= GE ~E)XE~ =X ENyEM
+10 NEM )XEFEGES M=)G ()=S GEgED
+11 ()OS=~ GE)XES F= PE()EGEG
+12 a()OS=D=) NEM )XEgyEN
+13 P=NEM INS=6 EFENy
+14 P= ()OSOG =D)X 6=6=M
+15 )OP=)EM ~Egy )XEFENy
+16 nEM SEFES EN ~EPEGEG~ENG
+17 ()XP=N =XG POgy )XEFE)
+18 PEDIg EX OSVEG~ENU~ SE~~
+19 POgy GE - 6O~DOg ~EPE))
+20 I)GEN VE~E = VI)XONG~=G=)F= IM=DOT= +EFI
+S1 PIG FEMENy
+S2 E) )XEFEGEG
+S3 SQ))E Q))XE
+S4 )XIVONSEG
+S5 IM=DOT=
+S6 +EFI

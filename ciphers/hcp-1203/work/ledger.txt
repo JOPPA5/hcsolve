@@ -1,0 +1,49 @@
+# HCP1203 reading ledger, Claude Opus 5.5, 2026-11-02. One row per written line, read from enlarged crops of work/hires/*_adr.jpg.
+# Letters are the key values of the signs (Jolanka family key). Capitals mark signs needing comment:
+# H = h/p/d near-homograph (tall+short stroke)  Y = S-shaped sign (gy/y)  G = joined loop+descender (gy)  C = opposed bowls (cs)
+# K = barred ke-ligature sign  {x} = uncertain, [?] = unresolved sign.  o/i: this writer's undotted loop can stand where sense wants o.
+# Block A, upright, left half of the card
+A01 kedvesferi edesremenYem laHjat megkaH
+A02 tamamit köszönök elsösorba is
+A03 tudatom Hoy it volt a Heten a kedves
+A04 enYja es koHCik es a felesege Halotuk
+A05 Hoy a kedves anYja nem volt megelegedve
+A06 a fogadtatasal em eleg szivesen fogadtam
+A07 de Hoy mi nem tetszet neki azt en gondolin
+A08 He majd szoval elmondom He azt Hiszem
+A09 Hoy elöb megirjak maganak mint en
+A10 beszelek magaval megirnak mindent
+A11 de mar uGis eG Het mulva elbeszelem a
+A12 törteneket es tudatom eleg naGob
+A13 örömel Hoy en e Ho 28 ikan meGek
+A14 Hestre szombat delutan Het ora utan
+A15 leszek rakoson Ha szabad lesz ot
+A16 fiGeljen Hoy He n[?]em lesz szebad Hesti
+A17 elomeson ne varjon eGeltalen mivel
+A18 testverek is ot lesznek es nem akarom
+A19 Hoy tudjak Hoy en mat tudatam magaval
+A20 ot letemet a mege foglalkozasat uY mondin
+A21 a Hoy van vasuti fekezö Ha rakoson fiGel es meglat
+A22 uY eGüt meGünk Hestre de Ha szabad lesz{gv}ak
+A23 civil ruHaba jelenjen meg Ha teHeti meg eY laHit
+A24 irok a jöHeten K mibe a G me mos megirom
+A25 naGon örülök Hoy a keresemet teljesiri
+A26 draga ma ruHavetel Hel
+# Block B, card turned 180 degrees, upper right; rows counted from the postmark towards the top edge
+B01 edesem e laHot meg Henteken megirtam
+B02 {r}dem {e+}r me kedve{n|m} azota nem volta{m} {?} idö{m}e
+B03 Hoy elküldtem volna mert vasarnaHis
+B04 egesz naH vartam este Hedig a szüreti bal
+B05 ba voltem it volt a kaHosvar gub a garne
+B06 dem Hedig a bözsi anYja volt jola
+B07 Hedig lakadalomba meGek n{Y}{i}szi
+B08 ek mer nem irok a Heten maganak ez uj cimem
+B09 PLAIN Petöfi utca 16 szam haz{m}e{r}ten ere{k}ene {l}o{z}s{e}k
+# Block C, upright, inside the stamp frame
+C01 isten vele
+C02 edesem a bol
+C03 dog viszintl
+C04 a tasra
+C05 üdvözli Hű
+C06 Kdvese
+C07 jolanka

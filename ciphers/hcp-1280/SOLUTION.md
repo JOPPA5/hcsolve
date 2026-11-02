@@ -1,6 +1,6 @@
 # HCP1280 — to Jolánka Tóth: "Your long-awaited lines have relieved me"
 
-**Status: the enciphered message is read completely (15 rows). The card as a whole is partial, because a clause of the unenciphered note in the stamp box stays unread: its rows 2–3 are under stamp print and a wet ink blot (see Uncertainties 1). No register entry is written (see Response to review 1, finding 1).** Claude Opus 5.5, 2026-11-01. No earlier work exists on this number. The portal shows status *Not solved* with no transcription or solution; no published solution of this card was found. The key comes from the finished cards of the family (credited below).
+**Status: partial (rechecked 2026-11-02, see "Revision 2026-11-02"). The enciphered message is read completely (15 rows). A clause of the unenciphered note in the stamp box stays unread: rows 2 and 3 are only partly recovered, under stamp print and a wet ink blot. No register entry is written.** Claude Opus 5.5, 2026-11-01. No earlier work exists on this number. The portal shows status *Not solved* with no transcription or solution; no published solution of this card was found. The key comes from the finished cards of the family (credited below).
 
 ## Cipher type and key
 
@@ -53,13 +53,13 @@ Moja sladká Jolánka! Dostal som Vaše dlho očakávané riadky, ktoré ma naoz
 
 ## Unenciphered text on the address side
 
-- **Stamp box (plain hand, six rows):** `nem is(?)` / `v a k/h e … t o(?)` / `l e t é … k(?)` / `hogy` / `szeretlek` / `csokolom`. Rows 1, 4, 5, 6 are read; the last word of row 1 runs into a blot; rows 2–3 are not read. Only *hogy szeretlek, csókolom* ("that I love you, I kiss you") is firm.
+- **Stamp box (plain hand, six rows, revised 2026-11-02):** `nem is` / `v a(o) k e e … a(o)` / `l e … t t(?) … k(h)(?)` / `hogy` / `szeretlek` / `csokolom`. Rows 1, 4, 5, 6 are read, and the signs in rows 2 and 3 are detailed in the revision section. Rows 2 and 3 give no word that can be defended. Only *hogy szeretlek, csókolom* ("that I love you, I kiss you") is firm.
 - **Address:** *Szépreményű(?) Tóth Jolánka úrleánynak, Jász Árokszállás*. The first word is under a postmark and a blot; only `Szépren` or `Széprem` shows before the blot and `yű` after it, so *Szépreményű* is supported by the card, with the middle lost; the family's address form agrees.
 - **Postmark:** Jászárokszállás, 91[2] MÁR 13, agreeing with the portal file name 1912-03-13; a second postmark below the stamp box shows `912-`, confirming the year, and a place name beginning with G that is not otherwise legible. As the first postmark is the addressee's own town, the second may be another office on the route or the sending office; I do not guess the town. Top right, a pink smear looking like "24" is not relied on.
 
 ## Uncertainties
 
-1. **Stamp box rows 2–3 (largest open point).** A whole run of plain handwriting is unread: wreath print covers the middle and a wet pink blot the right end, and green-channel and high-pass enhancement (`work/crop3.py`, `crop4.py`) did not recover it. I offer no reconstruction. This is not ciphertext, and it does not touch the cipher reading, but it is an unread part of the card.
+1. **Stamp box rows 2–3 (largest open point).** A whole clause of plain handwriting is unread: wreath print covers the middle and a wet pink blot the right end. High-pass work on 2026-11-02 recovered more letter shapes but no words (see the revision section). I offer no reconstruction. This is not ciphertext and does not touch the cipher reading, but it is an unread part of the card.
 2. **Row 2 `{r}` (word sense).** The sign is overwritten: F strokes (r) and a chevron (v) are superimposed; the order of the strokes cannot be proved from the scan. Read as r, probably a v corrected to r, giving `var|vart` = *vár[va] várt*, with the middle *va* lost by the writer. The normalization supplies it.
 3. **Row 3 `{ly}` (word sense).** The sign is a thick left bow, then a wave and y. Wave + y alone is ly (row 7, row 12); bow + y alone is gy (row 15). Read *mely*, with the bow as an unexplained extra, perhaps a false start of gy. *Megy* gives no sense.
 4. **Row 6 `{s}` and row 13 `{s}` (word sense).** Both signs are overwritten and neither form is a clean right bowl: row 6 is a wide top hook over a closed loop, with a side tick and a foot; row 13 is a thick stem with a foot bar. They stand in *ko{s}zőnete|met* and *foron {s}zereti*, and no other letter makes a word in either place. The first o of *köszönetemet* shows no dots, and the o of *szívéből* (row 12) shows no ticks at 6x; both are supplied in normalization.
@@ -90,3 +90,25 @@ Verdict REVISE. No letter value changed; the English and Slovak translations sta
 6. **Fixed.** The address section now reports `912-` and the G of the second postmark, and the visible parts of the first address word.
 7. **Fixed.** The imprint is given as "Bromüra" in item 6.
 
+## Revision 2026-11-02
+
+Second attempt ordered by the human; Claude Opus 5.5. Target: the only unread passage, stamp-box rows 2 and 3, plus the end of row 1. The 15 cipher rows were not reopened, and no letter value or translation changed.
+
+**Tried** (`work/crop6.py` to `crop9.py`, output in `work/crops2/`, all from the un-converted original in `work/hires/`):
+
+- single channels, channel differences and PCA of the box, at 3x to 6x;
+- green-blue average with high-pass filtering at several scales and local contrast normalization;
+- teal print masking by the red-green difference, with the masked pixels filled from their neighbours; this removes the wreath where it crosses paper but not where it crosses ink;
+- a wide background subtraction inside the blot (`work/crops2/blot.png`), which gave the most: strokes inside the wash now show as shapes.
+
+**Gained:**
+
+- Row 1 reads *nem is*: a short low stroke and a blotted curve at the blot's edge fit the s, so the earlier "(?)" is dropped. The s itself is blurred, and nothing further can be seen in the blot.
+- Row 2, letter shapes in order: `v`, `a` or `o`, `k` (its tall loop reaches up into row 1, and it could be h), `e` (clear, under the print circle), a second `e` or `o` at the edge of the blot, a connecting stroke, then a closed round `a` or `o` at the end of the row. One or two letters between the last two cannot be excluded.
+- Row 3, letter shapes in order: `l`, a small `e`, a round `o` or `a` under the wreath, then a long crossed stroke of the same form as the t of *szeretlek*, a second stem with a low bar (second t, or e) and a short diagonal tick (perhaps an accent). Then a heavy left curve (a left bowl) inside the wreath, unreadable strokes, a long ascender rising into row 2, a round letter, and a final tall loop with a low exit stroke (k or h, or l + another letter).
+
+**Word divisions tested, not accepted:** *vak* or dialect *vok* (= vagyok) both fit the start of row 2, but neither leads to a word for the rest. For row 3, *lehet*, *levelet* and *lett* each fail on the visible shapes: *lehet* and *levelet* need a tall letter where none stands, and *lett* leaves the round letter over. The sense required before *hogy szeretlek* is clear in outline (something like "not even ... that I love you"), but any completed sentence would be guesswork fitted to that sense.
+
+**Sister cards:** a text search of the stamp-box notes recorded in sister SOLUTION.md files (HCP12xx and 130x; the first results only, not an exhaustive comparison) found no matching wording, so I used no parallel.
+
+**Result:** no change of category. Two or more lines of a clause stay unread, so under the completeness rule the card remains partial: no marker, no register entry. The ink in the blot has dissolved, so a better scan alone may not settle it, but UV or multispectral imaging of the original could.

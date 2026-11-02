@@ -1,0 +1,42 @@
+# HCP1228 sign ledger, Claude Opus 5.5, 2026-11-02. Manual transcription from enlarged crops of work/hires/*_adr.jpg (not OCR).
+# Corrected after review 1 (rows 5, 11, 13, 14, 15, 17, 22, S4); see SOLUTION.md, Response to review 1.
+# One token = one written sign; / = word division (editorial); . = written dot (rows 11 and 13 are stray dots without text value).
+# Tokens: A..Z letter classes of the Jolanka key, with F=r (F-like sign), )=s (right bowl), CS=joined opposed bowls,
+#   X=u (plain thick cross), Z=z (curled crossed diagonal), +=f, 6=b is written B here, #n = literal digit(s) on the card.
+#   Accent tokens A' E' O: U: are marked only where a mark is visible; others are supplied in normalization.
+#   H = tall stroke + short tick, valued h; Hp = the same sign valued p from word sense; Hd = the same sign valued d from word sense.
+#   X? = sign (any letter class) hidden or damaged by a blot/the printed stamp, restored (disclosed); TF = F-like sign read as t from word sense (disclosed).
+#   [cancelled] = word struck through by the writer, not read. ^ prefix = written interlinear.
+01 ) Z E F E T E T / E D E ) / E G Y E T L E N / F E M E N Y E M
+02 K I V A N O M / H O G Y / A / L E G J O B B / E G E ) ) E' G
+03 B E N / T A L A L J A / ) O F A I M . / A Z / E' J E L / V O L T A M
+04 M A ^G ^A' H O Z / K O: Z E L / CS A K / #6 / K I L O M E' T E F / TF A
+05 V O L ) A' G F A / D E / ) A J N O ) / E' Hp E N / A N Y I T / E F T
+06 M I N T / H A / O T / ) E / L E T T E M / V O L N A / M E F T
+07 N E M / L A' T H A T T A M / Hd E / J O B B A N / V A N / E Z
+08 I G Y / M E F T / H A / E L M E T E M / V O L N A / CS A K
+09 K E L L E M E T L E N / L E T / V O L N A / M A G A N A K
+10 [cancelled] / E B E N / A / V A ) X T I / F X H A B A N / V A
+11 L O / L . A' T A ) / M A J D / L E H E T / H O G Y / M E G
+12 V I F A D / M E G / E N N E K E / I ) / V A L A H A
+13 A Z T / T A F T O M / H O G Y / T U: F O: K E' . / E )
+14 ) Z E N V E D O: K E' / A / M E N Y E K N E K / O F ) Z A' G A
+15 H A' T / E' N / I ) / V A F O? K / V A F O K / M E' G / A / V I ) Z O N T
+16 L A' T A' ) O: F O: M E I T / E' L V E Z H E T E M
+17 H A N A / H A / L M E N? T? E M / V O L N A / A F A / A K A F
+18 H O G Y / H A F A G X D O T / V O L N A / I ) / F A' M
+19 B E M E N T E M / V O L N A / M E F T / N E M
+20 T X D T A M / V O L N A / E L L E N T A L N I
+21 V A G Y A I M N A K . / M A F / #1/2 / #11 K O F / Hp E ) T E N
+22 V O L T A M / A N Y I / V O L T / A Z / E G E' ) Z
+23 O T H O N L E' T E M / H O G Y / M E G N E' Z
+24 T E / ) Z U: L E I M E T / E G E ) ) E G E ) E K / E' Z E L
+25 B E Z F O M / ) O F A I M / M A F A D O K
+26 ) I F I G / H U: / K E D V E ) ) E / E' ) / I M A D O
+27 J A / + E F I
+S1 CS O K O L
+S2 J A / ) Z A M
+S3 T A L A N
+S4 ) Z O? F?
+S5 I M A D? O
+S6 J A / + E F I

@@ -1,0 +1,15 @@
+# reviewer's own row transcription, made from r01..r12 crops; sign-class names, not letters
+# flags: * closed-loop s form, ! blotted, . dots seen, ' acute seen
+01 Sbowl* Zcross E F E G E G E D E Sbowl* T O W A N
+02 K A M B E CS E Sbowl* Sbowl O F A I G
+03 M E Q K A H G A M M E W Y
+04 N A Q Y O N K O Sbowl Zcross O. N O. K
+05 I! Q E N O. F X. W O. K H O Q Y X T
+06 F A O W V A Sbowl H H A G O M
+07 Sbowl O F A I G D ? E' W X G A N
+08 M E Q Y E K H A Zcross A M O Sbowl G
+09 M A Sbowl G N E M I F H A G O K
+10 M E F G K E V E' Sbowl I D O M
+11 V A N V I Sbowl Zcross O N G! W A G A Sbowl
+12 F A H X. K E D V E Sbowl Sbowl E PLUS! E F I
+13 PLUS! A? F I

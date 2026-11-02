@@ -1,0 +1,63 @@
+# hcp-1146 address side, written area; one enciphered word per line. Signs are space separated.
+# Format: signs | reading. ~x marks a sign not clean as written: by sense (ODD in decode.py) or read through a stroke overlap (OVERLAP in decode.py). See SOLUTION.md.
+T 2. 3 1: 7, | Édes
+T 8 1. 3, 4, 1 8, 7 1' 8 | Margitkám
+A 2. 3, 8, 1: 7, 1 8, 5, 1: 7 | Értesítlek
+A 5 0 4. | hogy
+A 3. 1. 7, 1' 3, 6, 1. 9 | vasárnap
+A 6, 1: 8 | nem
+A 8 1: 4. 1: 7 | megyek
+A 4 1: 5, | fel
+A 8 1. 6 3 | majd
+A 2, 1. 7 | csak
+A 5 .1 7, 3. 2. 8, 7 0 3, | húsvétkor
+A 8 1' 3, | már
+A 5 1' 5~l 1. | hála
+A 1 7, 8, 1: 6, 6, 1: 7 | istennek
+A 6, 1: 8 | nem
+A 8 1: 7, 7. 1: | messze
+A 3. 1. 6, | van
+P 8 0 7, 8, | most
+P 1: 4. 1: 1, 1: 8, | egyebet
+P 6, 1: 8 | nem
+P 1 3, 0 7 | írok
+P 8 1. 6 3 | majd
+P 7. 0 3. 1. 5, | szóval
+P 8, 0, 1, 1, 1: 8, | többet
+B 1. 3 1 4, | adig
+B 1 7, | is
+B 3. 1: 3, 7, 1: 2, 7 2. 7 7 1: 5, | versecskékkel
+B 8 .1 5, 1. 8, 8~t 1. 8, 5, 1.~a 7~k | mulattatlak
+V1 1 8, 8, | Itt
+V1 1: | e
+V1 3. 1' 3, 0 7, 1, 1. 6, | városban
+V1 6 1' 3, 0 7 | járok
+V2 6, 1 6, 2, | nincs
+V2 1 8, 8, | itt
+V2 1. | a
+V2 5, 1: 5, 7 1: 8 | lelkem
+V3 6, 1' 5, 1. 3 | nálad
+V4 7. 1: 3, 1: 5, 8 1: 8 | szerelmem
+V4 7. 1: 6, 8, 1: 8 | szentem
+V7 1: 5, 5 1. 4. 0 8, 8, | elhagyott
+V7 3. 1. 4. 0 7 | vagyok
+V7 8 2. 4, 1 7~s | mégis
+V8 3. 1. 4. | vagy
+V8 3. 1: 5, 1: 8 | velem
+V8 8 0 7, 8, 1. 6, | mostan
+V9 1: 3, 1: 8, 5, 1: 7 | eretlek
+V9 7. 1 3. 1: 8 1, 0, 5, | szívemből
+V10 2. 5, 1: 7 | élek
+V10 5, 1' 6. 7 | lányk
+V11 7. 1' 9, 7. 0 3, | százszor
+V12 1 7, 8 2. 8, 5, 1 | ismétli
+V12 1: | e
+V12 7 1' 3, 8. 1. | kártya
+C :1 3 3. 0, 9, 0, 5, | üdvözöl
+C 7, 0 7 7. 0 3, | sokszor
+C 0, 5, 1: 5, | ölel
+C 2. 7, | és
+C 2, 0 7 0 5, | csókol
+C 5 .1 | hű
+C 7 1: 3 3. 1: 7, 1: 3 | kedvesed
+C 1' 3, 9 1' 3 | Árpád

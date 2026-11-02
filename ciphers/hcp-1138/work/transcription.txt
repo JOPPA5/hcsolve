@@ -1,0 +1,96 @@
+# hcp-1138: cipher text word by word as read from work/hires (adr side). One word per line: signs | reading.
+# Signs: digit + mark after it; .1 and :1 = dots LEFT of the 1; 1' = high/mid dot; # = blot; word breaks are mine.
+# Marks: ~ flags a sign used by sense against the table (9~ = plain 9 read z, no comma on the card). / = row break inside a word.
+# The reading column is what decode.py prints; it may add capitals and punctuation, and (d) for a letter not on the card.
+# @ lines: @open = text in clear (read, not decoded), @end = end of a paragraph.
+2. 3 1: 7, | Édes
+8 1. 3, 4, 1 8, 7 1' 8 | Margitkám!
+@end
+2. 3, 8, 1: 7, 1 8, 5, 1: 7 | Értesítlek
+5 0 4. | hogy
+8 1' / 6 .1 7, 1, 1. | májusba
+4 0 4, 6, 1. 7 | fognak
+7, 0 3, 0 9, 6, 1 | sorozni
+3 1: | de
+2, 1. 7 | csak
+1. 9~ 0 7 1. 8, | azokat
+1. 7 1 7 | akik
+8 2. 4, | még
+6, 1: 8 | nem
+3. 0 5, 8, 1. 7 | voltak
+7, 0 3, | sor
+1. 5, 1. 8, 8, | alatt
+8, 1: 5 1' 8, | tehát
+8 0 7, 8, | most
+8 1' 3, | már
+6. .1 4, 0 8, 8, | nyugott
+5, 1: 5 1: 2 | lehec
+2. 3 1: 7, | édes
+3 1: | de
+8 0 7, 8, | most
+8 1' 3, | már
+6, 1: | ne
+7. 1: 3 6 2. 8, 1: 7 | szedjétek
+5, 1: | le
+1. | a
+5 1: 3, 6. 0 8, | hernyót
+5 1. 4. 6 1. 8, 0 7 | hagyjatok
+.1 4. | úgy
+8 1 6, 3 1: 6, 8, | mindent)
+1. 9~ 8, 1' 6, | aztán
+.1 4. | úgy
+3. 0 5, 6, 1. | volna
+6 0 | jó
+7 1: 3. 1: 7, 1: 8 | ke(d)vesem
+5 1. | ha
+8 1' 3, | már
+8 0 7, 8, 1. 6, 1' 1, 1. | mostanába
+5, 1: 6 0, 6, 6, 1: | lejönne
+1' 6, 4. 1 7 1. | ángyika
+5 1' 9~ 1. 8, | házat
+6, 2. 9, 6, 1 | nézni
+5 0 4. | hogy
+1. 7 7 0 3, 3, 1. | akkorra
+5, 1: 6, 6, 1: | lenne)
+3 1: | de
+8 0 7, 8, | most
+8, 0, 1, 1, 1: 8, | többet
+6, 1: 8 | nem
+1 3, 0 7 | írok
+8 1: 3, 8, | mert
+3, 0 7, 7. .1 5, | rosszul
+3. 1. 4. 0 7 | vagyok
+.1 4. | úgy
+3. 1: 7. 1: 8 | veszem
+2. 7. 3, 1: | észre
+0 8, 8, | ott
+1. | a
+7 1. 9 .1 / 1, 1. | kapuba
+1. 5, 1. 9 0 7, 1. 6, | alaposan
+8 1: 4, 4 1' 9, 8, 1. 8 | megfáztam)
+@end
+7 1' 3, 8. 1' 8 0 6, | Kártyámon
+1: | e
+7 1 7, | kis
+3. 1 3, 1' 4, | virág
+8, 0 5, 8 1' 2, 0 5, 6 1. | tolmácsolja
+2. 3, 9, 1: 5, 8 1: 8 | érzelmem
+@end
+@open Kívánom:
+8 1 6, 3 1: 6, | minden
+0 3, 1' 3 | órád
+1. | a
+8, 1' 3. 0 5, 1, 1. 6, | távolban
+6 0 5, | jól
+8, 1: 5, 6 1: 6, | teljen!
+@end
+8 0 7, 8, | Most
+:1 3 3. 0, 9, 0, 5, | üdvözöl
+2. 7, | és
+7. 1' 8 8, 1. 5, 1. 6, 7. 0 3, | számtalanszor
+2, 0 7 0 5, | csókol
+7. 1: 3, 1: 8, 0, | szerető
+7 1: 3 3. 1: 7, 1: 3 | kedvesed
+1' 3, 9 1' 3 | (Árpád)
+@end
+@open Mezőkövesd, 1916. III/17.

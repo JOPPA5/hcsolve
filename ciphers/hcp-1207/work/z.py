@@ -1,0 +1,15 @@
+from PIL import Image, ImageEnhance
+im=Image.open('hires/cpc_--_HU__HU_Budapest_jolanka-62_adr.jpg').convert('RGB')
+def c(name,box,s):
+    i=im.crop(box); i=i.resize((int(i.width*s),int(i.height*s)),Image.LANCZOS)
+    ImageEnhance.Contrast(i).enhance(2.0).save('crops/'+name+'.png')
+c('z22a',(70,1840,650,2040),3.2)
+c('z22b',(600,1840,1180,2040),3.2)
+c('z22c',(1100,1820,1680,2020),3.2)
+c('zb1',(1400,1900,2100,2050),2.7)
+c('zb2',(2050,1900,2750,2060),2.7)
+c('zb3',(2700,1900,3300,2070),3)
+c('zs1',(2800,270,3250,500),4)
+c('zs2',(2800,490,3250,720),4)
+c('z9',(70,740,700,860),3)
+c('z3',(1300,190,1640,360),4)

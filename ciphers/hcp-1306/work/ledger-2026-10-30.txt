@@ -1,0 +1,41 @@
+# HCP1306 sign ledger, Claude Opus 5.5, 2026-10-30. One token = one written sign, read from enlarged crops of
+# work/hires/*_adr.jpg (crop.py, croprot.py). Not blind: the Jolanka family key of hcp-1216 was used.
+# Tokens: A two bars, E three bars, F r, ) s, 6 b, + f, H h/p sign (tall stroke + tick), / single stroke (reduced d or h),
+# I dotted crossed curve, O cursive loop with hook, Z crossed diagonal, X plain cross u, J inverted T (j/ly), Y y loop,
+# K short hook/section mark, G long hook, V chevron, L wave, M three strokes, N two strokes, T gamma, D long stroke + left tick,
+# CS opposed bowls. {a|b} = shape between two classes. ? = no value. Suffix :d = dot mark over the sign. Accents not transcribed.
+01 ) Z E F E T E T E D E ) J O L A N K A M
+02 M O ) T H E D I G V A L A ) Z O L O K
+03 ) O F A I F A I F E O J {o|ö} F O M E L
+04 {o|i} F / E K N E T L A H I F I ) E G Y ) Z E
+05 F E H E N E G E H A M A F A 6 K I M E
+06 F X:d L A Z I F N I V A L O M M I N T
+07 M E G A N E K E D E ) E M H A M A G A M O N
+08 D O M T CS A K ) Z O V A L A {k|g} A F M E G
+09 M O N / A N I A M I O J N E / E Z E N
+10 M E G Y M E F T N A G Y F A 6 ) Z O L
+11 G A V A G Y O K N E M F E N D E L
+12 K E Z E M M A G A M + E L E T T O 6
+13 6 E T N E M I F O M H O G Y M O
+14 K O F M E G Y E K M E F T M E G
+15 A K O F ) E M N E T T E M M O ) O F
+16 6 I Z T O ) N A K O N D O T A M
+17 A F A K E F E M E D E ) E M H A I G A Z A N
+18 ) Z E F E T H A G Y J O N + E L A V A L
+19 A T O L A K O D O V E T E J T A F
+20 {o|s} A L M O T F E M E L E ) M E G I ) T E T T E
+21 E ) N E M M E L T A T T A V A L A ) Z F E
+22 ) O F A I T A M I A 6 O:d Z ) I T I L E T I
+23 I G A Z A N ) A J N A L O M H O G Y E N N {y|i} I
+24 F E J X T O V A J O 6 A F A T ) A G E Z T
+25 N E M G O N D O L T A M A M I A L I T A ) Z K I L A H J A T I L E T I ) Z E F E T N E M
+26 L A T N I E ) ) Z E F E T N E M E N E L I N T E Z N H A T E 6 I:d Z A T A M E L A H I
+R1 E Z E L 6 E Z E F O M ) O F A I M H A F A H I K O K
+R2 ) Z E F E T I K E D V E ) E + E F I
+S1 L H N ?
+S2 I ) Z O N T
+S3 A T A ) I G
+S4 X D V O Z L I
+S5 ) Z E F E
+S6 T O K E D
+S7 V E ) E + E F I

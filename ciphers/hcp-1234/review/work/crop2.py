@@ -1,0 +1,17 @@
+from PIL import Image, ImageEnhance
+im=Image.open('../../work/hires/cpc_1913-12-16_HU__HU_Jasz-Arokszalas_jolanka-45_adr.jpg').convert('RGB')
+def s(n,b,k=3,ct=1.5):
+    c=im.crop(b); c=ImageEnhance.Contrast(c).enhance(ct); c.resize((c.width*k,c.height*k),Image.LANCZOS).save(f'crops/{n}.png')
+s('r20a',(1050,1960,1650,2110),3)
+s('r20b',(1600,1960,2200,2110),3)
+s('r20c',(2150,1960,3100,2110),2)
+s('blob5',(430,560,700,700),5)
+s('blob6',(280,640,700,780),5)
+s('blob7',(60,690,330,810),5)
+s('blob8',(1050,800,1500,950),4)
+s('blob12',(500,1260,1000,1400),4)
+s('st3',(2650,430,3180,560),4)
+s('st4',(2640,520,3120,650),4)
+s('r19end',(1050,1900,1600,2000),3)
+s('dash',(380,1880,800,2000),4)
+s('pm',(1750,120,2800,800),1)

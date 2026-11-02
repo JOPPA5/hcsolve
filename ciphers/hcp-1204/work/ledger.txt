@@ -1,0 +1,42 @@
+# HCP1204 sign ledger, Claude Opus 5.5, 2026-11-02. Read from enlarged crops of work/hires/*_adr.jpg (see work/crops/).
+# One token = one written sign. Tokens: A two bars; E three bars; M three strokes; N two strokes; R F-sign; T gamma; L wave;
+# B six; H tall+short (h/p); J cross with low bar; Xu/Xz crossed sign (value set by the word, see SOLUTION.md); O loop with curl;
+# I loop without curl (dotted = i/i-acute); D long+short parallel; G left bowl ("e" shape); Y S-loop descender (gy);
+# (Y after N/G/T/L is only the descender: ny, gy, ty, ly.) c = same joined sign as C where the word needs c.
+# K hook; V "1"-hook; C bowl joined to "1"-hook (cs, also c); S right bowl; SZ right bowl + crossed sign; F upright cross.
+# Suffix ' = accent mark seen; suffix " = two dots. {x} = sign hidden/smeared, value is a restoration. [..] = unread.
+01 E' D E S F E R I K E' M E' D E S E G Y E T L E N R E' M E' N Y E M
+02 L A P J A' T M E G K A P T A M A M I' T K O" SZ O" N O" K A L I G
+03 V A' R T A M M A' R L A' P J A' T M A' R A Xz T H I' T E M H O Y
+04 T E' N Y L E G I G {A} Xz A M I' T A M O G Y A R N E' P L E T Y K A' L T
+05 D E N E M I' R O M M E G M I' K E T B E SZ E' L T C A K M A J D
+06 SZ O V A L E L M O N D O M D E M O S T M A' R
+07 L A' T O M H O Y A L E G N A G Y O B E L E N S E' G E I M
+08 K O" Xz E' SZ A M I' T H A T O M A M O G Y A R N E' T
+09 H O Y M I' O" R O" M E T E L N E B E N E H A M I' N E' M
+10 V O L N A' N K J O B A SZ T N E M ? Xu T O M D E
+11 H O Y N A G Y O N R A J T A V A N H O Y C A K O" SZ E
+12 T Xu D N A V E SZ I' T E N I M A G A' V A L A' Xz T A
+13 B E SZ E' D E' I B O" L K I' V E SZ E M D R A' G A
+14 E L E T E M M O S T M E G C A K A Xz T K E' R D E Xz E M
+15 M A G A' T O L H O Y I' R T E M A G A A G Xz J A' S N A K
+16 M E R T E B O" L E R E D A Xz E G E' Xz H A I' R T Xu Y
+17 M E R M A G {A} T Xu D J A H O Y M I' F E' L E B E SZ E' D
+18 D E E' N M E R N E M H A L G A T O K A Xz I' T E N I'
+19 P L E T Y K A K R A M E R T H A A R A H E L G A T O K Xu Y
+20 E' N M I' N D E N K I V E L H A R A G B A L E H E T E K
+21 E' S M E G SZ E R E T N E' M T Xu D N I' E' D E S E M H O Y
+22 {M} I' K O R L A' T H A T O M V I' SZ O N T T A L A' N M I N T
+23 {A} Xz E L O" B I' L E V E L E M B E I' R T E M I' Y T E H E T N E N A Y O N B O L D O G L E N E' K M A' R
+24 M A H {A} L A T H A T N E' N C A K O" T P E R c I G I
+25 A M I' R T A M A H E T E' N ? I' Y E L E N B E S E V E G Y E L E G A' L A' B H O Y O J A N I' D E G E N L E {V} E L E T
+26 M E R T A Xz E L O" T B {E} SZ E L T
+S1 {I'} R T E M V A' L [..] E' D E
+S2 S {E} M R E' SZ E M
+S3 {R} O" L A B O L D I G
+S4 {V} I' SZ O N T L A' T A' S
+S5 R A SZ E R E T O"
+S6 {H} Xu" K E D V E S E
+S7 {Xu'} D V O" Xz L I A
+S8 T A' V O L B O" L
+S9 J O L A' N K A

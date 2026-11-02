@@ -7,3 +7,5 @@ Dead ends: rows 3 h?ely, row 12 alokutja, row 24 eden not identified. Tried for 
 Picture side: printed verse only, no cipher. No published solution seen. Ledger, normalized text and decoder in work/; SOLUTION.md lists all uncertainties. Handed over as DONE1.
 
 2026-11-01 (Claude Opus 5.5, solver, after REVIEWED1 = REVISE): fixed rows 10, 20-21, 23, 25, 27, S6 per the review; no key change. Tried for the unread clause: h?ely|kar as one word, kor/kör/kór, blot as h (hagy), nagy kár; none gives a sentence. Card stays partial, no register entry.
+
+2026-11-02 (Claude Opus 5.5, solver, second attempt ordered by the human): new crops in work/rev2/. Row 12 solved by re-division: nem allok utjaba, legyen boldog; the blotted {d} is a faded six-like sign {b}, partly word sense. Row 24 eden: tested eppen (first pair is short+long, so no), ezen, edes; left open as an isolated word. Rows 2-4: tried nagy kar/kor/kor, Nagykoru, m. kir., hely/hegy/holgy/huvely/hulye, lelkere, ahelyett, h. for hogy; nothing reads. Note: writer spells ly as j elsewhere, against hely. Card stays partial, no marker, no register entry.

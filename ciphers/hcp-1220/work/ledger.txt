@@ -1,0 +1,21 @@
+# HCP1220 sign ledger, one token per written sign, one line per written row. Transcribed by hand from enlarged
+# crops of the hires address side (work/crop*.py, work/unmix.py; not OCR; the reader knew the family key).
+# Token = letter value of the family sign class (see SOLUTION.md). H = tall stroke + short tick on the right
+# (h/p near-homograph; printed h here, normalized by the word). cs = opposed bowls, one sign. g y = two signs.
+# Suffixes: :a acute tick seen (none on this card since review 1); :d dots seen; ^ closed-loop variant of the s sign;
+# ! sign blotted or deficient (row 13: only two bars), value by the word.
+# ? = blotted small raised sign with no letter assigned (row 07). | = word division added editorially.
+01 s^ z e r e t e t | e d e s^ | j o l a n
+02 k a m | b e cs e s^ | s o r a i t
+03 m e g k a H t a m | m e l y
+04 n a g y o n | k o s z o:d n o:d k
+05 i! g e n | o:d r u:d l o:d k | H o g y | u j
+06 r a | o l v a s H H a t o m
+07 s o r a i t | d ? e l u t a n
+08 m e g y e k | H a z a | m o s t
+09 m a s t | n e m | i r H a t o k
+10 m e r t | k e v e s | i d o m
+11 v a n | v i s z o n t! l a t a s
+12 r a | H u:d | k e d v e s s e | f! e r i
+# Row at the bottom of the stamp box, after the plain-script note (see SOLUTION.md): cipher signs
+13 f! e! r i

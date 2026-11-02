@@ -1,0 +1,35 @@
+# HCP1207 sign ledger, Claude Opus 5.5, 2026-11-02. One token = one written sign, read on enlarged crops of the original
+# (work/hires/..._adr.jpg). Letters are the Jolanka family sign classes (see SOLUTION.md). GY, CS = joined digraphs.
+# O: = o sign with visible dot marks; U" = cross with double mark. Accents on other vowels are not transcribed.
+# Non-cipher items: 7 and 0 are plain digits; [orakor] is a plain cursive word; {?} = stray sign with no letter value;
+# H is the h/p sign class throughout: read p in row 10 (first H, pihenom) and row 15 (last H, Pasztori-etol), h elsewhere (review 1, finding 1).
+# {R/H} = reduced tall stroke, r or h. d and g, h and d, near-homograph calls are listed in SOLUTION.md.
+01 S Z E R T E T E D E S E GY E T L E N
+02 R E M E N Y E M K I V A N O M H O GY A L E G
+03 J O B B K E D V E B E N T A L A L J A S O
+04 R A I M S A J N A L A T T A L K E L T U
+05 D A T N O M H O GY E M I T O: L E N Y
+06 N Y I R A F E L T E M B E K O: V E T
+07 K E Z E T M E R T O J A N V O N A T H O Z
+08 L E T T E M V E Z E N Y E L V E E S E S T E
+09 7 0 [orakor] J O: N V I S Z A E S R E G E L
+10 R E T E L I K L E A H I H E N O: M
+11 E S I GY L E G N A GY O B B S A J N A L A
+12 T O M R A K E D E N E N E S T E L A T O G A
+13 H A T O M M E G D E CS A K K E S O N
+14 N E M E R K E Z E K H A Z A E D E S E M
+15 I R J A M E G H O GY M I K O M E GY H A S Z
+16 T O R I E K T O L CS A K M A R A R A D J O
+17 N O N E D E D E S E M A M E D I L E H E T
+18 M U L A S O N J O L H A M A R E N E M
+19 M U L A T H A T O K M A G A V A L
+20 E D E S E M H A J O L M U L A T G O N
+21 D O L J O N I M D O J A R K I
+22 I J S O K A T G O N D O L {?} K O D O M
+23 M A G A F E L O: L I S T E N V E L E D E S E M I M A D O J A F E R I
+S1 CS O K O
+S2 L O M S Z A
+S3 M T A L A N
+S4 S Z O {R/H} U"
+S5 K E D V E S E
+S6 F E R I

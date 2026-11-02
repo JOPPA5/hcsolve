@@ -1,0 +1,25 @@
+# hcp-1136. Read from work/hires/*_adr.jpg by Claude Opus 5.5, 2026-11-02.
+# Format: signs of each word separated by spaces, words by " / ", then " | " and the reading.
+# A sign is a digit plus its mark: "," "." ":" after it, "'" = dot high on the right, ":1" = dots left of the stem.
+# "=x" = letter written in clear. "[s]" = sign not clean, read by sense (see SOLUTION.md).
+# Review 1: on the card a stray ")" stands after imadod, before "(1' 3, 9 1' 3)"; no letter value, not transcribed as a sign.
+# Review 1: "=m" at the end of meglattam is a reading: an inked-over figure 8, then cursive m strokes in clear (SOLUTION.md uncertainty 3).
+# "-" after 4 on the card (hogy, megyek) is the same low mark as the dot in egy; both are written 4. here.
+2. 3 1: 7, / 8 1. 3, 4, 1 8, 7 1' 8 | Édes Margitkám!
+8 0 7, 8, / 7 :1 5, 0, 6, 0, 7, / 1 3, 6, 1 / 3. 1. 5, 0 8 | Most különös írni valóm
+6, 1 6, 2, / 2, 1. 7 / 1. 6, 6. 1 / 5 0 4. / 7. 0 8 1, 1. 8, 0 6, | nincs, csak annyi, hogy szombaton
+4 1: 5, / 8 1: 4. 1: 7 / 2. 7, / 1. 7 7 0 3, / 8 1. 6 3 | fel megyek és akkor majd
+7 1: 8, 1: 2, 7 2. 6, / 7, 0 7 1. 8, / 1, 1: 7. 2. 5, 4, 1: 8, :1 6, 7 | ketecskén sokat beszélgetünk.
+1. 3 3 1 4, / 1 7, / 1 3, 0 7 / 1: 4. / 7 1 7, / 3. 1: 3, 7, 1: 8, | Addig is írok egy kis verset.
+=M 1 7 0 3, / 1: 9, 8, / 1. / 5, 1. 9 0 8 | Mikor ezt a lapom
+=H 1 3, 8, 1: 5, 1: 6, / 8 1: 4, 5, 1' 8, 8, 1. =m | Hirtelen megláttam,
+=G =o 6, 3 0 5, 1. 8, 1, 1. / 2. 3 1: 7, | Gondolatba édes
+=M 1 6, 6 1' 3, 8, / 6, 1: 7 1: 3 / 7. 1' 6, 8, 1. =m | Minjárt neked szántam.
+=G =o =n 3 0 5, 8, 1. 8 / 8 1. 6 3 / 0, 3, :1 5, [7.] | Gondoltam — majd örülsz,
+=H =a / 1' 8, 1. 3 6 1' 7 / 6, 1: 7 1: 3 | Ha átadják neked,
+=S / 3. 2. 4, 8, 1: 5, 1: 6, / 1, 0 5, 3 0 4, 7, 1' 4, | S végtelen boldogság
+=F =o =g =t =a / =e =l / 7. 1 3. 1: 8 1: =t | Fogta el szívemet.
+:1 3 3. 0, 9, 0, 5, 3. 1: / 0, 5, 1: 5, 2. 7, 7, 1: 5, | Üdvözölve öleléssel
+2. 7, / 7, 0 7 / 2, 0 7 7 1. 5, / 8 1. 3, 1. 3 [0] 7 | és sok csókkal maradok
+7. 1: 3, 1: 8, 0, / 7 1: 3 3. 1: 7, 1: 3 / 2. 7, | szerető kedvesed és
+5 :1 / 1 8 1' 3 0 3 / 1' 3, 9 1' 3 | hű imádód (Árpád)

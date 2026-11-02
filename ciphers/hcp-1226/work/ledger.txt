@@ -1,0 +1,43 @@
+# HCP1226 sign ledger, Claude Opus 5.5, 2026-11-02. Read by hand from enlarged crops of work/hires/*_adr.jpg (see work/crop.py).
+# One token = one written sign. Letter-named tokens are the Jolanka sign classes; F=r  )=s  X=u  6=b  +=f  H=h/p near-homograph  CS=opposed bowls  D=tick+long stroke d.
+# :d = dot mark seen over the sign. Acute accents are not transcribed. O:d is printed o with dots (ö or ő; the hand does not separate them).
+# H/d = h/p-shaped sign read as d by word sense; D/p = tick+long (d form) read p by word sense (row 3 kaptam); J? = upright cross where the sense needs j (row 15); D? = long strokes read d (not n) by sense (row 25);
+# O? = cursive loop partly hidden by the printed stamp, lower loop lost (S4); +? = tilted cross read f (S7); # = sign scribbled over (row 18; e by sense, see SOLUTION.md).
+# Revised after review 1: rows 03, 27, S3, S4.
+# Rows 01-28 main block; E1 runs up the right edge and continues row 28; S1-S7 stand over the printed stamp triangle.
+01 ) Z E F E T E T E D E ) E G Y E T L E N F E
+02 M E N Y E M 6 E CS E ) ) O F A I T M E G
+03 K A D/p T A M M I T K O:d ) Z O N O K ) Z E
+04 H E N ) A J N A L A T O M A T K E L K I
+05 + E J E Z N E M H O G Y N E M J O:d N M X L A T
+06 ) A G 6 A H/d E I G Y I ) J O CS A K A Z A + O:d
+07 H O G Y V I ) Z O N T L A T H A T O M
+08 H I G Y J E E L E D E ) E M M I K O F ) O
+09 F A I T O L V A ) O M K I M O N D H A T A T
+10 L A N E F Z E ) + O G T A E L ) Z I V E
+11 M E T M I T E F Z E K E N M A G A I F A N T
+12 A Z T L E I F N I N E M L E H E T L E G J O 6
+13 6 E N ) Z E T N E M M A F K E 6 L E M F E O:d L E L
+14 N I E D E ) E M A H I C Z I N Y ) Z A J A T O ) Z E
+15 V I ) Z A CS O K O L N I H/d E ) A J? N O ) E Z T
+16 M E G ) O K A T E H E T E M I J A M E G
+17 E D E ) E M M I K O F J O:d N H A L E H E T K I
+18 M E G Y E K E L E J E 6 # A Z A L L O M A
+19 ) O N K E D V E ) E M E K E F E ) E T M I N
+20 D I G H A F A N CS N A K V E ) Z E M M E F T CS A K
+21 M A G A N A K E L E K E ) O:d F X:d L A ) Z I V E M
+22 H A M A G A ) Z A V A I T T E L J E ) I T H E
+23 T E M L E G J O 6 ) Z E F E T N E M M A F
+24 H A ) Z A V A I T H A L H A T O M E )
+25 T E L J E ) I T H E T N E M D E M A J D?
+26 E L J O:d A Z A Z I D O:d M I T A L I G A L I G V A F O K A M I T A F O K O N A I T I L
+27 L E T I M O D O F O M M E G L E ) Z N E K E L E G E T A L A N A M X G Y I ) M E G A Z T I F J A
+28 M E G E D E ) E M H O G Y M I CS O D A + O G L A K O Z A ) T M O N D M A J D F O K O N I N
+E1 A K
+S1 I ) T E N V E
+S2 L E E D E )
+S3 ) E M A 6 O L
+S4 D O? G V I
+S5 ) Z O N T
+S6 L A T A ) F A
+S7 +? E F I

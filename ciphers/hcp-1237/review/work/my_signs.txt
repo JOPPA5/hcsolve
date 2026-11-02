@@ -1,0 +1,32 @@
+# Reviewer's sign transcription (shape symbols), made row by row from enlarged crops of the hires address side.
+# Not blind: the claimed text was known. = two bars, # three bars, 6 six, ( left bowl, / short+long, + upright cross, q open loop,
+# \ long+short, ! crossed curve, L inverted T, $ section, ~ wave, W three strokes, N two strokes, & hump loop, F F-like, ) right bowl,
+# T gamma, x plain X, ^ chevron, y low curve, z crossed diagonal, ? no value
+01 $#/^#)L&~=N$=W#)&
+02 F&$$=~#q#)z!T#W$!)&
+03 F=!W#/#)#\!qyL##~\&qy
+04 N=qy&NF&)zx~#)#T#z
+05 =)z&N#W#F/#$~!
+06 \#/!q\!qy##~#/#)#W
+07 W=q=N=$W!N/#NW&z/x
+08 ~=TL=#F/#$#~=W!
+09 ~=\&$=T!~#T!=F=N#W
+10 ~#\#T\=N=)z=W#FT\#T
+11 #~#L#N$x~/&$$#TT&T
+12 #)=\=FW=/!$=T^=~=)z
+13 $#NT)z&$T=W$x~/#N!
+14 #)\=$#)&N$=\&W)&
+15 F=!TN$&F#qy$!()!T&)z#
+16 L&N#)W!T!FL=$&~y
+17 )xFxN=N=$!q=z=N&Fx~&$
+18 \&qy~#T#~!$=qy=)z
+19 !q=z=NW!~yqy&F)=N
+20 #~T#~T#z!/&W!NT
+21 \=W&)T~#T^&~N=#z#~6#z=F&W)&F=!W
+22 W=F=/&)!F!\x$#/^#))#
+23 +#F!
+S1 x/^&z
+S2 ~&W=
+S3 T=^&~
+S4 6&~\x
+S5 $#/^#?

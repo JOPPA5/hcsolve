@@ -1,4 +1,4 @@
-# HCP1292 row ledger, Claude Opus 5.5, 2026-10-30. Letters are the key values of signs read one by one from enlarged crops of the hi-res scan.
+# HCP1292 row ledger, Claude Opus 5.5, 2026-10-30, revised 2026-11-02 and after review 1 (old versions: ledger-2026-10-30.txt, ledger-pre-review1.txt). Letters are the key values of signs read one by one from enlarged crops of the hi-res scan.
 # gy, cs = joined signs. {..} = doubtful sign. [blot] = sign not readable. | = stain/blacked-out block. ~~ = writer's filler dashes.
 01 szeretetedesjolakámbecses
 02 soraitme{g}kaptammelynek
@@ -7,8 +7,8 @@
 05 nekmondhatomhigyjeeledé
 06 semmennyirefejdalmatokozot
 07 azatudathogyelkelvesztenem
-08 megatedésenisborbankeres
-09 [blot]amavigasztalastésmajd
+08 megátédesénisborbankeres
+09 {t}amavigasztalastésmajd
 10 nemazéletembekerültmert
 11 tegnapéjelegykicsitmámo
 12 rosfejelmentemszolga
@@ -19,22 +19,22 @@
 17 akarokhaneminkamö{r}öme~~
 18 metkifajeznihogyujrabol
 19 dogitazatudathogyremel
-20 hetemhetekmegédesemhogy
-21 jelhogysen{?}ifelvasztesnak
-22 {a}lanyovolnemtudokésém~~
-23 [blot]nifelelanyrolmarsokzor
+20 hetamhetekmegédesemhogy
+21 jelhogyse{m}ifélvasutasnak
+22 {a}lanyorolnemtudokéssem~~
+23 {m}ifelelanyrolmarsokzor
 24 fogadtamhüségem{|}becsület
 25 szovaldeúgy{l}atomaz|
-26 marnemersemitdeigmegazt
+26 marnemérsemitdeigmegazt
 27 hiszemnem{v}esztettemelbe
-28 csültemetönelötdeannaltöbbetérazönbecsületszeveenel
+28 csültemetönelötdeannaltöbetérazönbecsületszavaénel
 29 lötemhogyhaesetlegcserbehagyezteleveletfomszorol
-30 szorornödecsakesküvöjenapjanmertadignemvomkétségbe
-31 szevétéseztkérdemmivelbizonyihetombeszerelmemet
+30 szorornidecsakesküvöjenapjanmertadignemvomkétségbe
+31 szavátéseztkérdemmivelbizonyihetombeszerelmemet
 S1 istenve
 S2 leédesem
 S3 marakto
-S4 vabra
+S4 vebra
 S5 iskedves
 S6 seessi
 S7 righű

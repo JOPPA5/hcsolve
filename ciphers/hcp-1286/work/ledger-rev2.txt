@@ -1,0 +1,41 @@
+# HCP1286 sign ledger, Claude Opus 5.5, 2026-11-02, read from crops of work/hires (rev2e.py, rev2c.py). One token = one written sign.
+# Letters = Jolanka family sign classes (hcp-1216): F=r )=s X=u 6=b +=f H=h/p GY/CS digraphs; :d = visible dots (o/u umlaut), :a = accent.
+# | = isolated stroke, no letter value.  [x] = sign wholly or largely under postmark, tear or torn stamp, not seen as a whole.
+# Corrected after review 1 (2026-11-02): rows 7, 8, 17, 18, S3, S4. Bracketed signs on S1 to S4 are restorations at the torn stamp edge.
+# G? = g or gy (descender sign, cannot be separated).  . ? 1 2 9 = written literally (9 = unexplained sign on stamp row 5).
+01 ) Z E F E T E T E D E ) J O L A N K A M
+02 K I V A N O M H O GY A L E G J O 6 6
+03 E G E ) ) E G 6 E N T A L A L J A ) O F A I M . A M I
+04 E N G E M I L E T CS A K M E G V A GY O K
+05 E H E T E N V O L T A M A ) [A] N D O F N A L
+06 E ) E Z T H A L [L] [O] [T] [T] A M F O L A H O GY
+07 6 A J O ) A | Z E ) Z E 6 6 O L V A [L] A
+08 M I H O GY M E G? O K E D E ) E M + E L
+09 J O N E K H E ) T [F] E H A T I GY K E Z D T E M
+10 O:d F X:d L N I K O:d Z E L J O:d V O:d 6 E N GY A K
+11 F A 6 6 A N L A T H [A] [T] J X K E GY M A ) T
+12 D E A M I N T L A T ) Z I K N E M L E ) Z
+13 6 E L O:d L E E GY H A M A F I F J O E D E
+14 ) E M L E H E E M E G F E M E N Y E M
+15 H O GY + E L J O:d N N E K H E ) T E D E ) J O
+16 L A L A N K A:a M K X:d L V E ) 6 E N K E T K E F
+17 D E ) T D E M O N D A K E T O:d F E + E L E L E
+18 T E T . 1 H A M A G A M 6 A V A GY O K
+19 + O:d L I D E Z E M K E H E D
+20 M E F T I ) ) Z E F E T L E K E N
+21 O J A N N A GY O N T E G E D
+22 2 M I K O F H O Z M A F V E L E D O:d ) ) Z E
+23 E GY 6 O L D O G ) Z E H O:d F A ?
+24 M I K O F + O F F A Z A J K X N K O:d ) ) Z E
+25 X:d D V O:d ) ) E G E ) CS O K 6 A ?
+26 J O M X L A T A ) T K I V A N O K V A ) A F
+27 N A H ) O F A I T V A F O M M A F A D O K ) Z E F E T O:d K E D V E ) E + E F I
+S1 [I] [S] [T] [E] N V E L E
+S2 [E] [D] E ) E M M A
+S3 [R] [A] D O K ) Z E
+S4 [R] [E] T O:d K E D
+S5 E ) 9 E + E
+S6 F I CS O K O
+S7 L O M ) Z A M
+S8 T A L A ) Z O F
+S9 x

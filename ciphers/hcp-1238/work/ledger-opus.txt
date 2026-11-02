@@ -1,0 +1,38 @@
+# HCP1238 partial ledger, Claude Opus 5.5, 2026-11-02. One written row per line, literal letter values.
+# Read by eye from enlarged crops of work/hires/*_adr.jpg (work/crop.py, crop2.py). h = the h/p/d stroke-plus-tick sign, resolved by sense.
+# ? = a faint sign seen but not identified; {a|b} = alternatives. Rows 10-11 are the unresolved part.
+01 szeretetedesjolankamkivanom
+02 hogyalegjobbegessegbenesked
+03 vebentalaljasoraimhogytelt
+04 elazujesztoelsonapjanekem
+05 alegjobbanteltmert
+06 ejfelutan5perczelelkezdet   # the sign before "percz" may be k or the digit 5
+07 afogamfajniesazotafoj
+08 tonfajmarvetemfocsepet
+09 isesnemakarkialnonodebizunkaz
+10 isten{b}talan?{z|i}??alljobbanfog   # "?{z|i}??" unread; "isten" t is an arc-shaped sign, en of -ben not visible
+11 ?{e}gy??????a{mmm}?eg?am   # faint, not read as words; joins the clear "ultevetol" of the next entry
+11b ultevetol
+12 letiorulokhogyemerthogyje
+13 ledenegyonrosuesztendovolt
+14 soknelkulozesemmitnemfelej
+15 tekelsohakedvesjolankammar   # row 14 ends felej-, this row -tek el
+16 negyedszerfogokhozzaezirs
+17 hizugyelvagyokfoglalve
+18 hogymegmeghalnisemerekra
+19 esnemtudokmitirni
+20 mivelinincssemmi
+21 ujsagcsakdogozunfoj
+22 tonseunnepsevasarnap
+23 lapotsemkaptammer
+24 lassankethetepedig
+25 nagyom{i}varomezel
+26 bezaromsoraim
+27 maradokszeretokedveseferi
+S1 {c}sokol
+S2 omsza
+S3 mtalan
+S4 szor
+S5 ?????   # mostly under the printed triangle
+S6 hukedv?   # h u k e d, read as hű ked-
+S7 ese{..}feri

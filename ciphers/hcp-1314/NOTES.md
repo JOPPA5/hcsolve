@@ -17,3 +17,12 @@ Secure text (see SOLUTION.md): rows 1-6, rows 7-9 mostly. Rows 10, 12-18, 20-22 
 
 Why it stops: several rows could not be read sign by sign. Guessing words there would break the rule against forcing words onto noise. Most promising next steps: read row 10 (blot at about x 1300-1400), and rows 13-18 with a better contrast method or a higher-quality scan; compare with the unfinished sister cards hcp-1285 to 1319 once those are read.
 No DONE1 created.
+
+## 2026-11-02, Claude Opus 5.5 (solver): second attempt, still partial, no marker
+
+New crops by work/rev2.py into work/rev2/ (red-weighted channel, flat-field, deskew -1.2 deg). Re-read rows by strip and tile; earlier ledger not trusted. New readings and their weak points are in the Revision section of SOLUTION.md. Best new finds: nem megy, azt írta hogy, azért kérem. Withdrawn as unproved: mos[t?], na[p?], retten/volna.
+
+Word-sense calls, not pixel calls: d vs h in dol- and majd; i in -goz?k; the ü of üzenje. Row 1, 2 and 5-6 reading were not changed.
+
+Why it stops: whole clauses remain unread in rows 7-8, after the blot in rows 9-10, and in the row ends from y 1145 down. The completeness rule therefore fails. No DONE1, no register entry. Not every sign on the lowest row was re-read in this pass. Next step if tried again: a full sign-by-sign ledger of y 1145-1950 with the card's own d/h comparison, and any better scan.
+

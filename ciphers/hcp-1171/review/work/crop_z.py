@@ -1,0 +1,10 @@
+from PIL import Image, ImageOps
+f='../../work/hires/cpc_1915-11-22_HU_Mezokovesd_HU_Szomolya_szomolya-06_adr.jpg'
+im=Image.open(f).convert('RGB')
+S=2.477
+def c(name,x0,y0,x1,y1,z=3,red=False,rot=0):
+    b=(int(x0*S),int(y0*S),int(x1*S),int(y1*S))
+    p=im.crop(b)
+    if red: p=ImageOps.autocontrast(p.split()[0],cutoff=1)
+    if rot: p=p.rotate(rot,expand=True)
+    p=p.resize((p.width*z,p.height*z),Image.LANCZOS); p.save(name+'.png'); print(name,p.size)

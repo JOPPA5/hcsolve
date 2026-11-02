@@ -1,0 +1,30 @@
+# HCP1239 sign ledger, Claude Opus 5.5, 2026-11-02. Read by eye from enlarged crops of work/hires/*_adr.jpg. One token = one written sign.
+# Tokens as in hcp-1216: F=r  )=s  X=u  Z=z (tailed cross)  6=b  +=f  H=h/p  GY/CS digraphs, other letters themselves.
+# K8 = closed figure-8 variant of k. D>p, D>h = d-shaped sign (tick left, long stroke right) that the word needs as p or h.
+# :d = dots seen over the sign. Accents are not transcribed. ?s = blotted sign read s; ?g = sign cut by the card edge, read g.
+# {T} = t-sign where a k would be expected, kept as t. {x} = sign taken as deleted: {J} low-footed cross (j-sign, false start), {#} solid blot. - = hyphen, : = colon on the card.
+01 K E D V E ) J O L A N K A M 6 E CS E )
+02 ) O F A I T K O ) Z O N E T E L
+03 M E G K A D>p T A M I G A Z A N ) A J N A -
+04 L O M H O GY E N M I A T T A M
+05 A N Y I T ) Z E N V E D D E N E M T E
+06 D>h E T E K8 F O L A K E D V E ) J O
+07 L A N K A M J O J J O:d N E L A
+08 D A L E ) T E J F E CS X:d T O:d F
+09 T O:d F T O K O:d N I D E + E K E
+10 T E F X H A 6 A N I ) E L J O:d H E T
+11 M O C Z A F X F E K8 A T I ) M E G
+12 H I V T A M A ) Z O N Y ) A G A L
+13 I ) E L J O:d N E {T} H A CS T E H T I
+14 J O:d J O:d N E L E D E ?s E M 6 I ) Z T A
+15 T O V A L A ) Z A T V A F V A
+16 M A F A D O K8 O:d ) Z I N T E T I ) Z
+17 T E L O:d J E I ) T E N V E L E
+18 A V I ) Z O N T L A T A ) F A :
+19 E N ?g E ) Z T E L {J} {#} L J E K8 I K8 E D V E ) M A M A J A E ?s A H J A T T I ) Z
+20 T E L E T E M E T
+S1 CS O K O L O M
+S2 ) Z A M T A
+S3 L A N ) Z O F
+S4 I ) T E N V E
+S5 L E

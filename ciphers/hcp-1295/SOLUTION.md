@@ -1,6 +1,6 @@
 # HCP1295 — Letter to Jolánka Tóth about a song evening, Úrnapja 1912 (PARTIAL)
 
-**Status: PARTIAL. No marker created.** Every sign on the card is transcribed and about 90% of the text reads as clear Hungarian, but one clause (rows 20–22) and four shorter spots do not yet yield words. Worked by Claude Opus 5.5, 2026-10-30. No earlier work on this number. No published solution found; the portal shows Not solved and attaches none.
+**Status: PARTIAL (revised 2026-11-02). No marker created.** Every sign is transcribed and most of the text reads as clear Hungarian. The second attempt closed the main gap (rows 20-22) and rows 15-16, but four spots stay unread: the opening of row 8, the words around *a gyászt* in row 10, the words before *ember* in rows 20-21, and *bö-vében* in rows 22-23. Worked by Claude Opus 5.5, 2026-10-30 and 2026-11-02. No published solution found; the portal shows Not solved and attaches none.
 
 ## Cipher type and key
 
@@ -15,14 +15,14 @@ Card-specific sign notes:
 ## Reproduction (one command, from the repository root)
 
 ```sh
-python3 -I ciphers/hcp-1295/work/decode_opus.py
+python3 -I ciphers/hcp-1295/work/decode_rev2.py
 ```
 
-It checks the SHA-256 of both source files and both hires originals, validates and prints the sign ledger `work/ledger-opus.txt` (the signs have no ASCII form, so the ledger stores key values; it is a manual reading from pixels), then prints `work/normalized-opus.txt`.
+It checks the SHA-256 of both source files and both hires originals, validates and prints the sign ledger `work/ledger-rev2.txt` (the signs have no ASCII form, so the ledger stores key values; it is a manual reading from pixels), then prints `work/normalized-rev2.txt`.
 
 ## Hungarian (normalized; {…} = unresolved, literal letters)
 
-Édes egyetlen reményem! Becses sorait köszön[e]ttel megk[aptam], mely nagy örömömre szolgált. De ha azt írta volna, hogy eljön, sokkal jobban örültem volna. Magáról, édese[m], megfe[led]kezni én nem tudom. {h.oksoh…} annak i[s] örülök, hogy a meghívó örömére szolgált. {e…ö} a gyászt {letö?}, én csak dalestélyre hívtam Önt, édesem. Igazán sajnálom, hogy vasárnap várt rám, amint írtam, is nem mehettem le, kedves Jolánka. Azt ne {gyön} rosszul; [rosszul] teszi, ha valamit {a-h-H-akes} nem fogadja el. Én azt gondolom, ha valaki valakit őszintén szeret, a tőle el hódítani nem lehet, ha megérdemli. {azér is telember egész ga-II-hatje} ha vasárnap {bölvében}, akkor majd meglátom, hogy használ a falusi levegő. Tisztel[i] a kedves szüleit.
+Édes egyetlen reményem! Becses sorait köszön[e]ttel megk[aptam], mely nagy örömömre szolgált. De ha azt írta volna, hogy eljön, sokkal jobban örültem volna. Magáról, édese[m], megfe[led]kezni én nem tudok. {h.oks?ö?ha} annak i[s] örülök, hogy a meghívó örömére szolgált. {e..ö} a gyászt {öletö}, én csak dalestélyre hívtam Önt, édesem. Igazán sajnálom, hogy vasárnap várt rám, amint írtam, is nem mehettem le, kedves Jolánka. Azt nagyon rosszul teszi, ha valamit adnak és nem fogadja el. Én azt gondolom, ha valaki valakit őszintén szeret, attól elhódítani nem lehet, ha megérdemli. {azéri a tel}ember egész bátran elfogadhatja, ha vasárnap {bö-vében}, ak[k]or majd meglátom, hogy használ a falusi levegő. Tisztel(i) a kedves szüleit.
 
 Ha idejében megkapja soraim, mondja meg Moczárnak: holnap, Úrnapja délután 3 ór[akor] lesz a nyugdíjegylet fiókjának alakulása, jöjjön e[l]. Jó mulatást kív[án].
 
@@ -30,7 +30,7 @@ Isten vele, édesem! *(clear script)* Csókolom számtal[an]szor, viszontlátás
 
 ## English (readable parts)
 
-My sweet, only hope! I received your esteemed lines with thanks; they gave me great joy. But if you had written that you were coming, I would have been far happier. I cannot forget you, my darling, {…}. I am also glad that the invitation gave you joy. {…} the mourning {…}, I only invited you to a song evening, my darling. I am truly sorry that you waited for me on Sunday; as I wrote, I could not come down, dear Jolánka. {…} you do wrong if you do not accept {…}. I think that if someone sincerely loves someone, that person cannot be won away from them, if they deserve it. {…} if on Sunday {…}, then I will see how the country air is doing you good. [He] respects your dear parents.
+My sweet, only hope! I received your esteemed lines with thanks; they gave me great joy. But if you had written that you were coming, I would have been far happier. I cannot forget you, my darling. {...} I am also glad that the invitation gave you joy. {...} the mourning {...}, I only invited you to a song evening, my darling. I am truly sorry that you waited for me on Sunday; as I wrote, I could not come down, dear Jolánka. You do very wrong if something is given to you and you do not accept it. I think that if someone sincerely loves someone, that person cannot be won away from them, if they deserve it. {...} a person can quite boldly accept it, if on Sunday {...}, then I will see how the country air is doing you good. [He] respects your dear parents.
 
 If you get my lines in time, tell Moczár: tomorrow, Corpus Christi, at 3 in the afternoon, the branch of the pension association is being founded, let him come. [He/I] wish(es) a good time.
 
@@ -38,13 +38,13 @@ Farewell, my darling! I kiss you countless times, until we meet again.
 
 ## Slovak (čitateľné časti)
 
-Moja sladká jediná nádej! Vaše vzácne riadky som s vďakou dostal a urobili mi veľkú radosť. Ale keby ste boli napísali, že prídete, bol by som sa tešil oveľa viac. Na Vás, drahá, zabudnúť neviem, {…}. Teší ma aj to, že Vám pozvánka urobila radosť. {…} smútok {…}, ja som Vás, drahá, pozval len na spevácky večer. Naozaj ľutujem, že ste ma v nedeľu čakali; ako som písal, nemohol som prísť dole, milá Jolánka. {…} zle robíte, ak neprijmete {…}. Myslím si, že ak niekto niekoho úprimne miluje, nedá sa mu ten človek odlákať, ak si to zaslúži. {…} ak v nedeľu {…}, potom uvidím, ako Vám prospieva vidiecky vzduch. [Pozdravuje] Vašich milých rodičov.
+Moja sladká jediná nádej! Vaše vzácne riadky som s vďakou dostal a urobili mi veľkú radosť. Ale keby ste boli napísali, že prídete, bol by som sa tešil oveľa viac. Na Vás, drahá, zabudnúť neviem. {...} Teší ma aj to, že Vám pozvánka urobila radosť. {...} smútok {...}, ja som Vás, drahá, pozval len na spevácky večer. Naozaj ľutujem, že ste ma v nedeľu čakali; ako som písal, nemohol som prísť dole, milá Jolánka. Veľmi zle robíte, ak Vám niečo dajú a neprijmete to. Myslím si, že ak niekto niekoho úprimne miluje, nedá sa mu ten človek odlákať, ak si to zaslúži. {...} človek to môže celkom smelo prijať, ak v nedeľu {...}, potom uvidím, ako Vám prospieva vidiecky vzduch. [Pozdravuje] Vašich milých rodičov.
 
 Ak moje riadky dostanete včas, povedzte Moczárovi: zajtra, na Božie telo, o 3. popoludní bude založenie pobočky penzijného spolku, nech príde. Praje dobrú zábavu.
 
 S Bohom, drahá! Bozkávam Vás nespočetnekrát, dovidenia.
 
-## Why this stops short of complete
+## Why this stopped short on 2026-10-30 (superseded where the revision below says so)
 
 Unresolved, all signs transcribed but no word found; nothing was forced:
 
@@ -78,3 +78,27 @@ Unresolved, all signs transcribed but no word found; nothing was forced:
 - **Independent date check:** Úrnapja (Corpus Christi) 1912 fell on Thursday 6 June (Easter 7 April + 60 days, computed), the portal's date for this card. The text says *holnap, Úrnapja*, so it was written about the 5th; this was not assumed in advance.
 - *Moczár* also appears on another Jolánka card in this repo (found by grep after the reading).
 - Address in clear: Szépreményű Tóth Jolánka úrleánynak, Jászárokszállás.
+
+## Revision 2026-11-02
+
+By Claude Opus 5.5, on the human's order. I deskewed the left panel by 3.2 degrees (`work/rev2/e.py`) so each row sits level, and made new crops at 2-4x, in colour and in the green channel (`work/rev2/`). The first ledger had misaligned rows at the slope; that caused most of the old gaps. New ledger: `work/ledger-rev2.txt`. The earlier `ledger-opus.txt` and `decode_opus.py` are kept as the record.
+
+**Changed:**
+
+- **Rows 21-22 (old main gap).** Eleven signs of row 21 were missing from the first ledger. The row runs on past *egész*: `b a t r [struck blot] a n e l f o`, and row 22 begins `g a d h a t j a`. So: **egész bátran elfogadhatja**, "can quite boldly accept it". The blot after r is a cancelled sign on my reading; the two bars after it are a. The e l at the row end overlap (the wave runs across the top of the bars) and f is the upright cross. The last sign of *fogadhatja* has two strokes, so a, not e. Row 21 begins with a two-bar a at the card edge, not s.
+- **Row 15.** The sign after n has two strokes: a, not e. *Azt ne gyön rosszul* is **Azt nagyon rosszul teszi**. No repeated *rosszul* is needed, so the old doubled reading is withdrawn.
+- **Row 16.** `a d H a k e s` is **adnak és**, "they give and". H has the two strokes of n plus a crossbar: n read on word sense, the bar unexplained. The d is the h/p/d group, on word sense.
+- **Row 7 end.** The row continues past the panel rule: `d`, an unclosed cursive loop, then a clear k. So **tudok**, not *tudom*. The unclosed loop as o rests on word sense. The old row 8 opening is not part of this word.
+- **Row 19.** `a t o l e l` is **attól el(hódítani)**, not *a tőle el*; no sign changed. One t for tt.
+- **Row 22.** The last sign is a small arc against the panel rule, not a full wave: the old *böl* is not secure.
+
+**Still unread (why the card stays partial):**
+
+1. **Row 8 opening:** `h . o k {) with inner tick} o {blot} h a`, about 8 signs, then *annak*. Read on the new crops; no word found. The tall sign under the blot may be h/d or part of a t whose roof is hidden; I do not guess.
+2. **Row 10:** `e , I {blot} o` before *a gyászt*, and `o l e t o` after it. The first group may be a word like *ehhez* in a dialect form (*ehhö*), but the blot hides a sign. *öltö* (from *gyászt ölt*, "to put on mourning") and *letö[lti]* (to serve out) were both considered; neither fits the letters as written, so neither is adopted. hcp-1237 speaks of *letelik a gyász*, which supports the topic only.
+3. **Rows 20-21:** `a z e r i a t e l e m b e r`. *ember* is clear from the sense of what follows, and *az ember* would be the natural subject, but the letters are *a t e l* with no z. *azér[t] a ...* is possible; *tel* is not explained. *az értelmes ember* does not fit the signs.
+4. **Rows 22-23:** `b ö {arc} / v e b e n`, after *ha vasárnap*. If the arc is only a line-end stroke this is *bővében* ("in plenty"), which gives no clear sense here; if it is a cut-off l, *bölvében* is no word I can find. Not adopted.
+
+These are four separate spots, one a whole unread opening, so the completeness rule is not met: no DONE1, no register entry. The smaller points listed earlier still stand, except those the changes above replace.
+
+**Parallels used:** hcp-1237 for the mourning topic only. A grep of the family's SOLUTION.md files for *bátran*, *bővében* and *elfogadhat* found nothing useful. No reading here was taken from a sister card.

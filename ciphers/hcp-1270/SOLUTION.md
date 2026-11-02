@@ -1,6 +1,6 @@
 # HCP1270 — Feri to Jolánka Tóth: the army medical review, a possible farewell, and no suit to visit in
 
-**Status: PARTIAL. All signs are transcribed and rows 1 to 29 plus row 30 up to *ruhám* read as connected Hungarian, but the last clause of row 30 is not understood (item 1 under Uncertainties). No register entry.** Claude Opus 5.5, 2026-11-01.
+**Status: PARTIAL (re-attempted 2026-11-02, unchanged). All signs are transcribed and rows 1 to 29 plus row 30 up to *ruhám* read as connected Hungarian, but the last clause of row 30 is not understood (item 1 under Uncertainties and the Revision section at the end). No register entry.** Claude Opus 5.5, 2026-11-01, revised 2026-11-02.
 
 Credit: no earlier work on this number. The key comes from the finished Jolánka family cards (HCP1216, 1212, 1213, 1217, 1218, 1243, 1301; capture and key transfer there by the OpenAI GPT solver, completed by Claude Opus 5.5). All reading on this card is by Claude Opus 5.5. The portal shows status *Not solved* and attaches no transcription or solution. No published solution of this card was found; no outside plaintext was used. The transcription is my own, from `work/hires/*_adr.jpg`.
 
@@ -61,7 +61,7 @@ Pod známkou (čiastočne doplnené): Bozkáva Vás nespočetnekrát Váš miluj
 4. **Row 18 `ba[n]`**: the two strokes are overinked. *legjobb|ban* is literal with one b too many; normalized *legjobban lesz*. The n is a restoration from a blotted sign.
 5. **Row 21 `eltünö[k]`**: the sign after n is a blot with two dots and a hook at upper right. The hook could belong to a k or be a separate s; *eltűnök* is the only word, so k is word sense. The isolated stroke at the end of row 21 has no letter value.
 6. **Row 23 `ba[l]`, row 27 `fe[l]ejt`, row 28 `a[m]enetelemet`**: each sign is overinked; the values are restorations that give *balsors*, *felejt*, *menetelemet*.
-7. **Row 26 `mel`, unresolved.** Three strokes, three bars, a clear wave, literally *mel*. *Mert* would need two letters not on the card, and the writer spells *mert* correctly in rows 22 and 26, so this is left as `mel[?]`. Two ways to take it: *Biztató szavam: még maga boldog lehet ...* with `mel` as a stray word, or *mel[y]* ("which") with y dropped, as in `ojan` for *olyan*; the older punctuation *..., biztató szavam! Mer[t] még ...* is the third and weakest. The sense of the sentence is the same in all three. The h/p and d/n calls in *kaptam, szépen, napig, lap* (p) and *hogy, ha, hála, lehet, hírem* (h), and in *idő, mondok, üldöz, végződött, dolog* (d) rest on word sense. So do the k/g calls: closed k and open g with descender run close together on this card, for example in row 24 *enekem* and row 16 *sikerül*. No word changes.
+7. **Row 26 `mel`, unresolved.** Three strokes, three bars, a clear wave, literally *mel*. *Mert* would need two letters not on the card, and the writer spells *mert* correctly in rows 22 and 26, so this is left as `mel[?]`. Two ways to take it: *Biztató szavam: még maga boldog lehet ...* with `mel` as a stray word, or *mel[y]* ("which") with y dropped, as in `ojan` for *olyan*; the older punctuation *..., biztató szavam! Mer[t] még ...* is the third and weakest; a shortened *mel[lett]* (added 2026-11-02) is a fourth. The sense of the sentence is the same in all three. The h/p and d/n calls in *kaptam, szépen, napig, lap* (p) and *hogy, ha, hála, lehet, hírem* (h), and in *idő, mondok, üldöz, végződött, dolog* (d) rest on word sense. So do the k/g calls: closed k and open g with descender run close together on this card, for example in row 24 *enekem* and row 16 *sikerül*. No word changes.
 8. **Row 29 `aztart`**: the sign after *de* has a closing curve, so it looks between a and s. Read *de az tart vissza* by sense; literal `s` would give *de sztart*.
 9. **Row 9**: the a after *val* is overwritten with a vertical stroke; value a by word.
 10. **Stamp rows.** The stamp was torn off and took ink with it. S1 opens with faint remnants read *cs*; S2 opens with a worn sign read *j*, then *a*, then the faded *sz*, a lost *á* and three strokes *m*; a green-stained crescent there (`#`) is paper damage. S5 *s[z]ere* and S6 *[t]ő* are also damaged. *Csókolja számtalanszor szerető kedvese Feri* is the family closing formula and fits all surviving signs, but S2 is largely a restoration, so the normalized line brackets the restored letters. The first sign of S2 is only a broken angle (the family also has *Csókolom*; *Csókolja* fits better), and S1 has more faint residue at its right end that the ledger does not account for.
@@ -84,3 +84,35 @@ Verdict REVISE. No sign, key value or ledger entry changed; `work/ledger.txt` an
 5. k/g (minor): fixed. One line added to Uncertainty 7.
 6. Stamp rows (minor): fixed. Normalized closing bracketed; broken first sign of S2 and S1 residue disclosed (Uncertainty 10).
 7. Counts (minor): fixed, confirmed by counting the literal rows: *hogy* 6, *édesem* 2, `ilet-` 3. The claim now stops before the last clause.
+
+## Revision 2026-11-02
+
+Second attempt ordered by the human, by Claude Opus 5.5. Result: **still partial.** No sign, ledger entry, normalized text or translation changed. No DONE2, no register entry.
+
+Unread before this attempt: the clause `sohamostvazazoltonyamitmabistud` at the end of row 30 (blocking), and the lone word `mel` in row 26 (not blocking by itself).
+
+New crops: red channel with autocontrast, 3x to 6x, from the hires address image (`work/rev-2026-11-02/`, script `crop_red.py`). Signs re-read one by one, independently of the ledger: s o h a m o s t v a z a z o l t o n y a m i t m a b i s t u d. All agree with the ledger, with one new observation:
+
+- The a in `vaz` is not a plain two-bar a. Its upper bar ends in a hook that closes down to the right, and the lower bar has a small downward tick. Row 29 `aztart` has a similar closing curve (Uncertainty 8). The sign is therefore a, e or a merged a+s; the pixels do not decide. The bars are two, not three.
+- The last sign is a short stroke at left and a long stroke at right, separate at the top, matching the d of row 29 *ked*. It is not the h of this same clause, which has the long stroke at left and a dot at right. The 6 is a clean closed bowl at 5.5x. The sign after it is a dotted crossed curve (i).
+
+Readings tried and rejected:
+
+| Attempt | Why rejected |
+|---|---|
+| `vasas` / `vasutas öltöny` (the railway uniform of HCP1227, 1228, which Jolánka disliked) | The best idea on sense, but a parallel only: needs z read as s twice, or lost letters, and leaves `soha most` without syntax |
+| `vész` / `vesz az öltöny` | Possible as signs with the e value, but no sentence with what follows |
+| `s ha most van az az öltöny, amit maga is tud` | Attractive sense ("and if I now had that suit you know of"), but needs o deleted, z read as n, and 6 read as *ga*: three changes against clear signs |
+| `amit meg is tud` | Needs a read e and 6 read g, against both signs |
+| `az öltönyam` (for *öltönyöm*) with `it[t] ma` | a for ö not paralleled; `bistud` stays unexplained |
+| `Zolton`, `tanya`, `az ól` | Fragments only; none links to its neighbours |
+| `bíz tud`, `bizton tud`, `biztos[an] tud` | Sign is s; this writer spells `bizt-` with z in row 25 |
+| `mos[t]va` (*mosva*, washed), `szoba` from `sopa` | Each needs changes and leaves the rest unread |
+
+Vocabulary sweep: `work/rev-2026-11-02/vocab_sweep.py` matched every substring of the clause against 2,720 word forms from the Hungarian sections of the Jolánka cards, allowing h/p, d/n, a/e, i/o, z/s, k/g, b/g and u/o. It found only short words already known (*soha, ha, most, azaz, az, amit, mit, is, tud*) plus *meg*, *mast* and *tanya* as variant matches. No long word appears and no chain covers the clause. A text search of the family's solutions for *öltöny* and *ruha* found no other *öltöny* and no parallel phrase (*ruha* passages: HCP1205, 1227, 1228, 1239, 1246, 1256, 1265, 1279).
+
+The clause ends at the corner of the card, so `tud` may be cut short (for example *tud[om]*); that cannot be tested. No Hungarian speaker has checked it, and that is the most likely way forward.
+
+One new option for row 26: `mel` may be a shortened *mel[lett]* ("alongside my word of comfort"); the writer spells that word `melet` later in the same row. It is listed with the alternatives in Uncertainty 7, and the text still shows `mel[?]`.
+
+By the completeness rule a whole unread clause is partial, so the card stays partial. Reproduction is unchanged: `python3 -I ciphers/hcp-1270/work/decode.py`.

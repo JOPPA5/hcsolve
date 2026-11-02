@@ -1,0 +1,31 @@
+# HCP1222 sign ledger, Claude Opus 5.5, 2026-11-02. Read sign by sign from enlarged crops of work/hires/*adr.jpg (crops made by work/crop.py, work/z.py).
+# One token = one written sign. Tokens: F=r  )=s  X=u  Z=crossed tailed z  6=b  +=f  /=d (short stroke + long)  H=tall stroke + short tick at right (h/p near-homograph)
+# P=same H/p sign where the word needs p  GY, CS joined groups  7=plain digit  .=written full stop  :acute/:diaeresis = mark seen over the sign.
+# Revised 2026-11-02 after review 1: rows 5, 6, 11, 15, 18. Row 5 N stands partly over, row 6 M partly under, the postmark.
+# Special: D?=doubled crossed stroke sign, read d from context; R>T=corner sign without mid bar where the word needs r; BLOT=blotted bar sign, a or e.
+01 ) Z E F E:acute T E T E:acute / E ) J O L A N
+02 K A:acute M T X / A T O M H O GY ) Z E F E N
+03 CS E ) E N M E G E F K E Z T E M 6 A:acute F
+04 L E K E:acute ) T E M A V O N A T F O L
+05 E ) CS A K 7 O F A F A E:acute F T E M GY O:diaeresis N
+06 GY O:diaeresis ) F E . E / E ) E M M E G N E M
+07 T X / O M M I J A N ) O F ) V A:acute
+08 F A:acute M M E:acute G CS A K H E L X T A N
+09 N E Z E K M X N K A . X T A N O T A
+10 H O N I ) V A N M X N K A
+11 E ) M E:acute F K I A / T A E:acute / E A P A M
+12 A J E L ) Z O T H O GY H O L
+13 G O Z BLOT K M E F N E M A / E N I
+14 D? E M O ) T N E M I:acute F O K T O:diaeresis 6
+15 6 E T M A J / E ) T E:acute F A 6 O:diaeresis V E
+16 6 E N I ) T E N V E L E E:acute / E ) E M
+17 V I GY A Z O N E G E:acute ) ) E:acute G E:acute F E
+18 A / J A A T I ) Z T E L E T E M K E / V E )
+19 M A M A J A N A K E ) T E ) T V E:acute R>T E I N E K
+20 T I ) Z T E L T E T E M A M A N C Z I K A T I )
+c1 CS O K O
+c2 L O M
+c3 ) Z A M
+c4 T A L A N
+c5 ) Z O R>T
+c6 + E F I

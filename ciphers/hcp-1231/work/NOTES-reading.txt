@@ -1,0 +1,22 @@
+R1 szeretet edes jolankam
+R2 becses sorait megkap
+R3 melyet koszonok szepen (+faint end?)
+R4 ? j j o l e s ... unclear
+R4 g? j j o l e s X1(cross+tick above) s z X3(faint,dot above) X4(cross) e n | n // m? e d o k y
+R5 j o h o z/gy a | a m e ?(hook) ?(big loop) j | o z e r e n ?(7)
+R6 a l d o m a z i s t e n F(t/r?) h o g y  => aldom az Istent hogy
+R7 o s z e h o z o t m a g a v a l => (hogy) ossze hozott magaval  [o=7-arc sign, tail right]
+R8 e d e s e m k e d v e s e m k o: s z o: => edesem kedvesem koszo-
+R9 n o: m  h o g y  [/ blob] [=] S = [o-flag] ) = x y/v ) 
+R9b ... i s (=Isten start) R10 t e n s e g i t s e g e t  k? e r [/ .] e  /
+R11 a z e n e r e 'd? e s e n | b ? / e e n ? z ) : "az én erős Isten" no: a z e n e r o  ...
+R11 reading: a z e n e r ó d e s e n b e e n z s(?)   ?? -> "az én erődesenbe-enzs"
+Interim: R3 melyet koszonok szepen {u?} R4 gy j jol esi s z iv e m n e hogy R5 jo hozam es oj szereny R6 aldom az Istent hogy R7 ossze hozot magaval R8 edesem kedvesem koszo R9 nom hogy ??? az is R10 ten segitseget ker? R11 az en erdekemben ? R12 a jo Isten seg...
+R13 mentem a vizsgara es azt R14 tartom hogy k? ? isten
+R15 ba bizok sohasem csalat R16 kozok e? ...
+KEY NOTE: tall loop+flag (R4 start, R18) = o variant: oj jol / nagyobb. oj=oly.
+R17 tentaganohezentulmeg R18 negyobb szeretet? al va?
+R19 s z e ? a j o i? s e? r a n t ; R20 megigertem hogy a n o? k
+R20 m e g i g e r t e m h o g y a d o k  (d: short tick + long) R21 a sz e n t a n t a l n a k + 7(?) k o r R22 o n a t e s ...
+R22 o n a t e s a h e j e t ...; ... (i) s t e n | s z e n ? e r t e m/n s (print overlaps) ; R23 ... b e z a r o m e l a p (last words)
+R22 end ... R23 s o r s j a k ... ; end "... e l a p o t" bottom right. Stamp box holds ~7 rows, centre hidden by stamp remnant (triangle).
