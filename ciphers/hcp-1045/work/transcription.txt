@@ -1,0 +1,19 @@
+# hcp-1045 transcription (Claude Opus 5.5, from work/hires/..._adr.jpg, block rotated 90 deg clockwise)
+# Notation: x after a number = darker diagonal cross stroke over it (capital marker, as on hcp-1113);
+# " = umlaut ticks; ^ = umlaut NOT marked on the card, supplied by word sense (Ü of ÜBER); = after a number = bar over it (doubled letter); | = separator the writer omitted
+# (word-sense split, see SOLUTION.md); ! and ? are punctuation written as such; - = word dash.
+# [margin, written diagonally at the top-left corner of the block]
+23.15. - 3.10.19.20. - 5.21. - 9.6.21.20 ?
+# [main block, 10 lines]
+12.10.6.3.6.18. 7x.18.10.20.26. !
+6.3.6.14. - 5.6.10.6.14.6. - 11x.2.18.
+# (line end above: a double tick after KAR, read as the Kurrent word-division mark for KAR-TE, not as an umlaut)
+20.6. - 6.18.9.2.12.20.6.14. - 21^x.3.6.18.
+23.2.19. - 10.19.20. - 5.6.14=. - 5.2|19.26. -
+7.21".18. - 6.10.14. - 7.15.18.20.23.2".18.
+6.14.5.6.19. - 8x.6.26.2.14.11.6. ?
+10.19.20. - 5.2.19. - 5.10.6. -
+7x.18.6.21.5.6. - 2.21.7. - 13.6.10.
+14.6. - 8x.6.19.21.14.5.9.6|10.20. ?
+13.10.20. - 8x.18.21.19.26. -
+19.21.19.10.

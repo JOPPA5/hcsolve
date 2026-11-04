@@ -6,6 +6,8 @@
 
 Hungarian, simple monoalphabetic substitution with invented graphic signs (MASC): the Jolánka postcard family. The key is transferred unchanged from the finished cards hcp-1216, 1212, 1213, 1217, 1218, 1243 and 1301 (table in `ciphers/hcp-1216/SOLUTION.md`); no sign needed a new value. Summary as used here:
 
+Type note (2026-11-03): register type is now **MASC + Steganography**, because six rows of the message (the farewell and signature) are written in the stamp box and were hidden under the stamp, which is now lifted. The cipher itself is unchanged MASC.
+
 a two bars; b six; cs opposed bowls; d short stroke on the left of a long one; e three bars; f upright cross; g open loop with descender; h/p long stroke with a separate short tick on its right (one class); i dotted loop; j inverted T; k section mark; l wave; ly wave joined to a descender; m three strokes; n two strokes; o cursive loop; r F-like; s right bowl; t gamma; u/ü plain cross; v chevron; y low descender; z tailed cross. Accents are marks over the base sign and often invisible.
 
 The picture side (printed photograph, no. 1012) has no writing. The address side is plain: "Szépreményű Tóth Jolánka úrleánynak, Jász-Árokszállás". Postmark: fragment GY…, year 913 (1913), rest lost at the stamp.
@@ -73,6 +75,17 @@ Pod známkou: S Bohom, drahá! Bozkáva Vás Váš verný milý, Fr…
 - Long words appear without forcing: *megörültem, alkalmatlankodok, közgyűlése, tűzoltó, testület, hétköznap, imádójára*; repeated words decode alike (*nem* ×3, *mehettem* ×2, *édesem* ×3, *hogy* ×3).
 - The text fits the family: *Várva várt sorait*, *a legjobb … találja soraim* and formal Ön address recur on sister cards, as does *hű kedvese* and *imádója*. The text is about going down by train to the addressee's town, also a family theme.
 - The result is a mundane, specific excuse (a fire brigade meeting) that nobody would guess; it was not expected from context.
+
+## Stamp-box message (2026-11-03)
+
+Audit on the un-converted original (`work/hires/..._adr.jpg`), crops at 3x in `work/stamp-2026-11-03/` (`stamp_top_3x.png`, `stamp_bot_3x.png`). The stamp has been lifted; green remnants stay at its left edge and in the lower right corner, and the postmark ring crosses the area. Six short rows in the cipher signs (no plain Hungarian) are written where the stamp sat. They were already read on 2026-11-02 and are in the ledger as S1–S6, so `work/decode.py` covers them; re-run today: hashes OK, 414 signs, none without a value. My fresh look at the crops agrees sign by sign: isten | vele | édesem | csokol | jahüked | vessefr. Below row S6 the box is blank paper.
+
+- Literal: `isten vele édesem csokol jahüked vessefr`
+- Hungarian (normalized): Isten vele, édesem! Csókolja hű kedvese, Fr…
+- English: God be with you, my darling! Kisses from your faithful sweetheart, Fr…
+- Slovak: S Bohom, drahá! Bozkáva Vás Váš verný milý, Fr…
+
+Unread: nothing in the visible box. The r of the signature touches the lower-right stamp remnant; whether more letters (e.g. -eri) lie under that remnant cannot be seen (uncertainty 5). The first sign (i) is glue-smeared (uncertainty 9).
 
 ## Credit
 

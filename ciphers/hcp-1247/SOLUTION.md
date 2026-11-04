@@ -4,7 +4,9 @@
 
 ## Cipher type and key
 
-Hungarian, simple monoalphabetic substitution with invented graphic signs (Jolánka postcard family, MASC). The key is transferred unchanged from `ciphers/hcp-1216/SOLUTION.md`:
+Hungarian, simple monoalphabetic substitution with invented graphic signs (Jolánka postcard family, MASC).
+
+*Type note (2026-11-03):* the register type is now **MASC + Steganography**, because a cipher message is hidden in the stamp box under the (now torn-away) stamp; see the section "Stamp-box message (2026-11-03)". The key is transferred unchanged from `ciphers/hcp-1216/SOLUTION.md`:
 
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
@@ -68,6 +70,17 @@ Pod známkou: S Bohom, moja sladká! […]-dig (slovo prečítané len čiastoč
 ## Plain text on the card (not cipher)
 
 Address side: *Szépreményű Tóth Jolánka úrleánynak, Jászárokszállás* ("To the fair-promising Miss Jolánka Tóth"), in the same purple pencil; the first word is written across the postmark and is read with the help of the same formula on HCP1245, 1251 and 1252. Boxed mark *RÁKOSPALOTA-Ú…* (cut off at the stamp), as on HCP1216, which gives the writer's likely area, near Budapest, and fits *feljön* ("comes up") and *vasutasné*; that is an inference, and no identification is claimed. Round postmark *JÁSZÁROKSZÁLLÁS*, only partly legible. Picture side: a tinted photograph of a couple, printed title *Oh csak még egyszer összejönnénk…* ("Oh, if only we could meet once more…") and a four-line printed verse, Hungarian print, no cipher and no handwriting.
+
+## Stamp-box message (2026-11-03)
+
+Audit on 2026-11-03 of the original hi-res address side (`work/hires/…_adr.jpg`, crops in `work/stamp-2026-11-03/`, made by `crop.py` there). The stamp is **lifted (torn away) with writing under it**: only a strip of the green stamp at the left edge of the box and a corner under old tape at bottom right remain. The hidden note is written in the **cipher signs** (same key, same purple pencil), six short rows inside the dotted stamp box; no plain Hungarian is under the stamp. It was already read on 2026-11-01 (rows B1–B6 of `work/ledger.txt`, decoded by the reproduction command); this audit re-read it from the pixels and confirms that reading without change.
+
+- Literal: `[i][s]ten / vele / edesem / ??dig / viszot / lat(tape)`
+- Hungarian (normalized): *[Is]ten vele, édesem! […]dig viszo[n]tlát[ásra].*
+- English: God be with you, my sweet! […]-dig (one word only partly read), until we meet again.
+- Slovak: S Bohom, moja sladká! […]-dig (slovo prečítané len čiastočne), do videnia.
+
+Still unread: the first two signs of B4 (a crossed curve with a right arm, without a visible dot, then an arched loop); they give none of *addig*, *mindig* and the like, so no word is adopted. The end of B6 (*-ásra* and any signature) is under the old tape and cannot be read. *Is-* in B1 stays a disclosed restoration (hidden by the stamp fragment). The stamp-box text is covered by the existing ledger and reproduction script; nothing was added to them.
 
 ## What remains uncertain
 

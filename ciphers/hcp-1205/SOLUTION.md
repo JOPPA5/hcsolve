@@ -21,6 +21,19 @@ The tall + short sign stands for h and p, and the word decides which (`H`, `P` i
 
 Layout: rows 01-27 fill the left half and run along the bottom; rows U1-U8 in the upper right are written with the card turned 180 degrees; rows S1-S8 sit under the stamp. At the divider the upright rows and the upside-down rows butt together, so the crops have to be split there (`work/croprot.py`). The order of the three blocks in the reading is mine: greeting first, signature last.
 
+Type note (2026-11-03): the stamp is lifted and rows S1-S8 are written in cipher under it, so the register type is **MASC + Steganography** (was MASC).
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit at the human's request (Claude Opus 5.5). The stamp is lifted; only a torn paper edge and green stamp traces remain at the bottom of the box. Under it are eight rows in the cipher signs only, no plain Hungarian (crops `work/stamp-2026-11-03/box_2x.png`, `rows0_3x.png`-`rows2_3x.png`). Re-checked against the ledger rows S1-S8 sign by sign; the reading below is the one already in this file and in `work/ledger.txt`, decoded by `work/decode.py`, which was left unchanged.
+
+- Literal: `istenvele / edesemabol / dogviszont / letesra?üd / vözlöma / tavolbol / akiojnagyon / szeretijolanka`
+- Hungarian: Isten vele, édesem, a boldog viszontlátásra. Üdvözlöm a távolból, aki oly nagyon szereti, Jolánka.
+- English: God be with you, my sweet, until a happy reunion. I greet you from afar, she who loves you so much, Jolánka.
+- Slovak: S Bohom, môj drahý, do šťastného videnia. Pozdravujem Vás zďaleka, tá, ktorá Vás tak veľmi ľúbi, Jolánka.
+
+Unread: nothing at clause level. The s of S1 is faint over the stamp ghost, and S4 has one doubtful sign (`?`) inside *viszontlátásra*; both are already listed under Uncertainties.
+
 ## Reproduction (one command, from the repository root)
 
 ```sh

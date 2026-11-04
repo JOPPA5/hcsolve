@@ -4,7 +4,10 @@
 
 ## Cipher type and key
 
-Hungarian, simple monoalphabetic substitution with invented graphic signs: the Jolánka postcard family. The key was transferred, not invented, from the finished cards HCP1216 (table in its SOLUTION.md), 1301, 1243. Sign classes: two bars a; 6-shape b; opposed bowls cs; long stroke + tick d; three bars e; cross f; open loop with descender (4-like) g; tall stroke + tick h/p; dotted crossed curve i; inverted T j; section mark or S-curve k; wave l; three short strokes m; two short strokes n; cursive loop o; F-shape r; right bowl s; gamma t; x-cross u; chevron v; low descender y; crossed diagonal z. Dots over o/u give ö/ü. Digits are written as plain digits (as on HCP1301). On this card u and z are close; every call follows the word.
+Hungarian, simple monoalphabetic substitution with invented graphic signs: the Jolánka postcard family.
+
+2026-11-03: type is now **MASC + Steganography**: the closing (seven lines in the cipher signs) was written in the stamp box and covered by the stamp, which is now lifted. The register label was changed to match.
+ The key was transferred, not invented, from the finished cards HCP1216 (table in its SOLUTION.md), 1301, 1243. Sign classes: two bars a; 6-shape b; opposed bowls cs; long stroke + tick d; three bars e; cross f; open loop with descender (4-like) g; tall stroke + tick h/p; dotted crossed curve i; inverted T j; section mark or S-curve k; wave l; three short strokes m; two short strokes n; cursive loop o; F-shape r; right bowl s; gamma t; x-cross u; chevron v; low descender y; crossed diagonal z. Dots over o/u give ö/ü. Digits are written as plain digits (as on HCP1301). On this card u and z are close; every call follows the word.
 
 ## Reproduction (one command, from the repository root)
 
@@ -96,3 +99,15 @@ Review verdict REVISE. I reread rows 3, 8, 9 and the stamp block on the reviewer
 9. **`találkozásom`: fixed.** Translations read "my first meeting [with you]" and item 16 notes the literal sense.
 
 The reproduction command was re-run after the changes: all four hashes OK, and it prints 515 tokens, 8 of them restored, none lost without restoration. The reviewer's independent decoder (`python3 -I ciphers/hcp-1227/review/work/decode_review.py`) now shows no difference from the ledger on rows 1 to 24: 477 letters on both sides.
+
+## Stamp-box message (2026-11-03)
+
+I checked the stamp box again on the original scan (work/hires, crops in work/stamp-2026-11-03/). The stamp is lifted. Under it there are seven short lines in green ink in the same cipher signs as the main text; I found no plain Hungarian there. The reading already above (ledger rows `stamp:`) stands, and I found nothing to change:
+
+- literal: `isten / veleede / [s][e][m]abol / [d][o]gvi / s[z][o][n]t / latasig / feri`
+- Hungarian: Isten vele, éde[sem], a bol[do]g visz[on]tlátásig. Feri.
+- English: God be with you, my sweet, until the happy reunion. Feri.
+- Slovak: S Bohom, moja sladká, do šťastného zvidenia. Feri.
+
+What stays unread is the same as in items 1 and 2: five signs in the torn patch (s, e, m; d, o) are restored from the family closing, and three signs under the printed triangle (z, o, n) are restored from the word. The counts are estimates. No whole clause is missing. The ledger and work/decode.py already cover these rows; I did not change them.
+

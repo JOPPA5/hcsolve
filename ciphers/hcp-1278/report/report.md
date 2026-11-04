@@ -8,11 +8,11 @@ Human solver: Tomáš Pavuk
 
 The cryptogram is record 1278 of the HC Portal (https://crypto.hcportal.eu/dashboard/cryptograms/1278), part of Tobias Schrödel's collection of cryptographic postcards (private collection). When it was captured on 2026-11-01 the portal listed it as **Not solved**, tagged Postcard, T. Schrödel Collection, category Substitution, language Unknown, location Europe, sender Unknown, recipient Tóth Jolánka, with no transcription or solution attached. No published solution of this card was found or used.
 
-The address, in plain writing, reads *Szépreményű Tóth Jolánka kisasszonynak, Jász Árokszálás*: Miss Jolánka Tóth, at Jászárokszállás in Hungary. A postmark shows ÁROKSZÁ…, 912 and 27, with the month illegible. The portal's file name also gives 1912 and day 27. A second cancellation rings the stamp box, with letters like G and V or Y and a date band; it was seen but not read, so the place of writing is unknown.
+The address, in plain writing, reads Szépreményű Tóth Jolánka kisasszonynak, Jász Árokszálás: Miss Jolánka Tóth, at Jászárokszállás in Hungary. A postmark shows ÁROKSZÁ…, 912 and 27, with the month illegible. The portal's file name also gives 1912 and day 27. A second cancellation rings the stamp box, with letters like G and V or Y and a date band; it was seen but not read, so the place of writing is unknown.
 
-The picture side shows a kissing couple with a printed love verse (*Hulló falevél … Sárgult falevél … Ajkam ajkadat érintve … Nem szól; csak szivem beszél.*). That matters for the text: the writer apologizes for sending such a card in sad days.
+The picture side shows a kissing couple with a printed love verse (Hulló falevél … Sárgult falevél … Ajkam ajkadat érintve … Nem szól; csak szivem beszél.). That matters for the text: the writer apologizes for sending such a card in sad days.
 
-The cipher stands in 17 rows of red ink on the left of the address side. The stamp box holds a plain, unenciphered greeting: *Csókolom a távolból* ("I kiss you from afar"), whose first letter lies under a pink blot and is restored.
+The cipher stands in 17 rows of red ink on the left of the address side. The stamp has been lifted, and the stamp box holds a plain, unenciphered greeting that was hidden under it (steganography, checked again on 2026-11-03): Csókolom a távolból ("I kiss you from afar"), whose first letter lies under a pink blot and is restored.
 
 The card belongs to a large family of postcards to Jolánka Tóth in one cipher, several of which are finished in this repository (for example HCP 1212, 1213, 1216, 1217, 1218, 1243, 1301). The key was transferred from those cards, so this is a **known, transferred key**, not a new key recovery. That family work was done by the OpenAI GPT solver and by Claude Opus 5.5.
 
@@ -24,11 +24,11 @@ The card belongs to a large family of postcards to Jolánka Tóth in one cipher,
 
 The transcription is manual: the 17 rows were cropped from the portal's high-resolution address scan, enlarged and read sign by sign into a ledger with one token per written sign. The family key was then applied by a small script. The reading was not blind, since the key and the wording of sister cards were known. Doubtful signs were compared with other occurrences on this card and with the ink profile of the row.
 
-Hungarian word division, accents and spelling are editorial. The cipher writes no spaces, and this writer often uses single for double consonants (*keten* for *ketten*, *ithon* for *itthon*) and *ij* for *ily*.
+Hungarian word division, accents and spelling are editorial. The cipher writes no spaces, and this writer often uses single for double consonants (keten for ketten, ithon for itthon) and ij for ily.
 
 ## Key
 
-Simple monoalphabetic substitution with invented graphic signs. Names of signs are conventional descriptions of handwritten shapes.
+Register type: **MASC + Steganography** (changed 2026-11-03). The cipher is a simple monoalphabetic substitution with invented graphic signs, and a plain greeting was hidden under the stamp. Names of signs are conventional descriptions of handwritten shapes.
 
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@ Literal decipherment, row by row. Square brackets mark overwritten or blotted si
 17 maradtakat
 ```
 
-Row 9 prints *edes* because the sign was taken as d from word sense; its form is that of h/p.
+Row 9 prints edes because the sign was taken as d from word sense; its form is that of h/p.
 
 **Hungarian (normalized).** Kedves Jolánka! Tudatom, hogy szerencsésen megérkeztem. Az út elég rövid volt, mivel hogy ketten voltunk. Hogy telnek mostani szomorú napjai? Vigasztalódjon, édes Jolánkám! Ezen már segíteni nem lehet. Nézze el, hogy ily szomorú napokba[n] ezt a lapot küldöm, de nincs itthon más. Üdvözlöm a távolból. [H]oles [F.] Tisztelem az ott maradtakat.
 
@@ -82,16 +82,16 @@ V poli na známku: Bozkávam Vás z diaľky.
 
 ## What remains uncertain
 
-- **Signature.** The first sign of row 16 is blotted and could be d, h, p or n, so this card alone gives only `[?]oles`. *Holes* comes from HCP 1303 (plain *Holes Fe…*, capital uncertain) and HCP 1309 (*holesferi*, first letter open), which support each other but are not independent proof. The last sign has the form of r; the family's f is a different sign. Reading it as a Latin initial F. is an interpretation, and a link with the "Feri" of other cards is suggested, not proved.
-- **Row 15, *üd*.** Heavily overinked, but the visible X and strokes match ü + d of row 14, and *üdvözlöm* is the only word found. Of the two dots over the first ö, one is a free blob and the other looks like the foot of a sign in row 14, so that ö rests on the word.
-- **Signs resting on word sense.** The n of *itthon* (row 14, overwritten, #-like); the d of *édes* (row 9, h/p shape); the m of *mostani* (row 7, three strokes and a stray tick); the m of *maradtakat* (row 17, short third stroke under foxing specks). The h/p split also rests on the word, with the low tick a real tendency on this card.
-- **Blots with no letter value.** Rows 3 and 8. The words around them need no letter there. The gy of *hogy* in row 2 is also blotted, but the word is certain.
-- **Editorial normalizations.** *nezel* → *nézze el* ("forgive"; *nézel*, "you look", would break the formal address); *ij* → *ily*; *napokba* → *napokba[n]*; *küldök* → *küldöm* (the k is clear; the object is definite); *azot* → *az ott*. The mark over the u of *út* is probably an accent; many free marks stand on the card.
-- **Not resolved.** Two small pen marks in the stamp box, the month, the second postmark, the cause of the "sad days", and who the second traveller in *ketten* was.
+- **Signature.** The first sign of row 16 is blotted and could be d, h, p or n, so this card alone gives only `[?]oles`. Holes comes from HCP 1303 (plain Holes Fe…, capital uncertain) and HCP 1309 (holesferi, first letter open), which support each other but are not independent proof. The last sign has the form of r; the family's f is a different sign. Reading it as a Latin initial F. is an interpretation, and a link with the "Feri" of other cards is suggested, not proved.
+- **Row 15, üd.** Heavily overinked, but the visible X and strokes match ü + d of row 14, and üdvözlöm is the only word found. Of the two dots over the first ö, one is a free blob and the other looks like the foot of a sign in row 14, so that ö rests on the word.
+- **Signs resting on word sense.** The n of itthon (row 14, overwritten, #-like); the d of édes (row 9, h/p shape); the m of mostani (row 7, three strokes and a stray tick); the m of maradtakat (row 17, short third stroke under foxing specks). The h/p split also rests on the word, with the low tick a real tendency on this card.
+- **Blots with no letter value.** Rows 3 and 8. The words around them need no letter there. The gy of hogy in row 2 is also blotted, but the word is certain.
+- **Editorial normalizations.** nezel → nézze el ("forgive"; nézel, "you look", would break the formal address); ij → ily; napokba → napokba[n]; küldök → küldöm (the k is clear; the object is definite); azot → az ott. The mark over the u of út is probably an accent; many free marks stand on the card.
+- **Not resolved.** A heavily overinked group after "bol" at the end of the stamp greeting (taken as a retrace of the ending), two small pen marks in the stamp box, the month, the second postmark, the cause of the "sad days", and who the second traveller in ketten was.
 
 ## Why the reading is accepted
 
-The family key, unchanged, turns all 17 rows into natural period Hungarian. Long stretches read with no choice, among them *Tudatom, hogy szerencsésen megérkeztem*, which also stands on HCP 1243 and 1310. *hogy* decodes the same way four times and *szomorú* twice, and *a távolból* of row 15 repeats the plain greeting in the stamp box. The apology for sending a love-picture card in sad days fits the picture side, which is a check independent of the key.
+The family key, unchanged, turns all 17 rows into natural period Hungarian. Long stretches read with no choice, among them Tudatom, hogy szerencsésen megérkeztem, which also stands on HCP 1243 and 1310. hogy decodes the same way four times and szomorú twice, and a távolból of row 15 repeats the plain greeting in the stamp box. The apology for sending a love-picture card in sad days fits the picture side, which is a check independent of the key.
 
 ## Reproduction
 
@@ -107,10 +107,10 @@ The script checks the SHA-256 of the two source scans and the two high-resolutio
 
 Reviewer: a separate Claude Opus 5.5 agent, round 1, verdict **REVISE**. The reviewer ran the command, made its own crops, read the card into its own ledger of 264 signs and decoded it with a separate key table. This was not blind, so it is a check on the pixels and not an independent discovery. Fifteen of 17 rows agreed. Its findings and what changed:
 
-- **Row 13 (major).** The sign after *ezt* has two bars, not three. It is a, not e, and the solver's note was wrong. The literal row is now *…eztalapot*, so *ezt a lapot* stands as written.
-- **Signature (minor).** The last sign now shows its keyed value in the literal output, *F.* is marked as read, the first sign's class is stated as open, and the status line names the signature as the weakest part.
+- **Row 13 (major).** The sign after ezt has two bars, not three. It is a, not e, and the solver's note was wrong. The literal row is now …eztalapot, so ezt a lapot stands as written.
+- **Signature (minor).** The last sign now shows its keyed value in the literal output, F. is marked as read, the first sign's class is stated as open, and the status line names the signature as the weakest part.
 - **Row 15 (minor).** The description now reports the visible strokes instead of calling the place unreadable.
-- **Other notes (minor).** Added or corrected: the m of row 17, the blot in row 2, the sentence point of row 11, the dot over row 15's ö, the likely ú, the restored first letter in the stamp box, the second postmark, and a clear separation of *küldök* (written) from *küldöm* (editorial).
+- **Other notes (minor).** Added or corrected: the m of row 17, the blot in row 2, the sentence point of row 11, the dot over row 15's ö, the likely ú, the restored first letter in the stamp box, the second postmark, and a clear separation of küldök (written) from küldöm (editorial).
 
 No word of the normalized Hungarian changed; the only literal letter corrected is the one in row 13. The transcription, decipherment, response to review and this report were made by Claude Opus 5.5.
 

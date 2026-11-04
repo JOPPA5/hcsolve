@@ -1,0 +1,30 @@
+# hcp-928 transcription (Claude Opus 5.5, 2026-11-03), read from work/hires enlarged crops.
+# One character per hand-drawn sign. ASCII stand-ins:
+#   C = cent-like sign (t)      D = pi-like sign (d)      W = division-sign-like (w)
+#   Y = barred circle "-o-" (y) J = y with dot below (j)  q = 9 with straight stem (b)
+#   9 = round 9 / reversed-e (k)  ^ before a sign = caret written under it (capital)
+#   " after a sign = two strokes above it (letter doubled)
+#   ~ after a sign = three-dot mark above it (only in "don't")
+#   # = ink-blotted sign (restored by word sense)   K = sign not used elsewhere (signature)
+#   space = the writer's dash between words; . , ? as written
+# Picture side first ("RAPID TRANSIT"), then the correspondence half of the address side.
+[picture]
+^CX98 78 qX69 qX69 qX69
+C5 qPa#P/23X7.
+^D8dPX, P) C38C CaPn
+Y5( P/C8/D CX9P/2
+X 35/8Y75"/?
+Po /5C, nd8X)8 D5~/C
+25 )5"/.
+^C3XC d8C"8a WX) X
+25D )8/D C5 78.
+^WPd" Y5) q8 )5 9P/D X) C5 WaPC8
+X/5C38a? ^nd8X)8, ^Y5(a) Ca(dY W8K, W
+[address]
+^C3P) P) X oP/8
+75"/ dP23C /P23C
+X/D P'D 2P:8 C38
+W5adD J()C C5
+q8 WXd9P/2 WPC3
+Y5(.
+W8K.

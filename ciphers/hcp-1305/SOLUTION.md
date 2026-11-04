@@ -12,6 +12,8 @@ two bars a · six b · left bowl c · long stroke + short tick d · three bars e
 
 Dots over o/u give ö/ü; a tick over a vowel gives the acute (often absent). On this card *gy* and *ny* are written as two signs (g+y, n+y), not with the joined gy sign. "20 án", "Koth. Leg." and the address are in plain Latin script. The bars are the main reading risk: the third bar of e often sits far below the other two.
 
+2026-11-03 type note: register type changed to **MASC + Steganography**, because six rows of the message are written in the cipher signs in the stamp box, where the stamp hid them (the stamp is now lifted). See "Stamp-box message (2026-11-03)".
+
 ## Reproduction (one command, from the repository root)
 
 ```sh
@@ -59,6 +61,17 @@ Moja milovaná, sladká Jolánka! Želám si, aby Vás moje riadky našli v tej 
 Pod známkou: Pozdravujem Vás z tejto diaľky. Váš verný milý, Fery.
 
 Adresa: Nádejnej slečne Jolánke Tóthovej, Jászárokszállás.
+
+## Stamp-box message (2026-11-03)
+
+Audit at the human's request (Tomáš Pavuk), on fresh crops of the original `work/hires/..._adr.jpg` (`work/stamp-2026-11-03/stamp_full.png`, `stamp_r0_3x.png` … `stamp_r2_3x.png`). The stamp has been lifted: the printed dashed stamp frame is empty of any stamp, the paper inside is paler, and the writing sits inside the frame, so it was hidden under the stamp when the card was posted. The hidden writing is in the cipher signs only (no plain Hungarian), six rows, all decoded with this card's key and already part of the ledger and of the reproduction command output. Re-read sign by sign today; no change:
+
+- Literal: `üdvöz / lome / tavol / bol / hüked / vesefery`
+- Hungarian (normalized): Üdvözlöm e távolból. Hű kedvese, Fery.
+- English: I greet you from this distance. Your faithful sweetheart, Fery.
+- Slovak: Pozdravujem Vás z tejto diaľky. Váš verný milý, Fery.
+
+Unread: nothing. Weak points as before (uncertainty 10): the first ü is blotted, and in row 2 the loop of o lies under a smear and the m strokes are faint.
 
 ## Uncertainties
 

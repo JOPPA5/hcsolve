@@ -12,7 +12,7 @@ The picture side is a tinted photographic card of a young man reading a letter, 
 
 The address side has the plain address Szépreményű (written Szepremenyü) Tóth Jolánka úrleánynak, Jász Árokszállás: "To the Young Lady of Fair Hopes, Jolánka Tóth, Jászárokszállás". The postmark shows a large 17, with no legible month or year.
 
-The card has 26 rows of cipher in red ink at the left and along the bottom. Rows rise to the right, and rows 23 to 26 run on under the address to the right edge, where the portal stamp overlies them. Eight more short rows fill the stamp box.
+The card has 26 rows of cipher in red ink at the left and along the bottom. Rows rise to the right, and rows 23 to 26 run on under the address to the right edge, where the portal stamp overlies them. Eight more short rows fill the stamp box: they were hidden under the postage stamp (now lifted), a steganographic farewell in the same cipher signs (see Plaintext). A stamp-box audit on 2026-11-03 re-checked them on fresh crops and changed no sign.
 
 The card belongs to the large "Jolánka" correspondence, in which a man called Feri writes to Jolánka Tóth in one invented-sign alphabet. The key was transferred from finished sister cards (HCP 1216 and others), so this is not a new key recovery. Earlier work on those cards was by OpenAI GPT-6 Astra / GPT-6.1 Sol and Claude Opus 5.5; there was no earlier work on this number. No plaintext was taken from sister cards, and no published solution of this card was found.
 
@@ -28,7 +28,7 @@ The reviewer cropped the whole card again and made its own reading in a separate
 
 ## Key
 
-Simple monoalphabetic substitution with invented graphic signs, Hungarian plaintext. The labels below are conventional names for handwritten shapes.
+Cipher type: **MASC + Steganography** (updated 2026-11-03). Simple monoalphabetic substitution with invented graphic signs, Hungarian plaintext; a second, hidden message is written in the same signs in the stamp box, under the stamp (now lifted). The labels below are conventional names for handwritten shapes.
 
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|

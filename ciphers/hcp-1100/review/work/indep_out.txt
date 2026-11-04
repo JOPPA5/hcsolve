@@ -1,0 +1,19 @@
+B01: MAY DEAREST PET JUST A
+B02: LINE AND I HOPE THIS
+B03: WILL FIND YOU QUITE
+B04: WELL & HAPPY I FEEL
+B05: SO UNHAPPY WHEN I
+B06: THINK OF MAY LOOSING
+B07: MAY ONLY DARLING I HAVE
+B08: WRITTEN A LINE TO
+B09: YOUR MOTHER OH DEAR
+B10: ONE I WOULD GIVE
+B11: ANYTHING RATHER [struck]
+B12: THAN LOSE MAY TREASURE
+T01: I MUST SAY TA TA
+T02: WITH LOVE
+T03: I HAVE A SET OF TESE P.C's
+T04: from May
+signs decoded: 226 unknown: []
+single-occurrence codes: ['amp', 'bar', 'bb', 'cq', 'cross', 'dx', 'el', 'eta', 'sq4', 'tri', 'vt', 'zh']
+unused key codes: []

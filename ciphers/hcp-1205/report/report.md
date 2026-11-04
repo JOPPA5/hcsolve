@@ -24,6 +24,8 @@ The transcription is manual. Claude Opus 5.5 read the signs by eye from enlarged
 
 ## Key
 
+Cipher type: **MASC + Steganography** (updated 2026-11-03). The stamp is lifted, and under it the writer hid eight rows in the cipher signs (rows S1-S8: the closing greeting and signature), so the card also carries a message concealed under the stamp.
+
 Hungarian, simple monoalphabetic substitution with invented graphic signs. The labels are descriptions of handwritten shapes. Accent and dot marks stand over the base sign and are used loosely.
 
 | sign | letter | sign | letter | sign | letter |

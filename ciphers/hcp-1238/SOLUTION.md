@@ -5,6 +5,8 @@
 ## Cipher and key
 Hungarian simple monoalphabetic substitution with graphic signs, the Jolánka family key as on FINAL card hcp-1216 (table there), transferred unchanged. Calls resting on word sense: h/p/d (stroke plus tick) throughout; loop-shaped i versus o in "pedig"; "dogozun" third letter.
 
+**Type note (2026-11-03, Claude Opus 5.5):** cipher type is **MASC + Steganography**: the stamp has been torn away (only the green frame remnant is left) and a seven-row message in the cipher signs is written in the stamp box, where the stamp hid it (see "Stamp-box message (2026-11-03)"). This card has no register entry; none is created.
+
 ## Reproduction
 `python3 -I ciphers/hcp-1238/work/decode.py` checks the scan hashes and prints the row ledger `work/ledger-opus.txt` (a manual transcription made from enlarged pixels; earlier-family key known, not blind).
 
@@ -20,6 +22,23 @@ Beloved sweet Jolánka! I wish that my lines find you in the best of health and 
 
 ## Slovak
 Milovaná sladká Jolánka! Želám, aby Vás moje riadky našli v najlepšom zdraví a nálade. Ako prešiel prvý deň nového roka? Mne najlepšie, lebo pár minút po polnoci ma začal bolieť zub a odvtedy bolí stále. Už som si kúpil aj kvapky na zuby a neprestáva. No dôverujeme v Boha, možno [nečítané] lepšie [nečítané] minulý rok. [Nejasné slová, medzi nimi „teším sa“], že to bol veľmi zlý rok, veľa strádania; nikdy na nič nezabudnem, drahá Jolánka. Už po štvrtý raz sa dávam do tohto písania, veď som taký zaneprázdnený, že ani umrieť nemám čas, a neviem, čo písať, lebo nie je nič nové, len stále pracujeme, ani sviatok, ani nedeľa. Ani lístok som nedostal, už skoro dva týždne, hoci veľmi čakám. Tým končím svoje riadky, ostávam Váš milujúci milý Feri. Pod známkou: bozkáva nespočetnekrát [zakryté], Váš verný milý Feri.
+
+## Stamp-box message (2026-11-03)
+
+Checked by Claude Opus 5.5 on 2026-11-03 from `work/hires/*_adr.jpg` (crops at 2x and 4x, with a blue-ink suppression pass, in `work/stamp-2026-11-03/`). State: stamp lifted (torn; green frame fragments remain at the edges), with writing under it. Script: cipher signs only, same Jolánka key; no plain Hungarian in the box. A blue triangular ink impression (eye in rays) was put on the box over the pencil and covers the middle of it.
+
+Literal (one line per written row, as in `work/ledger-opus.txt` S1-S7):
+```
+S1 {c}sokol      S2 omsza      S3 mtalan      S4 szor
+S5 ?????         (under the blue triangle; only stray stroke ends show left and right of it)
+S6 hukedv-       S7 (v)ese{..}feri   (the v of kedvese begins S7; one or two signs between "ese" and "feri" are under a green frame fragment)
+```
+
+- Hungarian (normalized): Csókolom számtalanszor [one row unread, hidden by the triangle] hű kedvese, Feri.
+- English: I kiss you countless times [one row unread] your faithful sweetheart, Feri.
+- Slovak: Bozkávam Vás nespočetnekrát [jeden riadok nečítaný] Váš verný milý, Feri.
+
+Unread: row S5 (about four to five signs) lies under the dense blue ink and cannot be separated from it in this scan (channel separation and blue suppression tried). The parallel card hcp-1216 has "sírig" ("unto the grave") in the same place; that is a plausible restoration of a whole word, not one hidden letter, so it is **not** claimed. The reproduction script was not changed; the stamp rows are read by eye (they are already in the ledger as S1-S7).
 
 ## What stops completeness
 1. Row 10 middle and all of row 11: rubbed pencil. A whole clause is unread, so this is partial.

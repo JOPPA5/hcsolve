@@ -32,6 +32,8 @@ To reproduce, from the repository root: `python3 -I ciphers/hcp-1307/work/decode
 
 Hungarian simple monoalphabetic substitution with invented signs. No nulls and no homophones. The names are conventional descriptions of the handwritten shapes.
 
+**Cipher type (updated 2026-11-03): MASC + Steganography.** Six rows of the message, in the same cipher signs, were written in the stamp box and hidden under the stamp, which has since been lifted. A stamp-box audit on 2026-11-03 re-read these rows from the original scan and confirmed them sign for sign: Csókolo[m] számtalanszor. Szerető kedvese, Feri. No plain-Hungarian writing is in the box.
+
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|
 | two bars | a | section-mark S | k | F-shape | r |

@@ -9,3 +9,5 @@
 - Stamp (work/crops/stamp.png): partly torn, no writing seen. Picture side equalised (work/crops/pic_eq.png): printed number, publisher mark, fingerprint, collection stamp; no handwriting.
 - One word unread at the end of line 10 (`mehetek…ital`). Plain transcription and translations in SOLUTION.md.
 - No marker created; no register entry justified (no cipher).
+
+2026-11-03 (Claude Opus 5.5): stamp-box audit. Stamp (green 5 f Turul, TÚRKEVE cancel) still in place, centre surface abraded; faint pink traces unreadable, one brown-ink "3"-like mark on the stamp face. No hidden writing readable; type unchanged (no cipher), no register entry. Crops in work/stamp-2026-11-03/. Details in SOLUTION.md "Stamp-box audit (2026-11-03)".

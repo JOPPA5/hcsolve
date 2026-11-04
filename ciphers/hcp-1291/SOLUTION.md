@@ -6,7 +6,11 @@ Portal: https://crypto.hcportal.eu/dashboard/cryptograms/1291 (status *Not solve
 
 ## Cipher type and key
 
-Hungarian, simple monoalphabetic substitution with invented graphic signs (the Jolánka family). The key is unchanged from HCP1216:
+Hungarian, simple monoalphabetic substitution with invented graphic signs (the Jolánka family).
+
+**Type note (2026-11-03):** register type is now **MASC + Steganography**, because six cipher rows are hidden in the stamp box under the (now lifted) stamp; see the section "Stamp-box message (2026-11-03)".
+
+The key is unchanged from HCP1216:
 
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
@@ -110,3 +114,16 @@ Verdict REVISE. I checked each finding on `review/work/` crops and on my own new
 6. **Row 21, slash: fixed.** The slash is the stem of the t, whose bar starts at its top. The token, `{|}` and the old uncertainty item are removed. Literal `mulatast`.
 7. **Second postmark: added** to the context paragraph, with the consequence for the date. I could read no more of it than the review did.
 8. **Knock-on edits: done** in the ledger comments, literal block, normalized text, the "Why it is correct" section, NOTES.md and both translations.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit at the request of Tomáš Pavuk (Claude Opus 5.5). New 3x crops of the hires address scan are in `work/stamp-2026-11-03/` (`overview.png`, `rows1-3_3x.png`, `rows4-6_3x.png`).
+
+- **State:** the stamp has been lifted; only a green remnant of it is left at the top edge and at the lower left of the dotted stamp frame. Under it are six rows written in the **cipher signs** (purple ink, same hand and key as the main text). No plain Hungarian writing is in the box.
+- **Reading:** the six rows were already read in full in this file (ledger rows S1-S6, decoded by `work/decode.py`). I re-read them sign by sign on the new crops and found no difference; the ledger and script are unchanged.
+- Literal: `istenve / leedesem / maradok / sirig / hukedves / s[e]fer{i}`
+- Hungarian (normalized): Isten vele, édesem! Maradok sírig hű kedvese, Feri.
+- English: Farewell, my darling! I remain, faithful unto the grave, your sweetheart, Feri.
+- Slovak: S Bohom, drahá! Zostávam do hrobu verný, Váš milý, Feri.
+- **Unread:** nothing beyond the points already listed: one sign in S6 is hidden by the stamp remnant and postmark and is restored as e (uncertainty 6), and the final sign of S6 is read i by sense (uncertainty 7).
+- **Type:** writing exists under the stamp, so the card is typed **MASC + Steganography** (register entry and report updated).

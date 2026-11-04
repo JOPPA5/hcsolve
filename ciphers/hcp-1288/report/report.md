@@ -8,9 +8,9 @@ Human solver: Tomáš Pavuk
 
 The cryptogram is record 1288 of the HC Portal (https://crypto.hcportal.eu/dashboard/cryptograms/1288), portal name cpc_1913--13_HU__HU_Jasz Arokszalas_jolanka-112, part of Tobias Schrödel's collection of cryptographic postcards (private collection; see the HistoCrypt proceedings, https://ecp.ep.liu.se/index.php/histocrypt). When it was captured on 2026-10-30 the portal listed it as **Not solved**, tagged Postcard and T. Schrödel Collection, category Substitution, date and language unknown, recipient Tóth Jolánka, with no transcription or solution attached.
 
-The picture side shows a young woman in a wide hat holding a letter to her lips. It carries only a printed title and verse in clear, *Kis levélke, drága kis levélke…* ("Little letter, dear little letter…"), and no cipher text.
+The picture side shows a young woman in a wide hat holding a letter to her lips. It carries only a printed title and verse in clear, Kis levélke, drága kis levélke… ("Little letter, dear little letter…"), and no cipher text.
 
-The whole message is on the address side, in green ink and invented signs: 26 rows, of which rows 23 to 26 run across the full width of the card, and 7 short rows in the space under the stamp, which has since been removed. The clear address, in the same hand, reads *Szépreményű / Tóth Jolánka / úrleánynak / Jász-Árokszalás* (so spelled, for Jászárokszállás): "To the promising young lady Jolánka Tóth". The first word runs through the cancellation.
+The whole message is on the address side, in green ink and invented signs: 26 rows, of which rows 23 to 26 run across the full width of the card, and 7 short rows in the space under the stamp, which has since been removed. The clear address, in the same hand, reads Szépreményű / Tóth Jolánka / úrleánynak / Jász-Árokszalás (so spelled, for Jászárokszállás): "To the promising young lady Jolánka Tóth". The first word runs through the cancellation.
 
 There are two postal marks. A boxed mark reads RÁKOSPALOTA-ÚJP. A round cancellation has rim letters reading (…)SZ ÁRO(…), compatible with Jász-Árokszállás, and a date line of which only partial characters survive. A separate large numeral 13 stands beside it; its meaning is unknown. No date can be read from the card. The year 1913 comes only from the file name.
 
@@ -30,7 +30,7 @@ The writer spells by ear and carelessly: he repeats syllables, drops letters and
 
 ## Key
 
-Hungarian simple monoalphabetic substitution with invented signs. The names are conventional descriptions of the handwritten shapes.
+Cipher type: **MASC + Steganography** (updated 2026-11-03). Hungarian simple monoalphabetic substitution with invented signs; part of the message (7 rows) was hidden under the postage stamp, which has since been lifted. The names are conventional descriptions of the handwritten shapes.
 
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@ Hungarian simple monoalphabetic substitution with invented signs. The names are 
 | open loop with descender | g | dotted crossed curve | i | crossed diagonal | z |
 | inverted T | j | joined loop + descender | gy | opposed bowls | cs |
 
-The d has its tick on the left of the long stroke, and h/p has it on the right; h and p are told apart only by the word. Dots over o and u give ö and ü. On this card g and y are written as two separate signs in *gy*.
+The d has its tick on the left of the long stroke, and h/p has it on the right; h and p are told apart only by the word. Dots over o and u give ö and ü. On this card g and y are written as two separate signs in gy.
 
 ## Plaintext
 
@@ -109,14 +109,14 @@ The script uses only the Python standard library and writes no files. It checks 
 
 ## Uncertainties
 
-- **Row 16, `mentettem`.** The letters are clear except the first sign, a heavy overwritten joined form. It is read as m, with n not excluded. Taken at face value *mentettem* ("I saved") does not fit after *pótolhatom* ("make good"). The text above uses **nem tettem ("I have not done"), a proposal made after the review, which the reviewer has not assessed.** It fits the clause exactly. It would be either a spelling by ear, since *nem* before t is pronounced [nen], with the heavy sign taken as n; or a swap of m and n, which the overwriting could reflect.
-- **Row 22, restart.** The literal is `öszehö` + `ozehoz`. The sign after `ö` is a heavy cursive loop at the ink stain, read as o. Taken as a false start and restart, normalized *összehoz*; this is an interpretation, supported by *a sors keze* that follows.
-- **Under the stamp, row S2.** After *ede* come a heavy m-form and a separate stroke of no certain value, possibly a correction of s. Normalized *Éd[es]em(?)*. The cs of *csókolom* rests on word sense; *kolom* is clear.
-- **Row 25, `alelembe`.** The sign before `e m` is a shortened wave with a separate tick, read as l; v is not excluded. Normalized *a le[ve]lembe[li]*, restoring a writer's slip. The sense is unaffected.
-- **Under the portal stamp.** The `s` of *is*, the `l` of *felej-* (row 23), `dig` of *mindig* (row 24) and `gy` of *legyen* (row 25) are partly hidden. They are read from what shows, and the words confirm them.
-- **Calls resting on word sense.** *pótolhatom*, *pár*, *napot* and *megkaptam* have p against h; *gondolatom* has d. *várok* (row 22) has an r sign close to t, decided by *alig várok*. Row 5 *érkezett*: the first t has a short mid-stroke like r. Row 2: the first sign is a heavy overwritten v.
-- **Row 15, `és`.** *Talán és helyre* is kept literally; *és* may stand for *is*.
-- **Writer's spellings normalized.** *szeretet*→szeretett, *koszönok*→köszönök, *mag magával* (false start), *edig*→eddig, *rosz*→rossz, *hejzetemnek*→helyzetemnek, *megvirad*→megvirrad, *remjük*→reméljük, *vagyog*→vagyok (clear g sign), *biztas|sa* and *kedves|se* (s repeated at a row break), *öszehoz*. Most accents are invisible and are supplied. Row 17: a heavy smear lies under the second t of *belátta*; the reading is unaffected.
+- **Row 16, `mentettem`.** The letters are clear except the first sign, a heavy overwritten joined form. It is read as m, with n not excluded. Taken at face value mentettem ("I saved") does not fit after pótolhatom ("make good"). The text above uses **nem tettem ("I have not done"), a proposal made after the review, which the reviewer has not assessed.** It fits the clause exactly. It would be either a spelling by ear, since nem before t is pronounced [nen], with the heavy sign taken as n; or a swap of m and n, which the overwriting could reflect.
+- **Row 22, restart.** The literal is `öszehö` + `ozehoz`. The sign after `ö` is a heavy cursive loop at the ink stain, read as o. Taken as a false start and restart, normalized összehoz; this is an interpretation, supported by a sors keze that follows.
+- **Under the stamp, row S2.** After ede come a heavy m-form and a separate stroke of no certain value, possibly a correction of s. Normalized Éd[es]em(?). The cs of csókolom rests on word sense; kolom is clear.
+- **Row 25, `alelembe`.** The sign before `e m` is a shortened wave with a separate tick, read as l; v is not excluded. Normalized a le[ve]lembe[li], restoring a writer's slip. The sense is unaffected.
+- **Under the portal stamp.** The `s` of is, the `l` of felej- (row 23), `dig` of mindig (row 24) and `gy` of legyen (row 25) are partly hidden. They are read from what shows, and the words confirm them.
+- **Calls resting on word sense.** pótolhatom, pár, napot and megkaptam have p against h; gondolatom has d. várok (row 22) has an r sign close to t, decided by alig várok. Row 5 érkezett: the first t has a short mid-stroke like r. Row 2: the first sign is a heavy overwritten v.
+- **Row 15, `és`.** Talán és helyre is kept literally; és may stand for is.
+- **Writer's spellings normalized.** szeretet→szeretett, koszönok→köszönök, mag magával (false start), edig→eddig, rosz→rossz, hejzetemnek→helyzetemnek, megvirad→megvirrad, remjük→reméljük, vagyog→vagyok (clear g sign), biztas|sa and kedves|se (s repeated at a row break), öszehoz. Most accents are invisible and are supplied. Row 17: a heavy smear lies under the second t of belátta; the reading is unaffected.
 - **Date and identity.** See "Origin and context". The year is not confirmed by the card, and the sender's identity with the Feri of other cards is not proved.
 
 ## Review summary
@@ -125,17 +125,17 @@ Review 1 (a separate Claude Opus 5.5 agent) returned **REVISE**. The cipher, the
 
 What changed because of it:
 
-- **Major, row 24.** The handover read `amibol hog` and defended it as an awkward word. The fourth sign after *a mi* is d, with its tick on the left, the same form as *boldog* in row 23. The clause is now *de sajnos a mi boldog viszontlátásunknak…*, and the earlier claim that the word could not be improved was withdrawn.
+- **Major, row 24.** The handover read `amibol hog` and defended it as an awkward word. The fourth sign after a mi is d, with its tick on the left, the same form as boldog in row 23. The clause is now de sajnos a mi boldog viszontlátásunknak…, and the earlier claim that the word could not be improved was withdrawn.
 
 ![Row 24: b, o, l, the d with its tick on the left of the heavy stroke, o, g (review/work/crops/z24.png)](../review/work/crops/z24.png)
 
-- **Rows 24-25.** The supplied `[a]` and *elválása* were removed; *nehéz elválás a vége* needs nothing added.
-- **Address side.** The green word, first described as a faint pencil word, is the first line of the address, *Szépreményű*. The second cancellation was recorded, with no date claimed.
+- **Rows 24-25.** The supplied `[a]` and elválása were removed; nehéz elválás a vége needs nothing added.
+- **Address side.** The green word, first described as a faint pencil word, is the first line of the address, Szépreményű. The second cancellation was recorded, with no date claimed.
 - **Row 22.** The sign recorded as unreadable became an o-class sign, still an interpretation.
-- **Row 25.** The restoration was lightened to *a le[ve]lembe[li]*, and v was named as an alternative.
-- **Bookkeeping.** A form that does not exist in the ledger (*hög*) was deleted, the smear in row 17 was disclosed, and the claim about unreadable signs was brought into step with the text.
+- **Row 25.** The restoration was lightened to a le[ve]lembe[li], and v was named as an alternative.
+- **Bookkeeping.** A form that does not exist in the ledger (hög) was deleted, the smear in row 17 was disclosed, and the claim about unreadable signs was brought into step with the text.
 
-The row 16 proposal *nem tettem* came after the review and has not been checked by it. The reviewer upheld the signs of that word and left its sense open.
+The row 16 proposal nem tettem came after the review and has not been checked by it. The reviewer upheld the signs of that word and left its sense open.
 
 The reviewer could not verify the year, the accents, the identity of Feri or the sense of row 16, and relied on the captured portal metadata.
 

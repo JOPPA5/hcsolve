@@ -4,7 +4,9 @@
 
 ## Cipher type and key
 
-Hungarian, simple monoalphabetic substitution with invented graphic signs (MASC): the "Jolánka" postcard family. The key was transferred unchanged from HCP1216 (also 1262 for the sign descriptions). This card adds two variants not in the sister key tables I searched: the left bowl used for s (item 8) and left bowl + stroke for cs (item 7). A third form, the h/p shape used for d, is a near-homograph already noted on HCP1216 (row 5), 1247 and 1255.
+Hungarian, simple monoalphabetic substitution with invented graphic signs (MASC): the "Jolánka" postcard family.
+
+**Type update (2026-11-03): MASC + Steganography.** The stamp box holds a hidden message in the cipher signs (7 rows, S1–S7), written under the stamp; the stamp is now lifted and a little green residue remains at the left edge. The message was already read in full on 2026-11-01 (see the stamp-box lines below). On 2026-11-03 I checked it again against new 3x crops of the hi-res scan in `work/stamp-2026-11-03/`, and the reading is unchanged. Per the register team, cards with writing under the stamp are typed "MASC + Steganography". The key was transferred unchanged from HCP1216 (also 1262 for the sign descriptions). This card adds two variants not in the sister key tables I searched: the left bowl used for s (item 8) and left bowl + stroke for cs (item 7). A third form, the h/p shape used for d, is a near-homograph already noted on HCP1216 (row 5), 1247 and 1255.
 
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
@@ -115,3 +117,6 @@ Verdict REVISE. I re-read each place on the reviewer's crops (`review/work/crops
 
 The reproduction command was re-run after the changes: all four hashes OK and the output matches the literal block and the Hungarian above. The body of the letter did not change in sense; the closing changed by one word.
 
+## Stamp-box audit (2026-11-03)
+
+The stamp is lifted, and under it are 7 rows of writing in the cipher signs; there is no plain-Hungarian writing in the box. The full message, *[Cs]ókolom számtalanszor. Imádója és sírig hű kedvese, Feri.*, was already read and is part of the ledger (rows S1–S7), which `work/decode.py` decodes. Nothing new was added. The only restoration is still the S1 *cs*, under the blot at the stamp residue. Crops: `work/stamp-2026-11-03/box_top_3x.png`, `box_bot_3x.png`. The cipher type is now MASC + Steganography, and the register entry's type field was changed to match.

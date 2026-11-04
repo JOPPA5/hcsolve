@@ -1,0 +1,9 @@
+# hcp-904 picture side, handwritten text in Greek letters (read 2026-11-03 by Claude Opus 5.5 from work/hires/..._pic.jpg)
+# Conventions: [x] = sign covered by an ink blot, restored; ? = sign not identified; ʽ = rough-breathing mark (stands for h)
+# v-shaped sign written as υ; F-shaped sign (digamma) written as Ϝ; c-shaped sign written as ι; r-shaped sign written as ν; ς/ρ-shaped sign written as ρ
+[Λ]. Μ. Κονντε λειδερ Δειν λιεβεν Βριεφ
+νιχτ μεʽρ βεαντυορτεν. φιερ Ϝοχεν σινδ
+αβε[ρ] λανγ, καννστ Δυ μιρ κεινε ανδε[ρ]
+Αδρ. ανγεβεν? σονστ μυστ Δυ Διχ σχον σο λανγε γε-
+δυλδιγεν. ʽαβε μιχ σεʽρ υβερ Δεινεν Βριεφ γεφρευτ.
+ʽερζλιχεν Γρυσσ υ Κυσσ Δεινε τρ. Ιε??ι.

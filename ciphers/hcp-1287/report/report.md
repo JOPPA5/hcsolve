@@ -10,7 +10,7 @@ The cryptogram is record 1287 of the HC Portal (https://crypto.hcportal.eu/dashb
 
 The picture side shows a kissing couple and swallows, with a printed verse beginning Fecském hova szállsz? ("My swallow, where are you flying?"). It carries no cipher text.
 
-The address side holds the message: 22 rows of invented signs in red ink, covering the left half. In plain hand it is addressed to Szépreményű (under the postmarks) Tóth Jolánka úrleánynak, Jász-Árokszállás, "to the promising Miss Jolánka Tóth". A small word after úrleánynak is probably szeretettel, "with love", but it is not certain. In the stamp corner there is a short plain message (see Plaintext). The postmarks are JÁSZÁROKSZÁLLÁS 912 MA 15, which agrees with the portal date, and a second one showing only YÖN, possibly Gyöngyös (unverified).
+The address side holds the message: 22 rows of invented signs in red ink, covering the left half. In plain hand it is addressed to Szépreményű (under the postmarks) Tóth Jolánka úrleánynak, Jász-Árokszállás, "to the promising Miss Jolánka Tóth". A small word after úrleánynak is probably szeretettel, "with love", but it is not certain. In the stamp box, under the stamp (now lifted), there is a short hidden plain message (see Plaintext). The postmarks are JÁSZÁROKSZÁLLÁS 912 MA 15, which agrees with the portal date, and a second one showing only YÖN, possibly Gyöngyös (unverified).
 
 ![Picture side (source/picture-large.jpg)](../source/picture-large.jpg)
 
@@ -28,7 +28,7 @@ In review, a separate Claude Opus 5.5 agent re-ran the command, enlarged all 22 
 
 ## Key
 
-Hungarian simple monoalphabetic substitution with invented signs. The names are conventional descriptions of the handwritten shapes.
+Cipher type: MASC + Steganography (type updated 2026-11-03). Hungarian simple monoalphabetic substitution with invented signs, plus a plain-Hungarian message hidden in the stamp box under the stamp, which has since been lifted (only a torn green corner remains). The names are conventional descriptions of the handwritten shapes.
 
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|

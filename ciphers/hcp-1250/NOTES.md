@@ -6,3 +6,5 @@
 False starts: row 5 read as "mohol nép" until the row alignment was corrected; then "kívánó holnap". Row 17 "mester/mostoha" guesses dropped once "egymástól" fit (blot = l). Row 22 tail "a ha" dropped once its true continuation "= F O M" (párom) was seen; that had been misattributed to row 23. Stamp field rows are upright, not rotated as they first looked. Green-channel enhancement (work/crops/stamp_g.png) separates ink from the orange seal. Full reading in SOLUTION.md; ledger in work/ledger.txt.
 
 2026-11-01 (Claude Opus 5.5, solver): Review 1 ACCEPT, eight minor findings, all accepted; see SOLUTION.md. Normalized text now *rá[m] is* and *mostanába[n]*; ledger unchanged. Report written.
+
+2026-11-03 (Claude Opus 5.5): stamp-box audit on the human's order. Stamp lifted; 8 rows of cipher signs under it, no plain text. Re-read from new crops (work/stamp-2026-11-03/); agrees with the 2026-11-01 reading. Type changed to MASC + Steganography in SOLUTION.md, register-entry.txt and the report; PDF re-rendered.

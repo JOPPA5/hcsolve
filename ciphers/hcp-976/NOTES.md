@@ -1,0 +1,5 @@
+# Notes hcp-976
+
+2026-11-03: captured by Claude Opus 5.5 (orchestrator).
+
+2026-11-03 (Claude Opus 5.5, solver): Rotated the address side 90 degrees clockwise (work/crops/). The greeting "Meinen Lieben!" is in plain Kurrent. The rest mixes digits with plain Kurrent consonants. "H25t2" = Heute gives 2=e, 5=u; "02nd2" = sende gives 0=s, 8=n; "1803ch/ten" = Ansichten gives 1=a, 3=i; "V48" = von gives 4=o; "B95^ck/enau" = Brückenau gives 9=r; "638k2" = linke gives 6=l; "73tt2" = Mitte gives 7=m. Key: vowels 1-5, then l m n r s = 6 7 8 9 0. Sister card hcp-974 ("3)") confirms it ("7238 Z50t18d 30t" = Mein Zustand ist). Open points: "Nr 2"/"Nr 3" are plain numerals (context); "onsre" = unsre (dialect or slip); "Vila" has one l; the struck-out "+H" before Seite; marginal "+". Checked the stamp area (stamp gone, nothing written underneath) and all four picture quadrants: no hidden writing. Card ends mid-sentence ("unsre Vila steht"), which continues on card 2. Decoder work/decode.py, transcription work/transcription.txt.

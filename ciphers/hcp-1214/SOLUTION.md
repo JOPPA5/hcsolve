@@ -91,3 +91,9 @@ Verdict REVISE. I re-examined the reviewer's enlargements (`review/work/m5.png`,
 6. **Key table against tokens (minor): fixed.** gy and cs added to the table, and a note explains `GY`, `G Y` and `C )`. The ledger header says the same.
 
 Re-run after the fixes: `python3 -I ciphers/hcp-1214/work/decode.py` passes all four hashes and prints the block above (233 ledger tokens, 18 rows). The changes are one dropped letter, one flag removed, and punctuation and translation of one clause, so the reading is not substantially changed and no second review round is needed.
+
+## Stamp-box audit (2026-11-03)
+
+Checked by Claude Opus 5.5 on the original `work/hires/..._adr.jpg` (crops at 2x to 5x, red channel and blue-minus-red separations in `work/stamp-2026-11-03/`). The green 5 fillér Turul stamp is **still in place**, not lifted. It is torn and thinned right of the crown (a hole about 1 x 1 cm); through and at the edge of that hole a curved bluish stroke and a short hooked bluish stroke are visible (`tear_5x.png`, `thinned_rgb_4x.png`). They are too small to identify: they may be part of a second cancellation or printed card matter, or the edge of writing under the stamp. No letter or cipher sign can be read from them, and the rest of the box is covered. The dark marks over the stamp left of the crown match the black postmark ink and are not writing.
+
+**Result: stamp in place; any hidden message is unknowable from this scan. No stamp-box message is added. Type stays MASC** (2026-11-03: not changed to MASC + Steganography, because no writing under the stamp can be shown). If the card is ever examined with the stamp lifted, this should be revisited.

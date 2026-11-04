@@ -8,7 +8,7 @@ Human solver: Tomáš Pavuk
 
 The cryptogram is record 1262 of the HC Portal (https://crypto.hcportal.eu/dashboard/cryptograms/1262), portal name cpc_1912--15_HU__HU_Jasz Arokszalas_jolanka-100, part of Tobias Schrödel's collection of cryptographic postcards (private collection). When it was captured on 2026-11-01 the portal listed it as **Not solved**, category Substitution, language Unknown, sender Unknown, recipient Tóth Jolánka, with no transcription or solution attached. The portal gives a link to a HistoCrypt paper (https://ecp.ep.liu.se/index.php/histocrypt/article/view/166), which was not consulted for this reading.
 
-The picture side is a tinted photograph of a young man playing a mandolin to a woman, with a printed Hungarian verse beginning *Hej cigány, hallod-e?* It carries no cipher. The address side is written in red ink. The address is in clear: approximately *Szépreményű Tóth Jolánka úrleánynak, Jászárokszállás* ("to the young lady of fair promise, Jolánka Tóth, Jászárokszállás"). The left half holds 18 rows of cipher. A further 7 rows sit in a small ruled box in the stamp corner, where the stamp was stuck over them; they were written in wet ink and are blurred. Two postmarks show parts of the town name (*JÁSZ…*, *…ROKS…*) but no legible date. The card has no signature, so the sender and date stay unknown; the portal's file name suggests 1912 to 1915.
+The picture side is a tinted photograph of a young man playing a mandolin to a woman, with a printed Hungarian verse beginning Hej cigány, hallod-e? It carries no cipher. The address side is written in red ink. The address is in clear: approximately Szépreményű Tóth Jolánka úrleánynak, Jászárokszállás ("to the young lady of fair promise, Jolánka Tóth, Jászárokszállás"). The left half holds 18 rows of cipher. A further 7 rows sit in a small ruled box in the stamp corner, where the stamp was stuck over them; they were written in wet ink and are blurred. Two postmarks show parts of the town name (JÁSZ…, …ROKS…) but no legible date. The card has no signature, so the sender and date stay unknown; the portal's file name suggests 1912 to 1915.
 
 The card belongs to the family of Hungarian cipher postcards addressed to Jolánka Tóth, several of which are deciphered in this repository (HCP 1212, 1213, 1216, 1217, 1218, 1243, 1273, 1301). No link to a particular sender in that family is claimed.
 
@@ -18,13 +18,13 @@ The card belongs to the family of Hungarian cipher postcards addressed to Jolán
 
 ## Method
 
-The key was **transferred** unchanged from the finished sister cards; this is not a new key recovery. The transcription is **manual**: the solver read each row sign by sign on enlarged crops of the unconverted high-resolution original, and recorded 353 sign tokens in a ledger (work/ledger.txt). No OCR was used. Green-channel thresholding helped in the blurred stamp box. Early attempts at the smudged row 7 (*nagyon*, *nem*, *ahol gyakran*) were dropped when the enlargement showed e after gy and a third stroke of m under the postmark.
+The key was **transferred** unchanged from the finished sister cards; this is not a new key recovery. The transcription is **manual**: the solver read each row sign by sign on enlarged crops of the unconverted high-resolution original, and recorded 353 sign tokens in a ledger (work/ledger.txt). No OCR was used. Green-channel thresholding helped in the blurred stamp box. Early attempts at the smudged row 7 (nagyon, nem, ahol gyakran) were dropped when the enlargement showed e after gy and a third stroke of m under the postmark.
 
 No earlier work exists on this number; all of it is by Claude Opus 5.5. A short script (work/decode.py) verifies the image hashes, decodes the ledger and prints the literal and normalized text.
 
 ## Key
 
-Simple monoalphabetic substitution with invented graphic signs (register type MASC). The labels are conventional names for the handwritten shapes.
+Simple monoalphabetic substitution with invented graphic signs, plus a hidden message written in the cipher signs in the stamp box, under the stamp (register type MASC + Steganography; type updated 2026-11-03). The labels are conventional names for the handwritten shapes.
 
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@ Simple monoalphabetic substitution with invented graphic signs (register type MA
 | open loop with descender | g | inverted T | j | opposed or joined bowls | cs |
 | g + low descender, joined or adjacent | gy | | | | |
 
-Dots over the loop give ö. Acute marks are mostly faint and are supplied in normalization. On this card ly is written j (*mejért*, *ojan*). The h and p are one sign, told apart only by word sense.
+Dots over the loop give ö. Acute marks are mostly faint and are supplied in normalization. On this card ly is written j (mejért, ojan). The h and p are one sign, told apart only by word sense.
 
 ## Plaintext
 
@@ -89,17 +89,17 @@ The command checks the SHA-256 of the four image files, decodes the ledger and p
 
 These readings rest on word sense or restoration, not on the shape alone.
 
-- **Restored letter.** S5 *csókolo[m]*: the m lies wholly under an ink blot and is not read from pixels. It comes from the family's closing formula; *csókolok* is also a word but does not occur in the sister cards.
-- **Shape differs from the letter the word needs.** Row 2 *kaptam* has a tick-left sign like d. Row 6 ends in an m shape where *gondolja* needs n. Rows 13 and 18 have a three-bar shape where *kívánja* and *mamáját* need a; in row 18 the third bar is an overwritten scribble.
-- **Row 5 closed bowl.** It may be c or cs; the word *táncziskola* is the same. Its build differs from the joined bowls of row 9 and resembles the c of *tancz* on HCP 1273.
-- **Row 7.** *hölgyek*: the first three signs are smudged, the k is overwritten, and no dots are visible over the o. In *gondolja* the o and l are a squeezed, possibly later, compound.
-- **Row 14 *ne*.** The n is heavily overwritten, with a stray crossbar.
+- **Restored letter.** S5 csókolo[m]: the m lies wholly under an ink blot and is not read from pixels. It comes from the family's closing formula; csókolok is also a word but does not occur in the sister cards.
+- **Shape differs from the letter the word needs.** Row 2 kaptam has a tick-left sign like d. Row 6 ends in an m shape where gondolja needs n. Rows 13 and 18 have a three-bar shape where kívánja and mamáját need a; in row 18 the third bar is an overwritten scribble.
+- **Row 5 closed bowl.** It may be c or cs; the word táncziskola is the same. Its build differs from the joined bowls of row 9 and resembles the c of tancz on HCP 1273.
+- **Row 7.** hölgyek: the first three signs are smudged, the k is overwritten, and no dots are visible over the o. In gondolja the o and l are a squeezed, possibly later, compound.
+- **Row 14 ne.** The n is heavily overwritten, with a stray crossbar.
 - **Row 17 `gondojon`.** There is no wave for l, only a small tick on the j; it may be an abbreviated l.
-- **Row 4.** One extra e after *köszönetem*, taken as an unfinished *-et*; a false start of *kedvesem* is equally possible. The sense is the same.
-- **Stamp box.** Rows S1 to S3 are blurred, and signs there are partly read from the word. S4 *holnap* has the h/p sign at both ends. Attaching it to *a viszontlátásra* is editorial; it could open the next phrase ("tomorrow I will kiss you"). The placing of the stamp text after the main text is assumed from sister cards.
-- **Writer's spelling, normalized.** *mejért, ojan, akor, gondolhasak, ezel*, and *keves* for *kedves* (no d on the card; *kevés* "few" makes no sense here). Accents are supplied. The small tick at the end of row 15 is taken as a line-break mark.
+- **Row 4.** One extra e after köszönetem, taken as an unfinished -et; a false start of kedvesem is equally possible. The sense is the same.
+- **Stamp box.** Rows S1 to S3 are blurred, and signs there are partly read from the word. S4 holnap has the h/p sign at both ends. Attaching it to a viszontlátásra is editorial; it could open the next phrase ("tomorrow I will kiss you"). The placing of the stamp text after the main text is assumed from sister cards.
+- **Writer's spelling, normalized.** mejért, ojan, akor, gondolhasak, ezel, and keves for kedves (no d on the card; kevés "few" makes no sense here). Accents are supplied. The small tick at the end of row 15 is taken as a line-break mark.
 - **Small sign variants, none in doubt.** The i in row 13 has no visible dot, as in S2; the row 11 final a is overwritten; the j stem in row 14 runs through its bar; the o and r of S7 overlap; the third stroke of the row 2 final m is very pale.
-- **Register shift.** The writer moves between *maga*, third-person *Jolánkám* and *önre*; this is on the card.
+- **Register shift.** The writer moves between maga, third-person Jolánkám and önre; this is on the card.
 
 ## Review summary
 
@@ -109,11 +109,11 @@ The review had five minor findings and no blocker. All were accepted; no word, t
 
 - Row 18: the sign before final t is an e shape with a correction, so it is now printed `{e|a}` and disclosed.
 - Row 2: the tick-left sign is now printed `{d|p}`, and the note on h and p was corrected.
-- The restoration of *csókolo[m]* now rests on the family formula, not on the claim that no other letter makes a word.
+- The restoration of csókolo[m] now rests on the family formula, not on the claim that no other letter makes a word.
 - Small sign variants are now listed.
 - The row 5 closed bowl may be c, so it is now printed `{c|cs}`.
 
-The reviewer could not verify the hidden m, any dots in *hölgyek*, how *holnap* attaches, or the sender and date.
+The reviewer could not verify the hidden m, any dots in hölgyek, how holnap attaches, or the sender and date.
 
 ## Credits
 

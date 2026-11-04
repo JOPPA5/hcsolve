@@ -1,0 +1,7 @@
+# hcp-1029 provisional transcription of the pencilled number groups (Claude Opus 5.5, 2026-11-03)
+# X = a Kurrent-style "2" whose foot rises into an extra upstroke; may be 2 or a ligatured 21 (unresolved)
+# Ring around the Rathaus medallion, clockwise from lower left (outer edge = top of digits):
+6 X 19 20 X 15 20 18 5 19 14 X 15 8 ? ? 20 8
+# ("18" overlaps a message line; the groups after 8 near the lily bud read 9?/2?/20, uncertain)
+# Arc inside the Schule frame, left to right then down the right side:
+3 1X? 11 7 15 19?

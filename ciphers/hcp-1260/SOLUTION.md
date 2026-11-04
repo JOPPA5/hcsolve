@@ -6,6 +6,8 @@
 
 Hungarian, simple monoalphabetic substitution with invented graphic signs, written in red ink: the Jolánka family key of HCP1216, unchanged.
 
+*Type note (2026-11-03):* the corner block is written in the stamp box, under the (now lifted) stamp, so the card is typed **MASC + Steganography** (see the stamp-box section below).
+
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
 | two bars | a | section mark | k | F-like | r |
@@ -22,6 +24,18 @@ On this card *gy* is written as the two signs g + y. Dots over o/x give ö/ü, t
 **Not enciphered:** the address, in clear: *Szépreményű / Tóth Jolánka / úrleánynak / Jász Árokszállás*. "Szépreményű" sits at the end of cipher row 6 but belongs to the address, not the message. In the corner block, *7 het* is written in clear (digit and Latin letters).
 
 The picture side carries no handwriting; only its printed verse (Lári-Fári, Cigányprímás).
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit by Claude Opus 5.5, 2026-11-03, on crops of `work/hires/*_adr.jpg` (`work/stamp-2026-11-03/box.png`, 2x; `block4x.png` and `block4x_g.png`, 4x, green channel).
+
+- **State: stamp lifted, writing under it.** The block that this solution calls the "corner block" fills the stamp box at the top right of the address side. The stamp itself is gone; a pink dye bleed over the upper and middle rows (typical of a soaked-off red stamp), a grey residue strip below the block, and the dark postmark stroke that stops at the block's lower-left edge mark where the stamp sat. The writing was therefore hidden under the stamp when the card was posted.
+- **Script: cipher signs**, same key as the main text, with *7 het* in clear (digit and Latin letters). No plain-Hungarian writing was found elsewhere in the box.
+- **Reading:** this is the 8-row corner block already in the ledger (`work/ledger.txt`, corner rows C1-C8) and decoded by `work/decode.py`; it was re-checked against the crops today and no sign changed. Literal: *istenve / leveede / semsirig / hükedve / jeviszont / latasra / 7hetmul / va*.
+- **Hungarian (normalized):** Isten vele [ve] édesem, sírig hű kedvese. Viszontlátásra 7 hét múlva.
+- **English:** God be with you, my darling, your sweetheart, faithful unto the grave. Until we meet again in 7 weeks.
+- **Slovak:** S Bohom, drahá, Váš do hrobu verný milý. Dovidenia o 7 týždňov.
+- **What stays uncertain:** the surplus *ve* in C1-C2 (item 11), the d of *kedve-* in C4 (item 15) and the s of *kedvese* in C5 (item 7). No clause is unread.
 
 ## Reproduction (one command, from the repository root)
 

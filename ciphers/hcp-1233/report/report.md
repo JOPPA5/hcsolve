@@ -10,7 +10,7 @@ The cryptogram is record 1233 of the HC Portal (https://crypto.hcportal.eu/dashb
 
 The card has a printed picture side, titled "Kis házikóm ablakánál" with a printed verse and no handwriting. The address side is in plain handwriting: Tóth Jolánka úrleány[nak], Jász-Árokszállás, Hungary. An upper-left note is tentatively read "Szigorúan magán" ("strictly private"); its first word is not certain. The postmark is only partly legible (letters PAL and SO, compatible with the Rákospalota cancellation of HCP 1216, not established), and no date can be read. Nothing on the card gives a year.
 
-The rest of the address side is covered with cipher writing in purple pencil. It fills the left half, runs along the bottom edge, turns up the right edge, runs upside down along the top edge, and ends inside the stamp box, on top of the printed triangle.
+The rest of the address side is covered with cipher writing in purple pencil. It fills the left half, runs along the bottom edge, turns up the right edge, runs upside down along the top edge, and ends inside the stamp box, on top of the printed triangle. The postage stamp has since been lifted (only a green corner with the cancellation remains), so the closing in the box was written under the stamp: a hidden message, in the cipher signs. It reads "Csókolja számtalanszor Feri" (Feri kisses you countless times; rows 22 to 26). This was confirmed in a stamp-box audit on 2026-11-03.
 
 The card belongs to the family of postcards to Jolánka Tóth, of which several are already deciphered in this repository (HCP 1212, 1213, 1216, 1217, 1218, 1243, 1301). The language is Hungarian.
 
@@ -32,7 +32,7 @@ python3 -I ciphers/hcp-1233/work/decode.py
 
 ## Key
 
-Simple monoalphabetic substitution with invented graphic signs. The names are conventional descriptions of handwritten shapes.
+Cipher type (register): **MASC + Steganography** (changed from MASC on 2026-11-03, because the closing is hidden under the stamp). Simple monoalphabetic substitution with invented graphic signs. The names are conventional descriptions of handwritten shapes.
 
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|

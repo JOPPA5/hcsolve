@@ -1,0 +1,23 @@
+# hcp-1100 transcription by Claude Opus 5.5, 2026-11-03, read from work/hires/*_adr.jpg
+# Reading orientation: body = address side turned 90 degrees clockwise (writing runs across
+# the left half of the card; line B12 runs along the left edge). T01-T04 are the short lines
+# at the top of the card, read with the card turned 180 degrees.
+# One shape code per sign (defined in work/decode.py), signs separated by spaces,
+# words separated by " | " (the writer puts a dot after each word).
+# "[x ...]" = struck-out signs, not decoded. "=text" = written in plain letters on the card.
+B01: hk arc pen | sev b c h b lam u | nine b u | cross vs lam u | c
+B02: eps i eta b | cq yn sev | i | blob sq nine b | u blob i lam
+B03: hn i eps eps | hi i yn sev | pen sq vs | tri vs i u b
+B04: hn bf eps rev3 | amp | blob c nine nine pen | i | hi b bb rev3
+B05: lam sq | vt yn blob c nine nine pen | hn blob b yn | i
+B06: u blob i yn el | sq hi | hk arc pen | eps sq sq lam i yn p
+B07: hk arc pen | sq yn rev3 pen | sev c h eps i yn p | i | blob c crl b
+B08: hn h i u u b yn | c | eps i yn b | u sq
+B09: pen sq vs h | hk sq u blob b h | sq blob | sev b c h
+B10: sq4 yn b | i | hn sq vs eps sev | p i crl b
+B11: c yn pen bar blob i yn p | h gam u blob lp h | [x x x x]
+B12: u blob arc yn | zh sq lam b | hk arc pen | dx h b c lam vs h lp
+T01: i | hk vs lam u | lam c pen | u c | u c
+T02: hn i u blob | eps sq crl b
+T03: i | blob gam crl bf | c | lam b u | sq hi | u b lam b | =P.C's
+T04: =from May

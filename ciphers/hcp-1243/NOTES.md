@@ -18,3 +18,5 @@ Both source sides were reinspected. New derivative crops preserve the originals.
 2026-10-12: Completed direct graphical token ledger from the scan and six enlarged strips. H/p, blot, F/corner overwrite, merged n-cluster and ending ambiguity are preserved. Previous plaintext/review were known; this is not a blind transcript. Existing REVISE requirements addressed, including scoped cursive note and postmark discrepancy.
 
 2026-10-12T21:31:15Z: Final source-hash and direct-shape-decoder checks passed. English PDF rendered and visually checked. No push or external register submission. Existing review requirements addressed; closing main cryptogram with scoped uncertain cursive signature.
+
+2026-11-03: Stamp-box audit on the original hi-res address scan (work/hires/adr.jpg, crops in work/stamp-2026-11-03/). Stamp lifted; plain-Hungarian cursive under it fully read: Isten önnel / csókolom számtalanszor / szeretettel / Deri. Signature now read as Deri from the pixels. Type changed to MASC + Steganography in SOLUTION.md, report and register entry (on the human's instruction).

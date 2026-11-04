@@ -30,7 +30,7 @@ Every sign on the card falls into a sign class of the family key, and no new val
 
 ## Key
 
-Monoalphabetic substitution with invented graphic signs. Word spaces are mostly kept, and digits stay in clear (6, 1/2, 11).
+Cipher type: **MASC + Steganography** (updated 2026-11-03). Monoalphabetic substitution with invented graphic signs. Word spaces are mostly kept, and digits stay in clear (6, 1/2, 11). The steganographic part is the closing written in the cipher signs in the stamp box, hidden under the postage stamp (the stamp is now lifted): "Csókolja számtalanszor imádója, Feri." The register label was changed from MASC on 2026-11-03, after the register team asked that cards with a message under the stamp be typed this way.
 
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|

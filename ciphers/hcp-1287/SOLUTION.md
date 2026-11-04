@@ -6,7 +6,9 @@ Credit: all reading here is by Claude Opus 5.5; this number had no earlier work.
 
 ## Cipher type and key
 
-Hungarian, simple monoalphabetic substitution with invented graphic signs (Jolánka postcard family). No new key was invented. Numerals stay in clear in this family (HCP1218, 1298).
+Hungarian, simple monoalphabetic substitution with invented graphic signs (Jolánka postcard family).
+
+2026-11-03: type now **MASC + Steganography**: besides the enciphered rows, the card carries a plain-Hungarian message hidden in the stamp box, under the (now lifted) stamp; see "Stamp-box message (2026-11-03)". No new key was invented. Numerals stay in clear in this family (HCP1218, 1298).
 
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
@@ -64,6 +66,24 @@ Stamp corner: I kiss you and send kisses through the one you love best. Your swe
 Milá Jolánka! Oznamujem Vám, že sme šťastne dorazili. Práve vtedy pochovávali to dievča. Taký krásny pohreb som ešte nevidel a ani moja Jolánka nie. Jej nápadník päťkrát omdlel, naposledy ho dokonca odniesli do cintorínskej kaplnky. Po pohrebe som išiel do štrajkového tábora, kde hovorili veľmi odvážne, a aj ja som tam zostal do 9 hodín(?). Zabávali sme sa s dcérami a manželkami tovarišov. Sladká Jolánka, inú novinu Vám nemôžem napísať, len že neviem, dokedy potrvá štrajk. Ale čo sa toho týka, to nevadí, nech trvá akokoľvek dlho. V očakávaní Vašich vzácnych riadkov, s Bohom, do videnia, drahá moja.
 
 V rohu pri známke: Bozkávam Vás a dávam Vás bozkávať po tom, koho máte najradšej. Váš do hrobu verný milý.
+
+## Stamp-box message (2026-11-03)
+
+Audit by Claude Opus 5.5 at the human's request (Tóth Jolánka cards: hidden message under the stamp). Crops: `work/stamp-2026-11-03/` (`stamp_full.png`, `stamp_x3_0..2.png`, `line5_x4.png`, `line5_x4_G.png`), from the hires address side.
+
+State: the stamp has been lifted; only a torn green corner fragment stays at the lower right of the box. Under it, eight short lines in the same red ink, in **plain Hungarian** (no cipher signs). The message was already read on 2026-10-30 (above and in "Hungarian (normalized)"); this audit re-read every line from the pixels and found no change.
+
+Literal: `csokolom / es csokol / tatom / aval akit / leg jo?on / szeret si / rig hü / kedvese`
+
+Line 5 at 4x (green channel): `ley jo` + a tall looped letter + small `o` + `n`; read *leg jo?on*, most likely *jobon* as written for *jobban*. The sense is secure, the exact letter form is not. All other lines are read letter by letter.
+
+Hungarian (normalized): Csókolom és csókoltatom avval, akit legjobban(?) szeret. Sírig hű kedvese.
+
+English: I kiss you and send kisses through the one you love best. Your sweetheart, faithful unto the grave.
+
+Slovak: Bozkávam Vás a dávam Vás bozkávať po tom, koho máte najradšej. Váš do hrobu verný milý.
+
+Unread: nothing; only the letter shape after `jo` in line 5 is uncertain. The stamp text is read by eye; the reproduction script covers the cipher rows only and was not changed.
 
 ## Uncertainties
 

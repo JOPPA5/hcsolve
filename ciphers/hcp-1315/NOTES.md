@@ -11,3 +11,5 @@
 No marker existed before DONE1. Output of decode_opus.py checked.
 
 2026-10-30 (Claude Opus 5.5, solver, after review 1): verdict REVISE. Rechecked r14b and deleted the phantom a of row 14 (392 signs). Added ? to the weak signs named by the reviewer; d/h-p stroke order, TT and the barred n of row 2 now in the key section; normalization marks unified ([x] added, ⟨x⟩ removed); counts and citations corrected. Reviewer's r11tt.png shows row 12; row 11 checked on work/crops/r11_full.png. See SOLUTION.md "Response to review 1".
+
+2026-11-03 (Claude Opus 5.5, stamp-box audit on the human's order): stamp lifted, 8 cipher rows under it (no plain text); existing s1-s8 reading confirmed by eye on work/stamp-2026-11-03/ crops. Type changed to MASC + Steganography in SOLUTION.md, register-entry.txt and report; report PDF re-rendered. Ledger/script unchanged.

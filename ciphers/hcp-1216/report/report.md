@@ -8,7 +8,7 @@ Human solver: Tomáš Pavuk
 
 The cryptogram is record 1216 of the HC Portal (https://crypto.hcportal.eu/dashboard/cryptograms/1216), portal name cpc_--_HU__HU_Jasz Arokszalas_jolanka-64, part of Tobias Schrödel's collection of cryptographic postcards (private collection; see the HistoCrypt paper https://ecp.ep.liu.se/index.php/histocrypt/article/view/166). When it was captured on 2026-10-12 the portal listed it as **Not solved**, tagged Postcard and T. Schrödel Collection, category Substitution, date and language unknown, recipient Tóth Jolánka, with no transcription or solution attached.
 
-The picture side carries only a printed caption, *Szerelem törvénye 6. §: Hűségemben ne kételkedj!* ("Law of love, § 6: do not doubt my faithfulness!"), and no cipher text. The whole message is on the address side, written in green ink in invented signs: 22 rows across the card, a final word running up the right edge, and six short rows under the stamp. The card was posted at **Rákospalota** (near Budapest) to Jolánka Tóth at **Jászárokszállás**; the date of the cancellation is not legible.
+The picture side carries only a printed caption, Szerelem törvénye 6. §: Hűségemben ne kételkedj! ("Law of love, § 6: do not doubt my faithfulness!"), and no cipher text. The whole message is on the address side, written in green ink in invented signs: 22 rows across the card, a final word running up the right edge, and six short rows under the stamp. The card was posted at **Rákospalota** (near Budapest) to Jolánka Tóth at **Jászárokszállás**; the date of the cancellation is not legible.
 
 ![Picture side (source/picture.jpg)](../source/picture.jpg)
 
@@ -20,7 +20,7 @@ The card belongs to the "Jolánka" family of Hungarian cipher postcards addresse
 
 The key was taken unchanged from the sister card HCP 1301 (its graphic key file is byte-for-byte the same as this card's `work/graphic-key.json`). The work then was a careful transcription of the signs.
 
-- **Earlier passes (2026-10-12/13), OpenAI GPT solver (GPT-6 Astra / GPT-6.1 Sol):** source capture, transfer of the key, and five reading passes on enlarged crops. They read most of the text but left rows 4–5, the sign after *menni* (row 18) and the sign before *og* (row 21) unresolved.
+- **Earlier passes (2026-10-12/13), OpenAI GPT solver (GPT-6 Astra / GPT-6.1 Sol):** source capture, transfer of the key, and five reading passes on enlarged crops. They read most of the text but left rows 4–5, the sign after menni (row 18) and the sign before og (row 21) unresolved.
 - **Completion (2026-10-30), Claude Opus 5.5:** every row was re-read on 6–14× enlargements of the address side and recorded as a sign ledger, one token per written sign (`work/ledger-opus.txt`). Rows 4, 5, 9, 18 and 21 were corrected or completed. The ledger is manual (no OCR) and not blind, since earlier readings were known.
 - **Review (2026-10-30), a separate Claude Opus 5.5 agent:** re-ran the command, wrote its own decoder using HCP 1301's key file rather than the solver's key table, got identical literal output (493 letters), and checked the difficult rows and a sample of all others on its own enlargements.
 
@@ -28,7 +28,7 @@ The writer spells phonetically and carelessly: he drops letters, repeats syllabl
 
 ## Key
 
-Hungarian simple monoalphabetic substitution with invented signs. The names are conventional descriptions of the handwritten shapes.
+Hungarian simple monoalphabetic substitution with invented signs, with a hidden (steganographic) message: six rows in the same signs were written in the stamp box and covered by the stamp. Register type: **MASC + Steganography** (changed from MASC on 2026-11-03). The names are conventional descriptions of the handwritten shapes.
 
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|
@@ -78,8 +78,8 @@ Slovak translation: **Moja milovaná, sladká Jolánka! Neviem, čo si mám mysl
 
 Notes on the reading:
 
-- The letter uses the formal address (*ír, higgye el, van, fel fog jönni*), usual between courting couples of the period. *Mint a zsidók a Messiást* ("as the Jews await the Messiah") is a common idiom of the time.
-- **Vámosgyörk** is the railway junction where the branch line to Jászárokszállás and Jászberény leaves the Budapest–Hatvan–Miskolc main line. Travelling along the main line past Vámosgyörk without turning off to her is exactly what the writer describes. *Fel fog jönni* ("will come up") fits a writer in or near Budapest (Rákospalota cancellation).
+- The letter uses the formal address (ír, higgye el, van, fel fog jönni), usual between courting couples of the period. Mint a zsidók a Messiást ("as the Jews await the Messiah") is a common idiom of the time.
+- **Vámosgyörk** is the railway junction where the branch line to Jászárokszállás and Jászberény leaves the Budapest–Hatvan–Miskolc main line. Travelling along the main line past Vámosgyörk without turning off to her is exactly what the writer describes. Fel fog jönni ("will come up") fits a writer in or near Budapest (Rákospalota cancellation).
 - **Sándor** also appears on the family card HCP 1217. The sender signs as **Feri** (Ferenc); he is not identified with any sender on other cards.
 
 ## Reproduction
@@ -97,19 +97,20 @@ The script uses only the Python standard library and writes no files. It checks 
 None of these changes the sense of the letter.
 
 - **Contextual sign readings.** At this resolution each sign is only 8–12 pixels tall. Three signs are read from context, not from a clean match:
-  - row 5: the d of *de* has its tick on the right, like the h/p sign;
-  - row 21: the f of *fog* is a tilted cross, between the f and u shapes;
-  - row 18: the single slash before *e leküzdöttem* is read as a reduced d.
+  - row 5: the d of de has its tick on the right, like the h/p sign;
+  - row 21: the f of fog is a tilted cross, between the f and u shapes;
+  - row 18: the single slash before e leküzdöttem is read as a reduced d.
   
   In each case the alternative gives no Hungarian word.
-- **Row 4.** *me{m|n} ostis* is normalized *még most is* ("even now"). The g is not on the card. *neküznöm* (all signs clear) is normalized *nélkülöznöm* ("I must do without"), a misspelled word with *l…lö* omitted. The alternative *ne küzdöm* is excluded because the sign after z is n, not d.
-- **Writer's repetitions.** Row 5 has *hig higgyje* (a false start, then the word). Row 18 has *men | enni*, a repeated *-en-* with a stray stroke between; it is normalized *elmenni*.
+- **Row 4.** me{m|n} ostis is normalized még most is ("even now"). The g is not on the card. neküznöm (all signs clear) is normalized nélkülöznöm ("I must do without"), a misspelled word with l…lö omitted. The alternative ne küzdöm is excluded because the sign after z is n, not d.
+- **Writer's repetitions.** Row 5 has hig higgyje (a false start, then the word). Row 18 has men | enni, a repeated -en- with a stray stroke between; it is normalized elmenni.
 - **Other normalized spellings:**
-  - *kel* → kell, *egessegese* → egészséges-e (z omitted), *higgyje* → higgye;
-  - *ojan* → olyan, *nezemre* → nehezemre, *mer* → mer[t], *erement | temojan* → erre mentem, olyan;
-  - *mellet* → mellett, *akor* → akkor, *allig* → alig, *hostais* → posta is (h/p sign).
-- **Accents.** Acute accents are not visible and all are supplied. Diaeresis dots are seen on some signs only (for example a single dot on the ö of *neküznöm*, none on *jönni*); the rest are supplied.
-- **The right edge.** *látásra* up the right edge is faint and partly under the portal watermark; it is consistent with the signs but was not confirmed sign by sign in review.
+  - kel → kell, egessegese → egészséges-e (z omitted), higgyje → higgye;
+  - ojan → olyan, nezemre → nehezemre, mer → mer[t], erement | temojan → erre mentem, olyan;
+  - mellet → mellett, akor → akkor, allig → alig, hostais → posta is (h/p sign).
+- **Accents.** Acute accents are not visible and all are supplied. Diaeresis dots are seen on some signs only (for example a single dot on the ö of neküznöm, none on jönni); the rest are supplied.
+- **Under the stamp (checked again 2026-11-03).** The stamp is lifted; the six hidden rows were re-checked on the higher-resolution original scan. All agree with the ledger; in kedvese the strokes between k-e and the final e group less cleanly than elsewhere (the v is not the usual closed chevron), so its d and v are confirmed by the word and the family formula sírig hű kedvese rather than sign by sign.
+- **The right edge.** látásra up the right edge is faint and partly under the portal watermark; it is consistent with the signs but was not confirmed sign by sign in review.
 - **Date and sender.** The card has no legible date, and the cancellation date cannot be read. The identity of Feri is not established.
 - **Prior work.** The key was transferred from the family, not recovered blind from this card. No published reading of this card exists as far as was checked: the portal status (Not solved) and the AI Decipherment Register (no record, checked 2026-10-29).
 
@@ -124,11 +125,11 @@ Reviewer: Claude Opus 5.5 (Anthropic), a separate agent, round 1, verdict **ACCE
 
 Its five findings were all minor disclosure points:
 
-- **Row 21, f of *fog*.** Now described as a tilted cross read from context.
-- **Row 5, d of *de*.** Now described as contextual (its tick is on the right, as on h/p).
-- **Row 18.** The normalization *elmenni* is now said to delete a repeated *-en-* as well as the stray stroke.
-- **Normalization list.** The missing changes (*kell*, *egészséges-e*, *higgye*, *erre mentem, olyan*) are now listed.
-- **Diacritics.** The reviewer thought a diaeresis was marked on *jönni*; the ledger in fact marks none there, so no change was needed. The single dot on the ö of *neküznöm* is now named in the ledger header.
+- **Row 21, f of fog.** Now described as a tilted cross read from context.
+- **Row 5, d of de.** Now described as contextual (its tick is on the right, as on h/p).
+- **Row 18.** The normalization elmenni is now said to delete a repeated -en- as well as the stray stroke.
+- **Normalization list.** The missing changes (kell, egészséges-e, higgye, erre mentem, olyan) are now listed.
+- **Diacritics.** The reviewer thought a diaeresis was marked on jönni; the ledger in fact marks none there, so no change was needed. The single dot on the ö of neküznöm is now named in the ledger header.
 
 No letter of the literal decipherment and no word of the normalized text or the translation changed as a result of the review.
 

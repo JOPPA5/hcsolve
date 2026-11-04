@@ -6,6 +6,8 @@
 
 Hungarian, simple monoalphabetic substitution with invented graphic signs: the "Jolánka" family key established on the finished cards HCP1216 (sign table there), 1212, 1213, 1217, 1218, 1243, 1301. No new key was needed. The left half of the address side, three long rows along the bottom, and eight rows under the stamp are enciphered.
 
+*Type note (2026-11-03):* the eight enciphered rows sit in the stamp box under the (now lifted) stamp, a hidden message, so the register type is **MASC + Steganography** (was MASC).
+
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
 | two bars | a | section mark / S | k | F-like | r |
@@ -107,3 +109,15 @@ Verdict REVISE. I rechecked each point on the reviewer's panels (`review/work/ho
 7. **Claim wording: fixed.** *kelet* is now ×4, three of them *kellett*. "One token per written sign" now holds after findings 1 and 4.
 
 The command `python3 -I ciphers/hcp-1267/work/decode.py` was re-run after these changes; its rows match the literal block above.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit at the request of Tomáš Pavuk (Claude Opus 5.5). Crops of the un-converted original `work/hires/*_adr.jpg` at 2x colour and 3x red channel are in `work/stamp-2026-11-03/` (`box2x.png`, `red0.png`, `red1.png`, `red2.png`).
+
+- **State:** the stamp is lifted; the stamp box (red dashed frame, top right) is filled with eight rows of green writing, all in the cipher signs of this card's key. No plain Hungarian is in the box. The ink is faded and partly brownish where the stamp glue was, and the paper is torn/abraded at the right of rows S2 to S4; the signs look like the writing itself rather than only an offset, which does not change the reading.
+- **Coverage before this audit:** full. The message was already read (ledger rows S1 to S8, plaintext above); the re-check from the new crops agrees sign by sign with the ledger. No new reading, so `work/decode.py` is unchanged.
+- **Literal:** `i?stenvele | édese{tear} | bold[o]g | viszont | latasra | csoko[l]ja | imadoja | feri`
+- **Hungarian (normalized):** Isten vele, édese[…]! Boldog viszontlátásra. Csókolja imádója, Feri.
+- **English:** God be with you, my darling(?)! Until a happy reunion. Your admirer Feri kisses you.
+- **Slovak:** S Bohom, drahá(?)! Šťastné zhľadanie. Bozkáva Vás Váš ctiteľ Feri.
+- **Unread:** the end of the S2 word after *édese* lies in the tear (*édesem* is likely but not restored). The o of *boldog* and the l of *csókolja* are restored as before (Uncertainty 11). Nothing else in the box is unread.

@@ -27,7 +27,7 @@ The card belongs to the "Jolánka" family of Hungarian cipher postcards addresse
 
 ## Key
 
-Hungarian simple monoalphabetic substitution with invented signs. The names are conventional descriptions of the handwritten shapes. Word spaces are only partly kept. Accents are marks over the signs and are often not visible.
+Cipher type (register): **MASC + Steganography** (2026-11-03). Hungarian simple monoalphabetic substitution with invented signs; the closing six rows are hidden in the stamp box, under the stamp, which is now lifted. The names are conventional descriptions of the handwritten shapes. Word spaces are only partly kept. Accents are marks over the signs and are often not visible.
 
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|
@@ -79,6 +79,10 @@ Notes on the reading:
 - The letter uses the formal address (vigyázzon, adja át), as other cards of the family do. The idiom kiadta a jelszót is literally "gave out the password", here "gave the order"; the sentence says the father will no longer keep him.
 - "Gyöngyös" came out of the signs without being sought. It fits the family: other cards connect Feri with Gyöngyös.
 - "Mér" is colloquial for "miért" ("why").
+
+## Stamp-box message (audit 2026-11-03)
+
+The stamp has been lifted (glue traces and a green paper fragment remain). Under it are six short rows in the same cipher signs, no plain text: `csoko / lom / szam / talan / szo{t>r} / feri` = **Csókolom számtalanszor. Feri** ("I kiss you countless times. Feri"; Slovak: "Bozkávam Vás nespočetnekrát. Feri"). A re-reading on new enlargements on 2026-11-03 confirmed every sign; nothing is unread. Because the message was hidden under the stamp, the card is typed MASC + Steganography.
 
 ## Reproduction
 

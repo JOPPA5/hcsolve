@@ -6,7 +6,10 @@ Credit: all of this reading is by Claude Opus 5.5, 2026-10-30, directly from the
 
 ## Cipher type and key
 
-Hungarian, simple monoalphabetic substitution with invented graphic signs (the Jolánka postcard family; same key as HCP1216 and sisters, unchanged). Word spaces are partly kept; dots and double marks over vowels are written, acute marks mostly not.
+Hungarian, simple monoalphabetic substitution with invented graphic signs (the Jolánka postcard family; same key as HCP1216 and sisters, unchanged).
+
+Type note (2026-11-03): the card carries a hidden message in cipher signs in the stamp box, under the now-lifted stamp, so the register type is **MASC + Steganography** (substitution itself unchanged).
+ Word spaces are partly kept; dots and double marks over vowels are written, acute marks mostly not.
 
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
@@ -107,3 +110,15 @@ Verdict REVISE. I re-checked each point on the reviewer's crops and on my own (`
 8. **Margin end (minor): fixed.** Ledger `O>ja` became `O>o|i`, so the literal block shows `ir{o|i}a`. The normalized reading stays *írja meg*.
 
 I also looked at the picture side, which the reviewer had not: a printed photograph of a couple with a printed series number and no handwriting.
+
+## Stamp-box message (2026-11-03)
+
+Audit by Claude Opus 5.5, 2026-11-03, on the human's instruction. Crops of the un-converted original `work/hires/..._adr.jpg` (box about x 2740–3200, y 240–760) at 2x and 3x are in `work/stamp-2026-11-03/`. State: the stamp has been lifted (paper residue along the lower edge); five rows of writing stand under it, all in the cipher signs, in the same purple ink, no plain Hungarian. Every sign was re-read from the pixels and agrees with ledger rows S1–S5, which `work/decode.py` already decodes (re-run today, 603 signs, unchanged):
+
+- Literal: `istenvele | edesem | sirighü | kedvese | feri` (row S2 ends in three short strokes, m; row S3 ü written with the double mark)
+- Hungarian (normalized): Isten vele, édesem! Sírig hű kedvese, Feri.
+- English: Farewell, my darling! Your sweetheart, faithful unto the grave, Feri.
+- Slovak: S Bohom, drahá! Váš do hrobu verný milý, Feri.
+
+Nothing stays unread in the stamp box; no restoration was needed. This was already in the solution since 2026-10-30; the only change is the type label.
+

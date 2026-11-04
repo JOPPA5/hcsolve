@@ -10,7 +10,7 @@ The cryptogram is record 1241 of the HC Portal (https://crypto.hcportal.eu/dashb
 
 It is a Hungarian picture postcard of a couple embracing, with swallows, the printed heading "Fecském hova szállsz?" and a printed four-line verse beginning "Valamikor réges-régen". The picture side has no handwriting.
 
-All the writing is on the address side, in red ink. The left half holds twenty rows of invented graphic signs. The last row runs on into plain script along the bottom edge and up the right edge ("tiszteltetem a kedves mamáját"). The square meant for the stamp holds a plain farewell, and the address is plain too: **Szép reményű / Tóth Jolánka / úrleánynak / Jász Árokszállás** ("to Miss Jolánka Tóth, of fair promise", Jászárokszállás, Hungary).
+All the writing is on the address side, in red ink. The left half holds twenty rows of invented graphic signs. The last row runs on into plain script along the bottom edge and up the right edge ("tiszteltetem a kedves mamáját"). The square meant for the stamp holds a plain farewell that was hidden under the stamp (the stamp is now lifted; the postmark is struck only outside the box): "Isten vele, édesem. Továbbra is hű kedvese. Csókolom számtalanszor. Feri" ("God be with you, my darling. Still your faithful sweetheart. I kiss you countless times. Feri"), and the address is plain too: **Szép reményű / Tóth Jolánka / úrleánynak / Jász Árokszállás** ("to Miss Jolánka Tóth, of fair promise", Jászárokszállás, Hungary).
 
 The card belongs to the Jolánka family of postcards to the same addressee. Several are finished in this repository: HCP 1216 (fullest legend), 1212, 1213, 1217, 1218, 1243 and 1301. This card was therefore read with a **known, transferred key**. It is not a new key recovery. The writer signs as Feri on the sister card HCP 1216 and in abbreviated form here. His full identity is not known.
 
@@ -28,7 +28,7 @@ Two pairs of signs are near-homographs. h and p share a sign class, and p was ch
 
 ## Key
 
-Simple monoalphabetic substitution with invented graphic signs (register label MASC). Descriptions are conventional names for the handwritten shapes.
+Simple monoalphabetic substitution with invented graphic signs (register label MASC). Because a message was hidden under the stamp, the card is registered as "MASC + Steganography" (2026-11-03). Descriptions are conventional names for the handwritten shapes.
 
 | Sign | Plain | Sign | Plain | Sign | Plain |
 |---|---|---|---|---|---|

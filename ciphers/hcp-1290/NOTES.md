@@ -8,3 +8,5 @@ Dead ends: `jeeléden` (rows 3-4) gives no word; signs are clear, left open. Row
 No mention of Pásztori or csapat on other Jolánka cards (grep of SOLUTION.md files).
 
 2026-10-30 (Claude Opus 5.5, solver, after review 1): Accepted all findings after checking the crops. Row 3 o -> i (higgye el, jeeléden resolved), row 20 ó -> i (hoz is), row 24 M M -> M (keze, de most; [É]de[s]em withdrawn). Added S6 [UNREAD] to the ledger. Postmark looked at again, no place name. Lesson: my row 3 and row 20 errors were dot and body misreads; the invented second m came from reading to fit an expected word.
+
+2026-11-03 (Claude Opus 5.5, stamp-box audit on human order): Stamp lifted; writing under it in cipher signs only (no plain text). Re-read S1-S5 on fresh crops (work/stamp-2026-11-03/): csok lom szam talan szor = Csók[o]lom számtalanszor, agrees with ledger. S6 (foot-stroke, single bar, low curve, then stamp remnant) still unread; not forced. Type changed to MASC + Steganography in SOLUTION.md, register-entry.txt and report. Ledger and decode.py unchanged (they already cover S1-S6).

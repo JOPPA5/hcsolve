@@ -7,3 +7,6 @@ Left-over: work/crops/ holds an early, superseded set of crops; an rm was refuse
 Output of work/decode.py checked. See SOLUTION.md uncertainties. Register entry only after review.
 
 2026-10-30 (Claude Opus 5.5, solver, after REVIEWED1, verdict REVISE): all six findings addressed, see "Response to review 1" in SOLUTION.md. Row 23 has one n; B1 has dots; row 4 de is h-shaped and row 14 p is d-shaped, marked in the ledger; preferred division kérje ki.
+
+2026-11-03 (Claude Opus 5.5, stamp-box audit ordered by Tomáš Pavuk): stamp lifted (green remnant at lower right), S1-S6 cipher rows lie under its place inside the postmark ring; re-checked on work/stamp-2026-11-03/ crops, agree with ledger; decode.py re-run OK. Type changed to "MASC + Steganography" in SOLUTION.md, register-entry.txt, report.
+2026-11-03: report.md single-asterisk italics (53, printed as literal * by md2pdf) removed as plain text; PDF re-rendered, 0 asterisks in its text.

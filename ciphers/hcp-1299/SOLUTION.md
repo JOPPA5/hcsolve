@@ -4,6 +4,8 @@
 
 ## Cipher type and key
 
+**Type (updated 2026-11-03): MASC + Steganography** - the closing eight rows are hidden in the stamp box under the (now lost) stamp; see the section "Stamp-box message (2026-11-03)".
+
 Hungarian, simple monoalphabetic substitution with invented graphic signs: the "Jolánka" postcard family, same key as HCP1216, 1212, 1213, 1217, 1218, 1243, 1301. The key was taken over from those cards and fitted without change; as on the sister cards, *gy* is written as two signs.
 
 | sign | letter | sign | letter | sign | letter |
@@ -65,6 +67,17 @@ Under the stamp: God be with you, darling! Kisses you countless times your sweet
 Moja milovaná, sladká Jolánka, moja sladká jediná nádej! Želám si, aby Vás moje riadky našli v najlepšom zdraví. S ľútosťou beriem na vedomie, že som vraj na Vaše posledné riadky odpovedal tak neskoro, hoci keď som ich dostal, odpovedal som hneď, lebo si myslím, drahá, že aj Vy tak ťažko čakáte moje riadky, ako ja ťažko čakám Vaše vzácne riadky. Verte mi, drahá, slovami sa ani nedá vyjadriť ten pocit, ktorý mi zovrel srdce, keď som dočítal Vaše vzácne riadky. Ľutoval som len to, prečo tu nie je ten anjelik, ktorý píše tieto riadky, aby som ho mohol pritisnúť k srdcu, aby sa mohol cítiť úplne šťastný. Verte mi, drahá, tak ma bolí srdce, že Vás nemôžem vidieť. Chcel by som len vedieť, ako dlho ešte musí moje osirelé srdce čakať, kým budeme spolu. Čudujem sa, drahá, že sa tak rýchlo zmierujete s tým, že keď môj lístok možno trochu mešká, treba z toho usudzovať, že by som [Vás] ľahko zabudol, keby nás osud rozdelil.
 
 Pod známkou: S Bohom, drahá! Bozkáva Vás nespočetnekrát Váš do hrobu verný milý, Feri.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit by Claude Opus 5.5 on the un-converted original `work/hires/..._adr.jpg` (crops at 3x in `work/stamp-2026-11-03/`: `box.png`, `top3x.png`, `bot3x.png`, `low3x.png`). The stamp has been lifted: only paper loss and a perforation outline remain at the top left of the printed box. Under it are eight short rows in the cipher signs (no plain Hungarian), written across the printed triangle mark. The message was already read in full in the 2026-10-30 solution (ledger rows S1-S8, decoded by the reproduction command); the audit re-read every sign from the pixels and found no change.
+
+- Literal: istenvele | edesem | csokolja | szamta | lanszor | sirig | hukedves | seferi
+- Hungarian: Isten vele, édesem! Csókolja számtalanszor sírig hű kedvese, Feri.
+- English: God be with you, darling! Kisses you countless times your sweetheart, faithful unto the grave, Feri.
+- Slovak: S Bohom, drahá! Bozkáva Vás nespočetnekrát Váš do hrobu verný milý, Feri.
+
+Unread: nothing. As already disclosed, the first sign of S1 (i of Isten) touches the stain left by the lifted stamp and is read from the word; every other sign is clear. The ledger and `decode.py` already contain S1-S8 and were not changed; the command was re-run on 2026-11-03 and prints the same text.
 
 ## Uncertainties
 

@@ -1,0 +1,5 @@
+{
+  "note": "Hand-written position numbers read from work/hires/cpc_1900-06-25_AT_Linz_AT_Kremsmunster__pic.jpg (enlarged 3x). Each printed grid cell is one letter; 'Sch' is one cell, I and J share one cell (Fraktur J).",
+  "name_des_absenders": {"A": [8, 12], "E": [6], "I/J": [4], "K": [7], "L": [1, 9], "O": [2], "S": [5], "SCH": [11], "U": [3, 10]},
+  "ort": {"I/J": [2], "L": [1], "N": [3], "Z": [4]}
+}

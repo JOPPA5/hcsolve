@@ -4,7 +4,9 @@
 
 ## Cipher type and key
 
-Hungarian, simple monoalphabetic substitution with invented graphic signs: the Jolánka postcard family. The key was transferred from the finished card HCP1216 (sign classes there) and confirmed on this card; no sign needed a new value. The sender signs Feri, as on HCP1216.
+Hungarian, simple monoalphabetic substitution with invented graphic signs: the Jolánka postcard family.
+
+2026-11-03: register type changed to **MASC + Steganography**. The stamp has come away and left eight rows in the cipher signs hidden in the stamp box (S1-S8 below), so the card hides a message under the stamp as well as enciphering it. The key was transferred from the finished card HCP1216 (sign classes there) and confirmed on this card; no sign needed a new value. The sender signs Feri, as on HCP1216.
 
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
@@ -78,6 +80,17 @@ Moja milovaná sladká Jolánka! Chápem, že Vám muselo byť nepríjemné, ke�
 Pod známkou: Bozkávam Vás nespočetnekrát. Váš ctiteľ Feri. Myslite niekedy na mňa.
 
 Pravý okraj, nešifrovane: Moja úcta Bélimu a Vašej milej mame.
+
+## Stamp-box message (2026-11-03)
+
+Audit by Claude Opus 5.5 on 2026-11-03 against the hi-res address side (crops in `work/stamp-2026-11-03/`: `box_2x.jpg`, `box_red_2x.jpg`, `half0_red_4x.jpg`, `half1_red_4x.jpg`). The stamp has been lifted. Only a fragment of its frame is left at the left edge. Under it are eight rows in the cipher signs, green ink, partly as an offset. Nothing in plain Hungarian is in the box. The rows were already read (ledger rows S1-S8, decoded by the reproduction command). I re-read them from the pixels today and they agree sign for sign: S5 o j a f e r i, S6 g o n d o l, S7 j o n n e h a, S8 r a m are sharp; S1-S4 are fainter offset but readable.
+
+- Literal: `csokol lomsza mtalan szorima [d]ojaferi gondol jonneha ram`
+- Hungarian: Csókolom számtalanszor. Imá[d]ója Feri. Gondoljon néha rám.
+- English: I kiss you countless times. Your adorer, Feri. Think of me sometimes.
+- Slovak: Bozkávam Vás nespočetnekrát. Váš ctiteľ Feri. Myslite niekedy na mňa.
+
+Unread: nothing beyond what is already listed. S5 [d] is a restoration: the sign is hidden at the torn stamp edge and only d makes *imádója*. S1 final l and S7 final a are faint. The reproduction script already covers these rows and was not changed.
 
 ## Not enciphered
 

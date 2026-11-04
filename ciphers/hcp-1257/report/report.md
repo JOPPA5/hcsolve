@@ -27,7 +27,7 @@ The writer spells phonetically and carelessly: he drops letters, writes no visib
 
 ## Key
 
-Simple monoalphabetic substitution of Hungarian with invented graphic signs. The labels are conventional names for the handwritten shapes.
+Simple monoalphabetic substitution of Hungarian with invented graphic signs, combined with steganography: part of the message is hidden in the stamp box, under the stamp. Register type: **MASC + Steganography** (changed on 2026-11-03; before, MASC). The labels are conventional names for the handwritten shapes.
 
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@ Pravý okraj, nešifrovane: Moja úcta Bélimu a Vašej milej mame.
 - **Row 26, gya[k]rab[b]an.** All signs are clear, but the word needs a k and a b added. It is read from sense; the word is used elsewhere in this family (HCP 1250, 1256, 1308).
 - **Calls that rest on word sense, not shape.** Every h/p sign. The d/n pair in édes. Row 14 n in mindenkinek, a joined Lambda-like sign on the printed line. Row 28 l in rágalmat, a washed-out Y-shaped remnant. Row 11 vele én, three bars with a stray stroke; "vele" is slightly loose for "to him". Row 11 o in okoztak, crowded and overwritten.
 - **Single signs.** Row 21 már is written with two strokes (`nar`). Row 24 `d{y?}` has a hook but no crossing, normalized tud[o]k. Row 30 mar[a]dok has a g-like sign and a missing a; the i of imádója lies under a stain. Row 23 i in bélyeget has its top on a stain. Row 10 has an ink blot taken as having no letter value.
-- **Under the stamp.** S5 [d] is a true restoration: the sign is hidden at the torn stamp edge. S1 final l and S7 final a are very faint.
+- **Under the stamp.** On 2026-11-03 the stamp box was checked again on the hi-res scan. The stamp has come away. Eight rows in the cipher signs lie under it and nothing in clear. The re-read agrees with rows S1 to S8 sign for sign. S5 [d] is a true restoration: the sign is hidden at the torn stamp edge. S1 final l and S7 final a are very faint.
 - **Other.** Béli is not identified. The card has no legible date. felkennem → féltékeny nem is an interpretation, because the card lacks té and y. The Hungarian judgment was made by AI agents, and no native speaker has checked it.
 
 ## Review and what changed

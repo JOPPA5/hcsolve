@@ -8,6 +8,8 @@ Credit: transcription and decipherment of this card by Claude Opus 5.5, 2026-11-
 
 Hungarian (portal language "Unknown" is resolved), simple monoalphabetic substitution with invented graphic signs (the Jolánka postcard family). Sign classes as in HCP1216 and HCP1234; no new letter value was needed:
 
+Type note (2026-11-03): register type is now **MASC + Steganography**, because a message (plain Hungarian, signed feri in cipher signs) is hidden in the stamp box under the lifted stamp.
+
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
 | two bars | a | section mark | k | F-like | r |
@@ -73,6 +75,17 @@ Moja milovaná, sladká Jolánka! Vaše milé riadky som dostal, za ktoré veľm
 Pod známkou: Nech viera, nádej a láska spoja naše srdcia. Feri.
 
 Adresa: Sľubnej slečne Jolánke Tóthovej, Jászárokszállás.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit by Claude Opus 5.5 on the hires original, crops in `work/stamp-2026-11-03/` (`box.png` 2x colour, `box_top*.png` and `box_bot*.png` 3x, `_g` = green channel, where the purple ink is dark and the blue imprint pale). The stamp is lifted; only its green lower strip with `FIL` survives. Under it is writing in **both** modes: six short rows in plain Hungarian script, then the name in the card's cipher signs.
+
+- Literal (brackets = letters supplied from the HCP1234 formula, traces only compatible): `hit remény / és szere- / tet kös- / se [öss]ze / sziv[ün]- / [ket]` + cipher `feri` (literal signs `fari`, see uncertainty 2).
+- Normalized Hungarian: Hit, remény és szeretet kösse [öss]ze szív[ünket]. Feri.
+- English: May faith, hope and love bind our hearts together. Feri.
+- Slovak: Nech viera, nádej a láska spoja naše srdcia. Feri.
+
+My own look agrees with the earlier reading and changes no letter. Read from the pixels: `hit remény`, `és szere-`, `tet kös-`, `se`, `ze`, `sziv`, the n of `-ün-`, the hyphen dot, and the cipher `feri`. Not read from the pixels alone: `öss` in row 4 (arches over the printed wreath), the ü of row 5 (a tall stroke there is the z descender from the row above), and the last row `ket` (a peak and a k-like trace, merged with the strokes of the cipher name). These are supplied from the same writer's formula on HCP1234. Whether ink remains under the surviving `FIL` strip is unknowable. The stamp text is read by eye; `work/decode.py` is unchanged.
 
 ## Uncertainties
 

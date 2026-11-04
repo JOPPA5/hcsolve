@@ -8,7 +8,7 @@ Human solver: Tomáš Pavuk
 
 The cryptogram is record 1245 of the HC Portal (https://crypto.hcportal.eu/dashboard/cryptograms/1245), portal name cpc_1912-03-20_HU__HU_Jasz Arokszalas_jolanka-11, part of Tobias Schrödel's collection of cryptographic postcards (T. Schrödel Collection, private collection). When captured on 2026-11-01 the portal listed it as **Not solved**, category Substitution, language Unknown, sender Unknown, recipient Tóth Jolánka, with no transcription or solution attached. The solver met no published solution of this card.
 
-It is a Hungarian picture postcard. The address side carries seventeen rows of cipher in red ink, written beside the plain address **Szépreményű Tóth Jolánka úrleánynak, Jászárokszállás** ("To the hopeful young lady Jolánka Tóth, Jászárokszállás"). In the box for the stamp the sender adds in plain hand: Csókol számtalanszor hű kedvesed Feri ("Kisses you countless times your faithful sweetheart Feri"). The postmarks show GYÖNGYÖS 912 MÁR and a second impression MÁR 20, which agrees with the date 1912-03-20 in the portal's file name.
+It is a Hungarian picture postcard. The address side carries seventeen rows of cipher in red ink, written beside the plain address **Szépreményű Tóth Jolánka úrleánynak, Jászárokszállás** ("To the hopeful young lady Jolánka Tóth, Jászárokszállás"). In the box for the stamp, under the stamp (now lifted; a small green corner of it remains), the sender hid a message in plain hand: Csókol számtalanszor hű kedvesed Feri ("Kisses you countless times your faithful sweetheart Feri"). Every letter of it reads; it was written to be covered when the stamp was stuck on. The postmarks show GYÖNGYÖS 912 MÁR and a second impression MÁR 20, which agrees with the date 1912-03-20 in the portal's file name.
 
 The card belongs to the family of Jolánka postcards, sent by Feri to Jolánka Tóth in Jászárokszállás around 1912 and written in one shared cipher. Another card of the same period (HCP 1271) has Feri moving to work at Gyöngyöspüspöki, near Gyöngyös, which fits the postmark and the opening news of a safe arrival.
 
@@ -32,7 +32,7 @@ The key gives Hungarian on all 17 rows, and no sign outside the blots lacks a va
 
 ## Key
 
-Monoalphabetic substitution of Hungarian with invented graphic signs. The labels below are descriptions of the handwritten shapes.
+Cipher type: **MASC + Steganography** (updated 2026-11-03). Monoalphabetic substitution of Hungarian with invented graphic signs, plus a plain-text message hidden under the stamp. The labels below are descriptions of the handwritten shapes.
 
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|

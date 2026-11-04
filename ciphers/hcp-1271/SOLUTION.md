@@ -6,7 +6,7 @@ Credit: reading, ledger and interpretation by Claude Opus 5.5. No earlier work e
 
 ## Cipher type and key
 
-Hungarian, simple monoalphabetic substitution with invented graphic signs (Jolánka family key, unchanged). Word spaces are partly kept. Portal language "Unknown" is resolved: Hungarian.
+**Type: MASC + Steganography** (2026-11-03: plain greeting hidden in the stamp box, under the now-lifted stamp; see the stamp-box section). Hungarian, simple monoalphabetic substitution with invented graphic signs (Jolánka family key, unchanged). Word spaces are partly kept. Portal language "Unknown" is resolved: Hungarian.
 
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
@@ -98,3 +98,15 @@ Verdict ACCEPT. All five findings are minor; I rechecked each on the reviewer's 
 3. **Row 1 k: fixed.** `review/work/a2.png` shows the section-mark outline under the pink smudge. The brackets are dropped and the sign is listed in Uncertainty 1.
 4. **Row 9 accent: fixed.** `review/work/c2.png` shows a short stroke above the e of `ese`. It is noted in Uncertainty 3 as favouring *és*; the uncertainty stays.
 5. **Supplied verb in the translations: fixed.** English and Slovak now bracket it, and Uncertainty 5 says so.
+
+## Stamp-box message (2026-11-03)
+
+Audit by Claude Opus 5.5 on the un-converted original (`work/hires/..._adr.jpg`), crops at 3x in `work/stamp-2026-11-03/` (colour and green channel). The stamp has been lifted: the printed dotted frame of the stamp box is empty of any stamp, and the writing inside it would have been covered by the stamp. Only a faint grey circular impression remains inside the box, under the ink. The hidden writing is **plain Hungarian cursive** in the same red ink; there are no cipher signs in the box. Every letter is legible; nothing is restored.
+
+Literal, line by line: `üdvöz / löm a / tavol / bol hü / kedvese` (no acute is visible on the a of *tavol* or the o of *bol*; the dots of ü and ö are clear).
+
+- Hungarian (normalized): Üdvözlöm a távolból, hű kedvese.
+- English: I greet you from afar. Your faithful sweetheart.
+- Slovak: Pozdravujem Vás z diaľky. Váš verný milý.
+
+This reading was already in this file (2026-11-01) and is confirmed letter for letter; nothing in the stamp box stays unread. The reproduction script covers only the cipher ledger; the stamp text is plain and read by eye. Consequence: the card is typed **MASC + Steganography** (register type field changed 2026-11-03 on the human's instruction, following the register team's labelling for the Jolánka cards).

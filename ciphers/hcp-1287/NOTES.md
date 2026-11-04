@@ -7,3 +7,5 @@ First pass errors fixed on zoom: row 9 `najaba` (not nejaba; two bars, tick is a
 Context checked: HCP1304 also mentions a strike (Feri to Jolánka); address form Szépreményű from HCP1305-family. DONE1 created.
 
 2026-10-30 (Claude Opus 5.5, solver, after REVIEWED1): review 1 REVISE, all findings accepted. Moved o to row 12 end (ledger), dropped the "wide gap" argument, preferred *nagy bát[r]an szóltak* over *nagybátyám szóltak*, separated d (short + tall) from h/p (tall + short) by form, marked stamp line 5 as uncertain. No sign value changed. Letter sequence unchanged.
+
+2026-11-03 (Claude Opus 5.5, stamp-box audit at the human's request): stamp lifted (torn green corner left); under it 8 lines of plain Hungarian in red ink, already read on 2026-10-30, re-read from 3x/4x crops in `work/stamp-2026-11-03/`, no change (line 5 still `leg jo?on`). Type changed to MASC + Steganography in SOLUTION.md, report and register entry; report PDF re-rendered.

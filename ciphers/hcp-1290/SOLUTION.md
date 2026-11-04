@@ -4,6 +4,8 @@
 
 ## Cipher type and key
 
+**Type (2026-11-03): MASC + Steganography** – the substitution message continues in cipher signs in the stamp box, under the lifted stamp (see "Stamp-box message (2026-11-03)").
+
 Hungarian, simple monoalphabetic substitution with invented graphic signs: the "Jolánka" family key of finished cards HCP1216 (sign table in its SOLUTION.md), 1212, 1213, 1217, 1218, 1243, 1301. The key was taken over unchanged; no new letter value was needed. Picture side: only the printed verse "Kis házikóm ablakánál…" (no cipher). Address side: plain address, *Szépreményű(?) Tóth Jolánka úrleánynak, Jász Árokszállás*; first word reading not relied on.
 
 | sign | letter | sign | letter | sign | letter |
@@ -60,6 +62,26 @@ I kiss you countless times. [rest unreadable]
 
 Moja milovaná sladká Jolánka! Dostal som Vaše vzácne riadky, za ktoré Vám veľmi pekne ďakujem, drahá. Verte mi, sladká, cestujem teraz v takej dobrej nálade, ako keď som začínal. Len nech dobrý Boh [atramentová škvrna] čo najskôr splní moju jedinú prosbu; Vy sama viete, sladká, čo to je, drahá. Nechcel som sa sťažovať, napísal som len preto, aby ste mi nezazlievali, že píšem tak zriedka. V tomto mesiaci budem písať častejšie, lebo cestujem v riadnej partii a vopred viem, ktorý deň a kedy musím odcestovať. V stredu budem mať celý deň voľno a pôjdem aj k Pásztoriovej, aby som sa dozvedel, ako sa má moja drahá hviezdička, od ktorej som tak ďaleko, ale čoskoro ma ruka osudu privedie do jej blízkosti. Ale teraz končím svoje riadky, lebo musím ísť; zajtra budem pokračovať. S Bohom, sladká.
 Bozkávam Vás nespočetnekrát. [zvyšok nečitateľný]
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit by Claude Opus 5.5 on 2026-11-03, on fresh crops of `work/hires/*_adr.jpg` (`work/stamp-2026-11-03/`, overview, sixth row at 5x with red-channel contrast). The stamp has been lifted (torn off), leaving a remnant over the printed FILLÉR frame and the upper right corner. Under it the sender wrote in the **cipher signs** of this card's key; no plain Hungarian is under the stamp. The writing was already in the ledger as rows S1-S6 and is decoded by the reproduction command; the audit re-read every sign from the pixels and agrees with it.
+
+| row | signs (key above) | literal |
+|---|---|---|
+| S1 | opposed bowls, cursive loop, 5-shaped section mark | cs o k |
+| S2 | wave, cursive loop, three short strokes | l o m |
+| S3 | right bowl + crossed diagonal, two bars, three short strokes | sz a m |
+| S4 | gamma, two bars, wave, two bars, two strokes | t a l a n |
+| S5 | right bowl + crossed diagonal, cursive loop, F-like | sz o r |
+| S6 | stroke with a foot to the left, one short bar, an upward-open low curve; then the stamp remnant | unread |
+
+- Literal: `csok lom szam talan szor` + [S6 unread]
+- Hungarian (normalized): **Csók[o]lom számtalanszor.** [folytatás olvashatatlan]
+- English: I kiss you countless times. [rest unreadable]
+- Slovak: Bozkávam Vás nespočetnekrát. [zvyšok nečitateľný]
+
+Unread: row S6. Its three visible marks do not form a sign sequence of the key (a single short bar has no value; the foot-stroke is not a clean inverted T), and any continuation lies under the stamp remnant, so a closing word or signature cannot be recovered. Nothing is restored there. The slanted dark strokes over FILLÉR are cancellation on top of the remnant, not writing.
 
 ## Uncertainties
 

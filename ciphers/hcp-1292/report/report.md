@@ -8,7 +8,7 @@ Human solver: Tomáš Pavuk
 
 The cryptogram is record 1292 of the HC Portal (https://crypto.hcportal.eu/dashboard/cryptograms/1292), portal name cpc_--_HU__HU_Jasz Arokszalas_jolanka-75, part of Tobias Schrödel's collection of cryptographic postcards. When it was captured on 2026-10-30 the portal listed it as **Not solved**, tagged Postcard and T. Schrödel Collection, category Substitution, date and language Unknown, location Europe, sender Unknown, recipient Tóth Jolánka, with no transcription or solution attached.
 
-The picture side is print only: "Két szív ha földobog" and the verse "Tavasszal szép minden virág". It carries no cipher. The address side has the plain handwritten address **Szépreményü / Tóth Jolánka / úrleánynak / Jász Árokszállás** ("Miss Jolánka Tóth, of fair promise", a courtesy formula; Jászárokszállás is in Hungary). The rest of that side is filled with 31 rows of cipher signs, and nine more rows stand under the torn-off stamp. The postmark is only partly legible (…GALÁNTA) and gives no year, so the card is undated.
+The picture side is print only: "Két szív ha földobog" and the verse "Tavasszal szép minden virág". It carries no cipher. The address side has the plain handwritten address **Szépreményü / Tóth Jolánka / úrleánynak / Jász Árokszállás** ("Miss Jolánka Tóth, of fair promise", a courtesy formula; Jászárokszállás is in Hungary). The rest of that side is filled with 31 rows of cipher signs, and nine more rows, also in the cipher signs, stand in the stamp box, where the sender hid them under the stamp (now torn off): the closing "Isten vele, édesem. Mara[do]k továbbra is kedvese és sírig hű imádója, Feri." A stamp-box audit on 2026-11-03 confirmed this block is complete and fully read. The postmark is only partly legible (…GALÁNTA) and gives no year, so the card is undated.
 
 The writer signs Feri. He belongs to a family of cipher postcards to Jolánka Tóth in one hand and one key, several of which are finished in this repository (HCP 1216, 1212, 1213, 1217, 1218, 1243, 1301). The key was **transferred unchanged** from those cards; this is not a new key recovery. No reading of this card was supplied or consulted, and no published solution was found.
 
@@ -24,7 +24,7 @@ A first attempt on 2026-10-30 stopped at partial. A second pass on 2026-11-02 re
 
 ## Key
 
-Monoalphabetic substitution with invented graphic signs, in Hungarian. Names of the shapes are mnemonic.
+Monoalphabetic substitution with invented graphic signs, in Hungarian, with a steganographic part: the closing block is written in the stamp box and was hidden under the stamp. Register type: **MASC + Steganography** (set 2026-11-03). Names of the shapes are mnemonic.
 
 | Sign | Plain | Sign | Plain | Sign | Plain |
 |---|---|---|---|---|---|

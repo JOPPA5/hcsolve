@@ -1,0 +1,12 @@
+# hcp-1194 picture side, pencil, rune-like signs; card rotated 90 deg; read with work/crop_all.png
+# One token per sign; | = word gap; . = written dot. Sign names describe shapes (see key.json).
+# L1
+star cross rune_r arrow_down . | crossbar2 diag lam branch1 | f2bold u_hook rune_r | b rune_r stem cross f2 . | cross rune_r f2heavy diag rune_r arrow_up cross | f2 cross stem hook_l cross rune_r lam
+# L2 (first sign faint)
+diag lam p_closed cross bolt diag p_closed arrow_up cross lam .
+# L3
+stem lam lam stem p_closed cross lam | p_closed rune_r u_hook bolt bolt | u_pi . | branch1bold u_hook bolt bolt
+# L4 (first sign at the card edge, partly cut)
+bolt arrow_up stem fork fork u_hook lam p_closed | diag lam star diag hook_l arrow_up cross lam crossbar2 .
+# Signature (bottom right; 4th sign is p_closed overwritten with a caret-shaped lam above)
+crossbar2 cross stem corrected | rune_r diag bolt diag

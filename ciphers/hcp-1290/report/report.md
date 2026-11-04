@@ -34,6 +34,8 @@ The first draft misread three signs. The independent reviewer found them (see "R
 
 ## Key
 
+Cipher type: **MASC + Steganography** (updated 2026-11-03). The text is a simple monoalphabetic substitution, and its closing is hidden in the stamp box under the stamp, written in the same cipher signs.
+
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
 | two bars | a | section mark, also 5- and 8-shaped | k | F-like | r |
@@ -82,6 +84,17 @@ I kiss you countless times. [rest unreadable]
 
 Moja milovaná sladká Jolánka! Dostal som Vaše vzácne riadky, za ktoré Vám veľmi pekne ďakujem, drahá. Verte mi, sladká, cestujem teraz v takej dobrej nálade, ako keď som začínal. Len nech dobrý Boh [atramentová škvrna] čo najskôr splní moju jedinú prosbu; Vy sama viete, sladká, čo to je, drahá. Nechcel som sa sťažovať, napísal som len preto, aby ste mi nezazlievali, že píšem tak zriedka. V tomto mesiaci budem písať častejšie, lebo cestujem v riadnej partii a vopred viem, ktorý deň a kedy musím odcestovať. V stredu budem mať celý deň voľno a pôjdem aj k Pásztoriovej, aby som sa dozvedel, ako sa má moja drahá hviezdička, od ktorej som tak ďaleko, ale čoskoro ma ruka osudu privedie do jej blízkosti. Ale teraz končím svoje riadky, lebo musím ísť; zajtra budem pokračovať. S Bohom, sladká.
 Bozkávam Vás nespočetnekrát. [zvyšok nečitateľný]
+
+## Stamp-box message (audit 2026-11-03)
+
+The stamp has been lifted, and the sender wrote the closing of the letter in the stamp box, under it, in the same cipher signs (no plain Hungarian there). A stamp-box audit on 2026-11-03 re-read every sign on fresh enlargements and agrees with the ledger rows S1-S6:
+
+- Literal: `csok | lom | szam | talan | szor` + one unread row
+- Hungarian: **Csók[o]lom számtalanszor.** [folytatás olvashatatlan]
+- English: I kiss you countless times. [rest unreadable]
+- Slovak: Bozkávam Vás nespočetnekrát. [zvyšok nečitateľný]
+
+The sixth row shows only a foot-stroke, one short bar and a low curve, which form no sign sequence of the key; whatever followed lies under the stamp remnant. A closing word or signature there is lost, and nothing is restored. Because the message continues under the stamp, the card is typed MASC + Steganography.
 
 ## What remains uncertain
 

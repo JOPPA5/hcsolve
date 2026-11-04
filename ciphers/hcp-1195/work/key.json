@@ -1,0 +1,6 @@
+{
+ "_note": "sign code -> letter. Codes describe shapes: H asterisk-rune, E plus/crossed stem (Ey Y-form, Ed dotted, Es slanted stroke with dot), I plain stem, R R-rune, Z down-arrow, L hook-rune, GD gamma-with-dot (once, line 1), S lightning/sowilo, T up-arrow (Td with dot), F fehu two twigs (F/V homograph), Fd fehu with dot, K one-twig rune, Kd one-twig with dot, U square u-rune, Ud same with dot, B, Bd B with dot, N lambda (Nd dotted, Nl lambda with vertical left stem), D stem crossed by two bars, C angle <, A stem with slant stroke on the left (A/O homograph), M psi/algiz, X the overwritten sign starred and glossed in the footnote under the picture",
+ "H":"H","E":"E","Ey":"E","Ed":"E","Es":"E","I":"I","R":"R","Z":"Z","L":"L","GD":"IC",
+ "S":"S","T":"T","Td":"T","F":"{F/V}","Fd":"W","K":"K","Kd":"G","U":"U","Ud":"Ü",
+ "B":"B","Bd":"P","N":"N","Nd":"N","Nl":"N","D":"D","C":"C","A":"{A/O}","M":"M","X":"I"
+}

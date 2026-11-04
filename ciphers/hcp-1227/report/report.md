@@ -26,7 +26,7 @@ The key was **transferred, not recovered**: it comes unchanged from the finished
 
 ## Key
 
-Simple monoalphabetic substitution with invented graphic signs. Digits stand as plain digits (as on HCP 1301). Dots over o and u give ö and ü.
+Cipher type: **MASC + Steganography** (updated 2026-11-03). This is a simple monoalphabetic substitution with invented graphic signs, and its closing is hidden in the stamp box under the stamp (the stamp is now lifted). Digits stand as plain digits (as on HCP 1301). Dots over o and u give ö and ü.
 
 | Sign | Plain | Sign | Plain |
 |---|---|---|---|

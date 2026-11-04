@@ -17,6 +17,8 @@ Hungarian, simple monoalphabetic substitution with invented graphic signs (MASC)
 | open loop with descender | g | dotted crossed curve | i | crossed diagonal, or chevron-crossed form | z |
 | inverted T | j | | | | |
 
+**Type update (2026-11-03):** the closing is written in cipher in the stamp box, under the (now lifted) stamp, so the card is typed **MASC + Steganography**.
+
 Dots over o/u give ö/ü. Gy is written here as two signs (g + y). Acutes are marked only sometimes and are not carried in the literal text. Numerals stay in clear in this family (HCP1218, 1276, 1284).
 
 ## Reproduction (one command, from the repository root)
@@ -96,6 +98,17 @@ Unenciphered parts: the address reads *Szépremény[ű] Tóth Jolánka úrleány
 - Words decode the same at separate places (*hogy* ×2, *megy-* ×3, *édesem* ×2, *majd* ×2, *le-* ×3), and the rows run on across line breaks (*kö|szönök*, *dol|got*, *Ilon|kának*, *fény|képemmel*, *leve|lezőlapból*, *le|menni*, *egyen|lőre*, *bőveb|be*).
 - The phrases are the family's: formal address (*sorait, önre, magának*), *Isten vele*, *Csókolom számtalanszor*, signature Feri. *Egyetlen reményem* also appears on HCP1216.
 - The content was not expected and is self-consistent, and Berény fits the addressee's region. The words *fényképemmel ellátott* stand on the signs alone. The picture side is a numbered commercial series (3747/48) with a printed poem, so the man shown is probably a stock model and gives no support; whether it shows Feri is unknown.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit on the high-resolution original (`work/hires/..._adr.jpg`, crop `work/stamp-2026-11-03/stampbox_x3.png`, 3x). The stamp has been lifted; only green fragments remain at two corners, and the pink-ruled stamp box holds 7 rows in the cipher signs (no plain Hungarian). The message was already read in full in the ledger (rows S1 to S7) and is decoded by `work/decode.py`; this audit adds no new letters.
+
+- Literal: istenve | leede | semcso | kolom | szamta | lanszor | feri
+- Hungarian: Isten vele, édesem! Csókolom számtalanszor. Feri
+- English: God be with you, my darling! I kiss you countless times. Feri
+- Slovak: S Bohom, moja drahá! Bozkávam Vás nespočetnekrát. Feri
+
+Nothing stays unread. The word-sense calls already disclosed under Uncertainties item 7 still apply (t in *számta*, r at the end of *lanszor*, f in *Feri*).
 
 ## Credits
 

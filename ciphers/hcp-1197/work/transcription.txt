@@ -1,0 +1,5 @@
+# hcp-1197 ciphertext, read by Claude Opus 5.5 from work/hires/..._pic.jpg (picture side, lines 7-8 of the message)
+# groups separated by commas, "-" = word divider written on the card, "|" = line break on the card
+# [2] = digit physically hidden by the HCPortal collection stamp (disclosed restoration)
+4,5,9,13,5,13 - 7,5,11,9,5,2,19,5,13 |
+2,17,1,20,19,9,7,1,1[2]

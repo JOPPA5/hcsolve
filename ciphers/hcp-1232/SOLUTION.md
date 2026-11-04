@@ -6,6 +6,8 @@
 
 Hungarian, simple monoalphabetic substitution with invented graphic signs: the Jolánka postcard family. The key was transferred unchanged from HCP1216 (sign table in its SOLUTION.md; also 1212, 1213, 1217, 1218, 1243, 1301), and every value was tested again on this card. One word, "Szer" at the head of row 1, is in plain script and runs straight into the cipher.
 
+**Type note (2026-11-03):** register type changed from MASC to **MASC + Steganography**: the stamp was lifted and five rows of cipher (the stamp-field message below) stand in the stamp box, where the stamp hid them.
+
 two bars a; six b; left bowl c; tick + long stroke d; three bars e; upright cross f; open loop with descender g; tall stroke + short h/p (near-homograph); dotted crossed curve i (the dot is often absent); inverted T j; section mark k (written S-shaped or 8-shaped); wave l; three short strokes m; two short strokes n; cursive loop o (dots over it for ö); F-sign r; right bowl s; gamma t; plain cross u; chevron v; low descender y; crossed diagonal z. Joined sz and cs are not used as ligatures here: c and s are separate bowls.
 
 ## Reproduction (one command, from the repository root)
@@ -50,6 +52,16 @@ In the stamp field: I kiss you countless times. Your admirer, Feri.
 
 Moja milovaná sladká Jolánka! Želám si, aby Vás moje riadky zastihli v najlepšej nálade. Ako sa zabávate na Božie telo? Dúfam, že dobre. Ja som pracoval, čo iné mám robiť, aspoň aj tým mi ubieha čas. A teraz strácam aj to, čo bolo doteraz mojou zábavou: Józsi Jáger ide domov pracovať k Móczárovi, lebo je veľký nedostatok práce. Neviem, ktorú sobotu dostanem knižku, ale do Árokszállásu pôjdem len vtedy, ak ma Vy, moja drahá, zavoláte domov do Árokszállásu. Vaše pozdravy som dostal, za čo ďakujem. Teším sa, že [to/Vás] moja bytná prijala ochotne. Týmto končím svoje riadky. Zostávam Váš ctiteľ Feri.
 V poli známky: Bozkávam Vás nespočetnekrát. Váš ctiteľ Feri.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit at the human's request (Claude Opus 5.5). On the original `work/hires/cpc_--24_HU__HU_Jasz-Arokszalas_jolanka-89_adr.jpg` (crops in `work/stamp-2026-11-03/`, region x 2380-2980, y 100-620, enlarged 3x) the stamp is **lifted**: the printed stamp-box frame, glue and paper remnants are visible, and the box holds **five rows in the cipher signs**, red ink, no plain-script words. This hidden text was already fully read on 2026-11-02 and is in the ledger (rows S1-S5) and in the command output; the audit re-checked it by eye against the crops and found no change.
+
+- Literal: {c}sokolom / szamta / lanszor / imdoja / feri
+- Hungarian: Csókolom számtalanszor. Imádója Feri.
+- English: I kiss you countless times. Your admirer, Feri.
+- Slovak: Bozkávam Vás nespočetnekrát. Váš ctiteľ Feri.
+- Unread: nothing. Only the first sign of S1 (c, from word sense; item 20) and the imperfect t of S2 (item 12) rest partly on sense, as already disclosed.
 
 ## Uncertainties
 

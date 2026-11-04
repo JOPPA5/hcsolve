@@ -1,0 +1,25 @@
+# hcp-1191 manual transcription of source/picture-large.jpg (message side), read on the
+# un-converted original work/hires/..._pic.jpg rotated 90 deg counter-clockwise.
+# One line per written line; words separated by " / " (the writer's ticks, dots or gaps; the split AND / EDNA on the curved tail has no visible divider).
+# Sign codes are defined in key.tsv. [I] = blotted sign restored; [#] = struck-out sign (not a letter).
+# Header (top right): sign codes then the date digits written in clear.
+Ss Ec dm 5 1907
+Wc Ec dv dv / Yq Qc Ss / X / dm Hc Qc Uc G3 Hc dm
+X / Wc Qc Uc dv cr / Wc pl X dm Ec / pc Qc Uc / Ad
+f4 Ec Wc / dv [I] Nb Ec / dm Qc / dv Ec dm / pc Qc Uc
+kk Nb Qc Wc / dm Hc Ad dm / Wc Ec / Ad pl Ec
+Ad dv dv / Wc Ec dv dv / Ad Nb cr / Hc Qc p7 Ec X Nb G3
+Ad pl Ec / dm Hc Ec / Ss Ad Nb Ec / Wc Ec dv dv / Wc Ec
+Wc X dv dv / G3 Qc / Uc p7 / dm Qc / p7 Ad / Ad
+Ss Uc Nb cr Ad pc / Nb Qc dm / Ad / Ss Ad dm cr Ad pc
+Nb X G3 Hc dm / Ss Qc / pc Qc Uc / Ct Ad Nb
+Ct Qc Mv Ec / Ad / pl Qc Uc Nb / Ss Ad dm cr Ad pc
+Nb X G3 Hc dm / Wc Ec dv dv / st Ad kk Ec / X
+G3 Qc bw / Nb pc / Bt Uc G3 G3 pc / p7 Ad X Nb bw
+Ad dv dv / pl X G3 Hc dm / Wc Ec dv dv / X
+G3 Uc Ec Ss Ss / dm Hc X Ss / Wc X dv dv / Bt Ec
+Ad dv dv / f4 Qc pl / dm Hc X Ss / dm X Mv Ec
+Ss Qc / Ct dv Qc Ss Ec / Hc Qc p7 Ec / dm Qc
+[#] Ss Ec Ec / Ad / Ss Ad dm cr Ad pc
+Ss Qc / G3 Qc Qc cr Bt pc
+f4 pl Qc Mv / p7 Ec dm Ec / Ad Nb cr / Ec cr Nb Ad

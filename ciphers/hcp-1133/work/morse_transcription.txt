@@ -1,0 +1,22 @@
+# hcp-1133 Morse transcription (picture side, rotated 90 deg counter-clockwise; read from work/hires pic)
+# One line per written line. '/' = the slanted separator stroke written after each letter.
+# Faint "tail+dot" marks (pen starting dry) are transcribed as dashes; see SOLUTION.md.
+[B1] right column, after "napjan"
+...-/../.../ ./.-../-.-/./-./..-../.../
+./.-.././.../..-/.---/-/---/-/-/
+-/./.-../.---/./.../ ./-./
+[B2] right column, after "vadat ellenem"
+.-././--./--././
+.-../...-/.-.--/.-./
+-/.-/--/-../..-../
+.-../..-/-/.-.--/-./
+..../---/--./-.--/
+..-../.-./-/.../ ./--/
+./--../-/-.-/..-../.-./
+./--/../.-./.---/---/
+-./.-/--../---/-./
+-./.-/.-../.-/--../
+..-../--./.-././-.-/..-../
+.-././--/../.-./.---/
+---/-././--./-.--/
+.-.././...-/./.-.././-/

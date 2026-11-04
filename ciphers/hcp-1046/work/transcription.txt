@@ -1,0 +1,5 @@
+# hcp-1046 message, left half of address side, written sideways (lines run bottom-to-top; read with the card turned 90 deg clockwise)
+# Numbers separated by dots, words by dashes. 5x / 3x = numeral with a crossing diagonal stroke (capital marker, as on hcp-1113).
+# 15: = 15 with a double-dot mark above (umlaut -> Ö).
+5x.21. - 11.12.6.10.14.6.18. -
+3x.15:.19.6.23.10.4.9.20.

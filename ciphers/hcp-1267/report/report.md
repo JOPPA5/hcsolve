@@ -24,7 +24,7 @@ Word division, accents and bracketed letters in the normalized text are editoria
 
 ## Key
 
-Hungarian, simple monoalphabetic substitution with invented graphic signs (register type MASC). The sign names are conventional labels for handwritten shapes.
+Hungarian, simple monoalphabetic substitution with invented graphic signs, with a hidden message in the stamp box under the stamp (register type **MASC + Steganography**; changed from MASC on 2026-11-03 after a stamp-box audit: the stamp is lifted and the eight hidden rows are in the cipher signs). The sign names are conventional labels for handwritten shapes.
 
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|

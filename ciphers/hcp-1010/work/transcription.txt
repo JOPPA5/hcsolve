@@ -1,0 +1,15 @@
+# hcp-1010 transcription (Claude Opus 5.5, 2026-11-03), read from work/hires/cpc_--_DE__DE_Hier__pic.jpg
+# Picture side, bottom edge, written upside down; lines given in the order seen with the card turned 180 deg.
+# "|" separates words (spacing on the card); "1:" = 1 with umlaut strokes (a-umlaut), "18:" = 18 with umlaut mark (u-umlaut).
+# [x] = digit physically hidden by the HCPortal collection stamp or a damaged spot (restoration, see SOLUTION.md).
+A: 4 [5] 21 | 2 18 21 20 [3] 8 5 | 9 20 19 | 10 18: 8 25 5 21 . | 8 9 5 21 | 16 9 5 | 20 9 5 | 20 5 8 5 25 .
+B: 16 1 20 | 16 9 21 4 | 16 2[4] 8 11 | 9 12 | 25 1: 3 8 20 19 5 25 | 12 24 12 5 25 19 | 8 9 5 21 | 7 5 20 3 8 5 8 5 25 .
+# Orientation is given relative to the scan as published (3469x2298, landscape, figures lying on their side).
+# Picture side, on the fence boards (hidden in the picture), upright when the scan is turned 90 deg counter-clockwise
+# (i.e. when the picture itself is upright). First sign of C at a damaged board edge: 17 or 13; 17 rests on word sense.
+C: 17 5 21 | 2 24 19 | 5 25 | 5 21 | 16 5 7
+# Picture side, on the brim of the young man's hat (scan approx. x 2300-2560, y 850-1180), upright when the scan is
+# turned 90 deg clockwise (upside down relative to the picture). Added in round 2 after review finding 1.
+# Second group: a 2 followed by a 4-like stroke; read 21 (R) on word sense (24 = O gives GOUS..., no word).
+# After 20 the brim is in dark shading; a faint trace may be a second 20, restored as [20] (Gruss = GRUSS).
+H: 7 2[1] 18 20 [20]

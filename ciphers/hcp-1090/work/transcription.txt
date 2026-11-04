@@ -1,0 +1,24 @@
+# hcp-1090 Morse transcription (Claude Opus 5.5, 2026-11-03), read from
+# work/hires/cpc_1911-04-01_DE_Oppenau_DE_Goggingen__adr.jpg (and checked on source/address-large.jpg).
+# One line per written column, in reading order: the rightmost column first, each column read top to bottom
+# (the writer turned the card 90 degrees anticlockwise, so the columns are his/her lines).
+# Letters are separated by spaces, words by " / " (word division is editorial: the card shows no wider word spaces). The writer's own sign values: "....." = H, "----" = CH.
+# [u:] = a letter written in ordinary handwriting (grey ink, inserted) instead of Morse: a Kurrent u with its hook; decoded as u, read as ü by sense.
+# {...} = Morse written inside a grey insertion loop (writer's correction), belonging at that point.
+# c00 is a short extra column at the far left bottom (signature), written beside c01.
+c15: .-.. .. . -... . .-. / . .-. -. ... -
+c14: .-- .. . / --. . ..... - / . ... / -.. .. .-.
+c13: --- / .-- .-.- .-. . ... - / -.. ..-
+c12: -.. --- ---- / ..... .. . .-. / .-- .. .
+c11: ... ---- ---. -. / .-- .- .-. / . ...
+c10: ...- --- .-. / ...- .. . .-. --.. . {.....} -.
+c09: - .- --. . -. / ..- -. -.. / .--- . -
+c08: --.. - / .. ... - / . ... / -- .. .-. / ...
+c07: --- / .-.. .- -. --. .-- . .. .-..
+c06: .. --. / -.- --- -- -- . / -... .-
+c05: .-.. -.. / .. {----} / ..-. .-. . ..- . / -- .. ----
+c04: ... --- / ... . ..... .-. / .- ..- ..-. / -.. .-
+c03: ... / .-- .. . -.. . .-. ... . ..... . -.
+c02: .. ---- / --. .-. [u:] ..... ... . / -.. .. ----
+c01: ..... . .-. --.. .-.. .. ---- / -.. . .. -. .
+c00: .- -. -. .-

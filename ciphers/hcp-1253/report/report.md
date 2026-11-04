@@ -30,7 +30,7 @@ The writer spells phonetically and carelessly: he drops letters and writes few v
 
 ## Key
 
-Simple monoalphabetic substitution with invented graphic signs (MASC). Hungarian digraphs are spelt with two signs (sz = s + z), and gy and cs usually as joined forms.
+Simple monoalphabetic substitution with invented graphic signs, with a hidden message under the stamp (type **MASC + Steganography**, updated 2026-11-03). The seven rows in the stamp box were written where the stamp would cover them; the stamp is now lifted. Hungarian digraphs are spelt with two signs (sz = s + z), and gy and cs usually as joined forms.
 
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|

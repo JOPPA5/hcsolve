@@ -4,7 +4,9 @@
 
 ## Cipher type and key
 
-Hungarian, monoalphabetic substitution with invented graphic signs (register label MASC): the Jolánka family key, transferred unchanged from finished cards HCP1216, 1212, 1213, 1217, 1218, 1243, 1301. Word spaces are mostly kept. Digits are left in clear (6, 1/2, 11).
+**2026-11-03: type changed to MASC + Steganography** (the stamp box holds a cipher-sign message hidden under the now lifted stamp; see the section "Stamp-box message (2026-11-03)" at the end).
+
+Hungarian, monoalphabetic substitution with invented graphic signs (register label MASC until 2026-11-02): the Jolánka family key, transferred unchanged from finished cards HCP1216, 1212, 1213, 1217, 1218, 1243, 1301. Word spaces are mostly kept. Digits are left in clear (6, 1/2, 11).
 
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
@@ -124,3 +126,16 @@ Verdict REVISE, seven findings. All are accepted and fixed. I rechecked findings
 7. **Slovak wording (minor): fixed**, with the reviewer's sentence.
 
 The cipher type, the key and the sense of the card are unchanged. One clause changes ("all week" becomes "well, I too"), and the other changes are spelling and disclosure. The reading is not substantially changed, so this goes to FINAL, not DONE2. Two points stay open, as the review says: the postmark date, and whether *hana* means *hanem*.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit, Claude Opus 5.5, 2026-11-03. On the un-converted address scan (`work/hires/…_adr.jpg`, crops in `work/stamp-2026-11-03/`) the postage stamp is lifted, and the stamp box holds six short rows in the cipher signs, in the same green ink, written over the printed triangle-and-monogram mark. No plain Hungarian is written there. The six rows were already read and are in the ledger (rows S1–S6) and in the literal block above; this audit re-read rows 1–3 at 3x and 5x (cs o k o l / j a sz a m / t a l a n, all clear) and found nothing new.
+
+- Literal: `csokol / ja szam / talan / sz[o][r] / ima[d]o / ja feri`
+- Hungarian: Csókolja számtalanszor imádója, Feri.
+- English: Your adorer Feri kisses you countless times.
+- Slovak: Bozkáva Vás nespočetnekrát Váš ctiteľ Feri.
+
+Unread: nothing. Restored (disclosed in uncertainty 9): the o and r of *szor* (row 4, on the printed monogram) and the d of *imádója* (row 5, damaged). The reproduction command already decodes these rows.
+
+Type: because a hidden message lies under the stamp, the card is typed **MASC + Steganography** from 2026-11-03 (register-entry.txt and report changed accordingly; key and reading unchanged).

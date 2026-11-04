@@ -17,6 +17,8 @@ Hungarian, simple monoalphabetic substitution with invented graphic signs: the "
 | open loop with descender | g | dotted crossed curve | i | crossed diagonal with tail | z |
 | inverted T | j | | | | |
 
+**Type note (2026-11-03):** the stamp is lifted and the box holds six rows in the cipher signs (hidden stamp-box message, read below), so the cipher type is now **MASC + Steganography** (register label); the key is unchanged.
+
 "gy" is g + y here. The picture side carries only printed text, unenciphered: *Hogyha szemedbe nézek / Lelked csak nekem virul*, plus the vertical words *beszél suttogva* and *hulló falevél*, and publisher number 2203. The address is in clear: Szépreményű Tóth Jolánka úrleánynak, Jászárokszállás. Two postmarks: GYÖN… over the stamp box, and a fainter, rotated one at upper left showing FEB with a numeral 1 before it (`review/work/crops/pmA.png`). The month February agrees with the "-02-04" in the portal name, but day and year cannot be read on the card and I do not claim a full date.
 
 ## Reproduction (one command, from the repository root)
@@ -103,3 +105,14 @@ Verdict REVISE. I looked at the reviewer's crops for findings 1, 2, 3 and 5 and 
 5. **Postmark (minor): fixed.** The second postmark with FEB and a numeral 1 is recorded. Portal name element "-02-04" noted as agreeing on the month. No full date claimed.
 
 Re-run after the fixes: `python3 -I ciphers/hcp-1264/work/decode_opus.py` passes all four hash checks, prints 23 + 6 rows with only stamp row 6 changed (`{u/f}eri`), reports 423 signs, and prints the unchanged normalized text.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit of the hi-res address side (`work/hires/..._adr.jpg`, crop at 3x in `work/stamp-2026-11-03/stamp_3x.png`). The stamp is lifted; under it are six rows in the cipher signs, no plain Hungarian. A GYÖN… postmark runs over the left edge and a stain covers the lower right; neither hides a sign. The six rows were already read in full in the ledger (`work/ledger-opus.txt`, stamp rows) and in the sections above. The crop agrees with that reading sign for sign, so nothing new was added and the script was not changed.
+
+- Literal: csokol{t?}m szamta lanszor sirihü kedvesse {u/f}eri
+- Hungarian (normalized): Csókol[o]m számtalanszor. Síri[g] hű kedvese, Feri.
+- English: I kiss you countless times. Your sweetheart, faithful unto the grave, Feri.
+- Slovak: Bozkávam Vás nespočetnekrát. Váš do hrobu verný milý, Feri.
+
+What stays uncertain is unchanged (uncertainties 7, 8, 9 and 14): the sign before m in row 1, the missing g of *sírig*, the doubled s in *kedvesse*, and the X-shaped first sign of the signature. No clause is unread.

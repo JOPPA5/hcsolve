@@ -1,0 +1,6 @@
+# hcp-945 picture side, lower right, 4 lines. Tokens separated by spaces, words by " / ".
+# See SOLUTION.md for the sign classes. 2b = sign "2" in lighter brown ink.
+3 IV . 2 IV / L . II 6 II / F 4 . II V I
+4 IV . S II / 8 IV IIII 1 II / 2 X c 8
+2 IV 8 IV . 3 / 8 IIII: S 1 II 2b
+V IV . 2 / II V IIII X 4 V

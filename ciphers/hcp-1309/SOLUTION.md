@@ -4,6 +4,8 @@
 
 ## Cipher type and key
 
+*Type note (2026-11-03):* register type is now **MASC + Steganography**, because the sender hid a six-row cipher message in the stamp box under the (now lifted) stamp; see "Stamp-box message (2026-11-03)".
+
 Hungarian, simple monoalphabetic substitution with invented graphic signs (the Jolánka family). The key is that of `ciphers/hcp-1216/SOLUTION.md`, with no change and no new sign value:
 
 | sign | letter | sign | letter | sign | letter |
@@ -68,6 +70,16 @@ Pod známkou: S Bohom … moja drahá! Bozkávam Vás nespočetnekrát.
 - Address, in clear: *Szépreményű Tóth Jolánka úrhölgynek, Jász Árokszállás.*
 - Return address, in clear: *Rákos Palota, Tavasz u. 2 sz.*
 - Printed on the picture side, in green: *Találkozhatnánk? Csütörtökön* ("Could we meet? On Thursday"). This is the printed text of the card, not part of the message.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit at the human's request. On the hi-res address side (`work/hires/…_adr.jpg`, crops `work/stamp-2026-11-03/stamp_box_x2.png` and `stamp_box_G.png`, green channel) the stamp is lifted: the printed perforation outline of the stamp box is empty of any stamp, and inside it stand six rows in red ink, all in the cipher signs; there is no plain-Hungarian writing in the box. These six rows were already read in full in the original solution (ledger rows S1–S6, decoded by the reproduction command, which is unchanged), so nothing new is read today; the audit re-checked them against the crop and found no difference.
+
+- Literal: `is[t]enve / le{smear}leéde / sem / csoko / lomszam / talanszor`
+- Hungarian: *Isten vele … édesem! Csókolom számtalanszor.*
+- English: Farewell … my darling! I kiss you countless times.
+- Slovak: S Bohom … moja drahá! Bozkávam Vás nespočetnekrát.
+- Unread: the red smear in S2 after *vele* (and the hook-like sign and bar below it), see uncertainty 2. No whole clause is missing; the gap is a short stretch, possibly only a repeated *le*.
 
 ## Uncertainties
 

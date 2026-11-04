@@ -17,6 +17,8 @@ Hungarian, simple monoalphabetic substitution with invented graphic signs (Jolá
 | open loop with descender | g | dotted crossed curve | i | crossed diagonal with tail | z |
 | inverted T | j | dots over o / u | ö / ü | | |
 
+Register type (2026-11-03): **MASC + Steganography** – the stamp has been lifted and the box under it holds 8 rows of cipher text (the closing), so the card hides part of its message under the stamp.
+
 On this card *gy* is written as two signs (g + y). *sz* is right bowl + z. Acute marks are irregular and are supplied in normalization. A small blot or tick above a sign is not a letter. Some detached short strokes are in a darker ink; a few sit where an acute belongs (over the a of *ráérek*, row 28; beside the e of *édes*, row 10).
 
 ## Reproduction (one command, from the repository root)
@@ -116,6 +118,19 @@ Calls that rest on word sense:
 - The text is long, connected, coherent early-20th-century love-letter prose with formal address (*magát, tudja, gondoljon*). It has a single argument: thanks for her letters, money against love, and his aim to earn the money and marry her. The argument returns across rows (*pénz* three times, *megszerezzem / megszerezni*, *teljes / teljesülhet*).
 - Repeated words decode identically in different places: *hogy* 7×, *megkaptam* ×2, *soraira / sorait / soraiból*, *boldog-* ×3, *szeret-* ×4.
 - The closing runs into the stamp box and is signed Feri, as on HCP1216, and the card is addressed to the same Tóth Jolánka at Jászárokszállás.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit at the human's request. The stamp is lifted; the box under it holds 8 rows of writing in the cipher signs only (no plain Hungarian), in the same reddish ink as the rest. I re-checked it in 3x crops of the un-converted scan (`work/stamp-2026-11-03/box_top_3x.png`, `box_bot_3x.png`, overview `overview.png`). The message was already fully read in the first round (ledger rows S1–S8, decoded by the reproduction command), and the crops agree with that reading: the sign shapes of all 8 rows match the ledger, the pink blot over row 4 is as described (item 4), and nothing else is written in or around the box. No new letters were read and the script was not changed.
+
+- Literal: `cskolom | akisszajat | gondoljon | neh[a]ram | edesem | mi?nten | magara | feri`
+- Hungarian: Csókolom a kis száját. Gondoljon néha rám, édesem, mint én magára. Feri.
+- English: I kiss your little mouth. Think of me now and then, darling, as I think of you. Feri.
+- Slovak: Bozkávam Vaše malé ústa. Myslite niekedy na mňa, drahá, tak ako ja na Vás. Feri.
+
+Unread: nothing. Restored: the a of *néh[a]* (under a blot; item 4); doubtful: the i of *mint* (item 14).
+
+Type: changed from MASC to **MASC + Steganography** in `register-entry.txt` and the report, because writing exists under the stamp.
 
 ## Response to review 1
 

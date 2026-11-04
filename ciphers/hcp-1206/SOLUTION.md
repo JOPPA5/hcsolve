@@ -6,6 +6,8 @@
 
 None found. The card is plain Hungarian in Latin cursive. The portal lists it as Substitution and its file name says jolanka-61, but the Jolanka sign alphabet (hcp-1216) does not appear. The key was tested only by comparing sign shapes and was not applied.
 
+Type note (2026-11-03): the stamp was lifted and there is plain Hungarian writing under it (see "Stamp-box message" below), so the card carries a hidden message by placement. It still has no substitution cipher anywhere, so the register label "MASC + Steganography" would overstate it; the accurate type is "Steganography (plain text under the stamp), no cipher". No register entry exists or is created.
+
 Portal status: Not solved; language Unknown; sender Unknown; recipient Toth Jozsef. Postmark partly legible: JASZ..., year ...912 (file name suggests Jaszarokszallas, not read in full).
 
 ## Transcription (read from work/hires/, proposed normal spelling)
@@ -45,6 +47,23 @@ Mily Jozsi! Stastne sme dorazili domov, len som sa velmi prechladila a som chora
 - "es beteg vagyok" rests on word sense: this hand writes a and o alike, r and n alike and v close to n.
 - "novered" (your sister) reads clearly, so Ilonka writes as a sister, though the surname is not on the card.
 - The picture side had only an overview check; a faint mark there is not excluded.
+
+## Stamp-box message (2026-11-03)
+
+Checked by Claude Opus 5.5 on the hires address scan at 3x (crops in work/stamp-2026-11-03/). The stamp was stuck on and later lifted: torn stamp paper with green print and gum residue remain at the lower-left and left edge of the dotted box, and the JASZ... postmark ring stops at the box edge, so the stamp covered that area when it was cancelled. The writing sits inside the box, so it was under the stamp. It is in plain Hungarian Latin cursive, the same hand as the message; no cipher signs.
+
+Literal reading, line by line:
+
+    isten
+    velet
+    csok.lak      [the "o" after k is a filled ink dot]
+    Ilonka        [blot on the k]
+
+Normalized Hungarian: Isten veled, csókollak, Ilonka.
+English: God be with you, I kiss you, Ilonka.
+Slovak: S Bohom, bozkávam ťa, Ilonka.
+
+Unread: nothing in the box. The two rotated lines just right of the box ("fetorhatan" / "taka" by shape) lie outside the stamp area and stay unread as before. Read by eye; there is no decode script because nothing is enciphered. The earlier note "stamp absent, paper bare" is corrected: the stamp was present and lifted.
 
 ## Reproduction
 

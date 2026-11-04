@@ -21,6 +21,8 @@ Hungarian, simple monoalphabetic substitution with invented graphic signs (the "
 
 Diacritics: dots over o/u give ö/ü; a double mark gives ű; acute marks are faint and are supplied in normalization.
 
+**Type note (2026-11-03, Claude Opus 5.5):** register type changed from `MASC` to **`MASC + Steganography`**: the stamp was lifted and six rows of cipher signs were written in the stamp box, hidden under the stamp (see "Stamp-box message (2026-11-03)" below).
+
 ## Reproduction (one command, from the repository root)
 
 ```sh
@@ -93,3 +95,19 @@ Review 1 (Claude Opus 5.5, 2026-10-30) gave verdict **ACCEPT** with five minor f
 5. **Diacritics marked but not seen (minor) — partly disagree, ledger header clarified.** The ledger does **not** mark a diaeresis on *jönni* in row 21: its row 21 tokens are `... J O N N I`, and the literal output of the command prints *jonni*; the ö there is supplied only in the normalization (now said explicitly in item 5). For the ö of *neküznöm* (row 4) I agree with the reviewer that only one dot is seen on `review/work/row4c.png`; the ledger convention `:diaeresis` means "a dot mark is seen over the sign" (one or two dots), and the ledger header now says so, and names this sign. No token changed.
 
 Re-ran `python3 -I ciphers/hcp-1216/work/decode_opus.py` after the edits: both hash checks print OK and the literal rows and normalized text are unchanged (the only edited work file is a comment line of the ledger).
+
+## Stamp-box message (2026-11-03)
+
+Audit by Claude Opus 5.5 on 2026-11-03, at the request of Tomáš Pavuk (the register team asked that Jolánka-family cards with writing under the stamp be typed `MASC + Steganography`).
+
+- **State of the stamp box:** the stamp is **lifted** (only its perforated outline and paper residue remain); the box carries **six rows in the cipher signs**, green ink, the same hand as the main text. No plain-Hungarian writing is in the box. The black vertical bar at the box's lower left is part of the postmark, not writing.
+- **Source looked at:** the original scan `work/hires/address_adr.jpg` (3445×2210 px, fetched 2026-11-03 from api.hcportal.eu media 3709); crops `work/stamp-2026-11-03/stamp_box.png`, `stamp_top_3x.png`, `stamp_bottom_3x.png`, `stamp_rows5-6_5x.png` (red channel, autocontrast).
+- **Already in the solution:** the stamp text was read in full on 2026-10-13/2026-10-30 (ledger rows S1–S6, decoded by `work/decode_opus.py`; nothing new had to be added to the ledger or the script). This audit re-checked it on the higher-resolution original.
+
+Literal reading (key above): `csokolom / szamta / lanszor / sirighű / kedvese / feri`
+
+- Hungarian (normalized): **Csókolom számtalanszor. Sírig hű kedvese, Feri.**
+- English: I kiss you countless times. Your sweetheart, faithful unto the grave, Feri.
+- Slovak: Bozkávam Vás nespočetnekrát. Váš do hrobu verný milý, Feri.
+
+Re-check sign by sign: rows S1 *csokolom*, S2 *szamta*, S3 *lanszor*, S4 *sirighű* (double mark on ű visible) and S6 *feri* agree with the ledger on the higher-resolution scan. **Row S5 *kedvese*:** the pixels show k, e, a two-stroke group (short stroke + long stroke), e, two separate slashes, e. The ledger assigns d v to the first group and s to the second; the grouping of these strokes into d / v / s is not clean at this resolution (the v is not the closed chevron seen in *viszont*, row 22). The word *kedvese* is therefore confirmed as a whole by its shape and the family formula *sírig hű kedvese*, but its d and v are not each a clean sign match. Nothing in the stamp box is unread.

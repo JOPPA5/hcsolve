@@ -34,6 +34,8 @@ The note in the stamp box runs over the blue printed imprint, so the purple ink 
 
 Hungarian, simple monoalphabetic substitution with invented graphic signs. The names are conventional descriptions of the handwritten shapes.
 
+Register type (2026-11-03): **MASC + Steganography**. Besides the cipher rows, a message is hidden in the stamp box under the removed stamp: a plain Hungarian note signed with the name feri in cipher signs. A stamp-box audit on 2026-11-03 re-read it from the original scan and changed no letter (see Plaintext and Uncertainties).
+
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|
 | two bars | a | section mark | k | F-like | r |

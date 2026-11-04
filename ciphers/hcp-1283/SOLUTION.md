@@ -4,6 +4,8 @@
 
 ## Cipher type and key
 
+**Type (2026-11-03): MASC + Steganography.** The six cipher rows in the stamp box were written under the postage stamp, which is now lifted (paper fragments remain at its upper-left and lower-left corners); the hidden closing is in the same cipher signs and was already read in full in the first handover (stamp rows below).
+
 Hungarian, simple monoalphabetic substitution with invented graphic signs: the Jolánka family key taken unchanged from hcp-1216 (see its key table): two bars a, six b, left bowl c, short+long stroke d, three bars e, upright cross f, open loop with descender g, long stroke+short tick h/p, dotted crossed curve i, inverted T j, section mark k, wave l, three strokes m, two strokes n, cursive loop o, F r, right bowl s, gamma t, plain cross u, chevron v, loop with long tail y, crossed diagonal z, opposed bowls cs. On this card gy is written g + y (as in *tanya* n + y). Dots over a sign give é, ö, ü, í; two dots ö/ő.
 
 ## Reproduction (one command, repo root)
@@ -79,6 +81,17 @@ Pole pod známkou: S Bohom, moja sladká jediná nádej. Bozkávam Vás, Feri.
 14. Row 22 opening *Ön*: o with clear two dots, then n. Row 25 sign after d in *imádója* lacks the usual right hook of o.
 15. **Restorations:** Stamp row 1: the first three signs lie under the stamp edge, only their bottoms show; *Ist* restored from *en vele* (the family's closing formula). Stamp row 6: l is an ink blot with an arched outline; restored from *csókolom*. Stamp row 4: n of *reményem* shows only one stroke. All disclosed in the ledger by brackets, except the n.
 16. Acutes other than é/í are mostly unmarked and are supplied in normalization. Pen marks ledgered: full stops in rows 16 and 19, tick in row 25; they do not count as signs (532 signs). The date is from the portal filename (1913-03-20), not from the cipher; the postmark date is not read here. The sender Feri is also on hcp-1216, but identity is not proved.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit by Claude Opus 5.5, 2026-11-03, on the un-converted hi-res address scan (`work/hires/...jolanka-34_adr.jpg`; crops in `work/stamp-2026-11-03/`). The stamp has been lifted; torn stamp paper still sits at the upper-left corner (covering the start of stamp row 1) and the lower-left corner. Under it are six short rows in the cipher signs only, no plain Hungarian. They were already fully read and ledgered in the first handover (stamp rows of `work/ledger.txt`, decoded by `work/decode.py`); the re-check today on the 2x crops agrees sign for sign with that ledger, so nothing was added to the ledger or script.
+
+- Literal: `[i][s][t]envele | édesegy | etelen | remeny | emcsoko | [l]omferi`
+- Hungarian: [Ist]en vele, édes egyetlen reményem. Csókolom, Feri.
+- English: God be with you, my sweet only hope. I kiss you, Feri.
+- Slovak: S Bohom, moja sladká jediná nádej. Bozkávam Vás, Feri.
+
+Unread: nothing beyond the restorations already disclosed in item 15 (*Ist* under the remaining stamp fragment, the blotted l, the one-stroke n).
 
 ## Why it is correct
 

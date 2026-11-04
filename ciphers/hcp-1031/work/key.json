@@ -1,0 +1,5 @@
+{
+  "_note": "Sign codes: L = lambda-shaped sign (also its h-hook and crossed variants), c = L-shaped hook sign, C = plain stroke where it stands for c (same shape as i; distinguished only by position before h/k), i = plain stroke, j = stroke with top flag, N = two-legged pi sign, M = three-legged barred sign, U = u-shaped sign, T = theta sign, Q = inverted-T sign, Z = z/2-shaped sign with tail, J = looped x-like sign, X = x-shaped sign, + = cross, 5 = five with flat top bar (s), S = round S without top bar (z). M in TR2 is written with its first leg detached. Signs V, I and 4 are kept literally.",
+  "+": "a", "c": "b", "C": "c", "Q": "d", "L": "e", "7": "f", "T": "g", "8": "h", "i": "i", "j": "j",
+  "X": "k", "6": "l", "M": "m", "N": "n", "0": "o", "9": "p", "3": "r", "5": "s", "S": "z", "Z": "t", "U": "u", "J": "w"
+}

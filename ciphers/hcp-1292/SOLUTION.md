@@ -5,6 +5,8 @@
 ## Cipher and key
 Hungarian, monoalphabetic substitution with invented graphic signs: the Jolánka family key, unchanged from HCP1216, 1212, 1213, 1217, 1218, 1243, 1301 (see the table in `ciphers/hcp-1216/SOLUTION.md`). The small ring is cs, as on HCP1301. Under the torn-off stamp there is a nine-row signed block. The picture side is print only ("Két szív ha földobog", and the verse "Tavasszal szép minden virág …"). The address (Szépreményü Tóth Jolánka úrleánynak, Jász Árokszállás, a courtesy formula "of fair promise") is plain handwriting; the top line "Szépreményü" was overlooked on 2026-10-30. The postmark is partly legible (…GALÁNTA).
 
+2026-11-03 (Claude Opus 5.5, stamp-box audit ordered by the human): cipher type is now **MASC + Steganography**, because a hidden signed message in the cipher signs is written in the stamp box under the (now torn-off) stamp.
+
 ## Reproduction
 ```sh
 python3 -I ciphers/hcp-1292/work/decode.py
@@ -24,6 +26,15 @@ Under the stamp: God be with you, my darling. I remain still your sweetheart and
 ## Slovak
 Moja milovaná, sladká Jolánka! Vaše vzácne riadky som dostal a veľmi som sa im potešil, drahá. Naozaj sa teším, že Vás ešte môžem nazývať svojou. Verte mi, drahá, akú bolesť mi spôsobilo vedomie, že Vás musím stratiť, milá. Aj ja som hľadal útechu vo víne, a takmer ma to stálo život, lebo včera v noci som išiel do služby trochu podnapitý a zaspal som na brzde, a Boh ma ochránil, že som sa nedostal pod vozeň. Ale nechajme to, lebo sa nechcem sťažovať, ale skôr vyjadriť radosť, že ma opäť oblažuje vedomie, že ešte smiem dúfať, drahá. Verte mi, že o nijakej dcére železničiara neviem, ani o nijakom dievčati. Už mnohokrát som na čestné slovo sľúbil vernosť, ale vidím, že [začiernené] už nemá žiadnu cenu, no aj tak si myslím, že som pred Vami nestratil česť, ale o to väčšiu cenu má Vaše čestné slovo predo mnou. Ak by ste ma náhodou opustili, tento list budem slovo po slove [odriekavať? sloveso je nevysvetlené slovo szororni], ale len v deň Vašej svadby, lebo dovtedy nespochybňujem Vaše slovo, a pýtam sa: čím môžem dokázať svoju lásku?
 Pod známkou: S Bohom, drahá. Zostávam naďalej Váš milý a do hrobu verný ctiteľ, Feri.
+
+## Stamp-box message (2026-11-03)
+Audit by Claude Opus 5.5 on the hi-res address scan (`work/hires/…adr.jpg`, crop 2680–3320 × 180–820, red channel, autocontrast; `work/stamp-2026-11-03/stampbox.png` and `stampbox_red_2x.png`). The stamp is lifted: only a torn rim of it (frame corners, "…STA") and a folded paper scrap at the right remain. Under it stand nine short rows, all in the cipher signs of the family key; no plain Hungarian is written there. The rows were already fully read on 2026-11-02 and checked in review 1; they are rows S1–S9 of `work/ledger.txt` and are printed by the reproduction command, which still passes (re-run 2026-11-03). Nothing was changed in the ledger.
+
+- Literal (S1–S9): `istenve | leédesem | marakto | vebra | iskedves | seessi | righű | imado | jaferi`
+- Hungarian (normalized): Isten vele, édesem. Mara[do]k továbbra is kedvese és sírig hű imádója, Feri.
+- English: God be with you, my darling. I remain still your sweetheart and your admirer faithful to the grave, Feri.
+- Slovak: S Bohom, drahá. Zostávam naďalej Váš milý a do hrobu verný ctiteľ, Feri.
+- Unread: nothing. Editorial points already disclosed: *marak* normalized *mara[do]k* (two letters supplied), *vebra* for *-ábbra*, *kedves|se* with s written twice across S5–S6.
 
 ## Revision 2026-11-02 before review (Claude Opus 5.5; items 4, 6 and 7 are superseded by "Response to review 1")
 New crops from `work/hires/…adr.jpg` (red channel, autocontrast, 3 to 6x; `work/rev2/`). The old files are kept as `work/ledger-2026-10-30.txt`, `work/normalized-2026-10-30.txt`, `work/SOLUTION-2026-10-30.md`. All three earlier gaps are closed except one lone word.

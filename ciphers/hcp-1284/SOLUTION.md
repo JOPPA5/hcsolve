@@ -6,6 +6,8 @@
 
 Hungarian, simple monoalphabetic substitution with invented graphic signs (type label MASC): the Jolánka family key, unchanged, as tabulated in `ciphers/hcp-1216/SOLUTION.md`: a two bars, b six, c/cs bowls, d long+short stroke (here also written short+long, "4"-like), e three bars, f upright or tilted cross, g loop with descender, gy joined loop, h/p tall stroke+short, i dotted crossed curve, j inverted T, k S-shape, l wave, m three strokes, n two strokes, o cursive loop, r F-like, s right bowl, t gamma, u plain cross, v chevron, z crossed diagonal with curled top; dots over o/u give ö/ü. The family's accents are mostly left unmarked in the literal text and supplied in normalization. Row 13 "4 ½" is written in clear numerals. The word *kocsin* above row 14 is plain Latin script, inserted by the writer.
 
+2026-11-03 type note: the cipher text continues in the stamp box, under the (now lifted) stamp, so the register type is **MASC + Steganography** (was MASC).
+
 ## Reproduction (one command, from the repository root)
 
 ```sh
@@ -75,3 +77,14 @@ Verdict REVISE. All five findings were re-checked on the reviewer's crops and ac
 5. **Side material, minor: fixed.** Verse, mark and the postmark attempt are in the plain-writing section.
 
 Reproduction re-run after the edits: all four SHA-256 checks OK and the output matches the literal block and the normalized text above. The reading was not substantially changed beyond these findings, so no second review round is needed, as the review itself states.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit, Claude Opus 5.5, on new 3x crops of `work/hires/` (`work/stamp-2026-11-03/box.png`, `row1.png`–`row4.png`). The stamp has been lifted; the box holds four rows in the cipher signs, in the same red ink and hand, and no plain-script writing. The reading already in this file and in `work/decode.py` was checked sign by sign and stands unchanged:
+
+- literal: csokolom / szamta / lanszo / feri + r (row 1: cs bowl+stroke, o, k S-shape, o, l wave, o, m three strokes; row 2: s z a m t a; row 3: l a n s z, then a doodled overwritten loop taken as o; row 4: f e r i, then a tilted F = r, the end of *-szor*)
+- normalized Hungarian: Csókolom számtalanszor. Feri.
+- English: I kiss you countless times. Feri.
+- Slovak: Bozkávam Vás nesčíselne veľakrát. Feri.
+
+Unread: nothing; the doodled o of *-szo* and the displaced r remain as stated in uncertainty 9. Nothing was added; the reproduction command already prints this block.

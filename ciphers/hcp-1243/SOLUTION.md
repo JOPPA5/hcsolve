@@ -3,6 +3,8 @@
 ## Claim
 Hungarian monoalphabetic graphic substitution, using the same alphabet as HCP1301. The complete main text is now read, including the lower love verse and final instruction. One overwritten letter and the cramped last line remain paleographically uncertain; normalized spellings must not be confused with additional visible cipher signs. Independent review confirms the main-message reading; qualifications below incorporate its findings.
 
+**Cipher type (updated 2026-11-03):** MASC + Steganography — the graphic-substitution message plus a plain-Hungarian note hidden in the stamp box under the (now lifted) stamp.
+
 The source is the archived postcard address side, dated 17 May 1912 in portal metadata (the scan instead appears to show 27 February 1912), addressed to Tóth Jolánka. The publication audit found no exact solution in its bounded search. The earlier 174-cell statistical scout was incomplete and is superseded by this manual source comparison.
 
 ## Key
@@ -59,12 +61,23 @@ The former `manual-edition.json` is retained as an older editorial serialization
 ## Remaining uncertainty and scope
 - Row 8 has an overwritten F/gamma-like form: `alí{t|r}ja`. Context supports `állítja` (claims), but the t/r ambiguity remains explicitly in the diplomatic output.
 - `utba`, `alítja`, `béjeg`, `melett{i|o?}` and the missing n in `ügyelje[n]` are not silently converted into perfect source spelling. The final sign may instead be o; normalization of `béjeg` to `bélyeg` is lexical, not a newly observed glyph.
-- The ordinary cursive note is scoped separately from the cipher. On reinspection, the reviewer’s provisional reading is plausible: `Isten ön- / nel cso- / kolom / számtalan- / szor / szeretet- / tel De…`. English: “God be with you; I kiss you countless times; with love, De…”. Ink across the printed emblem weakens the middle words; the signature remains unresolved. Do not identify the sender as Dezső or Deri from this scan alone.
+- The ordinary cursive note is scoped separately from the cipher. On reinspection, the reviewer’s provisional reading is plausible: `Isten ön- / nel cso- / kolom / számtalan- / szor / szeretet- / tel De…`. English: “God be with you; I kiss you countless times; with love, De…”. Ink across the printed emblem weakens the middle words; the signature remains unresolved. Do not identify the sender as Dezső or Deri from this scan alone. (Superseded 2026-11-03: see "Stamp-box message"; the hi-res original reads the full note and the signature `Deri`.)
 - The printed picture-side verse is ordinary Hungarian, not ciphertext.
 - The main cryptogram is solved with the localized qualifications above. The ordinary cursive signature remains unresolved and is explicitly outside the encrypted-message claim. The existing REVISE findings have been addressed; no second independent review or external register submission is claimed.
 
 ## Verification gain
 The earlier `leve... tőlem` hypothesis was wrong. The actual row is `lehet hogy nem`, following `lehet hogy még megkapja`. `ládát` was also wrong: the same p sign used in the companion card yields `lapot`. Shared alphabet agreement across both cards and coherent complete continuations provide substantially stronger evidence than the earlier opening-only language score.
+
+## Stamp-box message (2026-11-03)
+Audit of the original 3445×2210 address-side scan (`work/hires/adr.jpg`, fetched from api.hcportal.eu media 3790), crops at 2–3× with green-channel separation in `work/stamp-2026-11-03/`. The stamp has been lifted; the stamp box contains seven lines of ordinary red-ink Hungarian cursive (not the cipher signs), written over the faint printed globe emblem. This is the hidden (steganographic) part of the card.
+
+Literal reading, line by line: `Isten ön- / nel cso- / kolom / szamta / lanszor / szeretet- / tel Deri`
+
+- Normalized Hungarian: Isten önnel! Csókolom számtalanszor szeretettel, Deri.
+- English: God be with you! I kiss you countless times, with love, Deri.
+- Slovak: Boh s vami! Bozkávam vás nespočetnekrát, s láskou, Deri.
+
+All letters were read from the pixels; accents on `csókolom` and `számtalanszor` are not visible and are supplied only in the normalized form. Line 4 is `szamta` (not `számtalan-` as earlier given; the word is split `szamta/lanszor`). The signature reads `Deri` letter by letter (D, e, r, dotted i) at 3×; whether it is a name or a nickname, and who wrote it, is not established from this card. Nothing in the box remains unread. The stamp text is read by eye; the reproduction script covers only the cipher ledger and was not changed.
 
 ## Response to review 1
 1. **As-seen transcription:** completed as `work/as-seen.txt`. The independent shape-to-letter decoder now consumes that ledger directly. There is no plaintext-to-token generation in this path, and the provenance explicitly discloses that previous readings were known.

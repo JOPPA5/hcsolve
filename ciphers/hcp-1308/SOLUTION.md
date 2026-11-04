@@ -6,6 +6,8 @@
 
 Hungarian, simple monoalphabetic substitution with invented graphic signs: the "Jolánka" postcard family, same key as HCP1216, 1212, 1213, 1217, 1218, 1243, 1301 (sister cards' solutions were read; none of their text was copied). The card is enciphered without word division.
 
+**Type note (2026-11-03):** the stamp was lifted and a 7-row enciphered message (already read in this solution, see "Stamp field") is written in the stamp box under where the stamp sat. The card is therefore typed **MASC + Steganography** (register label).
+
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
 | two bars | a | S-shape (close to the next) | k | F-like | r |
@@ -127,3 +129,16 @@ Verdict REVISE. I rechecked each point on the reviewer's enlargements (`review/w
 5. **Fixed (minor).** Uncertainty 13 now says only the s is dropped, and "Why I believe it is correct" cites both rows 20–21 and row 25.
 
 The sign count stays at 627, since the changes replace signs without adding or removing any. After the fixes `python3 -I ciphers/hcp-1308/work/decode.py` passes all four hash checks and prints the literal block and normalization given above. `review/work/own_decode.py` then reports only the three rows it had already explained as artefacts of its own handling of `X:d` (24, S1, S5). The reviewer's "could not verify" items remain open: the plain pen note, the date of the card, and a native speaker's judgement on the regional forms.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit, Claude Opus 5.5, 2026-11-03. I cropped the stamp box of the original (`work/hires/..._adr.jpg`, region x 2680-3160, y 180-720), rotated it about 14 degrees counter-clockwise so the rows run level, and looked at it enlarged 2-3x (`work/stamp-2026-11-03/`). The stamp has been lifted; the box keeps its dashed frame, a faint triangular blue imprint (stamp/cancel offset) and a pale glue stain on its left side where the ink of the first signs of rows 1-5 has gone brown. Under it are seven short rows **in the cipher signs** of this card's key; there is no plain-Hungarian writing in the box.
+
+This message was already fully read in the sections above (stamp rows are in `work/ledger.txt` and are decoded by the reproduction command). My re-check of the pixels agrees with that reading sign by sign; nothing new was added and no new restoration was made.
+
+- Literal: {ü}dvoz{l}öm / tavobol / csokjaiert / va{g}yosi / righü / imadoja / feri
+- Normalized Hungarian: Üdvözlöm távolból. Csókjaiért vagyo[k] sírig hű imádója, Feri.
+- English: I greet you from afar. For your kisses I am your adorer, faithful unto the grave, Feri.
+- Slovak: Pozdravujem Vás z diaľky. Za Vaše bozky som Váš ctiteľ verný až do hrobu, Feri.
+
+Still uncertain (unchanged): the ü of üdvözlöm sits under the blot with dots at the start of row 1 and is a restoration; the cramped l of row 1 and the faint g and y of row 4 rest on word sense; vagyo[k] has a dropped final k. No clause stays unread.

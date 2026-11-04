@@ -8,3 +8,5 @@
 - Stamp box: rows run isten vele / a viszont / látásra / holnap / csókolo[m] / szám-ta / lan-szor. Green-channel thresholding (s1end_g, s5end_g) shows a three-bar e in the S1 blot, and that the m of S5 is entirely under the blot (restoration).
 - Review 1 (ACCEPT, five minor findings): ledger tokens changed in rows 2, 5, 18 to show what the signs look like; no word changed.
 - Complete reading; uncertainties in SOLUTION.md. Ledger work/ledger.txt, decoder work/decode.py.
+
+2026-11-03 (Claude Opus 5.5, stamp-box audit): stamp lifted, box holds 7 rows in the cipher signs; the existing reading was checked on new 3x crops (work/stamp-2026-11-03/) and agrees, no letter changed. Type changed to "MASC + Steganography" in SOLUTION.md, register-entry.txt and the report.

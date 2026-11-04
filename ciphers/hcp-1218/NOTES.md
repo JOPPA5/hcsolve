@@ -52,3 +52,5 @@ Review 2 by Claude Opus 5.5, dated 2026-10-14, returned ACCEPT. All eight findin
 3. The small N01 annotation remains qualified because of its r/t ambiguity and uncertain sign count under the watermark. Accents and the postmark day remain subject to the already stated limits.
 
 The English PDF has been updated to record acceptance. A local register entry is prepared with solver TODO because no personal name was supplied. Neither the register entry nor the report has been published by this finalization. FINAL records completion of this repository’s review workflow; it does not claim that the portal status has changed.
+
+2026-11-03 stamp-box audit: downloaded the full-resolution address side to work/hires/ and cropped the stamp box at 3x (work/stamp-2026-11-03/). The stamp is lifted; seven rows of cipher signs (no plain text) sit under it and match the existing S01-S07 ledger; decode.py 1218 re-run unchanged. Added a dated Stamp-box message section with Slovak. Type changed to MASC + Steganography in SOLUTION.md, report.md and register-entry.txt.

@@ -4,7 +4,9 @@
 
 ## Cipher type and key
 
-Hungarian, simple monoalphabetic substitution with invented graphic signs, the "Jolánka" postcard family (same key as HCP1216). Numerals are written in clear. The key is `work/key.json`:
+Hungarian, simple monoalphabetic substitution with invented graphic signs, the "Jolánka" postcard family (same key as HCP1216).
+
+**Type (2026-11-03): MASC + Steganography.** The six rows S1–S6 were written in the stamp box and hidden under the stamp (now lifted); see "Stamp-box message (2026-11-03)" below. Numerals are written in clear. The key is `work/key.json`:
 
 | sign class (ledger code) | letter | sign class | letter |
 |---|---|---|---|
@@ -162,3 +164,14 @@ Verdict REVISE. I looked at review/work/r2/compare_soraim.png, w11.png, e10a.png
 7. **Fixed.** Both *behozta* and *be[h]ozatta* are offered in item 1. The normalization now prints *behozta?*, which agrees with the English "brought in".
 
 Reproduction command re-run after these edits: all four hashes OK, 622 tokens, literal rows as printed above.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit on the hi-res address side (crop `work/stamp-2026-11-03/stamp_x2.png`, 2x of x 2720–3260, y 100–740). The stamp is lifted: only perforated paper remains at the top edge and a torn corner at bottom right; inside the dashed stamp frame six short rows of pencil cipher signs stand, partly across the printed green triangle. Nothing in plain Hungarian is there; the writing is in the cipher signs only. The message was already fully read in the ledger (rows S1–S6) and in the decipherment above; rechecked by eye today, sign shapes agree (e.g. S1 `()` cs, loop o, S k, loop o, wave l; S6 cross f, three bars e, F r, i).
+
+- Literal: `csokol / jaszam / sirig / hűked / vesse / feri`
+- Hungarian (normalized): Csókolja szám. Sírig hű kedvese, Feri.
+- English: My mouth kisses you. Your sweetheart, faithful unto the grave, Feri.
+- Slovak: Bozkávajú Vás moje ústa. Váš do hrobu verný milý, Feri.
+
+Unread: nothing; every stamp-box sign is in the ledger and covered by `work/decode.py`. The only open point is the one already listed in Uncertainty 13 (*szám* literal vs. a possible abbreviation). Because writing was hidden under the stamp, the type is now MASC + Steganography.

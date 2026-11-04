@@ -6,6 +6,8 @@
 
 Hungarian, simple monoalphabetic substitution with invented signs: the Jolánka postcard family, key taken unchanged from finished card HCP1216 (also 1212, 1213, 1217, 1218, 1243, 1301).
 
+2026-11-03 type note: the cipher type is now stated as **MASC + Steganography** (register label), because the closing of the message (rows s1–s7) is hidden in the stamp box under the stamp, which has since been torn off. The key is unchanged.
+
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
 | two bars | a | section mark (S / 8 forms) | k | F-like | r |
@@ -18,6 +20,16 @@ Hungarian, simple monoalphabetic substitution with invented signs: the Jolánka 
 | inverted T | j | | | | |
 
 *gy* is written here as two signs (g + y), *sz* as s + z. Accents are marks over the base sign; only the acutes on e, and the two dots of *többet*, were clearly seen.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit on the original address scan (`work/hires/..._adr.jpg`, crops in `work/stamp-2026-11-03/`, including a green-channel separation). The stamp has been lifted: only torn green edges of the stamp paper and the postmark ring remain around the box. Under it are 7 short rows in the same red ink, written in the cipher signs. There is no plain Hungarian. I read every sign again from the pixels with this card's key. The reading is the same as the ledger rows s1–s7 above: no sign changed, nothing restored.
+
+- Literal: csokol / lom / szam / talan / szor / imado / jaferi
+- Hungarian (normalized): Csókolom számtalanszor. Imádója Feri.
+- English: I kiss you countless times. Your adorer, Feri.
+- Slovak: Bozkávam Vás nespočetnekrát. Váš ctiteľ Feri.
+- Unread: nothing. The faint wave at the start of s2 is discussed in Uncertainties item 15; the words are the same either way. The stamp rows were already covered by `work/decode.py` and the ledger, so the script was not changed.
 
 ## Reproduction (one command, from the repository root)
 

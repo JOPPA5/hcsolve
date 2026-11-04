@@ -37,7 +37,7 @@ The writer spells by ear and writes only some of the accents. The literal deciph
 
 ## Key
 
-Simple monoalphabetic substitution with invented graphic signs. The names below are conventional descriptions of the handwritten shapes.
+Cipher type: **MASC + Steganography** (updated 2026-11-03): a simple monoalphabetic substitution with invented graphic signs, with part of the message (six rows) hidden in the stamp box under the stamp, which has since been lifted. The names below are conventional descriptions of the handwritten shapes.
 
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|

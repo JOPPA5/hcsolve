@@ -16,3 +16,5 @@ Source hash and decoded output consistency were checked; both cards' named graph
 2026-10-12: Read independent review 1; corrected manual rows and English report, renamed the plaintext-derived ledger and explicitly denied source-to-plaintext reproduction. See SOLUTION.md Response to review 1. Source and reviewer files unchanged.
 
 2026-10-12T21:20:50.956594+00:00: All four final PDF pages rendered and visually inspected. Local register entry prepared with solver TODO (no person name supplied); not submitted and documentation URL not published by this task. FINAL follows REVISE corrections under the reviewer’s express no-further-round instruction.
+
+2026-11-03: Stamp-box audit on the hi-res portal scan (work/hires/, crops work/stamp-2026-11-03/). Stamp lifted; four rows of cipher signs under it, reconfirmed as Csókolja a távolból imádója (final l of volból cramped). Type changed to MASC + Steganography in SOLUTION.md, report and register-entry.txt per human instruction; reproduction script unchanged.

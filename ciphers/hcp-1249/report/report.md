@@ -8,7 +8,7 @@ Human solver: Tomáš Pavuk
 
 The cryptogram is record 1249 of the HC Portal (https://crypto.hcportal.eu/dashboard/cryptograms/1249), portal name cpc_1914-03-25_HU__HU_Jasz Arokszalas_jolanka-51, part of Tobias Schrödel's collection of cryptographic postcards (private collection). When it was captured on 2026-11-01 the portal listed it as **Not solved**, category Substitution, language Unknown, sender Unknown, recipient Tóth Jolánka, with no transcription or solution attached. The date 1914-03-25 is taken from the portal's file name.
 
-The picture side carries only printed verse. The cipher text is on the address side: 28 rows, plus 7 more rows written under the stamp, which has since been lifted. The plain address reads *Szépreményű Tóth Jolánka úrleánynak, Jász-Árokszállás*. The postmark shows *BU…* and *914 MÁR*, which fits the portal's date. The card is signed Feri twice.
+The picture side carries only printed verse. The cipher text is on the address side: 28 rows, plus 7 more rows written under the stamp, which has since been lifted. The plain address reads Szépreményű Tóth Jolánka úrleánynak, Jász-Árokszállás. The postmark shows BU… and 914 MÁR, which fits the portal's date. The card is signed Feri twice.
 
 ![Picture side (source/picture-large.jpg)](../source/picture-large.jpg)
 
@@ -32,6 +32,8 @@ The text is Hungarian, without reliable word spacing; digits are plain.
 
 Simple monoalphabetic substitution with invented graphic signs. The labels are conventional names for handwritten shapes.
 
+Cipher type (updated 2026-11-03): **MASC + Steganography**. Besides the 28 main rows, the writer hid a seven-row message in the same cipher signs in the stamp box, under the stamp, which has since been lifted. That message is read in full below (rows S1 to S7, "Under the stamp"); a fresh check of the stamp box on 2026-11-03 confirmed the reading and found no plain-language writing there.
+
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
 | two bars | a | S shape, short | k | F-like | r |
@@ -43,7 +45,7 @@ Simple monoalphabetic substitution with invented graphic signs. The labels are c
 | hooked S with long descender | g | dotted loop | i | cross with long tail | z |
 | inverted T | j | opposed bowls | cs | | |
 
-A tick over the bars gives é; ticks or dots on o and u give ö, ő, ü, ű. Most other accents are not written. h and p share one sign, split by word sense: p occurs only in *percz*. The writer's short S and hooked S overlap, so k and g are also partly taken from the word.
+A tick over the bars gives é; ticks or dots on o and u give ö, ő, ü, ű. Most other accents are not written. h and p share one sign, split by word sense: p occurs only in percz. The writer's short S and hooked S overlap, so k and g are also partly taken from the word.
 
 ## Plaintext
 
@@ -102,29 +104,29 @@ Pod známkou: Sotva sa dočkám vašich bozkov; ver mi, [sú] sladšie než tá 
 
 ## What remains uncertain
 
-- **Row 1 `meretség`.** All signs are clear, but no word of this form is known. *merészség* ("daring") is a guess.
-- **Row 23 `viszontfuk`.** The signs are clear. *viszontlátjuk* ("we see again") is the obvious sense, but it needs dropped letters.
-- **Stamp row S3.** The weakest place: the stamp gum removed ink, and *hidd* is chosen for sense. The vowel of S7 is also read through damage.
-- **Rows 3–4.** The reading rests on word sense: k rather than g in *lánynak*, s doubled across the row break, and one surplus l in `lelülhet`, which stands for *elülhet* or *leülhet*.
-- **Rows 9–10.** `fordulnat mes` is read *fordul[h]at me[g]* with two writer's slips (n for h, s for g). *fordulna[t] me[g]* is an alternative with the same sense.
-- **Row 18.** The blotted sign is s or k; *mu[la]tnék* and *mut[at]nék* are both possible.
-- **Row 26.** *mit* has no stated antecedent, so the link of that clause is loose.
+- **Row 1 `meretség`.** All signs are clear, but no word of this form is known. merészség ("daring") is a guess.
+- **Row 23 `viszontfuk`.** The signs are clear. viszontlátjuk ("we see again") is the obvious sense, but it needs dropped letters.
+- **Stamp row S3.** The weakest place: the stamp gum removed ink, and hidd is chosen for sense. The vowel of S7 is also read through damage.
+- **Rows 3–4.** The reading rests on word sense: k rather than g in lánynak, s doubled across the row break, and one surplus l in `lelülhet`, which stands for elülhet or leülhet.
+- **Rows 9–10.** `fordulnat mes` is read fordul[h]at me[g] with two writer's slips (n for h, s for g). fordulna[t] me[g] is an alternative with the same sense.
+- **Row 18.** The blotted sign is s or k; mu[la]tnék and mut[at]nék are both possible.
+- **Row 26.** mit has no stated antecedent, so the link of that clause is loose.
 - **Blots.** Rows 7, 13, 19 and 20 have blotted signs, read from context. A double tick on row 7 is unexplained.
 - **Date.** 24 and 25 July 1914 were a Friday and a Saturday; this neither supports nor contradicts the text.
 
 ## Why the reading is believed
 
-The unchanged family key turns all 602 signs into Hungarian with no new value. The text brings its own checks: *Árokszállás* twice, matching the address; the digits *24 és 25*; *anyagi áldozat*, *tekintélyes mulatság*; and the formula *sírig hű kedvese Feri*, also found on HCP 1216. Repeated words decode identically (*hogy* ×4, *nem* ×6, *kedvesem* ×2, *alig* ×2). The content is coherent: he invites her to a respectable ball in July, answers the family's likely objections and offers to bear the cost.
+The unchanged family key turns all 602 signs into Hungarian with no new value. The text brings its own checks: Árokszállás twice, matching the address; the digits 24 és 25; anyagi áldozat, tekintélyes mulatság; and the formula sírig hű kedvese Feri, also found on HCP 1216. Repeated words decode identically (hogy ×4, nem ×6, kedvesem ×2, alig ×2). The content is coherent: he invites her to a respectable ball in July, answers the family's likely objections and offers to bear the cost.
 
 ## Review and what changed
 
 A separate Claude Opus 5.5 agent re-ran the command, decoded the ledger with its own script typed from the HCP 1216 key (all 35 rows matched), and checked all rows against the scan. It accepted the key and the cipher type, and returned REVISE for four changed signs and one word division:
 
-- Row 2 end is *ha*, not *na*: the sign's first stroke is much longer than the second.
-- Rows 3–4 now read *ha nincs egy lánynak ismerőse, elülhet reggelig*, replacing a forced sense.
-- Rows 9–10 were wrongly divided: *mindenki fordulhat meg* replaces an unresolved passage, with the slips disclosed.
-- Stamp row S6 is *percz* ("moment"), not an unresolved *nercz*, and S7's vowel is now read é.
-- Row 26 is *mit*, not *mot*: the dot is present.
+- Row 2 end is ha, not na: the sign's first stroke is much longer than the second.
+- Rows 3–4 now read ha nincs egy lánynak ismerőse, elülhet reggelig, replacing a forced sense.
+- Rows 9–10 were wrongly divided: mindenki fordulhat meg replaces an unresolved passage, with the slips disclosed.
+- Stamp row S6 is percz ("moment"), not an unresolved nercz, and S7's vowel is now read é.
+- Row 26 is mit, not mot: the dot is present.
 - Minor: one t removed in row 20 (603 signs became 602), a tick added in row 22, the vowel of row 24 settled as a, both options given in row 18, word counts corrected, and the date check made.
 
-The solver checked each place on the enlargements and accepted all findings, adding the alternative *fordulna[t]* for rows 9–10. The key did not change. The reviewer could not read rows 1 and 23 either, and could not settle S3 or the vowel of S7.
+The solver checked each place on the enlargements and accepted all findings, adding the alternative fordulna[t] for rows 9–10. The key did not change. The reviewer could not read rows 1 and 23 either, and could not settle S3 or the vowel of S7.

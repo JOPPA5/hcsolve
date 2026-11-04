@@ -30,7 +30,7 @@ The writer divides words across rows with a hyphen stroke. In the literal text t
 
 ## Key
 
-Hungarian simple monoalphabetic substitution with invented graphic signs. The names are conventional descriptions of the handwritten shapes.
+Cipher type (register): **MASC + Steganography** (updated 2026-11-03): a Hungarian simple monoalphabetic substitution with invented graphic signs, plus a plain-Hungarian message hidden in the stamp box under the stamp. The names below are conventional descriptions of the handwritten shapes.
 
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|
@@ -75,6 +75,8 @@ Normalized Hungarian (accents, capitals, punctuation and word division are edito
 **Édes egyetlen reményem! Sorait köszönettel megkaptam, mely a várva várt időn belől megérkezet[t]. Édes Jolánkám, a boldogságtól alig tudok válaszolni. Szép szemében nyílik én részemre a legszebb rózsa, és szívében a nefelejcs is csak nekem virul. Ön szíve virága, és ne hervadjon el soha, legyen a sor[s] bár mily mostoha, az én édes Jolánkámat elfeledni nem bírnám soha. Isten vele, édesem, a visz[ont]látásra! Feri**
 
 Under the stamp, plain hand, rotated: **Csókolom a csókra való kis száját. Feri**
+
+Stamp-box audit 2026-11-03: the stamp is lifted; the box holds four lines in plain Hungarian cursive (literal: csokolom a / csokro va- / ló kis sza / ját Feri), no cipher signs. Everything is read; the o-for-a in csókra and the j at the start of the last line rest on shape plus word sense.
 
 English translation: **My sweet only hope! I received your lines with thanks; they arrived within the long-awaited time. My sweet Jolánka, I can hardly answer for happiness. In your beautiful eyes the loveliest rose blooms for me, and in your heart even the forget-me-not blooms only for me. The flower of your heart, may it never wither, however cruel fate may be, I could never forget my sweet Jolánka. Farewell, my darling, until we meet again! Feri**
 

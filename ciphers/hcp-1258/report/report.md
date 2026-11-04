@@ -2,13 +2,13 @@
 
 Human solver: Tomáš Pavuk
 
-**Status: deciphered (29 rows and the 7 rows under the stamp, 796 letters); independent review 1 verdict REVISE, findings addressed. One word of the closing, *Fe[ri]*, rests on sense more than on clean signs.** Report dated 2026-11-01.
+**Status: deciphered (29 rows and the 7 rows under the stamp, 796 letters); independent review 1 verdict REVISE, findings addressed. One word of the closing, Fe[ri], rests on sense more than on clean signs.** Report dated 2026-11-01.
 
 ## Origin and context
 
 The cryptogram is record 1258 of the HC Portal (https://crypto.hcportal.eu/dashboard/cryptograms/1258), portal name cpc_--_HU__HU_Jasz Arokszalas_jolanka-70, part of Tobias Schrödel's collection of cryptographic postcards (private collection; see the HistoCrypt paper https://ecp.ep.liu.se/index.php/histocrypt/article/view/166). When it was captured on 2026-11-01 the catalogue row listed it as **Not solved**, category Substitution, language Unknown, recipient Tóth Jolánka, with no transcription or solution. The card's detail page timed out in capture, so its tabs were not read one by one.
 
-The whole message is on the address side, in green ink in invented signs: 25 rows in the left block, 4 rows across the foot of the card, and 7 short rows in a box drawn at the stamp place. The stamp is missing. The address (Tóth Jolánka, Jászárokszállás) is in plain hand; its first line was not read. The postmark gives no readable date, so the card is undated. The picture side has a printed verse beginning *Messze vagyok de sohasem feledlek* and no cipher text.
+The whole message is on the address side, in green ink in invented signs: 25 rows in the left block, 4 rows across the foot of the card, and 7 short rows in a box drawn at the stamp place. The stamp is missing. The address (Tóth Jolánka, Jászárokszállás) is in plain hand; its first line was not read. The postmark gives no readable date, so the card is undated. The picture side has a printed verse beginning Messze vagyok de sohasem feledlek and no cipher text.
 
 ![Address side with the cipher text (source/address-large.jpg)](../source/address-large.jpg)
 
@@ -18,13 +18,13 @@ The card belongs to the "Jolánka" family of Hungarian cipher postcards from Fer
 
 ## Method
 
-Claude Opus 5.5 read every sign by hand from enlarged crops of the high-resolution original and recorded it as a sign ledger, one token per written sign (`work/ledger-signs.txt`). This is not OCR, and it is not blind, because each sign was classed with the key in view. Hard places were settled by rereading shapes, never by changing the key: the numeral 2 in row 12, *lefekszek, átalszom* in rows 13–14, and the stamp box, where a green smear covers some signs. Each hard call is listed under Uncertainties.
+Claude Opus 5.5 read every sign by hand from enlarged crops of the high-resolution original and recorded it as a sign ledger, one token per written sign (`work/ledger-signs.txt`). This is not OCR, and it is not blind, because each sign was classed with the key in view. Hard places were settled by rereading shapes, never by changing the key: the numeral 2 in row 12, lefekszek, átalszom in rows 13–14, and the stamp box, where a green smear covers some signs. Each hard call is listed under Uncertainties.
 
 The command `python3 -I ciphers/hcp-1258/work/decode_opus.py` checks the file hashes, maps the ledger through the key and prints the literal rows and the normalized text. The normalized text is an editor's file, with word division, accents and spelling supplied by hand.
 
 ## Key
 
-Monoalphabetic substitution with graphic signs. The labels are names for handwritten shapes.
+Monoalphabetic substitution with graphic signs. The labels are names for handwritten shapes. Register type: **MASC + Steganography** (changed from MASC on 2026-11-03), because the closing message is written in the box at the stamp place, where the stamp would hide it.
 
 | sign class (ledger token) | letter | sign class (ledger token) | letter | sign class (ledger token) | letter |
 |---|---|---|---|---|---|
@@ -110,48 +110,50 @@ The crops named below are in `work/crops2/`.
 
 ![End of row 29, with the end of row 28 above it: the closing read as kedvese, Fe[ri] (work/crops2/r29tail.png)](../work/crops2/r29tail.png)
 
-1. **Closing of row 29 (the least secure place).** After *várjon* the literal signs are c-s, o, o, l, j, a, k, e, d, v, e, s, s, e, cross, dot, e, and the row ends at the worn corner (crop r29tail, crop xe). The reading is *Csó[k]olja kedvese, Fe[ri]*, a family closing (HCP1213, 1301: *Csókolja … kedvese Feri*).
-   - *csó[k]olja*: both middle signs have the loop-with-tail outline of this writer's hurried o (compare *hogy* at the end of row 28, crop hogy28). The second is overinked and looks written over something (crop blr). A k cannot be seen. Either it is under the blot or it was omitted, as this writer often omits letters. *csalja* is excluded by the o signs.
-   - *kedvese*: written k e d v e s s e. The second s is a right bowl with a hooked top, the same form as the s that opens row 29 (crop r29start). It is not k: the k of *szükség* in the same row and of *kedves* are section marks. So the reviewer's *kedves kezé[t]* fails at that sign. Doubled s for single is this writer's habit (row 12 *essö*, and doubled letters in row 10 *kimulattása*).
-   - *Fe[ri]*: the small cross is the one soft call. By shape alone it could be plain x (u) or a tilted f, and it lacks the long tail of z. It is close to the tilted f of *fiatal* in row 28 just above (crop f28), and only f gives a word. The dot beside it has no value here (stray, or a point after an initial). The last sign is a squeezed three-bar e at the corner, its bottom bar detached. The letters *ri* are not on the card: nothing continues on the right edge, so they ran out of room or were dropped. This word rests on sense and the formula, not on clean signs. The full signature *Feri* stands in the box. If it is rejected, one word of the closing stays unread and the message is not affected.
+1. **Closing of row 29 (the least secure place).** After várjon the literal signs are c-s, o, o, l, j, a, k, e, d, v, e, s, s, e, cross, dot, e, and the row ends at the worn corner (crop r29tail, crop xe). The reading is Csó[k]olja kedvese, Fe[ri], a family closing (HCP1213, 1301: Csókolja … kedvese Feri).
+   - csó[k]olja: both middle signs have the loop-with-tail outline of this writer's hurried o (compare hogy at the end of row 28, crop hogy28). The second is overinked and looks written over something (crop blr). A k cannot be seen. Either it is under the blot or it was omitted, as this writer often omits letters. csalja is excluded by the o signs.
+   - kedvese: written k e d v e s s e. The second s is a right bowl with a hooked top, the same form as the s that opens row 29 (crop r29start). It is not k: the k of szükség in the same row and of kedves are section marks. So the reviewer's kedves kezé[t] fails at that sign. Doubled s for single is this writer's habit (row 12 essö, and doubled letters in row 10 kimulattása).
+   - Fe[ri]: the small cross is the one soft call. By shape alone it could be plain x (u) or a tilted f, and it lacks the long tail of z. It is close to the tilted f of fiatal in row 28 just above (crop f28), and only f gives a word. The dot beside it has no value here (stray, or a point after an initial). The last sign is a squeezed three-bar e at the corner, its bottom bar detached. The letters ri are not on the card: nothing continues on the right edge, so they ran out of room or were dropped. This word rests on sense and the formula, not on clean signs. The full signature Feri stands in the box. If it is rejected, one word of the closing stays unread and the message is not affected.
 2. **Restorations of physically hidden signs.**
-   - Row 26 at the tear: *feleség[e][m]é*. A fragment of one sign and the last stroke of m are visible. The tear leaves room for about two signs, so the writer probably wrote single m, as he usually does.
-   - Row 28 final *hogy*: the g and the y are both visible on crop hogy28. The y runs heavily into the worn corner. Round 1 said the g was in the tear; that was wrong, and the ledger is right to show it unbracketed.
-   - Row 29: the t of *évet* is in the tear; the end of its bar is visible.
-   - s3: *marad[o][k]*. One small wedge and a vertical trace survive in a green smear, so two signs are restored here, which is more than the one-letter rule allows. *maradok* is chosen from sense with *hű kedvese*; literally only *marad* is certain. The wedge resembles the wedge-shaped ó of s6 *imádója*, which supports the o.
-   - s4: the final e of *kedve[se]* is in the smear; the *se* that follows opens s5.
+   - Row 26 at the tear: feleség[e][m]é. A fragment of one sign and the last stroke of m are visible. The tear leaves room for about two signs, so the writer probably wrote single m, as he usually does.
+   - Row 28 final hogy: the g and the y are both visible on crop hogy28. The y runs heavily into the worn corner. Round 1 said the g was in the tear; that was wrong, and the ledger is right to show it unbracketed.
+   - Row 29: the t of évet is in the tear; the end of its bar is visible.
+   - s3: marad[o][k]. One small wedge and a vertical trace survive in a green smear, so two signs are restored here, which is more than the one-letter rule allows. maradok is chosen from sense with hű kedvese; literally only marad is certain. The wedge resembles the wedge-shaped ó of s6 imádója, which supports the o.
+   - s4: the final e of kedve[se] is in the smear; the se that follows opens s5.
 3. **Wiped and blotted places.**
-   - Row 12: *az eső* and *és* lie in a wiped patch. *és* is a ghost three-bar with its accent plus a ghost s, read only under enhancement.
-   - Row 14: a solid blot stands between *át* and *alszom*. It is taken as covering no letter of the word, or a slip; *átalszom* does not need a further sign.
-   - Row 9: the a of *Béla* has its top bar clear and its lower bar under a blot.
-   - Row 17: the n of *van* is a faded, smudged shape at the right edge, read from sense and the ghost of two strokes.
-   - Row 18: the é sits under a heavy blot; its bars can be seen around it. Row 22: the o-n of *halgason* is blotted.
-   - Row 6: the y of *vagyok* is smudged and postmarked. Rows 7–9 near x 1500 are under a green wash but legible.
+   - Row 12: az eső and és lie in a wiped patch. és is a ghost three-bar with its accent plus a ghost s, read only under enhancement.
+   - Row 14: a solid blot stands between át and alszom. It is taken as covering no letter of the word, or a slip; átalszom does not need a further sign.
+   - Row 9: the a of Béla has its top bar clear and its lower bar under a blot.
+   - Row 17: the n of van is a faded, smudged shape at the right edge, read from sense and the ghost of two strokes.
+   - Row 18: the é sits under a heavy blot; its bars can be seen around it. Row 22: the o-n of halgason is blotted.
+   - Row 6: the y of vagyok is smudged and postmarked. Rows 7–9 near x 1500 are under a green wash but legible.
 4. **Readings resting on word sense.**
-   - h/p: p in *vasárnap* (rows 4, 11, 14, 15, 18), and *pletykára*; h elsewhere. Row 26: the sign before *ögtön* is the clear h/p sign (stroke plus separate dot), where sense wants r: literal *högtön*, normalized *rögtön*. This is the writer's slip or an unusual form, not a clean sign match.
-   - d/n: *n* in row 29 *esetén* and *d* in row 12 *délig* are by word sense.
-   - Row 13: the first sign of *folyton* is a tilted cross taken as f (u gives no word).
-   - s6: the sign written for ű of *hű* is the cross without visible dots; i of *imádója* has its dot lost in the smear; the ó is an unusual small sign with a wedge; s7 opens with tilted j.
-   - s1: *Isten* shows two bars under the long t stroke (literal *istan*), the third bar being merged or omitted.
-   - Row 22: the *ty* of *pletykára* is a joined sign seen only here.
-5. **The writer's spellings, normalized.** *ojan/mihejt/hejzet* (j for ly), *fojton*, *éjel*, *akor*, *semi*, *halgason*, *ara*, *tehesem*, *ot*, *itédesem* (*itt*), *essö* (eső), *kimulattása*, *kedvébe* (for -ben), *örülö* (k omitted), *bodog-* (l omitted), *irntam* (á omitted), *helyzet* (acc. -et omitted in row 27), *szüksé* (g omitted), *siri* (g omitted: *sír[ig]*, a shortening noted on sister cards). The small two-dot a in row 5 (*már a*) sits squeezed between r and v. Most accents are not visible and are supplied.
-6. **Row 28 *ahogy*.** After *fiatal* the card has a separate two-bar a before *hogy* (crop hogy28), so the literal text is *fiatalahogy*. Round 1 missed this sign. It is printed as *ahogy*. As a plain word that means "as", which fits poorly; the sense wanted is *ahhoz, hogy* ("young enough to …"), so this is taken as a telescoped form of that phrase or a slip. The translation follows that sense. The sentence does not change otherwise.
-7. **k/g.** In row 24 *-ságunkat* the k-position sign looks like g; it is kept as literal g and normalized k. In row 13 the s of *most* has a longer stem than usual.
-8. **Not part of the cipher.** The address (Tóth Jolánka, Jászárokszállás) is in plain hand; its first line is not read here. The picture side has a printed verse beginning *Messze vagyok de sohasem feledlek*. The postmark shows a line with 91 and C, not a date. The stamp is missing. The print number 6432 at the foot is a printer's mark overlaid by row 26's last sign.
+   - h/p: p in vasárnap (rows 4, 11, 14, 15, 18), and pletykára; h elsewhere. Row 26: the sign before ögtön is the clear h/p sign (stroke plus separate dot), where sense wants r: literal högtön, normalized rögtön. This is the writer's slip or an unusual form, not a clean sign match.
+   - d/n: n in row 29 esetén and d in row 12 délig are by word sense.
+   - Row 13: the first sign of folyton is a tilted cross taken as f (u gives no word).
+   - s6: the sign written for ű of hű is the cross without visible dots; i of imádója has its dot lost in the smear; the ó is an unusual small sign with a wedge; s7 opens with tilted j.
+   - s1: Isten shows two bars under the long t stroke (literal istan), the third bar being merged or omitted.
+   - Row 22: the ty of pletykára is a joined sign seen only here.
+5. **The writer's spellings, normalized.** ojan/mihejt/hejzet (j for ly), fojton, éjel, akor, semi, halgason, ara, tehesem, ot, itédesem (itt), essö (eső), kimulattása, kedvébe (for -ben), örülö (k omitted), bodog- (l omitted), irntam (á omitted), helyzet (acc. -et omitted in row 27), szüksé (g omitted), siri (g omitted: sír[ig], a shortening noted on sister cards). The small two-dot a in row 5 (már a) sits squeezed between r and v. Most accents are not visible and are supplied.
+6. **Row 28 ahogy.** After fiatal the card has a separate two-bar a before hogy (crop hogy28), so the literal text is fiatalahogy. Round 1 missed this sign. It is printed as ahogy. As a plain word that means "as", which fits poorly; the sense wanted is ahhoz, hogy ("young enough to …"), so this is taken as a telescoped form of that phrase or a slip. The translation follows that sense. The sentence does not change otherwise.
+7. **k/g.** In row 24 -ságunkat the k-position sign looks like g; it is kept as literal g and normalized k. In row 13 the s of most has a longer stem than usual.
+8. **Not part of the cipher.** The address (Tóth Jolánka, Jászárokszállás) is in plain hand; its first line is not read here. The picture side has a printed verse beginning Messze vagyok de sohasem feledlek. The postmark shows a line with 91 and C, not a date. The stamp is missing. The print number 6432 at the foot is a printer's mark overlaid by row 26's last sign.
 
 ## Why the reading stands
 
-All 796 letters take a value from the family key without any new sign value, and the result is running Hungarian in Feri's spelling. The text is specific: rain, a soaked night, a Sunday slept through, a plea to ignore gossip, and a marriage promise that answers her remark about waiting a year. The numerals 2 and 1 fit their phrases. Family formulae recur (*Kívánom, hogy a legjobb kedvébe találja soraim*, *Isten vele, édesem*, *sírig hű*, *imádója*, *Feri*), and repeated words decode alike (*édesem* ×7, *hogy* ×7 in the round 1 count).
+All 796 letters take a value from the family key without any new sign value, and the result is running Hungarian in Feri's spelling. The text is specific: rain, a soaked night, a Sunday slept through, a plea to ignore gossip, and a marriage promise that answers her remark about waiting a year. The numerals 2 and 1 fit their phrases. Family formulae recur (Kívánom, hogy a legjobb kedvébe találja soraim, Isten vele, édesem, sírig hű, imádója, Feri), and repeated words decode alike (édesem ×7, hogy ×7 in the round 1 count).
 
 ## Review and what changed
 
 A separate Claude Opus 5.5 agent re-ran the command, recounted the ledger, made its own crops and read rows 1–29 and the box against the ledger and key. Its verdict was **REVISE**: the decipherment stands, but two things needed fixing. It did not re-derive the key and its pass was not blind.
 
-- **Row 28 (major):** a written a after *fiatal* was missing from the ledger. Added; the text now reads *ahogy*, and the letter count went from 792 to 796 with the row 29 changes below.
-- **End of row 29 (major):** the closing had been left largely unread. The two middle signs of the first word are now read as o, giving *Csó[k]olja*. The reviewer suggested testing *kedves kezé[t]*; that was tested and not adopted, because the hooked sign has the form of s, not k, and the cross has no z tail. The closing is read as *kedvese, Fe[ri]* instead. **This last reading was made after the review, so no reviewer has checked it.**
+- **Row 28 (major):** a written a after fiatal was missing from the ledger. Added; the text now reads ahogy, and the letter count went from 792 to 796 with the row 29 changes below.
+- **End of row 29 (major):** the closing had been left largely unread. The two middle signs of the first word are now read as o, giving Csó[k]olja. The reviewer suggested testing kedves kezé[t]; that was tested and not adopted, because the hooked sign has the form of s, not k, and the cross has no z tail. The closing is read as kedvese, Fe[ri] instead. **This last reading was made after the review, so no reviewer has checked it.**
 - **Command (minor):** the ledger held letters, not signs. It now holds sign classes and the command applies a key table.
-- **Disclosures (minor):** a wrong note on the g of row 28 was corrected, and smudged signs in rows 17, 18 and 22 were added. A likeness that supports s3 *marad[o][k]* is cited.
+- **Disclosures (minor):** a wrong note on the g of row 28 was corrected, and smudged signs in rows 17, 18 and 22 were added. A likeness that supports s3 marad[o][k] is cited.
 
 The message body was otherwise not changed by the review.
+
+Stamp-box audit (2026-11-03): the stamp is lifted, and under it is the 7-row closing in cipher signs, given above under Under the stamp. The reading was checked again on new crops and is unchanged. Only the register type changed, from MASC to MASC + Steganography.
 
 Credit: transcription, key transfer and decipherment on this card by Claude Opus 5.5; independent review by a separate Claude Opus 5.5 agent.

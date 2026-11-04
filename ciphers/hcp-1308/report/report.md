@@ -15,7 +15,7 @@ The whole message is on the address side, written in invented signs without word
 - 26 long rows, of which the last three run across the full width of the card under the address;
 - one row up the right edge, read bottom to top;
 - one row along the top edge, read right to left;
-- seven short slanted rows in the stamp field (the stamp itself is gone).
+- seven short slanted rows in the stamp field, written under the stamp so that they were hidden while it was on the card (the stamp itself is gone).
 
 The plain address reads Tóth Jolánka úrleánynak, Jász-Árokszállás ("to Miss Jolánka Tóth, Jász-Árokszállás"). The card carries a boxed RÁKOSPALOTA mark, as do its sister cards, and a round postmark of which only JÁS… can be made out. The date is not legible, so the card is undated.
 
@@ -39,7 +39,7 @@ The layout had to be worked out first. The right-edge row must be turned 270 deg
 
 ## Key
 
-Simple monoalphabetic substitution with invented graphic signs. The names are conventional descriptions of the handwritten shapes.
+Cipher type: **MASC + Steganography** (updated 2026-11-03). Simple monoalphabetic substitution with invented graphic signs; part of the message (seven rows) is hidden in the stamp box, under the stamp, which has since been lifted. The names are conventional descriptions of the handwritten shapes.
 
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|

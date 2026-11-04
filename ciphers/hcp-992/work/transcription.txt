@@ -1,0 +1,11 @@
+# hcp-992 cipher transcription (picture side), read by Claude Opus 5.5 from work/hires/*_pic.jpg
+# Tokens separated by spaces, words by " / ". Sign names:
+#   1..9 digits as written; A9 = 9 with filled (blacked) loop; A9: = same with two dots above;
+#   U = U-shaped sign; U: = U with two dots above; V = V-shaped sign; I = capital-I-like sign;
+#   i. = arch with dot under it; c = hook/reversed-c sign; r = tall stroke with hook (open "6");
+#   K = double-crossed sign (like #/‡); 2* = 2-shaped sign with an ink blob on its top;
+#   [BLOT] = word inked out by the writer; "-" line-end hyphen; ".", "!", "...." punctuation as written.
+C1: 3 4 i. 2 / 8 4 r I i. 2 2 i. 9 9 4 1 i. 4 6 - 7 4 5 / 8 4 r I 4 2 5 [BLOT] .... !
+C2: 9 U 2 K 7 4
+C3: V i. c 8 / A9 6 4 r / U 3 A9 r 3 7
+C4: 3 i. 7 / U 2 I A9: 8 1 i. 9 4 2 / 9 r U: 5 5 4 2 / U 2 V / K U 5 5 4 2 / V 4 i. 2 / 5 i. c 8 / 5 4 8 r / 2 A9 c 8 / V i. r / 5 4 8 2 4 2 V 4 5 / 4 r i. c 2* ...... ....

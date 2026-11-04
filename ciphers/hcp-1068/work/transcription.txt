@@ -1,0 +1,22 @@
+# hcp-1068 cipher transcription (Claude Opus 5.5, 2026-11-03), read from work/hires/*_adr.jpg
+# Orientation: card turned 90 deg anticlockwise so that "Liebe Bärbel!" is upright; lines 1-9 top to bottom.
+# Line 10 = strip along the card's top edge (upside down relative to the address), read with the card turned 180 deg.
+# Sign codes (one ASCII code per hand-drawn sign):
+#   I vertical stroke | 3 brace "}" | z long-tailed brace (yogh-like) | V v-shape with heavy ink blob at the point
+#   U wide u-shape with blob | v plain light v (no blob) | W v with dot above | Y v with grave stroke above
+#   q v-shape drawn as two separate strokes "(" + "/" (no dot) | 8 lying eight | A low pair + high pair of ticks ("„ "")
+#   T cluster of four short ticks | D double dash "--" | u one-hump u | m two-hump m | ü u with a small mark above
+#   F F-like sign | X x | K k-like sign (x with straight stem) | P two vertical strokes "||" | O o | ö o with mark above
+#   B B | G 6-shape | Z double tilde | 2 2-shape | j j | R slash with tick "/'" | $ vertical with bottom loop
+#   y vertical with top-left hook (start of line 7) | J reversed-L hook | S S
+#   ( ) . ? - are literal punctuation; "[...]" = insertion written above the line with a caret (replaces the sign before it)
+I3V 8IA DuF IA müA3VXA WA-
+DXPOmmXA. TIX RWVGF ZWG
+DWAz BGImW. I3V 8IA v[vOA] RGWu
+Vö2zXG GI3VFID vKGZöVAF
+ZOGTXA (jXTXA RW22$ ZW$ TqJ
+X$$XA 8KFGIRRF) I$F $FX RWA
+y3VOA 8XI Xu3V? ZIG UY8XA
+IXG 8WAAID DuFXS
+ZXFFXG. I3V VORRX. IVG Wu3V.
+VKGz2I3V$F TXIAX Eva.

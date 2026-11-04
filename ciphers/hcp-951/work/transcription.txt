@@ -1,0 +1,8 @@
+# hcp-951 cipher block, address side, lines 5-8 of the left half (read from work/hires/..._adr.jpg).
+# Numbers as written; groups separated by ';' where the writer put a word break (comma+tick / semicolon-like mark).
+# '=19' marks the house number, kept literal (decoding it as S gives 'Nr. S'; the plain note on the card reads 'Breitestr. 19').
+# Line 1 ends "1,18265" written without commas between 18, 26 and 5; split by spacing and stroke gaps.
+9,12,19,5 ; 19,3,8,23,1,18,26,5
+4,15,2,5,12,14
+2,18,5,9,20,5
+19,20,18,1,19,5 ; 14,18 ; =19

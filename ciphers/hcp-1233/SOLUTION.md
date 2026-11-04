@@ -19,6 +19,8 @@ Hungarian, simple monoalphabetic substitution with invented graphic signs (Jolá
 
 Two points on this hand: the three bars are sometimes crossed by a stroke (rows 2, 5), read as e/é. The T-like first sign of *tudatom* (row 2) is taken as a t variant from sense. Dots/ticks over o and u give ö, ő, ü; other acutes are faint and supplied in normalization.
 
+**Type note (2026-11-03):** register type changed from MASC to **MASC + Steganography**: the closing (rows 22–26) is written inside the stamp box, under the place of the postage stamp, which is now lifted; see "Stamp-box message (2026-11-03)" below.
+
 Writing order: 19 rows on the left half; rows 18 and 19 run the full card width along the bottom; the text turns up the right edge (row 20), runs upside down along the top edge from right to left (row 21), and the signature fills the stamp box (rows 22–26).
 
 ## Reproduction (one command, from the repository root)
@@ -60,6 +62,19 @@ My beloved sweet Jolánka! I inform you that my first exam ended successfully to
 ## Slovak
 
 Moja milovaná, sladká Jolánka! Oznamujem Vám, že moja prvá skúška sa dnes skončila úspešne, hoci ma zastihla takého nepripraveného, lebo som s tým nepočítal; až v sobotu som sa dozvedel, že dnes, v pondelok, bude skúška, a musel som sa na to poriadne pozrieť, aby som niečo vedel. Až do noci som sa učil, aj vo vlaku, takže mi ruka primrzla ku knihe, ale vďakabohu som sa neučil márne. Teraz už idem spať, lebo už dva dni som nespal. S Bohom. Bozkáva Vás nespočetnekrát Feri.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit by Claude Opus 5.5 on the un-converted scan `work/hires/…_adr.jpg` (crops in `work/stamp-2026-11-03/`: `box_2x.png`, `mask_rows22_23_3x.png`, `mask_rows24_26_3x.png`, the latter two with the purple-ink mask). The postage stamp has been lifted: the paper inside the dotted box is clean, with torn paper scars at its edges, and only a corner of a green stamp (letters "FI…" of the value) remains at the lower left, still carrying the black cancellation. The writing in the box was therefore under the stamp: hidden writing, in the cipher signs only (no plain Hungarian in the box).
+
+It is rows 22–26 of the ledger, already read sign by sign in rounds 1–2 and confirmed again today from the crops; no new letters were added and `work/decode.py` is unchanged.
+
+- Literal: `csokol | jasza | mta | lansz | orfe[r][i]`
+- Hungarian (normalized): Csókolja számtalanszor Feri.
+- English: Feri kisses you countless times.
+- Slovak: Bozkáva Vás nespočetnekrát Feri.
+
+What stays uncertain is as before (uncertainties 2 and 11): in *Feri* the f is close to plain u and r, i run through stamp residue; the signs of row 24 cross the printed triangle (m and a t stem visible). No clause is unread. The rest of the letter is on the open card; only the closing is hidden under the stamp.
 
 ## Unenciphered parts of the card
 

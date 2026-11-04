@@ -30,7 +30,7 @@ In review, the reviewer read every row on its own crops and keyed its own transc
 
 ## Key
 
-Simple monoalphabetic substitution with invented graphic signs; the Hungarian plaintext is written with digraphs spelled sign by sign (cs, gy, sz). The full table is in the HCP 1216 report. Points specific to this card:
+Register type: **MASC + Steganography** (changed from MASC on 2026-11-03): besides the main text, a hidden message was written in the stamp box and covered by the stamp, which is now lifted. The five cipher rows there read Csókolom számtalanszor. Isten vele., followed by one unread cursive word (see Plaintext). Simple monoalphabetic substitution with invented graphic signs; the Hungarian plaintext is written with digraphs spelled sign by sign (cs, gy, sz). The full table is in the HCP 1216 report. Points specific to this card:
 
 - A closed figure-8 sign is a variant of k (hetek, urékat, ki, kedves).
 - The d-shaped sign (short left, long right) also serves as p in megkaptam and as h in hetek (row 6). The proper h/p sign is long left, short right. These two calls rest on the word.
@@ -97,7 +97,7 @@ V rámčeku na známku: Bozkávam Vás nespočetnekrát. S Bohom. [podpis nepre�
 
 Accents are not transcribed sign by sign; they are supplied in normalization.
 
-- **Stamp-box signature.** One connected cursive word, starting with a looped capital. Neither solver nor reviewer can read it, and it is not forced. It stands alone, so it does not leave a clause unread.
+- **Stamp-box signature.** One connected cursive word, starting with a looped capital. Neither solver nor reviewer can read it, and it is not forced. It stands alone, so it does not leave a clause unread. A stamp-box audit on 2026-11-03 re-read the five cipher rows under the lifted stamp from new crops and found them as given; the cursive word stays unread.
 - **Row 19, the weakest point.** After engesztel come a low-footed cross (the j-sign) and a solid blot, then lje ki. They are taken as a false start, blotted and restarted. That deletion is an interpretation. The third sign, cut by the card edge, shows an s/k-like top and is read g only from the word engesztelje. The s of és and the fused p of apját also rest on sense.
 - **Row 8, dal.** The opening d + a is blotted; the d shape is visible but the word is partly read from sense.
 - **Row 13.** Literal iseljönet ends in a clear t-sign where eljönnek needs k, and ha cs tehti is expanded to ha [csak] teheti. The comma before is eljönnek is editorial.

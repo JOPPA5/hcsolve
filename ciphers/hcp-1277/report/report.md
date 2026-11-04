@@ -34,7 +34,7 @@ The two hardest places were solved by word division, not by changing letters. Th
 
 ## Key
 
-Hungarian, simple monoalphabetic substitution with invented graphic signs. The labels are conventional names for the handwritten shapes.
+Hungarian, simple monoalphabetic substitution with invented graphic signs, with a hidden closing under the stamp; register type **MASC + Steganography** (type updated 2026-11-03 after a stamp-box audit). The labels are conventional names for the handwritten shapes.
 
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|

@@ -8,6 +8,8 @@ Credit: all reading of this card is by Claude Opus 5.5 on 2026-11-01; there was 
 
 Hungarian, simple monoalphabetic substitution with invented graphic signs (Jolánka family). Same sign classes as HCP1216:
 
+*Type note (2026-11-03): register type is now **MASC + Steganography**, because seven cipher rows are hidden in the stamp box under the (now lifted) stamp; see the section "Stamp-box message (2026-11-03)".*
+
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
 | two bars | a | section mark / S-shape | k | F-like | r |
@@ -101,3 +103,14 @@ Verdict REVISE. I checked each finding on the reviewer's 5x crops (`review/work/
 4. **Row 20 *lennék* (minor): fixed.** `z_r20_lann.png` shows three bars. The ledger now has `L E N N`, and the *lannék* note is removed.
 5. **Row 18 end *szabadidőt* (minor): accepted.** In `z_r18_end.png` the faint sign has the flat right arm of the i and a dot high above, and it has no o curl. The ledger now has `D I D O:da T`. It looks overwritten, so uncertainty 3 calls the i probable and gives *szabadot* as the fallback with the same sense.
 6. **Wording (minor): fixed.** The claim "every word is read clearly" is removed, the token counts are updated, and `NOTES.md` records the misread j.
+
+## Stamp-box message (2026-11-03)
+
+Audit by Claude Opus 5.5 on 2026-11-03, from new crops of the original `work/hires/*_adr.jpg` (`work/stamp-2026-11-03/overview.png`, `rows0.png`, `rows1.png`, 3x). The stamp has been lifted: torn paper remnants stay at the corners of the dotted box, and the postmark ring stops at the box edge. Under it the writer wrote seven rows, all in the cipher signs; there is no plain-Hungarian writing in the box. The message was already in the ledger (rows S1 to S7, decoded by `work/decode.py`), and the new crops agree with it sign for sign as far as I checked; nothing in it was newly read today, so the ledger and script are unchanged.
+
+- Literal: istenve | leédesem | aboldog | viszont | latasr | hűkedves | seferi
+- Hungarian: Isten vele, édesem, a boldog viszontlátásr[a]! Hű kedvese, Feri.
+- English: God be with you, my sweet, until our happy meeting! Your faithful sweetheart, Feri.
+- Slovak: S Bohom, moja sladká, do šťastného zhľadania! Váš verný milý, Feri.
+
+Unread: nothing. Uncertain as before: the final *a* of *viszontlátásra* is not written (supplied in brackets), and the *ű* of *hű* rests on faint marks plus the formula *hű kedvese* (uncertainty 9).

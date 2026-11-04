@@ -8,9 +8,9 @@ Human solver: Tomáš Pavuk
 
 The cryptogram is record 1261 of the HC Portal (https://crypto.hcportal.eu/dashboard/cryptograms/1261), portal name cpc_1912-03-07_HU__HU_Jasz Arokszalas_jolanka-07, part of Tobias Schrödel's collection of cryptographic postcards (private collection; see the HistoCrypt paper https://ecp.ep.liu.se/index.php/histocrypt/article/view/166). When it was captured on 2026-11-01 the portal listed it as **Not solved**, tagged Postcard and T. Schrödel Collection, category Substitution, language Unknown, sender Unknown, recipient Tóth Jolánka, with no transcription or solution attached.
 
-The picture side shows a couple embracing by moonlight, with a printed Hungarian verse: *Örömest jöttünk ki az éjszakába, / Nem háborgat minket a hold világa. / Jer közelebb drágám ülj ide, / Hadd nézzek gyönyörű szemedbe.* It carries no cipher text.
+The picture side shows a couple embracing by moonlight, with a printed Hungarian verse: Örömest jöttünk ki az éjszakába, / Nem háborgat minket a hold világa. / Jer közelebb drágám ülj ide, / Hadd nézzek gyönyörű szemedbe. It carries no cipher text.
 
-The address side is written in pink ink. The address is plain: *Szépreményű Tóth Jolánka úrleánynak, Jászárokszállás* ("to the promising young lady Jolánka Tóth, Jászárokszállás"). The message is in invented signs: 19 rows on the left half, a short column down the left edge, a row along the bottom edge, and a small block in the stamp box. One postmark shows 912 and a Roman month, partly lost; the other shows 912 MAR 7, which agrees with the date 1912-03-07 in the portal file name.
+The address side is written in pink ink. The address is plain: Szépreményű Tóth Jolánka úrleánynak, Jászárokszállás ("to the promising young lady Jolánka Tóth, Jászárokszállás"). The message is in invented signs: 19 rows on the left half, a short column down the left edge, a row along the bottom edge, and a small block in the stamp box. One postmark shows 912 and a Roman month, partly lost; the other shows 912 MAR 7, which agrees with the date 1912-03-07 in the portal file name.
 
 ![Address side with the cipher text, the plain address and the postmarks (source/address-large.jpg)](../source/address-large.jpg)
 
@@ -22,13 +22,13 @@ The card belongs to the "Jolánka" family: Hungarian postcards to Jolánka Tóth
 
 The transcription is **manual**. The solver read every sign from enlarged crops of the high-resolution original of the address side and recorded one token per written sign in a ledger of 445 tokens. No OCR was used. A short script checks the hashes of the scans and decodes the ledger with the family key.
 
-Row 1 gave *ne haragudjon érte hogy* at once. The reading order then came from the text: the sentence ending row 19 (*…nem pediglen kér*) continues down the left edge (*b. sorait*), turns the corner into the bottom row (*várva … Feri*), and closes in the stamp box. The last words in the stamp box change to plain cursive.
+Row 1 gave ne haragudjon érte hogy at once. The reading order then came from the text: the sentence ending row 19 (…nem pediglen kér) continues down the left edge (b. sorait), turns the corner into the bottom row (várva … Feri), and closes in the stamp box. The last words in the stamp box change to plain cursive.
 
 The reviewer cut separate crops, read the whole card independently with neutral shape names, and decoded it with its own script and key table. The two readings differed only at the blotted signs that the solver had already flagged, plus the points listed under Review summary.
 
 ## Key
 
-Simple monoalphabetic substitution with invented graphic signs; the plaintext is Hungarian. The names are conventional labels for handwritten shapes.
+Type: MASC + Steganography (updated 2026-11-03). Simple monoalphabetic substitution with invented graphic signs; the plaintext is Hungarian. The stamp-box message (Isten vele! A távolból csókolja számtalanszor egy igaz szív.) was written in the box and then hidden under the stamp, which has since been lifted. It is mostly in the cipher signs, and its last words are in plain cursive. The names are conventional labels for handwritten shapes.
 
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|
@@ -104,29 +104,29 @@ The command checks the SHA-256 of all four scans, decodes work/ledger-opus.txt a
 
 None of these changes the sense of the message. They rest on word sense, not on the shape alone.
 
-1. **Row 3:** the sign before *gy* is two bars (a), where sense wants *úgy*. Printed as written, with [úgy] supplied. The clause means "I do not think as you do" either way.
-2. **Row 8, *önnek*:** six written signs for a five-letter word: ö, a heavy blot, two strokes, a stroke pair nearer d than n, e, k. The blot is treated as a discarded false start.
-3. **Blots in rows 13 and 18:** v in *levele* rests on a chevron-like arm plus sense, s in *tesz* on sense alone.
-4. **Row 13, *a levele; repülőgépet*:** the writer leaves no word spaces, so this division is editorial. See Review summary.
-5. **h/p/d:** p against h is decided by sense only, since the sign is the same, and the d is close to it too. *Pediglen* is a genuine older emphatic form of *pedig*.
-6. **Row 10:** two bars where *képzelni* needs n, a writer's slip.
-7. **Writer's omissions, restored in normalization only:** *beszlgnek*, *sorit*, *miden*, *hoszu*, *orsaban*, *ij* (ily), *még* for *míg*. *Jönne* stays singular with plural-sense *lapjai*, as written.
-8. **Bottom row, *mara maradok*:** the writer began the word and restarted. Normalized to one *maradok*.
-9. **Left edge, *b.*:** expanded *b[ecses]* because *becses lapjai* occurs in row 15. This is an interpretation: the same six + dot falls inside the word *távol-b.-ól* in the stamp box, where it cannot be an abbreviation.
+1. **Row 3:** the sign before gy is two bars (a), where sense wants úgy. Printed as written, with [úgy] supplied. The clause means "I do not think as you do" either way.
+2. **Row 8, önnek:** six written signs for a five-letter word: ö, a heavy blot, two strokes, a stroke pair nearer d than n, e, k. The blot is treated as a discarded false start.
+3. **Blots in rows 13 and 18:** v in levele rests on a chevron-like arm plus sense, s in tesz on sense alone.
+4. **Row 13, a levele; repülőgépet:** the writer leaves no word spaces, so this division is editorial. See Review summary.
+5. **h/p/d:** p against h is decided by sense only, since the sign is the same, and the d is close to it too. Pediglen is a genuine older emphatic form of pedig.
+6. **Row 10:** two bars where képzelni needs n, a writer's slip.
+7. **Writer's omissions, restored in normalization only:** beszlgnek, sorit, miden, hoszu, orsaban, ij (ily), még for míg. Jönne stays singular with plural-sense lapjai, as written.
+8. **Bottom row, mara maradok:** the writer began the word and restarted. Normalized to one maradok.
+9. **Left edge, b.:** expanded b[ecses] because becses lapjai occurs in row 15. This is an interpretation: the same six + dot falls inside the word távol-b.-ól in the stamp box, where it cannot be an abbreviation.
 10. **Row 16:** the first letter is a plain Latin capital M, not the cipher sign.
-11. **Stamp box:** heavy ink. The first sign of S2 is a filled loop, read a on sense. The closing *egy igaz szív* is plain cursive, and its last letter is uncertain.
-12. **Unread line:** a short line stands below *úrleánynak* in the address, partly under the collection stamp. It looks like plain cursive, roughly *sz r t*, then spaced letters including *e e e t*, then a heavy blot. Neither solver nor reviewer could read it. It lies outside the cipher text and is reported, not forced.
-13. **Sender:** the signature reads *Feri*. No surname is claimed. Acute accents are mostly invisible and are supplied in normalization.
+11. **Stamp box:** heavy ink. The first sign of S2 is a filled loop, read a on sense. The closing egy igaz szív is plain cursive, and its last letter is uncertain.
+12. **Unread line:** a short line stands below úrleánynak in the address, partly under the collection stamp. It looks like plain cursive, roughly sz r t, then spaced letters including e e e t, then a heavy blot. Neither solver nor reviewer could read it. It lies outside the cipher text and is reported, not forced.
+13. **Sender:** the signature reads Feri. No surname is claimed. Acute accents are mostly invisible and are supplied in normalization.
 
 ## Review summary
 
 Review 1 was carried out independently by a separate Claude Opus 5.5 agent, which tried to refute the solution. Its verdict was **REVISE**: the key, the reading order and nearly every word were confirmed; 440 of 444 ledger signs agreed, and the differences were all flagged blots. It found no undisclosed misreading and no sign of a published solution. It raised five findings, and all were accepted:
 
-1. **Major, row 13:** the first version divided *a levél: e repülőgépet* ("this flying machine"), but the picture shows no aeroplane for *e* to point at. Now *a levele; repülőgépet szerzek be* ("your letter… I will get an aeroplane"), which needs no change of signs and fits the formal address. The normalized text and both translations changed.
+1. **Major, row 13:** the first version divided a levél: e repülőgépet ("this flying machine"), but the picture shows no aeroplane for e to point at. Now a levele; repülőgépet szerzek be ("your letter… I will get an aeroplane"), which needs no change of signs and fits the formal address. The normalized text and both translations changed.
 2. **Minor, row 8:** the ledger had dropped a written sign. A valueless blot token was added, and the count rose from 444 to 445.
 3. **Minor, row 16:** the plain capital M is now marked in the ledger and disclosed.
-4. **Minor, dot after 6:** the dot inside *távol-b.-ól* is now disclosed against the *b[ecses]* expansion.
-5. **Minor, English:** "with you" is now bracketed, since the Hungarian has only *beszélgetnék*.
+4. **Minor, dot after 6:** the dot inside távol-b.-ól is now disclosed against the b[ecses] expansion.
+5. **Minor, English:** "with you" is now bracketed, since the Hungarian has only beszélgetnék.
 
 The reviewer could not verify the blotted signs beyond their sense, the unread address line, the place and month on the right-hand postmark, or the sender's identity.
 

@@ -1,0 +1,16 @@
+# hcp-954 picture side, pencil, read line by line from work/hires (Claude Opus 5.5, 2026-11-03)
+# tokens: number = letter; "u" suffix = number written with two dots above (umlaut);
+# "/" = slash word divider drawn on the card; "." = dot written on the card; "?" = question mark.
+# The sign shaped like "x" (L8, L9) is this writer's 4 and is transcribed as 4.
+2 5 . 18 . 19 5 13 / 4 1 . 13 . 10 . / 6 . 20u 17 / 4 5
+9 13 5 / 11 . 9 5 2 5 13 / 10 1 17 19 5 13 /
+22 9 5 / 18 5 8 13 5 / 9 3 8 . / 12 9 . 3 8
+25 20 / 4 9 . 17 / 12 5 9 13 5 / 7 20 19 5 / 12 .
+9 . 3 8 / 11 9 5 2 5 / 4 9 3 8 / 4 . 14 3 8
+18 . 14 / 18 5 8 17 . 12 5 9 13 5 13
+2 . 17 9 5 6 . / 8 1 18 19 / 4 20 /
+4 14 3 8 / 5 17 8 1 11 19 5 13 ?
+6 17 5 20 13 4 11 9 3 8 5 /
+7 17 20u 18 25 5
+5 22 9 7
+4 5 9 13 3 1 17 11

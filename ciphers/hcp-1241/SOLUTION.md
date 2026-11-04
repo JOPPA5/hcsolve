@@ -6,6 +6,8 @@
 
 Hungarian, simple monoalphabetic substitution with invented graphic signs (register label MASC). This is the Jolánka family key, transferred unchanged from the finished cards HCP1216 (fullest legend), 1212, 1213, 1217, 1218, 1243, 1301. No sign needed a new value.
 
+**Type update (2026-11-03):** the plain farewell was written in the stamp box and hidden under the stamp, which is now lifted, so the card is typed "MASC + Steganography" (register label).
+
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
 | two bars | a | section mark | k | F-like | r |
@@ -103,3 +105,14 @@ Verdict ACCEPT, seven minor findings. No deciphered letter changed. After the ed
 7. **Decoder close to an identity map: accepted, no change.** The ledger names tokens by plaintext letters, so the command reproduces the reading and does not prove it. The evidence is the key taken from other cards and the reviewer's neutral-name pass. The report says so.
 
 The reviewer also could not read the postmark day. I enlarged both marks and could not settle it either; uncertainty 8 now records what each mark shows.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit on the original `work/hires/..._adr.jpg`, crops in `work/stamp-2026-11-03/` (box.png 1x, box_top2x.png and box_bot2x.png 2x of the full-resolution scan). The stamp is **lifted, with writing under it**: the printed dotted rectangle of the stamp box is bare paper with a faint printed circle and glue stains, and the Jász-Árokszállás postmark at the lower right is struck only outside the box (its arc stops where the stamp edge lay). The hidden writing is **plain Hungarian** in the same red ink; there are no cipher signs in the box. It was already read in full on 2026-11-02 (Literal decipherment, Uncertainty 6); re-checked letter by letter now, with no change.
+
+- Literal: Isten vele / édesem / továbbra / is hűke[d] / vese cso- / kolom / szamtalan- / szor Fe[ri]
+- Hungarian (normalized): Isten vele, édesem. Továbbra is hű kedvese. Csókolom számtalanszor. Feri
+- English: God be with you, my darling. Still your faithful sweetheart. I kiss you countless times. Feri
+- Slovak: S Bohom, drahá. Naďalej Váš verný milý. Bozkávam Vás nespočetnekrát. Feri
+
+Unread or restored: the d of ke[d]vese (smeared ink, one letter makes the word) and "ri" of Feri (under a pink blot; F and e are clear, restored from the signature on HCP1216). Nothing else in the box is unread. The stamp text is read by eye; `work/decode.py` covers only the 20 cipher rows and was not changed.

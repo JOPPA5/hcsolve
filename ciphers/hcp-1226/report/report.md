@@ -26,7 +26,7 @@ No key parameter was fitted on this card. The family key decodes every sign into
 
 ## Key
 
-Hungarian, simple monoalphabetic substitution with invented graphic signs. The labels below are conventional names for the handwritten shapes.
+Hungarian, simple monoalphabetic substitution with invented graphic signs, with part of the message hidden under the stamp: register type **MASC + Steganography** (updated 2026-11-03). The stamp has been lifted; seven rows of cipher signs (S1–S7) were written in the stamp box, where the stamp covered them. They read: Isten vele, édesem, a boldog viszontlátásra. Feri. The labels below are conventional names for the handwritten shapes.
 
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|

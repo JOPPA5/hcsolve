@@ -4,6 +4,8 @@
 
 ## Cipher type and key
 
+Type note 2026-11-03: the card is typed **MASC + Steganography** (register label), because the five rows "round the stamp" are in fact written inside the stamp box, under the (now lifted) stamp; see the section Stamp-box message below.
+
 Hungarian, simple monoalphabetic substitution with invented graphic signs, the Jolánka postcard family (key established on HCP1301, 1243, 1213, 1216 and others; the fullest legend is in `ciphers/hcp-1216/SOLUTION.md`). The key was transferred unchanged; no new sign value was needed.
 
 | sign | letter | sign | letter | sign | letter |
@@ -104,3 +106,20 @@ Verdict REVISE, all findings addressed. I re-read the reviewer's crops of every 
 8. **Accents: fixed.** Row 14 á and row 15 é are marked in the ledger; uncertainty 8 no longer says "mostly not visible".
 
 One error of mine beyond the review: "Why it is correct" said *hogy* ×8; the literal text has it 7 times. Corrected.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit, done on the human's instruction of 2026-11-03 (Claude Opus 5.5). Crops of the original `work/hires/..._adr.jpg` (x 2600 to 3330, y 300 to 850) at 2x and 3x are in `work/stamp-2026-11-03/`.
+
+- **State of the box:** the stamp is lifted, with writing under it. The five rows called "round the stamp" above all lie inside the dotted frame of the stamp box. The postmark circle prints on the card to the left and right of the frame but stops at its edge, so the stamp was in place when the card was cancelled and the rows were covered by it. A green triangular patch with a round hole is left in the middle of the box (stamp or hinge residue left when the stamp was lifted); rows S2 to S4 run across it and stay legible.
+- **Script:** cipher signs only, the card's own key; no plain Hungarian in the box.
+- **Literal reading (checked again sign by sign on the crops; it agrees with ledger rows S1 to S5):** csokol / szam / talan / szor / ferid
+  - S1 left bowl, right bowl, loop, 5-shape, loop, wave = c s o k o l
+  - S2 right bowl, crossed diagonal, two bars, three strokes = s z a m
+  - S3 corner, two bars, wave (across the hole), two bars, two strokes = t a l a n
+  - S4 right bowl, crossed diagonal, loop, F = s z o r (on the green patch, the faintest row)
+  - S5 cross, three bars, F, dotted curve, long stroke with tick = f e r i d
+- **Normalized Hungarian:** Csókol számtalanszor Ferid.
+- **English:** Your Feri kisses you countless times.
+- **Slovak:** Bozkáva Vás nespočetnekrát Váš Feri.
+- **Unread:** nothing. The disclosed points stay as before: S3's first sign is near a chevron (t on sense, uncertainty 11), and S4 lies on the green residue. *Ferid* is Feri + the possessive -d ("your Feri"); no letter was restored. The reproduction command already decodes these rows from `work/ledger.txt`; re-run on 2026-11-03, it still passes (420 signs, same output), so the script was not changed.

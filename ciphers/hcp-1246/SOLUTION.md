@@ -6,6 +6,8 @@ Card: picture postcard no. 3244, printed verse "Oh csak még egyszer összejönn
 
 ## Cipher type and key
 
+*Type note (2026-11-03): register type changed to MASC + Steganography, because part of the message (7 cipher rows) is written in the stamp box, under the now-lifted stamp.*
+
 Hungarian, simple monoalphabetic substitution with invented graphic signs, the Jolánka family key (HCP1216, 1212, 1213, 1217, 1218, 1243, 1301), unchanged. Every sign class is used with its family value; no new sign was needed.
 
 | sign | letter | sign | letter | sign | letter |
@@ -99,3 +101,14 @@ Verdict REVISE. All eight findings are accepted; the key and the reading stand. 
 8. **Row 25: kept as a caveat.** I have no better reading; the English and Slovak now mark it as uncertain, and Uncertainty 2 says that nothing confirms the sense.
 
 `python3 -I ciphers/hcp-1246/work/decode.py` was re-run after the fixes: all 4 hash checks are OK and the literal rows match the block above.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit (Claude Opus 5.5, 2026-11-03). The stamp has been lifted; the box (dotted frame, top right of the address side) holds 7 short rows in the same green ink and the same cipher signs, no plain Hungarian. Checked on new red-channel crops at 3x of `work/hires/*_adr.jpg` (`work/stamp-2026-11-03/`). Every sign agrees with ledger rows S1-S7, which `work/decode.py` already covers; the script was re-run today unchanged and passes. Nothing new had to be read and nothing in the box is unread.
+
+- Literal: `hükedves / seferi / csokol / jaszam / talan / szor / feri`
+- Hungarian: Hű kedvese Feri. Csókolja számtalanszor Feri.
+- English: Your faithful sweetheart Feri. Feri kisses you countless times.
+- Slovak: Váš verný milý Feri. Bozkáva Vás nespočetnekrát Feri.
+
+Because writing was hidden under the stamp, the card is typed **MASC + Steganography** (register entry changed today; the key and the reading are unchanged).

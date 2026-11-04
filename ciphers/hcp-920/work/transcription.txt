@@ -1,0 +1,10 @@
+# hcp-920 picture side, single ink line under the printed caption, read left to right
+# (source: work/hires/..._pic.jpg; read by Claude Opus 5.5 on 4x crops, 2026-11-03)
+# Descriptive sign names; letters A..T are the working labels used in NOTES.md.
+W1: Φ(A) ɤ(B) Y(C)
+W2: ꓘ(D) +(E) 1(F) ≢(G)
+W3: Ƚ-loop(H) ɰ(I) 9(J) Z(K) ∋(L) #(M)
+W4: ∆-with-stalk(N) +(E) t-tail(O)
+W5: †(E? or X) ·(dot, mark or sign) F(P)
+W6: ″ ≢(G) +(E) Φ(A) Ʊ(R) ꓘ(D) ⊢/+(E?) Z(K) ∱(S) ▽(T)
+END: * (underlined), arrow under W6 pointing right toward it

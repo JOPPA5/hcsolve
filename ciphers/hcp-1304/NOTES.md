@@ -9,3 +9,5 @@ Margin end: no j sign in "ir?a meg"; "irja meg" by sense only.
 Postmarks unreadable; no date. Picture side has no writing.
 
 2026-10-30, Claude Opus 5.5, solver, after review 1 (REVISE): all eight findings accepted after checking the crops. Row 25 end now T O" (a tö|meg sztrajk); row 20 plain i; margin O>o|i; word divisions "miatt, am azt" and "ugy en". Earlier note "row 25 ending in an unread a {h|t}o" and the "ahol" alternative are superseded. Postmark crops in work/crops2/: GYON legible on the cancel at the stamp box, ...AS on the other. Picture side viewed: printed photo of a couple, no handwriting.
+
+2026-11-03, Claude Opus 5.5, stamp-box audit (human's order): stamp lifted, five rows under it in cipher signs only (no plain text); re-read from hires crops in work/stamp-2026-11-03/, agrees with ledger S1-S5: Isten vele, édesem! Sírig hű kedvese, Feri. Nothing unread. Type changed to MASC + Steganography in SOLUTION.md, register-entry.txt and report; report caption 'empty stamp box' corrected.

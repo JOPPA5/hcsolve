@@ -7,3 +7,5 @@ Findings on the way: S-shaped sign is k, also at the end of row 15 (*köszönök
 Dead end: row 10 *kihe/kipe* stays unresolved; tried kép-, kihez, kihagy, de, neki, none supported by the signs. No marker of a different cipher on the card; picture side has print only.
 
 2026-10-30 (Claude Opus 5.5, solver, after REVIEWED1): rechecked the reviewer's crops. Row 16 last sign is a (two bars), my misread; ledger fixed. Comma of rows 19-20 moved. Disclosures added for S2 third sign, S5 last sign, row 12 fourth stroke, blots, cancellation, 486 seen + 5 restored. Row 10 still unresolved.
+
+2026-11-03 (Claude Opus 5.5, stamp-box audit ordered by Tomáš Pavuk): re-cropped the stamp box (work/stamp-2026-11-03/). Stamp lifted; 7 rows in cipher signs under it, already read as S1-S7; crops agree. No plain-Hungarian writing. Type changed to MASC + Steganography in SOLUTION.md, register-entry.txt and report.

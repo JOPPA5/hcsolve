@@ -6,6 +6,8 @@
 
 Hungarian, simple monoalphabetic substitution with invented graphic signs: the Jolánka postcard family, same key as the finished cards HCP1216, 1212, 1213, 1217, 1218, 1243, 1301 (sign table in `ciphers/hcp-1216/SOLUTION.md`, reused unchanged, no new letter value invented). Main text is 27 rows, running as long rows under the address; a further 6 rows are in the stamp box, around and under the printed green triangle, ending in the signature.
 
+**Type note (2026-11-03): MASC + Steganography.** The stamp-box rows are a hidden message: they were written in the stamp field and covered by the postage stamp, which has since been lifted (torn paper residue along the top of the printed frame). The register type is therefore *MASC + Steganography*.
+
 Sign behaviour specific to this card:
 - Tall stroke + tick on the **right** = h/p; tick on the **left** = d. Which of h/p is meant rests on word sense (`hedig` = pedig, `fenykehet` = fényképet, `hete` = hetek).
 - The tilted cross is u (`tudatnom`), but is also the writer's f in `férfi` (row 16) and the signature `Feri` (B6); row 24 and row 25 f is the upright cross. In row 27 *az* the z is an upright cross, not the usual crossed diagonal (see point 7).
@@ -97,3 +99,13 @@ Verdict REVISE. I rechecked each finding on the reviewer's crops and on my own c
 9. **Row 25 tick, fixed.** Mentioned in point 5, with both explanations.
 
 Also taken from the review: the parallel with HCP1292 and the figure 11 on the cancel (point 15). The token count rose from 638 to 643: row 1 two, row 15 one, row 13 one (the extra stroke), row 24 one.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit by Claude Opus 5.5 on the human's instruction. The address side's stamp box (green dashed printed frame with a printed green triangle logo) has its stamp **lifted**: torn stamp paper and gum residue remain along the top edge, and the box holds six rows of violet pencil **in the cipher signs**; no plain-Hungarian writing is in the box. Crops: `work/stamp-2026-11-03/box_2x.png`, `box_top_3x.png`, `box_bot_3x.png`. Re-viewing them confirmed the six box rows already in the ledger (B1 to B6) and decoded by `work/decode.py`; nothing in the box was unread before, so no new letters were added and the script and ledger are unchanged.
+
+- Literal: `istenve / lemere / dokoksi / righui / madoja / feri`
+- Hungarian: *Isten vele, maradok sírig hű imádója, Feri.*
+- English: God be with you, I remain your admirer, faithful unto the grave, Feri.
+- Slovak: S Bohom, zostávam Váš do hrobu verný ctiteľ, Feri.
+- Unread: nothing; the weak points are those already listed (points 8 to 10: bars after the m in `lemere`, the repeated `ok` in `dokoksi`, the hook-only o in `madoja`).

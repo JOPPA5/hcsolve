@@ -8,7 +8,7 @@ Human solver: Tomáš Pavuk
 
 The cryptogram is record 1305 of the HC Portal (https://crypto.hcportal.eu/dashboard/cryptograms/1305), portal name cpc_1912--_HU__HU_Jasz Arokszalas_jolanka-98, part of Tobias Schrödel's collection of cryptographic postcards. When it was captured on 2026-10-30 the portal listed it as **Not solved**, tagged Postcard and T. Schrödel Collection, category Substitution, date and language unknown, recipient Tóth Jolánka, with no transcription or solution attached.
 
-The picture side is a hand-tinted photograph of a couple, the woman holding flowers. Its only added marks are pink ink splashes at the upper left, which are not text. The whole message is on the address side, in red ink: 19 rows across the left half of the card, one word running up the right edge, and six short rows written over the place of the stamp. Plain Latin script is used for the address and for two insertions inside the cipher text, "Koth. Leg." and "20 án".
+The picture side is a hand-tinted photograph of a couple, the woman holding flowers. Its only added marks are pink ink splashes at the upper left, which are not text. The whole message is on the address side, in red ink: 19 rows across the left half of the card, one word running up the right edge, and six short rows in the cipher signs inside the stamp box, hidden under the stamp (now lifted). Plain Latin script is used for the address and for two insertions inside the cipher text, "Koth. Leg." and "20 án".
 
 The card is addressed to Miss Jolánka Tóth at Jászárokszállás (Hungary). The file name on the portal says 1912, but the postmark is too blurred to confirm a date, so the date is not established. The writer signs *Fery*. The card belongs to the family of Jolánka cards in this repository (for example HCP 1216, 1217 and 1218), from which the key was taken.
 
@@ -23,6 +23,8 @@ The card was read with a **known, transferred key**. This is not a new key recov
 In review a separate Claude Opus 5.5 agent made its own crops, transcribed all the signs itself, and decoded them with the family key file rather than the solver's script. The two readings differed in one sign of 345. That sign was corrected, and the two readings now agree in all 345.
 
 ## Key
+
+Cipher type (register): **MASC + Steganography** (2026-11-03): a simple monoalphabetic substitution, plus a message hidden under the stamp.
 
 Simple monoalphabetic substitution with invented graphic signs, the Jolánka family key (the sign names are conventional descriptions):
 

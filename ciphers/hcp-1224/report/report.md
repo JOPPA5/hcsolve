@@ -29,7 +29,7 @@ The card belongs to the "Jolánka" family of Hungarian cipher postcards, several
 
 ## Key
 
-Hungarian simple monoalphabetic substitution with invented signs. The names are conventional descriptions of the handwritten shapes.
+Hungarian simple monoalphabetic substitution with invented signs. Register type: **MASC + Steganography** (2026-11-03), because seven rows of the message were hidden under the stamp. The names are conventional descriptions of the handwritten shapes.
 
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|

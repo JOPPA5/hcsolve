@@ -6,6 +6,8 @@
 
 Hungarian, monoalphabetic graphic substitution of the Jolánka family. The key is the one in `ciphers/hcp-1216/SOLUTION.md` and `ciphers/hcp-1301/SOLUTION.md`, transferred unchanged. The plain address side reads Szépremény[ű] Tóth Jolánka úrleánynak, Jász-Árokszállás, in the same pink hand. The end of Szépreményű runs under the cancel (the y is visible, the ű is not). Tóth Jolánka úrleánynak is plainly written; the place is spelt with a flourish after "Jás", and its end runs under the portal seal. Hand and ink fit the family.
 
+**Type note (2026-11-03):** the cipher type is now stated as **MASC + Steganography**: the closing six rows (Csókolom számtalanszor. Sírig [h]ű imádója, Feri.) are written in the cipher signs inside the stamp box, under the stamp, which is now lifted. Stamp-box audit of the hires address scan (crops in `work/stamp-2026-11-03/`) confirms the writing is cipher signs only, no plain Hungarian, and that the reading under "Reading" already covers it in full; nothing new was read and no letter changed.
+
 Variants on this card: k appears as both the 8-shape (kám) and an S-shape (kor, kis); g appears with a looped head in row 3. Dotted and undotted crossed curves were both met, so i/o rest partly on the marks and on word sense.
 
 ## Reproduction

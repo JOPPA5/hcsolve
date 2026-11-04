@@ -27,7 +27,9 @@ Variants seen on this card:
 - f is a cross, upright or tilted. In s7 it is tilted so far that it resembles j.
 - Digits stand as digits: 2 (row 12) and 1 (row 29).
 
-Register type label: MASC.
+Register type label: MASC + Steganography.
+
+2026-11-03 (Claude Opus 5.5, stamp-box audit): type changed from MASC to MASC + Steganography, because the 7-row message s1–s7 is written in the cipher signs in the box at the stamp place, where the stamp would hide it. The stamp is now missing.
 
 ## Reproduction (one command, from the repository root)
 
@@ -54,6 +56,17 @@ Under the stamp: Farewell, my darling! I remain your faithful sweetheart and, un
 Moja milovaná sladká Jolánka! Želám si, aby Vás moje riadky našli v najlepšej nálade. Ako prebehla nedeľa, drahá? Ako rád by som si už užil radosti z opätovného stretnutia, ale žiaľ som viazaný: nemôžem si urobiť voľno, kedy chcem. Doma je ešte Béla, teraz si užíva. Ja nemám najlepšiu nedeľu, lebo prší, a od 2 v noci do poludnia som stále mokol. Teraz si ľahnem a nedeľu prespím. To je moja nedeľa. Tu, drahá, človek často ani nevie, kedy je nedeľa, naozaj, drahá. Teším sa, že sa môžem znova zabávať s Vami, drahá. Prosím Vás len o to, drahá, nepočúvajte žiadne klebety, nech nič nekazí naše šťastie. Dôverujte mi úplne: len čo budem v takom postavení, aby som Vás mohol urobiť svojou manželkou, hneď tam budem, lebo ja na ten stav čakám viac než možno Vy, drahá, veď ste viackrát povedali, že ešte je čas, že ste dosť mladá na to, aby ste v prípade potreby počkali najviac 1 rok. Bozkáva Vás Váš milý Fe[ri].
 
 Pod známkou: S Bohom, drahá! Zostávam Vaším verným milým a až do hrobu verným ctiteľom, Feri.
+
+## Stamp-box message (2026-11-03)
+
+Audit by Claude Opus 5.5 on 2026-11-03, at the human's request. The stamp is lifted and the box drawn at the stamp place holds 7 rows of writing in the cipher signs of this card's key. There is no plain Hungarian in it. New 3x crops of the hi-res original, natural colour and red channel, are in `work/stamp-2026-11-03/`. The message was already read in full in round 1 and is in the ledger as rows s1–s7, so `decode_opus.py` covers it. I re-ran the command today and it gives the same output. The crops agree with the ledger's sign classes for s1, s2 and s5–s7. s3–s4 lie in the green smear and are left as disclosed in Uncertainty 2.
+
+- Literal (from the command): istanvele / édesem / marad[o][k] / hűkedv[e] / seéssiri / huimádo / jaferi
+- Hungarian (normalized): Isten vele, édesem! Maradok hű kedvese és sír[ig] hű imádója, Feri.
+- English: Farewell, my darling! I remain your faithful sweetheart and, unto the grave, your faithful admirer, Feri.
+- Slovak: S Bohom, drahá! Zostávam Vaším verným milým a až do hrobu verným ctiteľom, Feri.
+
+What is still unsure: *[o][k]* of *maradok* is restored in the smear, which is two letters and more than the one-letter rule allows. The final e of *kedve* is in the smear. *sír[ig]* is supplied from sense, because the written letters are *siri*. The literal *istan* has a for e. No clause is unread.
 
 ## Uncertainties
 

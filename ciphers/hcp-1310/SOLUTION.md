@@ -8,6 +8,8 @@ Credit: reading, ledger and interpretation by Claude Opus 5.5. No earlier work e
 
 Hungarian, simple monoalphabetic substitution with invented graphic signs, written continuously. It is the Jolánka family key, unchanged:
 
+2026-11-03: type for the register is now **MASC + Steganography**, because the last six cipher rows are hidden in the stamp box under the (now lifted) stamp; see the section on the stamp-box message.
+
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
 | two bars | a | section mark (S, 8, 5 forms) | k | F-like | r |
@@ -108,3 +110,15 @@ Verdict REVISE. All six findings are accepted after checking the crops myself. T
 6. **Status line, uncertainty 1 and NOTES.md: updated.** "Between" for Visznek is softened to "near", as the reviewer asked; I have no map source either.
 
 The reproduction command was re-run after these changes: all four hashes pass and the output matches the literal rows and normalized text above.
+
+## Stamp-box message (2026-11-03)
+
+Audit by Claude Opus 5.5 on the hires original (work/hires/..._adr.jpg), crops in work/stamp-2026-11-03/. The stamp is lifted; under it, inside the drawn stamp frame, are six rows in the cipher signs, red ink, no plain Hungarian. They were already fully read on 2026-10-30 and are in work/ledger.txt (rows S1 to S6), so work/decode.py already reproduces them; nothing new was read and the script is unchanged.
+
+- Literal: csokja / idra / szom / jazok / hükadve / sedferi
+- Hungarian (normalized): Csókjaidra szomjazok. Hű kedvesed Feri.
+- English: I thirst for your kisses. Your faithful sweetheart Feri.
+- Slovak: Túžim po tvojich bozkoch. Tvoj verný milý Feri.
+- Unread: nothing. The h of *hű* (one thick stroke visible) and the d of *kedvesed* (faded right stroke) stay word-sense calls, as in Uncertainties item 5.
+
+Type: MASC + Steganography (register entry and report updated 2026-11-03).

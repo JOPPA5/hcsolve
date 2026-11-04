@@ -1,0 +1,7 @@
+# hcp-1036 picture side, pencil, card rotated 90 deg clockwise; read by Claude Opus 5.5 from work/hires/..._pic.jpg
+# one line per written line; groups separated by two spaces = visible word gaps; numbers separated by dots on the card
+# the writer puts a full stop after every number, including the last number of each word; these dots are dropped here, the two-space gaps mark the word ends
+13.1.18.18.14.22
+8.5.17.25.11.9.3.8.5.13  7.17.20.18.25
+18.5.13.4.5.19  9.8.13.5.13
+6.17.9.4.1  12.9.18.3.8.10.5

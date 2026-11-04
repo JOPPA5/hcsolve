@@ -10,6 +10,8 @@ a two bars; b six; c left bowl; d long stroke + short tick; e three bars; f upri
 
 The card is only partly enciphered: the opening is in ordinary handwriting, then the cipher starts on the same line after *köszönetemet*. The stamp box holds a further five cipher rows.
 
+**Type update (2026-11-03): MASC + Steganography.** The stamp was lifted and the five cipher rows were written in the stamp box under it, so the card is a substitution cipher with a message hidden under the stamp.
+
 ## Reproduction (one command, from the repository root)
 
 ```sh
@@ -79,6 +81,18 @@ Adresa: Slečne krásnych nádejí Jolánke Tóthovej, Jászárokszállás.
 - A key taken unchanged from finished sister cards yields connected Hungarian across all 16 rows and the stamp box. The key is unchanged, but the reading does supply something: row 9 lacks one stroke, *menn[ék]* lacks its ending, and *vel[e]* lacks its e. Only row 14's end group has no reading: it is the one unread group, and the sentence around it reads.
 - Long passages admit no choice: *keresztlányunkat*, *a reményei összedőltek*, *szeptember 7-én lesz egy szüreti mulatság is*, *Isten vele, a viszontlátásra*, *üdvözlöm a távolból*.
 - Repeated words decode identically: *mulatság* ×3, *okvetlen* ×2, *kedvesem*/*édesem*. The text is thematically coherent, since a September harvest ball is a natural event, and it uses the family's formal address.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit (Claude Opus 5.5, 2026-11-03), crops in `work/stamp-2026-11-03/` (`overview.png`, `box_1x.png`, `box_top_2x.png`, `box_bot_2x.png`, from the hi-res original in `work/hires/`).
+
+- **State:** the stamp has been lifted. Torn paper and gum residue run along the top edge of the printed dashed box, and the box itself is bare. Under where the stamp sat are five short rows in red ink, all in the cipher signs; there is no plain-script writing in the box. A faint red circular stamp impression (not ink of the writer) lies under rows 2–4.
+- **Reading:** the five rows were already read in the ledger (stamp rows of `work/ledger-opus.txt`, decoded by `work/decode_opus.py`). I re-checked them sign by sign on the new crops with the card's key and confirm them; nothing is added or changed, so the script was not touched.
+- Literal: `üdvöz | lomata | volbol | hükedves | ceferi`
+- Hungarian (normalized): Üdvözlöm a távolból, hű kedvese, Feri.
+- English: I greet you from afar, your faithful sweetheart, Feri.
+- Slovak: Pozdravujem Vás zďaleka, Váš verný milý, Feri.
+- **Unread:** nothing in the box stays unread. The only soft spot is the one already in uncertainty 5: the bowls at the end of row 4 and start of row 5 (`kedves | ce…`) give an odd spelling normalized to *kedvese*.
 
 ## Response to review 1
 

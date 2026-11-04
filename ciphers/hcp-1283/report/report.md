@@ -8,7 +8,7 @@ Human solver: Tomáš Pavuk
 
 The cryptogram is record 1283 of the HC Portal (https://crypto.hcportal.eu/dashboard/cryptograms/1283), portal name cpc_1913-03-20_HU__HU_Jasz Arokszalas_jolanka-34, part of Tobias Schrödel's cryptographic postcards collection (private collection; see https://ecp.ep.liu.se/index.php/histocrypt/article/view/166). When captured on 2026-11-01 the portal listed it as **Not solved**, category Substitution, language Unknown, sender Unknown, recipient Tóth Jolánka, with no transcription or solution attached. The date 1913-03-20 comes from the portal file name; the postmark date could not be read on the card.
 
-The picture side carries a printed song text, *Sokszor úgy szeretnék sírni...*, and no cipher. The address side has the plain address *Szépreményű Tóth Jolánka írnőnek, Jász-Árokszállás*. The enciphered message fills the left half of this side, runs along the bottom edge, and has six short rows in the stamp field.
+The picture side carries a printed song text, Sokszor úgy szeretnék sírni..., and no cipher. The address side has the plain address Szépreményű Tóth Jolánka írnőnek, Jász-Árokszállás. The enciphered message fills the left half of this side, runs along the bottom edge, and has six short rows in the stamp field.
 
 The card belongs to a large family of postcards to Jolánka Tóth in one substitution cipher. The writer signs Feri, as on hcp-1216 and others, but it is not proved that all the Feris are one person. No earlier work existed on this number and no published solution of this card was found.
 
@@ -30,7 +30,7 @@ It checks the SHA-256 hashes of the four images, decodes the ledger and prints t
 
 ## Key
 
-Hungarian simple monoalphabetic substitution with invented signs. The names are conventional descriptions of the handwritten shapes.
+**Cipher type: MASC + Steganography** (updated 2026-11-03). Hungarian simple monoalphabetic substitution with invented signs; the closing ([Ist]en vele, édes egyetlen reményem. Csókolom, Feri.) is hidden in six cipher rows in the stamp box, written under the postage stamp, which has since been lifted. The names are conventional descriptions of the handwritten shapes.
 
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|
@@ -94,27 +94,27 @@ The writer spells loosely: single for double consonants, j for ly, dropped final
 
 ## What remains uncertain
 
-- **Row 14 `a cskavol`** is not understood. All signs are clear. *Csókával*, *csak a vol[na]* and an instrumental in *-val* all need letters the card does not show. The frame "if ... is possible" is therefore tentative.
-- **Row 25 `hejetzs`** is not understood. It may be a misspelled adjective or a pet name. A small tick follows it, so *Drága ⟨...⟩,* is taken as a form of address; that division is editorial.
-- **Row 15 *de*:** read from a short stroke plus a long stroke. The short stroke touches the preceding l, an unexplained dot stands under the long stroke, and row 23 *de* has the strokes in the reverse order. The call rests partly on word sense.
-- **Calls resting on word sense:** *Jolánkám* (the last sign of row 1 has two strokes, n), the p of *vasárnap* (drawn short+long), the d of *drága*, and *bár* (the sign is blotted).
-- **Supplied letters:** *mulat[ni]*, *pé[n]zbe*, *kerü[l]*, *szív[j]a-e*, *Árokszállásba[n]*. *Iga* is normalized to *igaz*, *gondoe* to *gondol-e*. A doubled *a* at rows 11-12 is reduced to one.
-- **Restorations:** stamp row 1 *Ist* (only sign bottoms show under the stamp), stamp row 6 l (a blot), stamp row 4 n (one stroke visible).
-- **Places:** Haraszti is a place Jolánka stays at (hcp-1305; also hcp-1265, not yet final) but is not identified; *Berek* is read as a place name, also not identified.
-- **Overwriting:** row 10 *ettől* and row 22 *tudom* are heavily inked; row 12 y and row 18 i are inked over but legible.
+- **Row 14 `a cskavol`** is not understood. All signs are clear. Csókával, csak a vol[na] and an instrumental in -val all need letters the card does not show. The frame "if ... is possible" is therefore tentative.
+- **Row 25 `hejetzs`** is not understood. It may be a misspelled adjective or a pet name. A small tick follows it, so Drága ⟨...⟩, is taken as a form of address; that division is editorial.
+- **Row 15 de:** read from a short stroke plus a long stroke. The short stroke touches the preceding l, an unexplained dot stands under the long stroke, and row 23 de has the strokes in the reverse order. The call rests partly on word sense.
+- **Calls resting on word sense:** Jolánkám (the last sign of row 1 has two strokes, n), the p of vasárnap (drawn short+long), the d of drága, and bár (the sign is blotted).
+- **Supplied letters:** mulat[ni], pé[n]zbe, kerü[l], szív[j]a-e, Árokszállásba[n]. Iga is normalized to igaz, gondoe to gondol-e. A doubled a at rows 11-12 is reduced to one.
+- **Restorations:** stamp row 1 Ist (only sign bottoms show under the stamp), stamp row 6 l (a blot), stamp row 4 n (one stroke visible).
+- **Places:** Haraszti is a place Jolánka stays at (hcp-1305; also hcp-1265, not yet final) but is not identified; Berek is read as a place name, also not identified.
+- **Overwriting:** row 10 ettől and row 22 tudom are heavily inked; row 12 y and row 18 i are inked over but legible.
 
 ## Why the reading is believed correct
 
-The family key, applied unchanged, gives connected, idiomatic Hungarian over 25 main rows and 6 stamp rows with no fitted value. Árokszállás, the addressee's town, appears inside the cipher independently of the plain address. The polite *Ön* register and the closings (*Isten vele*, *csókolom*) match the family. Words recur with the same signs: *hogy* four times, and *jobban*, *nekem*, *mulat* and *gondol-* twice each.
+The family key, applied unchanged, gives connected, idiomatic Hungarian over 25 main rows and 6 stamp rows with no fitted value. Árokszállás, the addressee's town, appears inside the cipher independently of the plain address. The polite Ön register and the closings (Isten vele, csókolom) match the family. Words recur with the same signs: hogy four times, and jobban, nekem, mulat and gondol- twice each.
 
 ## Review and what changed
 
 A separate Claude Opus 5.5 agent reviewed the solution. It reran the command, wrote its own key table and decoder (0 mismatches, every token mapped), read all 25 main rows on its own enlargements, and tried to refute the reading. Its verdict was REVISE: key and most of the letter correct, with three major and five minor findings. The solver re-examined the pixels of each and accepted all eight:
 
-- **Rows 17-18:** the first handover had Feri going to Haraszti, with invented letters (*kimegye[k]*, *szívom meg*). With the question particle *-e* the signs read as questions to Jolánka: *kimegy-e*, *szív[j]a-e még*. This reverses who travels.
-- **Row 19:** the last sign is k, not g; the claimed spelling *Árog-* was false.
-- **Row 15:** the first handover read `!` and discarded the following e. It now reads *de*, with the caveat above.
-- **Smaller changes:** three missing accent dots added (*nék*, *még* twice); *Árokszállásba[n]* replaces *Árokszálláson*; the last sign of `hejetz` read as s plus a tick; two full stops ledgered; row counts corrected; Haraszti tied to the sister cards.
+- **Rows 17-18:** the first handover had Feri going to Haraszti, with invented letters (kimegye[k], szívom meg). With the question particle -e the signs read as questions to Jolánka: kimegy-e, szív[j]a-e még. This reverses who travels.
+- **Row 19:** the last sign is k, not g; the claimed spelling Árog- was false.
+- **Row 15:** the first handover read `!` and discarded the following e. It now reads de, with the caveat above.
+- **Smaller changes:** three missing accent dots added (nék, még twice); Árokszállásba[n] replaces Árokszálláson; the last sign of `hejetz` read as s plus a tick; two full stops ledgered; row counts corrected; Haraszti tied to the sister cards.
 
 The key did not change, and the rest of the letter is as first read.
 

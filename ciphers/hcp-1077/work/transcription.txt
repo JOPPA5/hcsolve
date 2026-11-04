@@ -1,0 +1,4 @@
+# hcp-1077 picture side, below the plain-text greeting "Herzlichen Gruss sendet"
+# number groups separated by dots, as read from work/hires/..._pic.jpg (enlarged 4-8x)
+11 20 4 22 9 7
+10 1 11 2 8 5 13 13

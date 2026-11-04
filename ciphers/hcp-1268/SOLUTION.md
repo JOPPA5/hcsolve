@@ -8,6 +8,8 @@ Portal status: Not solved, no attached transcription or solution. No published s
 
 Hungarian (the portal says Unknown), simple monoalphabetic substitution with invented graphic signs, the Jolánka family key without change:
 
+2026-11-03: type for the register is **MASC + Steganography**: the four cipher rows in the stamp box (*Csókolom a kis szájat*) were written where the stamp was to be stuck, so they were hidden once it was on. The stamp is no longer on the card. See "Stamp-box message (2026-11-03)".
+
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
 | two bars | a | section mark | k | F-like | r |
@@ -70,6 +72,21 @@ Milá sladká Jolánka! Z čistého srdca si želám, aby Vás moje riadky zasti
 V rámčeku na známku: Bozkávam tie malé ústa.
 
 Otvorené písmo: Sľubnej slečne Jolánke Tóthovej, do vlastných rúk, Jász-Árokszállás, Alszög.
+
+## Stamp-box message (2026-11-03)
+
+Audit on 2026-11-03 (Claude Opus 5.5), after the register team asked that Jolánka cards with writing under the stamp be typed MASC + Steganography. Crops: `work/stamp-2026-11-03/box_2x.png` and `box_green.png` (hires address scan, stamp box only).
+
+State of the box: no stamp is on the card now. The box shows the printed dashed frame and a printed blue circular emblem; the posting cancel (912 JAN 17) is struck at the left edge of the box, where it would have tied a stamp, so the stamp was most probably stuck here and later lifted. The writing sits inside the box and over the printed emblem, in the same red ink and in the cipher signs; there is no plain writing in the box.
+
+The message was already read in full on 2026-11-01 and is in the ledger and in `work/decode.py` output (stamp rows S1–S4). I re-read it by eye on the new crops and it agrees sign for sign:
+
+- literal: `csoko / lom / akis / szajat`
+- Hungarian (normalized): Csókolom a kis szájat.
+- English: I kiss the little mouth.
+- Slovak: Bozkávam tie malé ústa.
+
+Unread: nothing. The only soft point is the one already listed in Uncertainties item 10: the last sign of *csoko* is a heavily inked loop, read as o. The script was not changed.
 
 ## Uncertainties
 

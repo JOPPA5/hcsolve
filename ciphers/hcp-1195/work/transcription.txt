@@ -1,0 +1,15 @@
+# hcp-1195 picture side, runic-style signs, my transcription (Claude Opus 5.5, 2026-11-03)
+# one card line per text line; '/' = word gap; '.' '-' '--' = punctuation as written
+# sign codes: see key.json. '@2'/'@1' = the writer's own reorder marks ("2" and "1" above the signs)
+H E R Z L GD H S T / F Ud R / L I Ey B E N / B R I E F
+D A Nd K E N D / Kd L I E H@2 C@1 Z I E T I Kd / B I T T E Nd D
+M I R / F A R I Kd E / S A Nl Nl T A Kd S / K A R T E
+Z U / F Es R Z I E H E N . / L A N Kd E N D
+U N D / B A Nl Kd Ed Nl D / I Nl / S C H E B Ed N -
+D E R / Bd I E Nl -- / F Ud R C H T E T Ey
+F E R N E I N D E / A N T Fd A R T
+A U F / M E X Nl Ey / F R A Kd E .
+M A R Kd Ed N / A D E R / Ud B E R / M A R Kd Es N
+F A L Kd Td / B R I E F .
+M I T / K U S S
+D Ed I N / L I E B

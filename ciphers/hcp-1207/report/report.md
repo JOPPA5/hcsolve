@@ -10,7 +10,7 @@ The cryptogram is record 1207 of the HC Portal (https://crypto.hcportal.eu/dashb
 
 The picture side is a tinted photographic card of a couple seated together, with a printed Hungarian verse headed "Oh csak még egyszer összejönnénk" ("Oh, if only we could meet once more"). The verse is a commercial caption and not part of the message.
 
-The address side is in plain pencil: **Szépreményű Tóth Jolánka úrleánynak, Budapest, Petőfi …** ("To Miss Jolánka Tóth, of fair hopes"), with a street number read as 10 or 16, partly under the portal seal. The postmark shows only BUD… and 13, so no full date can be given. The message is written in pencil across the left half of the card, in 23 rows, the last of which runs on along the bottom edge under the address to the right corner. Six more rows stand in the square for the stamp. Row 9 mixes in plain matter: the digits 7 0 and the cursive word "orakor".
+The address side is in plain pencil: **Szépreményű Tóth Jolánka úrleánynak, Budapest, Petőfi …** ("To Miss Jolánka Tóth, of fair hopes"), with a street number read as 10 or 16, partly under the portal seal. The postmark shows only BUD… and 13, so no full date can be given. The message is written in pencil across the left half of the card, in 23 rows, the last of which runs on along the bottom edge under the address to the right corner. Six more rows, also in the cipher signs, stand in the square for the stamp: the stamp has since been lifted, and the postmark stops at the edge of the square, so these rows were hidden under the stamp when the card was posted (a stamp-box audit of 2026-11-03 re-read them from the original and confirmed the reading: Csókolom számtalanszor, hű kedvese Feri). Row 9 mixes in plain matter: the digits 7 0 and the cursive word "orakor".
 
 The card belongs to the Jolánka family of Hungarian cipher postcards addressed to Jolánka Tóth, several of them signed Feri, who writes elsewhere about trains and travel. The surname Pásztori read on this card also appears on sister card HCP 1290.
 
@@ -28,7 +28,7 @@ The h/p sign is a known problem in this family: the two letters share one shape 
 
 ## Key
 
-Simple monoalphabetic substitution with invented graphic signs, with joined digraph signs for cs and gy. The labels are conventional names for handwritten shapes.
+Cipher type (register label, updated 2026-11-03): **MASC + Steganography**. Simple monoalphabetic substitution with invented graphic signs, with joined digraph signs for cs and gy; part of the message is hidden under the stamp. The labels are conventional names for handwritten shapes.
 
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|

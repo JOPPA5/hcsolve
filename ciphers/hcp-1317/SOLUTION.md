@@ -6,7 +6,11 @@ Credit: all work on this number is by Claude Opus 5.5. The key comes from the fi
 
 ## Cipher type and key
 
-Hungarian, simple monoalphabetic substitution with invented graphic signs: the Jolánka family key, unchanged from HCP1216. Words are mostly spaced; accents are written as ticks and dots over the base sign.
+Hungarian, simple monoalphabetic substitution with invented graphic signs: the Jolánka family key, unchanged from HCP1216.
+
+2026-11-03 type note: register type is now **MASC + Steganography**, because the closing (7 rows in the cipher signs) is hidden in the stamp box under the stamp, which has since been lifted; see the stamp-box section below.
+
+Original type statement: Words are mostly spaced; accents are written as ticks and dots over the base sign.
 
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
@@ -103,3 +107,13 @@ Verdict REVISE. I rechecked findings 1, 2, 3, 7 and 9 on the reviewer's crops of
 9. **Cancellation (minor): fixed.** Item 12 states the visible B, stroke and F and claims no place name.
 
 Re-run after the fixes: `python3 -I ciphers/hcp-1317/work/decode.py` passes all four hash checks, reports 491 signs and prints `ujvarba` in row 16.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit, Claude Opus 5.5, 2026-11-03, ordered by Tomáš Pavuk. The stamp box (upper right of the address side) was cropped again from work/hires/*_adr.jpg at 2x and 3x (work/stamp-2026-11-03/). The stamp has been **lifted**; two paper residue patches remain (top middle and lower left of the box, the lower one with a green printed frame fragment). Under the stamp are **seven rows written in the cipher signs** with this card's key; there is no plain-Hungarian writing in the box. These rows were already read in full in the original solution (rows S1-S7 above, with five disclosed restorations under the residue, Uncertainties item 2), and the new crops agree with that reading sign by sign as far as visible: S1 dotted i, right bowl s, [t hidden], three bars e, two strokes n, chevron v, e; S2 wave l, e, two short bars (literally a, read e), d, e, s, [e hidden], three strokes m; S3 cs o k o l; then szamta / lanszor / [i]madoja / [f][e]ri. Nothing new was added.
+
+- Literal: is[t]enve | leedes[e]m | csokol | szamta | lanszor | [i]madoja | [f][e]ri
+- Hungarian: Isten vele, édesem! Csókol számtalanszor imádója Feri.
+- English: Farewell, my darling! Your adorer Feri kisses you countless times.
+- Slovak: S Bohom, drahá! Bozkáva Vás nespočetnekrát Váš ctiteľ Feri.
+- Unread: nothing beyond the five restored signs (t, e, i, f, e) and the faint signs listed in Uncertainties item 2. The stamp rows are already in work/ledger.txt and the reproduction command; that script was not changed.

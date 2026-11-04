@@ -28,6 +28,8 @@ In review a second agent cut its own crops, read all 28 rows in its own shape na
 
 ## Key
 
+**Cipher type: MASC + Steganography** (updated 2026-11-03). The closing and signature are hidden in cipher in the stamp box, under the stamp, which has since been lifted.
+
 Monoalphabetic substitution with invented graphic signs. The names below are conventional labels for the handwritten shapes.
 
 | Sign | Letter | Sign | Letter | Sign | Letter |

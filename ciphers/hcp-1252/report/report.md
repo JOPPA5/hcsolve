@@ -14,7 +14,7 @@ The picture side shows a couple with printed song text ("Cigányprímás / Lári
 
 ![Picture side (source/picture-large.jpg)](../source/picture-large.jpg)
 
-The address side reads Szépreményű Tóth Jolánka úrleánynak, Jászárokszállás ("To the promising young lady Jolánka Tóth, Jászárokszállás"). The message has two parts in one green ink: a **cipher block** of 8 rows at the top left, then **plain Hungarian handwriting** that runs on below it and along the bottom edge of the card. A plain greeting stands over the stamp. So only part of the message is enciphered.
+The address side reads Szépreményű Tóth Jolánka úrleánynak, Jászárokszállás ("To the promising young lady Jolánka Tóth, Jászárokszállás"). The message has two parts in one green ink: a **cipher block** of 8 rows at the top left, then **plain Hungarian handwriting** that runs on below it and along the bottom edge of the card. A plain greeting is written inside the stamp box and was hidden under the stamp, which is now lifted (steganography; checked 2026-11-03). So only part of the message is enciphered.
 
 ![Address side: the cipher block at the top left, the plain text below it (source/address-large.jpg)](../source/address-large.jpg)
 
@@ -36,7 +36,7 @@ It checks the SHA-256 of the four image files, prints the literal rows, then the
 
 ## Key
 
-Hungarian simple monoalphabetic substitution (MASC) with invented graphic signs. The names below are conventional labels for handwritten shapes.
+Type: **MASC + Steganography** (updated 2026-11-03). Hungarian simple monoalphabetic substitution (MASC) with invented graphic signs; in addition a plain greeting was hidden under the postage stamp. The names below are conventional labels for handwritten shapes.
 
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@ majd legközelebb bővebben isten vele édesem
 más külömben jó dolgom van
 ```
 
-Over the stamp: Csókolom számtalanszor Feri.
+In the stamp box, under the lifted stamp: [C]sókolom számtalanszor Feri (the C mostly under a stamp fragment).
 
 ### Hungarian (normalized)
 
@@ -93,7 +93,7 @@ Over the stamp: Csókolom számtalanszor Feri.
 
 **Plain:** 9-én indultam 4.30 p-kor Érsekújvárra, érk. 10-én éjjel 1 ó 30 p. {vigas} in. {18 ól. u} 1 ó 11 p. rendezőre érk. 11[-én] éjjel 1 ó 30 p. Kedvesem, számítsa ki, mit kerestem! Csináltam 23[7?] km-t, fizetne 6 tized fillért kilométerenkint, és 33 órát a 8 fillér, és 2 korona napidíj. Most mást nem írok, mer[t] mennem kell, 10 órára rendezőnkbe lennem. Majd legközelebb bővebben. Isten vele, édesem. Máskülönben jó dolgom van.
 
-**Over the stamp:** Csókolom számtalanszor. Feri
+**In the stamp box (under the stamp):** Csókolom számtalanszor. Feri
 
 ### English
 
@@ -101,7 +101,7 @@ Over the stamp: Csókolom számtalanszor Feri.
 
 **Plain:** I left on the 9th at 4.30 for Érsekújvár, arrived on the 10th at 1.30 at night; {vigas} dep.(?) {18 ól. u} 1.11, arrived at the yard on the 11th at 1.30 at night. Darling, work out what I earned! I did 23[7?] km; it would pay six tenths of a fillér per kilometre, and 33 hours at 8 fillér, and a 2-crown daily allowance. I write nothing else now, because I have to go, I must be at our yard by 10 o'clock. More next time. Farewell, my sweet. Otherwise I am doing well.
 
-**Over the stamp:** I kiss you countless times. Feri
+**In the stamp box (under the stamp):** I kiss you countless times. Feri
 
 ### Slovak
 
@@ -109,7 +109,7 @@ Over the stamp: Csókolom számtalanszor Feri.
 
 **Nezašifrované:** Deviateho som odišiel o 4.30 do Nových Zámkov, prišiel som desiateho v noci o 1.30; {vigas} odch.(?) {18 ól. u} 1.11, na zoraďovaciu stanicu som prišiel jedenásteho v noci o 1.30. Drahá, vypočítajte, čo som zarobil! Urobil som 23[7?] km, platili by šesť desatín fillára za kilometer, a 33 hodín po 8 fillárov, a 2 koruny denné. Teraz viac nepíšem, lebo musím ísť, o desiatej musím byť na našej stanici. Nabudúce viac. S Bohom, drahá. Inak sa mám dobre.
 
-**Pri známke:** Bozkávam Vás nespočetnekrát. Feri
+**V políčku na známku (pod známkou):** Bozkávam Vás nespočetnekrát. Feri
 
 ## Uncertainties
 

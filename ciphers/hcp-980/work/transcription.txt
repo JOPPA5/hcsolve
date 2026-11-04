@@ -1,0 +1,23 @@
+# hcp-980 provisional glyph transcription (Claude Opus 5.5, 2026-11-03), read from
+# work/hires/cpc_1907-08-10_BE_Theux_LU_Arlon__adr.jpg at 3-4x enlargement.
+# Tokens separated by spaces; | = long vertical bar (word divider?).
+# Glyph names:
+#  X    = small dot + short dash + "7" (bar, stroke down-left at right end)
+#  7v   = bar with vertical stroke at right end (L1 only)
+#  G    = "Gamma"/"<": bar with stroke down-right from left end (3x)
+#  D3   = three diagonal strokes "\" (lengths vary: long-short-short / short-long-short)
+#  D3d  = dot, dot, diagonal stroke (L3)
+#  V3   = three dots in a vertical column (lowest sometimes a short stroke)
+#  H    = single horizontal dash ; S = single slanted stroke "/"
+#  U2   = two horizontal lines with three dots above and three below
+#  L3   = three horizontal lines, no dots
+#  Q4   = four dots in a square ; C2 = two dots vertical ; B = one large dot
+#  F4   = horizontal dot dot dash dot (first dot sometimes large)
+#  O    = small circle with dot inside
+#  Z    = "2"-shaped hook with dots, at the fold line (end of L3)
+#  ( = curved bracket at start of L4
+L1: X D3 V3 | H D3 U2 H D3 U2 | 7v U2 Q4 |
+L2: X B Q4 C2 F4
+L3: O D3d U2 S | G F4 H F4 O G F4 Z
+L4: ( U2 V3 F4 | L3 F4 X G F4 | L3 U2 C2
+L5: .-. [smudged block of dots, illegible] S

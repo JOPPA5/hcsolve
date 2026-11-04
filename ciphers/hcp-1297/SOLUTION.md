@@ -19,6 +19,8 @@ Hungarian, simple monoalphabetic substitution with invented graphic signs, the J
 | open loop with descender | g | inverted T | j | cross with hook/tail | z |
 | joined loop + descender | gy | | | | |
 
+*Type note (2026-11-03):* the card is typed **MASC + Steganography**, because a five-line cipher message is hidden in the stamp box under the (now lifted) stamp; see the section "Stamp-box message (2026-11-03)".
+
 Two dots over o/u give ö/ü. On this card the chevron (v) and the short+long d are particularly clear: *kedves* occurs three times and proves them (rows 1, 4, 23).
 
 ## Reproduction (one command, from the repository root)
@@ -101,6 +103,26 @@ Word-sense calls and writer's slips:
 - Long independent words are unforced: *becses sorait megkaptam, köszönök, nagyon, gondolja hogy, szüleim, ami az utazást illeti, nem félek, megvéd, szelleme, minden bajtól, alig várom, Jolánkával, három hét múlva, bővebben, Isten vele, tisztelem a kedves mamáját, a távolból, sajnálom hogy, nem jött be, számtalanszor*.
 - Repeats decode alike: *kedves* ×3 plus row s3, *gondolja* ×2, *hogy* ×3, *maga* ×2, *Feri* ×2, *vasárnap* ×2.
 - The writer's habits match family spelling (dropped letters, ly as j, formal *Ön/maga* address, closing formulas). The address side is plaintext to Tóth Jolánka, Jászárokszállás, as on the sister cards.
+
+## Stamp-box message (2026-11-03)
+
+Audit by Claude Opus 5.5 on the human's instruction (Tóth Jolánka series: hidden message under the stamp). Crops of the un-converted scan `work/hires/..._adr.jpg` at 2-3x, with a green-channel version of line s1, are in `work/stamp-2026-11-03/` (box.png, s1.png, s1g.png, s2_3.png, s4_5.png, s2_5g.png).
+
+**State of the stamp box:** the stamp is lifted (its outline and the printed dotted line of the box remain, a postmark ring crosses it); five lines of red writing are under it, all in the cipher signs, none in plain Hungarian. This is the block already transcribed as s1-s5 in the ledger and decoded by `work/decode_opus.py`; nothing new was found, the earlier reading was re-checked sign by sign.
+
+Literal: `csokolom | [s]zamta | lanszor | hükedve | senferi`
+
+- s1 (washed out, green channel): left bowl + right bowl (cs), loop (o), section mark (k), loop (o), wave (l), loop (o), then a blur where three strokes (m) would stand. *csokol* firm, *-om* by outline.
+- s2: the first sign is only a pink smear; the hooked cross (z), two bars (a), three strokes (m), gamma (t), two bars (a) are clear. The *s* is a restoration (only *sz* makes *számtalanszor*), disclosed.
+- s3: wave, two bars, two strokes, right bowl, hooked cross, loop, F: *lanszor*, clear.
+- s4: tall stroke + tick (h), cross with two dots (ü), section mark (k), bars (e), short + long (d), chevron (v), three bars (e): *hü kedve*, clear.
+- s5: right bowl, three bars, two strokes, upright cross, three bars, F, dotted crossed curve: *sen Feri*, clear.
+
+Normalized Hungarian: Csókolom számtalanszor. Hű kedvese[n?] Feri.
+English: I kiss you countless times. Faithfully and lovingly [?], Feri.
+Slovak: Bozkávam Vás nespočetnekrát. Verne a láskyplne [?] Feri.
+
+Stays unread or open: the first sign of s2 (restored s) and the last two signs of s1 (m by outline only); *hű kedvesen* vs a slip for *hű kedvese* is not decided. No clause is unread. The stamp-box rows were already in the ledger, so the reproduction command covers them; the script was not changed.
 
 ## Response to review 1
 

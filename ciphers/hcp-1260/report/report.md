@@ -8,7 +8,7 @@ Human solver: Tomáš Pavuk
 
 The cryptogram is record 1260 of the HC Portal (https://crypto.hcportal.eu/dashboard/cryptograms/1260), portal name cpc_--25_HU__HU_Jasz Arokszalas_jolanka-90, from Tobias Schrödel's collection of cryptographic postcards (private collection). When it was captured on 2026-11-01 the catalogue row listed it as **Not solved**, tagged Postcard and T. Schrödel Collection, category Substitution, language Unknown, location Europe, sender Unknown, recipient Tóth Jolánka, with no transcription or solution listed. The detail page timed out at capture, so its three tabs were not read one by one for this number. The portal cites https://ecp.ep.liu.se/index.php/histocrypt/article/view/166 as a reference.
 
-It is a tinted photographic picture postcard of a young couple cheek to cheek. The printed titles are *Lári-Fári* and *Cigányprímás*, with a printed four-line verse. The picture side carries no handwriting. The address side is in clear, in red ink: **Szépreményű / Tóth Jolánka / úrleánynak / Jász Árokszállás** ("to the young lady of fair promise, Jolánka Tóth, Jászárokszállás", Hungary).
+It is a tinted photographic picture postcard of a young couple cheek to cheek. The printed titles are Lári-Fári and Cigányprímás, with a printed four-line verse. The picture side carries no handwriting. The address side is in clear, in red ink: **Szépreményű / Tóth Jolánka / úrleánynak / Jász Árokszállás** ("to the young lady of fair promise, Jolánka Tóth, Jászárokszállás", Hungary).
 
 The postmark is too faint to give a place or date, so the card is undated. It belongs to the family of cipher cards addressed to Jolánka Tóth, several of which are deciphered in this repository (for example HCP 1216, 1212, 1213, 1217, 1218, 1243 and 1301). HCP 1216 has the same sender name and closing formula. No published solution of this card was found or used.
 
@@ -28,7 +28,7 @@ The transcription was not blind, because word expectations formed during reading
 
 ## Key
 
-Hungarian, simple monoalphabetic substitution with invented graphic signs, in red ink. The family key applied unchanged:
+**Cipher type: MASC + Steganography** (updated 2026-11-03). Hungarian, simple monoalphabetic substitution with invented graphic signs, in red ink; the corner block was hidden in the stamp box under the stamp. The family key applied unchanged:
 
 | Sign | Plain | Sign | Plain | Sign | Plain |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@ Hungarian, simple monoalphabetic substitution with invented graphic signs, in re
 | open sign with descender | g | dotted crossed curve | i | crossed diagonal with tail | z |
 | inverted T (with variants) | j | | | | |
 
-On this card *gy* is written as g + y. Dots over o and x give ö and ü, and two ticks over o give ő. The card has no separate mark for ű, so *hű* is written *hü*. Acute accents are not reliably visible and are supplied. In the corner block *7 het* is written in clear.
+On this card gy is written as g + y. Dots over o and x give ö and ü, and two ticks over o give ő. The card has no separate mark for ű, so hű is written hü. Acute accents are not reliably visible and are supplied. In the corner block 7 het is written in clear.
 
 ## Plaintext and translation
 
@@ -69,6 +69,8 @@ Szeretett édes Jolánkám, egyetlen reményem! Ne haragudjon rám, hogy ilyen r
 
 Corner: Isten vele [ve] édesem, sírig hű kedvese. Viszontlátásra 7 hét múlva.
 
+**Stamp-box message (audit 2026-11-03).** The corner block is written in the stamp box at the top right of the address side, under the stamp, which has since been lifted: a pink dye bleed from the soaked-off stamp, a residue strip and the postmark stroke ending at the block's edge mark its place. The hidden message is in the cipher signs (with 7 het in clear) and is the corner text above: Isten vele [ve] édesem, sírig hű kedvese. Viszontlátásra 7 hét múlva. It was re-checked on 2x to 4x crops; no sign changed and no clause is unread.
+
 **English:**
 
 My beloved sweet Jolánka, my only hope! Do not be angry with me for writing so rarely, which I am ashamed of myself. But I am so nervous. But do not wonder, my darling, how it would be better [exact sense of this clause uncertain], but I am not writing about this; I will settle this matter by word of mouth, because I do not want to discuss it in writing. But the time will soon be here when I can speak with you in person, my darling, which I can hardly wait for. How did you enjoy yourself on Sunday? Well, I hope. How is your health? Well, I hope. With this I close my lines; I remain, faithful unto the grave, your sweetheart, Feri.
@@ -83,20 +85,20 @@ V rohu: S Bohom, drahá, Váš do hrobu verný milý. Dovidenia o 7 týždňov.
 
 ## Uncertainties
 
-**One uncertain clause.** Rows 7 to 8, *hogy hogy volna jobb*: both *hogy* are clear, but the syntax is not. The next word is written with the h/p shape, as *de* is in row 5. The preferred reading is *de erről nem írok*, "do not wonder how it would be better, but I am not writing about this". The alternative is *ha erről nem írok*, which changes a vowel, "that it would be better if I do not write about this" (or *hogyhogy*, "how come it would be better"). The clauses around it are clear: he will settle the matter by word of mouth, not in writing.
+**One uncertain clause.** Rows 7 to 8, hogy hogy volna jobb: both hogy are clear, but the syntax is not. The next word is written with the h/p shape, as de is in row 5. The preferred reading is de erről nem írok, "do not wonder how it would be better, but I am not writing about this". The alternative is ha erről nem írok, which changes a vowel, "that it would be better if I do not write about this" (or hogyhogy, "how come it would be better"). The clauses around it are clear: he will settle the matter by word of mouth, not in writing.
 
 **Signs valued from word sense, not from a clean shape:**
 
-- Row 1, t of *szeretet-*: heavily overwritten.
-- Rows 5 and 8, *de*: tick to the right, the h/p shape, not the d shape.
-- Row 14, h of *hogy*: stroke blotted solid.
-- Row 18, p of *vasárnap*: tick to the left, the d shape.
-- Rows 3 and 20, j: a low-cross variant. *haragudjon* in row 3 is certain, which supports *szolgálja* in row 20.
-- Row 20, last sign of *egeseg*: overwritten, read g.
-- Corner row 4, d of *kedve*: two nearly equal tall strokes, closer to n; *kenve* is no word.
-- Corner row 5, first sign: read as a reduced s, *kedvese*. The literal *kedveje* is no word, and *kedvese* is the family closing.
+- Row 1, t of szeretet-: heavily overwritten.
+- Rows 5 and 8, de: tick to the right, the h/p shape, not the d shape.
+- Row 14, h of hogy: stroke blotted solid.
+- Row 18, p of vasárnap: tick to the left, the d shape.
+- Rows 3 and 20, j: a low-cross variant. haragudjon in row 3 is certain, which supports szolgálja in row 20.
+- Row 20, last sign of egeseg: overwritten, read g.
+- Corner row 4, d of kedve: two nearly equal tall strokes, closer to n; kenve is no word.
+- Corner row 5, first sign: read as a reduced s, kedvese. The literal kedveje is no word, and kedvese is the family closing.
 
-**Writer's slips, normalized editorially:** *kedese* in row 22 has no v on the card (*ked[v]ese*); *beszelhete magaval* lacks the verb's k; *az egeseg* lacks zs and a final e; *szeretet* has one t. Other spellings are *ijen*, *restelek*, *anyira*, *csodelkozon*, *ezel*, *mulatot*, *eröl* for *erről*. The surplus *ve* in the corner (*Isten vele ve édesem*) is treated as a false start, which cannot be proved.
+**Writer's slips, normalized editorially:** kedese in row 22 has no v on the card (ked[v]ese); beszelhete magaval lacks the verb's k; az egeseg lacks zs and a final e; szeretet has one t. Other spellings are ijen, restelek, anyira, csodelkozon, ezel, mulatot, eröl for erről. The surplus ve in the corner (Isten vele ve édesem) is treated as a false start, which cannot be proved.
 
 **Not established:** the date and place of posting; what "this matter" was; the figure read as 7 has no parallel on this card, though "in 7 weeks" reads naturally.
 
@@ -104,9 +106,9 @@ V rohu: S Bohom, drahá, Váš do hrobu verný milý. Dovidenia o 7 týždňov.
 
 An independent Claude Opus 5.5 reviewer ran the reproduction command, read every row on the enlargements, and decoded its own shape-named transcription with its own key table. 25 of 29 compared rows were identical. It found the key right and the language credible, and returned **REVISE** with nine findings (three major, six minor). All were accepted after rechecking the scans. The key did not change.
 
-- Row 22: a chevron (v) in the ledger was not on the card, having been supplied from expectation. It was removed, so the literal is now *kedese*.
-- Rows 22 and C4: the mark over u was misreported in opposite directions. Both now read *hü*, and a position-dependent rule for ű was withdrawn.
-- Row 8: the sign has the same shape as in row 5, so both are now treated alike, giving *de* in place of *ha* as the preferred reading. *ha* is kept as the alternative, and the translation no longer smooths the uncertain clause.
+- Row 22: a chevron (v) in the ledger was not on the card, having been supplied from expectation. It was removed, so the literal is now kedese.
+- Rows 22 and C4: the mark over u was misreported in opposite directions. Both now read hü, and a position-dependent rule for ű was withdrawn.
+- Row 8: the sign has the same shape as in row 5, so both are now treated alike, giving de in place of ha as the preferred reading. ha is kept as the alternative, and the translation no longer smooths the uncertain clause.
 - Minor changes: the j variant in row 3 and the d in corner row 4 are flagged; the normalizations of rows 15 and 20 are corrected; the statement about the portal's attachments is qualified; two stale claims were updated.
 
 Key transfer rests on the family work of HCP 1216, where source capture and a partial reading were done by OpenAI GPT-6 Astra / GPT-6.1 Sol and completion by Claude Opus 5.5. This card itself was transcribed and read by Claude Opus 5.5.

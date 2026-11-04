@@ -6,6 +6,8 @@
 
 Hungarian, simple monoalphabetic substitution with invented graphic signs (the Jolánka/Feri postcard family). The sign-to-letter key is unchanged; the table describes the forms of this hand on this card. Word spaces are only partly kept; accents are marks over the signs. One plain digit (7) stands in clear in row 5.
 
+2026-11-03: register type is now **MASC + Steganography**: the six-row cipher message sits in the stamp box, under the (now lifted) stamp. See "Stamp-box message (2026-11-03)".
+
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
 | two bars | a | section mark / 5-shape | k | F-like | r |
@@ -84,6 +86,17 @@ Writer's spellings normalized: *szerétet* → szeretett; *megnem* → még nem;
 - The key, transferred with no change of value, gives Hungarian for every sign of all 20 rows and the corner. No new sign value was needed; the 7 is a plain digit in a time expression that reads naturally.
 - The text is coherent, idiomatic and ordinary: arrival report, a missed train, job hunting, a closing formula (*Isten vele*, *Csókolom számtalanszor*) matching the family. The word *Gyöngyös* came out of the signs without being sought. It fits the family context: HCP1303/1310 notes record Feri's Gyöngyös connection, and later cards speak of his Gyöngyös pay and a Gyöngyös postmark.
 - Repeated words decode identically: *hogy* ×2, *munka* ×2, *után* ×2, *édesem* ×2, *tiszteletem/tiszteltetem*, *szer-*, *-tem*.
+
+## Stamp-box message (2026-11-03)
+
+Audit by Claude Opus 5.5 on the human's instruction. The stamp is lifted: glue remnants and a green paper fragment remain at the top of the box, and six short rows in the cipher signs stand where the stamp sat (crops `work/stamp-2026-11-03/box_2x.png`, `box_2x_blue.png`, `rows_0_4x_blue.png`, `rows_1_4x_blue.png`). There is no plain-Hungarian writing in the box. Every sign was re-read on the new crops with this card's key; the reading is the same as rows c1 to c6 of the ledger, which `work/decode.py` already covers (unchanged, not re-edited).
+
+- Literal: `csoko / lom / szam / talan / szo{t>r} / feri`
+- Hungarian: Csókolom számtalanszor. Feri
+- English: I kiss you countless times. Feri
+- Slovak: Bozkávam Vás nespočetnekrát. Feri
+
+Unread: nothing. Calls on word sense, as before: the last sign of c5 is the corner sign without a visible mid bar (literal t), read r; the f of *Feri* is a blotted star shape. A faint grey circular arc (a postmark ghost or rim) crosses the left of rows c2 to c5 without hiding any sign.
 
 ## Response to review 1
 

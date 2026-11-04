@@ -1,0 +1,26 @@
+# hcp-1180 transcription (Claude Opus 5.5, 2026-11-03), read from work/hires/cpc_--___CH_Neuchatel__pic.jpg
+# Signs as written: lower-case Latin letters, digits 1-5, fractions 1/1 and 5/5, and the
+# decorative operators + - = ( ) . V (V = root sign) which carry no letter value.
+# " | " marks a word break inserted by the transcriber (editorial; on the card many,
+# but not all, word breaks fall on '=' signs).  One line here = one line on the card.
+# A trailing '~' joins the last word with the first word of the next line.
+# The looped letter of this hand serves for both h and k; it is written k only where
+# word sense demands it (Kampf, keine, Tubak); see SOLUTION.md.
+# [struck: ...] = writing struck through by the writer, not decoded.
+# Main text (picture side, horizontal):
+(w-2r+t)(h-2r) = | k-1m+p-f . Vg-2n+4s-s+2 !
+3c-h = | b-2f+3n+d-2 - | m-2c+h = | s-2+3t = | 2(3n-3g+2n =
+t-1g+2n = | 3n = | 2t-t+3s-w+3l . = | (s-4b+1-l)d = | 3c-h =
+w-3+2d+2r = | 3n = | 1-l(t+b-5/5r-4n- | (r+2s)(3d-3-2r+2 =
+(w-2r+d)2 = | 3c-h = | d-3r = | (2+3)(n-2n) = | b-r+V3.2f = | s+c ~
+h+r-2+3b-V2n = . | 3c-h = | (m-2l+d)2 = | d-3r = | h3-2m+3t =
+(v+4r)(l-1/1+5f)-3g = | d-1+s = | d-5 = | m-3r = | (k+2+3n)2 =
+[struck: z-2?t] (z-3.2t)(5n-g) = | 1b-4n-3+2r+2n = | m-5s+t =
+w(2r-d+2) = | d-3r = . | d-1+n+n = | d+3-2 = | 5r-s+1-c-h+2
+m-3t+t-h-2V3l-2n . =
+2m-p+f-1n-g+2 = | 5n-t+2rVd-2s-s+2n = | d-3.2
+(s-1+5m-1/1s)(3g-s-t)-2n = | g+r-5/5s-s+2 = | v-4n
+p-l-5/5s = | s-4l+3
+# Left margin (written vertically, running top to bottom on the card; upright after a 90-degree counter-clockwise turn, see work/margin_upright.png), two lines:
+2t-t+3s+w-3l = | d-2n = | #35. = | s+t-4s+m- ~
+4n-1-t = | 1n+4 = | t+5b-1+k .

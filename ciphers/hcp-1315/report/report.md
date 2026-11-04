@@ -12,7 +12,7 @@ It is a tinted photographic greeting card headed **A szerelem hőmérője** ("Th
 
 The address side is in plain writing: Szépreményű (spelled Szepremenjü, "Of fair hope", a fond form of address), then **Tóth Jolánka**, one hard-to-read word, **Budapest, István út 5**, and further figures. The postmark shows BUD… and a year ending 914, so 1914 is the likely date; no full date could be read. The portal's file name says Jász-Árokszállás, while this card is addressed to Budapest, and the card does not explain why.
 
-The rest of the address side is filled with cipher: 19 rows at the left, two rows along the bottom edge, and eight tiny rows in the corner under the stamp, which has been torn off. Hiding a closing message under the stamp is a habit of this family of cards.
+The rest of the address side is filled with cipher: 19 rows at the left, two rows along the bottom edge, and eight tiny rows in the corner under the stamp, which has been torn off. Hiding a closing message under the stamp is a habit of this family of cards. A stamp-box audit on 2026-11-03 re-read these eight rows by eye on the original scan and confirmed the reading given below; the box holds no plain-language writing.
 
 The card belongs to the "Jolánka" family of cipher postcards, love letters from Feri to Jolánka Tóth, in Hungarian, in the same hand and the same cipher. The key was taken from finished sister cards (HCP 1216, 1212, 1213, 1217, 1218, 1243, 1301) and not invented here. No earlier work on this number exists in this repository.
 
@@ -36,7 +36,7 @@ The reviewer read the card separately from its own crops, wrote the rows as sign
 
 ## Key
 
-Simple monoalphabetic substitution with invented graphic signs. The labels are conventional names for handwritten shapes.
+Cipher type: **MASC + Steganography** (updated 2026-11-03): simple monoalphabetic substitution with invented graphic signs, plus a closing message hidden in the stamp box under the stamp, written in the same cipher. The labels are conventional names for handwritten shapes.
 
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|

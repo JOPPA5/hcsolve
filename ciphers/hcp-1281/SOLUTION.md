@@ -4,7 +4,9 @@
 
 ## Cipher type and key
 
-Hungarian, simple monoalphabetic substitution with invented graphic signs: the "Jolánka" postcard family. The key was transferred unchanged from the finished cards HCP1216, 1212, 1213, 1217, 1218, 1243, 1301; see the sign table in `ciphers/hcp-1216/SOLUTION.md`. Nothing was changed or added to it. Digits in rows 10, 11 and 19 (2, 1/4, 10, 30) are written in clear inside the cipher text. The word *hogy* is once shortened to the h sign (row 5) and *de* once to d (row 7).
+Hungarian, simple monoalphabetic substitution with invented graphic signs: the "Jolánka" postcard family.
+
+*Type note 2026-11-03:* register type is now **MASC + Steganography**, because part of the message (rows S1-S7) is written in the cipher signs in the stamp box, hidden under the stamp, which is now lifted. The key was transferred unchanged from the finished cards HCP1216, 1212, 1213, 1217, 1218, 1243, 1301; see the sign table in `ciphers/hcp-1216/SOLUTION.md`. Nothing was changed or added to it. Digits in rows 10, 11 and 19 (2, 1/4, 10, 30) are written in clear inside the cipher text. The word *hogy* is once shortened to the h sign (row 5) and *de* once to d (row 7).
 
 Sign values used on this card: a two bars, b six, cs opposed bowls, d long stroke + left tick, e three bars, f upright cross, g open loop with descender (*gy* is written here as g + y, two signs), h/p tall stroke + right tick, i dotted crossed curve, j inverted T, k section mark, l wave, m three strokes, n two strokes, o cursive loop, r F-like, s right bowl, t gamma, u/ű plain cross, v chevron, y low descender, z crossed diagonal. Dots or ticks on o give ö. Accents on a, e, i, o, u are mostly not visible and are supplied in normalization.
 
@@ -90,3 +92,15 @@ Review verdict REVISE. All ten findings were re-checked on the reviewer's crops 
 8. **`gy` (accepted, fixed).** The ledger tokens are split into g and y, and the sign list and a header line are corrected.
 9. **Row 11 (accepted, fixed).** `e.png`: two strokes with a short base mark. The ledger token is now `[||,]`, and item 4 names the comma option.
 10. **Timing (accepted, fixed).** *Why it is correct* now says this is consistency only.
+
+## Stamp-box message (2026-11-03)
+
+Audit by Claude Opus 5.5 at the human's request. The stamp box of the original (`work/hires/..._adr.jpg`) was cropped again at 2x and 3x, with a red-channel version (`work/stamp-2026-11-03/`). The stamp has been lifted. Only torn paper, a green perforated frame and a green triangular cancel-like patch remain. Under it are seven short rows in the **cipher signs** (no plain Hungarian). The rows were already read in the first solution and are in the ledger and `decode.py` output (`stamp:` line). This audit re-read them from the pixels and found nothing to change.
+
+- Literal: `csokol / jaszam / talan / szor / sirig / hűferi / f[e][...]`
+- Hungarian: Csókolja számtalanszor, sírig hű Feri. [last line f… unread]
+- English: He kisses you countless times, faithful unto the grave, Feri. [last line unread]
+- Slovak: Bozkáva Vás nespočetnekrát, do hrobu verný Feri. [posledný riadok neprečítaný]
+
+Unread: row S7. It has a clear upright cross (f), then two or three faint bars, then a tear with stamp residue. It is one short line, probably a few letters, and it is not restored. Rows S4 and S5 lie on the green residue and are weaker, but each sign can still be seen.
+

@@ -1,0 +1,26 @@
+# hcp-1183 transcription of the message side (source/picture-large.jpg; read on work/hires/*_pic.jpg)
+# Transcribed by Claude Opus 5.5, 2026-11-03. One token per drawn sign, words separated by " / ".
+# Sign names: SL=/  BS=\  X=X  XH=X with horizontal bar  XV=X with vertical bar
+#   O=plain circle (small tick at top)  OD=circle with dot  OH=circle with horizontal bar  OV=circle with vertical bar
+#   PL=+ (one bar)  NN=vertical with two bars  HH=#  Q=hook (like a rounded 7)  TL=top-left corner (Gamma)
+#   BR=bottom-right corner (vertical right, base going left)  SQ=square  SQD=square with dot
+#   CUP=open-top box  CAP=open-bottom arch with feet  CAPD=arch with dot inside  Y=arrow up (vertical + inverted V)
+#   Punctuation as written: . , '
+#L1
+BR XV X XV OV CAP XV XH / Y Q SQD BR / TL Q CUP SQ SL PL / X SL BR XH
+#L2
+SQ OH OV CUP / HH Q BR NN OV NN OD . / OV / OH XV SL BR XH / Q O / OV SQ
+#L3
+PL SL CUP SQ / NN OV OD OH SQ , / CUP Q / OV / OH SQD BR BR OV XV XH / SQ Q / OD XV SQ
+#L4
+OV SQ . / OV / CAPD XV NN SQ / BR OV OD OH SQ / SQD TL / SQ Q / OD BR SL NN XH HH SL ' CUP
+#L5
+SL NN XH / CUP XV NN SQ / SQ OH XV / X SL BR XH / Q CAP XV BR / SQ Q / SQ OH XV
+#L6
+HH Q SQD NN SQ SL OV NN CUP / BS Y / SL SQD NN SQ / PL SQD X Y . / OD Q Q XH NN OV OD OH SQ .
+#L7 initials below line 6, right
+Q . / CAPD . / PL .
+#L8 bottom left
+OD SL Y / SL NN XH / O XV CUP SQ OV CAP XV .
+#L9 bottom right, partly under the HC Portal watermark
+X OV XH XV BR

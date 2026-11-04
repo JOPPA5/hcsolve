@@ -6,6 +6,8 @@
 
 Hungarian, simple monoalphabetic substitution with invented graphic signs: the Jolánka family key of HCP1216 etc., unchanged. No sign needed a new value.
 
+*2026-11-03:* type is now **MASC + Steganography**: a plain-Hungarian message is written in the stamp box, where the (now lifted) stamp covered it; see "Stamp-box message (2026-11-03)".
+
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
 | two bars | a | section mark | k | F-like | r |
@@ -50,21 +52,21 @@ Rows 21–22 run on across the bottom edge of the whole card, under the address.
 Kedves Jolánkám! Becses sorait megkaptam, [í]gy erre fogadja köszönetemet. A mulatságban csak mulattam, mert muszáj volt, mert akit elfogadtam, avval muszáj volt táncolni, de sokszor elgondoltam, ha itt lett volna az én csillagom, enyém volna a táncterem. Már egy órakor hazamentem.
 Édes Jolánkám, sajnálattal kell tudatni, h[ogy] vasárnap lesz az egyletbe[n?] választmányi ülése, s e miatt nem mehetek le. A vasárnapi mulatást megírtam, kedves Jolánkám. Ami a verseit illeti, azok egész a szívemig hat, ha ön szívből írja, a mi boldogságunk örökké fog tartani. Isten vele, édesem, a viszontlátásra jövő vasárnap.
 
-Unenciphered, in plain cursive over the stamp: Csókolom számtalanszor. Sírig hű [unread word] ke[dve]se(?), Feri.
+Unenciphered, in plain cursive in the stamp box, under the lifted stamp: Csókolom számtalanszor. Sírig hű szere[…]je [one word only partly read], Feri. (Corrected 2026-11-03; the earlier "[unread word] ke[dve]se(?)" is withdrawn.)
 
 ## English
 
 Dear Jolánka! I have received your esteemed lines, so please accept my thanks for them. At the party I only enjoyed myself because I had to: whoever I had accepted as a partner, I had to dance with. But I often thought to myself: if my star had been here, the dance hall would have been mine. I went home already at one o'clock.
 Sweet Jolánka, I regret to have to tell you that on Sunday there is a committee meeting in the association, and because of that I cannot come down. I have written about Sunday's party, dear Jolánka. As for your verses, they reach right to my heart; if you write them from the heart, our happiness will last forever. God be with you, my darling; until we meet next Sunday.
 
-Over the stamp: I kiss you countless times. Faithful until the grave, [unread word] your sweetheart(?), Feri.
+Under the stamp: I kiss you countless times. Faithful until the grave, your [one word only partly read: szere…je], Feri.
 
 ## Slovenčina
 
 Milá Jolánka! Vaše vzácne riadky som dostal, prijmite preto moju vďaku. Na zábave som sa zabával len preto, že som musel: koho som prijal, s tým som musel tancovať. Ale často som si pomyslel: keby tu bola moja hviezda, tanečná sála by bola moja. Už o jednej hodine som išiel domov.
 Sladká Jolánka, s ľútosťou Vám musím oznámiť, že v nedeľu bude v spolku zasadnutie výboru, a preto nemôžem prísť dolu. O nedeľnej zábave som už písal, milá Jolánka. Čo sa týka Vašich veršov, tie mi siahajú až k srdcu; ak ich píšete zo srdca, naše šťastie bude trvať navždy. S Bohom, drahá moja, dovidenia budúcu nedeľu.
 
-Nad známkou: Bozkávam nespočetnekrát. Až do hrobu verný [neprečítané slovo] Váš milý(?), Feri.
+Pod známkou: Bozkávam nespočetnekrát. Až do hrobu verný Váš [slovo prečítané len čiastočne: szere…je], Feri.
 
 ## Uncertainties
 
@@ -86,7 +88,7 @@ Writer's spelling, normalized: *mer* → mert (row 5, also on HCP1216), *aval* �
 
 Also uncertain:
 
-12. **Cursive note over the stamp (plain text, not ciphertext)**: *csokolom / szamtalan / szor sirig / hű …* is clear. The word after *hű* looks like "pene", the next line like "ketse"; the postage print and a hole interfere. I read the ending as a form of *kedvese* only by analogy with HCP1216 ("sírig hű kedvese Feri"), and do not claim it. The signature begins *Fer*, then runs into a stain; *Feri* is a reading supported by the sister cards.
+12. **Cursive note over the stamp (plain text, not ciphertext)**: *csokolom / szamtalan / szor sirig / hű …* is clear. The word after *hű* looks like "pene", the next line like "ketse"; the postage print and a hole interfere. I read the ending as a form of *kedvese* only by analogy with HCP1216 ("sírig hű kedvese Feri"), and do not claim it. *2026-11-03: superseded; see "Stamp-box message (2026-11-03)": the two lines read szere / tetje, one word, not kedvese.* The signature begins *Fer*, then runs into a stain; *Feri* is a reading supported by the sister cards.
 13. **Address (plain)**: Szépreményű Tóth Jolánka úrleánynak, Jász-Árokszállás. Parts lie under the cancel and the collector's stamp. Postmark shows MAJ; the year comes from the portal file name (1912-05-04), not checked on the cancel.
 14. The picture side has only printed captions (Sirassatok engem orgonavirágok…; Kis falumat nem látom én soha többé / Búcsút mondok, búcsút veszek / Mindörökké), no cipher.
 
@@ -111,3 +113,26 @@ Each sign below was reread by me on the reviewer's enlargements (review/work/cro
 8. **Fixed.** Key table has its own row for the low-descender y, as on HCP1216; ny is n + y here (rows 10, 15).
 
 Also corrected on my own check of the picture side, which the reviewer left open: the caption reads *Sirassatok*, not "Szirassatok" (uncertainty 14). It carries printed text only, no cipher.
+
+## Stamp-box message (2026-11-03)
+
+Audit by Claude Opus 5.5 on the hi-res address scan (`work/hires/…_adr.jpg`), crops in `work/stamp-2026-11-03/` (`box_context_1x.png`, `box_2x.png`, `line4_4x.png`, `line5_4x.png`, `line5_left_6x.png`; `word4_sep_5x.png` and `line5_sep_4x.png` separate the red ink from the pink printed emblem).
+
+**State of the box:** the stamp has been lifted. The dotted stamp frame is empty except for gum stains and two small green fragments of the stamp paper (left edge and bottom of the frame), and the second postmark's ring breaks off at the frame, because the cancel struck the stamp that is gone. The writing therefore lay under the stamp. It is in plain Hungarian cursive in the same red ink, not in the cipher signs. A pale pink printed emblem (wreath with R) lies under the writing and is not part of the message.
+
+**Literal reading, line by line:** `csokolom` / `szamtalan` / `szor sirig` / `hű szere` / `tetje` / `Feri`.
+
+- Lines 1 to 3 and *hű* are clear.
+- Line 4 after *hű*: s, z (crossed, as in *szor*), e, r (an n-like hump, the same r as in *szor*), e. Round 1 read "pene"; on the ink-separated crop the first sign is the writer's small s, not p.
+- Line 5: t (bar across a stem), e, a second crossed t-like sign, j (dot above, loop below; a hole touches the loop), e. Round 1 read "ketse"; the first sign has no k loop and the fourth has a dot and a descender, so j.
+- Signature: F, e, r (n-like), i; the end runs into a stain. *Feri* as on the sister cards.
+
+Lines 4 and 5 join as one word, literally *szeretetje*. That is not a normal Hungarian form. The nearest family word is *szeretője* ("his lover/sweetheart"), but it needs ő where I see e plus a crossed sign, so I do not adopt it. *kedvese* does not fit the strokes and is withdrawn.
+
+**Normalized Hungarian:** Csókolom számtalanszor. Sírig hű szere[…]je(?), Feri.
+**English:** I kiss you countless times. Faithful until the grave, your [word starting szere-, ending -je, not read], Feri.
+**Slovak:** Bozkávam nespočetnekrát. Až do hrobu verný Váš [slovo začínajúce szere-, končiace -je, neprečítané], Feri.
+
+**Unread:** the one noun after *hű*. Its letters are read (szere|tetje) but they make no word I can confirm; *szeretője* is only a candidate. Everything else in the box is read.
+
+The reproduction script `work/decode.py` covers the ciphertext ledger only. The stamp text is plain cursive and is read by eye; the script was not changed.

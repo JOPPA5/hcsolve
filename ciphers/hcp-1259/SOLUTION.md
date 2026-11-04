@@ -8,6 +8,8 @@ Portal name: cpc_1912-04-04_HU__HU_Jasz Arokszalas_jolanka-14. The portal langua
 
 Hungarian simple monoalphabetic substitution with invented graphic signs: the Jolánka family key, taken from finished cards HCP1216 (fullest legend), 1212, 1213, 1217, 1218, 1243, 1301. Every sign on this card was read afresh. One local variant: the family legend gives y as a low descender, whereas this card's y (*nyelvek*, *ylona*) is the crossed curve without a dot, so it may be an i with the dot left off. The h/p sign also appears once in the d shape (Uncertainties 12). The stamp-box lines and the address are ordinary cursive, not enciphered.
 
+Type note 2026-11-03: the card is typed **MASC + Steganography** (register label), because the plain closing is written inside the stamp box, where the (now lifted) stamp hid it; see the section Stamp-box message (2026-11-03) at the end.
+
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
 | two bars | a | section mark, or plain S shape, on rows 1, 3, 13 with a dot beneath | k | F-like | r |
@@ -117,3 +119,16 @@ Verdict REVISE. I rechecked each finding on the reviewer's crops and on the pixe
 9. **"Used unchanged": fixed.** The y variant and the picture side are stated in the header and the key section.
 
 Could-not-verify items: the row 6 pair and *Ilona irán[t]* versus *írna* stay open (Uncertainties 2 and 3). The portal detail capture was not retried; this run is limited to finishing this card (Uncertainty 13).
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit, done on the human's instruction of 2026-11-03 (Claude Opus 5.5). Crops of the original `work/hires/..._adr.jpg` (x 2560 to 3160, y 40 to 760 at 2x; the top line x 2950 to 3180, y 150 to 420 at 5x, with a blue-channel map) are in `work/stamp-2026-11-03/`.
+
+- **State:** stamp lifted, writing under it. The printed dotted frame of the stamp box and its small blue P.R.A. wreath are bare paper. The second cancel (912 ÁP) stops at the left edge of the frame, so the stamp was on the card when it was cancelled; the red lines lie on bare paper inside the frame and were hidden under it.
+- **Script:** plain Hungarian cursive only; no cipher signs in the box.
+- **Literal reading** (lines from top right, diagonal): [illegible line] / csokolo / számta (paler ink) / lanszor / sirig hű / kedves / Feri.
+- **Normalized Hungarian:** [one illegible line] Csókolo[m] számtalanszor. Sírig hű kedves[e], Feri.
+- **English:** [one illegible line] I kiss you countless times. Your sweetheart, faithful unto the grave, Feri.
+- **Slovak:** [jeden nečitateľný riadok] Bozkávam Vás nespočetnekrát. Váš do hrobu verný milý, Feri.
+- **Unread:** the topmost line, about one word, a smeared pink mass partly outside the frame; the 5x crop and the blue channel show only a loop at its left and give no letters, so it stays unread (Uncertainties 8). The final m of csókolo[m] and e of kedves[e] are not visible and are supplied only in the normalized text, as before. This reading is the same as the one already given above; nothing new was read and nothing was restored.
+- The reproduction command decodes only the 18 cipher rows (`work/ledger.txt`); the stamp text is plain script read by eye, so the script was not changed.

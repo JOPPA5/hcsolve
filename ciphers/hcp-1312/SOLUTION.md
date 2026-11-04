@@ -6,7 +6,11 @@ No sender name appears on the card. The portal shows status Not solved and attac
 
 ## Cipher type and key
 
-Hungarian, simple monoalphabetic substitution with invented graphic signs (the Jolánka postcard family). Key of hcp-1216, unchanged; `KEY` in `work/decode_rev2.py` gives it as sign class to letter:
+Hungarian, simple monoalphabetic substitution with invented graphic signs (the Jolánka postcard family).
+
+*Type note 2026-11-03:* register type is now **MASC + Steganography**: the stamp has been lifted and a plain Hungarian message is written in the stamp box, where the stamp hid it (see "Stamp-box message (2026-11-03)").
+
+Key of hcp-1216, unchanged; `KEY` in `work/decode_rev2.py` gives it as sign class to letter:
 
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
@@ -106,3 +110,18 @@ Verdict ACCEPT. All five findings are minor. Each is addressed below, and no let
 3. **"good" supplied: fixed.** Now [good] and [dobrej] in the translations, with a note in uncertainty 5.
 4. **Crossbar sign: fixed.** A new blue-minus-green crop (x 1100 to 1720, y 1960 to 2110) confirms the description: the stem rises above the bar. Uncertainty 3 now discloses this.
 5. **Bracket convention: fixed.** The normalized text now has [s]oraim, c[s]ak and másképe[n], in SOLUTION.md and in `work/normalized-rev2.txt`. The words themselves are unchanged.
+
+## Stamp-box message (2026-11-03)
+
+Audit of the stamp box on the un-converted original (work/hires/..._adr.jpg, box at about x 2620-3260, y 200-860). Crops: work/stamp-2026-11-03/box_x2.png (2x colour), box_green.png (2x green channel), lines3-4_green_x4.png (4x green channel).
+
+- **State: stamp lifted, writing under it.** The printed dotted stamp frame is bare. A torn scrap of the stamp's paper with green print stays just left of the frame, top left. The black postmark strokes stop at the frame edge or show only as short dashes inside it, where they would have run over the stamp. All the pink writing inside the frame is unstruck by the cancel, so it was written first and covered by the stamp.
+- **Script: plain Hungarian only.** No cipher signs are in the box. A small printed red circle with a "P" (a printed mark, not the sender's) sits under lines 2-4.
+- **Literal reading (lines):** Édes an / gyalom / Csók / lak szám / talanszor. The last line runs out past the frame at the lower right. Line 4 "szám" has a long-s form and smudged "ám" but the letters are present. Line 3: faint traces right of the k may be "ol"; they are not firm, as stated before.
+- **Normalized Hungarian:** Édes angyalom, csók[ol]lak számtalanszor.
+- **English:** Sweet angel, I kiss you countless times.
+- **Slovak:** Sladký anjel môj, bozkávam Ťa nespočetnekrát.
+- **Unread:** nothing of the clause is missing; only the two letters "ol" in line 3 stay unconfirmed (the normalized word is the same either way).
+
+This matches the reading already given above (2026-10-30/11-02); the audit adds the finding that the message sat under the stamp. The stamp text is read by eye; work/decode_rev2.py covers only the cipher rows and was not changed.
+

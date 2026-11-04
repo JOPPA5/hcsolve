@@ -20,11 +20,13 @@ The card belongs to the family of Hungarian postcards to Jolánka Tóth signed b
 
 The solver read the 24 main rows and 7 rows under the stamp sign by sign from enlarged crops of the un-converted original scan. No OCR was used. The result is a ledger of key values, row by row, in `work/ledger.txt`. The command `python3 -I ciphers/hcp-1281/work/decode.py` checks the scan hashes and prints the ledger and the normalized text. It proves consistency only, because the signs were read by eye, and word sense guided the doubtful signs listed below.
 
+On 2026-11-03 the stamp box was audited again on the original scan. The stamp is lifted, and seven rows in cipher signs are under it. The reading below was confirmed, and row S7 is still unread.
+
 The reviewer made separate crops and its own shape transcription with the published family key. That transcription was not blind, because the reviewer had read the ledger first. It agreed on 453 of 463 tokens, and the differences produced the corrections below.
 
 ## Key
 
-Simple monoalphabetic substitution with invented graphic signs. Full family table: `ciphers/hcp-1216/SOLUTION.md`. Signs used on this card:
+Cipher type (register): **MASC + Steganography** (updated 2026-11-03). Simple monoalphabetic substitution with invented graphic signs, with part of the message hidden in cipher signs under the stamp. Full family table: `ciphers/hcp-1216/SOLUTION.md`. Signs used on this card:
 
 | Plain | Sign | Plain | Sign |
 |---|---|---|---|

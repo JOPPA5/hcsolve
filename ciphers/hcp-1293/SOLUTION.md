@@ -4,6 +4,8 @@
 
 ## Cipher type and key
 
+*Type note (2026-11-03): register type is now "MASC + Steganography", because the closing rows S1–S6 are written in cipher in the stamp box, under the (now lifted) stamp; see the section "Stamp-box message (2026-11-03)".*
+
 Hungarian, simple monoalphabetic substitution with invented graphic signs: the "Jolánka" postcard family, same key as finished card HCP1216 (key table in `ciphers/hcp-1216/SOLUTION.md`; also 1212, 1213, 1217, 1218, 1243, 1301). Every value was confirmed here by the words of this card, none had to be changed.
 
 Card-specific habits: *gy* is written as two signs g + y (not the joined digraph of 1216, except that the two touch); *o* (plain loop) and *i* (loop with a crossing stroke and a dot or tick above) are close, the mark deciding; *ö* has two dots. Writer's *j* stands for *ly* (*ojan*, *ijen*).
@@ -103,3 +105,16 @@ Verdict REVISE. All six findings are addressed. The ledger and `work/normalized.
 Also from "What I could not verify": the sense basis of TT at the end of row 21 is stated in Uncertainty 4.
 
 Note: `review/work/review_decode.py` treats any `:` in a ledger token as dots, so it now shows a false difference at the three `:shape-` tokens in rows 04 and 14. Those differences are the shape marks themselves. `work/decode.py` ignores the marks.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit by Claude Opus 5.5 on the un-converted address scan (`work/hires/*adr.jpg`), crops in `work/stamp-2026-11-03/` (`box.png` natural size, `box_bminusg.png` blue-minus-green, `box_top3x.png`, `box_bot3x.png`, `box_bot3x_bg.png` at 3x).
+
+- **State:** the stamp has been lifted. A torn green remnant with perforations is still stuck at the lower right of the square, and the postmark ring runs over the bare card where the stamp lay; the writing S1–S6 lies inside that ring, so it was covered by the stamp. The green triangle with "M B C" is printed on the card, not part of the stamp, and the pencil runs under and over it.
+- **Script:** cipher signs only, same key as the rest of the card; no plain-Hungarian writing is in the box.
+- **Coverage before today:** already fully read. The six rows were transcribed in the ledger (S1–S6) and decoded by `work/decode.py`; they were re-checked on today's crops and agree sign for sign. `python3 -I ciphers/hcp-1293/work/decode.py` was re-run today: all four hashes OK, S rows unchanged. No ledger change.
+- **Literal:** `csoko / lom / szam / talan / szor / feri`
+- **Hungarian:** Csókolom számtalanszor. Feri
+- **English:** I kiss you countless times. Feri
+- **Slovak:** Bozkávam Vás nespočetnekrát. Feri
+- **Unread:** nothing; no sign is restored. Accents (ó, á) are supplied, as elsewhere on the card. The part of the square still covered by the stamp remnant (lower right corner) shows no pencil around its edges, but what is under it cannot be seen.

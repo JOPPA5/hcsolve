@@ -1,0 +1,22 @@
+# hcp-1192 transcription (Claude Opus 5.5, 2026-11-03), read from work/hires/*_pic.jpg
+# Reading order and sign orientation are the WRITER'S frame: every line is written with
+# the tops of the signs toward the picture (top strip upside-down, side strips sideways,
+# bottom strip upright). Words are separated by " / ", tokens by spaces.
+# Literal (unenciphered) items: punctuation ? . , '  and digits written as #<digit>.
+# Token names (shape in the writer's frame):
+#   BAR1V near-vertical single stroke   BAR1D single stroke at ~45 deg (/)   DASH horizontal stroke
+#   BAR2V two near-vertical strokes     BAR2D two strokes at ~45 deg (//)    BAR2B two strokes leaning (\\)
+#   OBAR circle, horizontal bar through and beyond   OX circle, diagonal cross through and beyond
+#   WHEEL circle with 6-8 spokes   OCROSS circle, upright cross through and beyond (3-4 arms)
+#   LOLLI circle with one stem   TEE T-shape   HOOK hooked stroke   IBEAM I with serifs
+#   LADDR two parallel strokes with end bars, bars running / (Gemini-like)   LADDS same, bars running \
+#   PLUS +   STAR asterisk
+# Each line: <place>: tokens
+R1 (right side, innermost line, card bottom->top): BAR2D BAR2V STAR STAR OBAR / WHEEL BAR1V LADDR LADDR BAR2V IBEAM , / BAR2D OBAR WHEEL
+R2 (right side, 2nd line, bottom->top): BAR1V LADDR BAR2V / HOOK OBAR OCROSS ? / BAR2B OBAR PLUS IBEAM BAR2B / LOLLI OBAR
+R3 (right side, 3rd line, bottom->top): OX OBAR LOLLI BAR2V / LOLLI OBAR BAR1D BAR1V HOOK ?
+TOP (top strip, card right->left): BAR2D OBAR WHEEL / PLUS LADDS / BAR1V IBEAM IBEAM BAR1V / BAR2B BAR2V LADDR LOLLI LADDR OCROSS BAR1D BAR2V ?
+LEFT (left strip, card top->bottom): BAR2B PLUS OX BAR2V / TEE HOOK / STAR OBAR OX BAR2V / LOLLI OBAR / TEE BAR1V TEE TEE BAR1V .
+BOTTOM (bottom strip, left->right, upright): DASH BAR2V / BAR1V / BAR2B OBAR OBAR BAR1D / DASH OBAR HOOK .
+R4a (right side, outermost line, lower part, bottom->top): IBEAM OBAR OX / #6 , ' #0 #6 .
+R4b (right side, outermost line, upper part): LADDS PLUS LADDS .

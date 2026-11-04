@@ -10,7 +10,7 @@ The cryptogram is record 1256 of the HC Portal (https://crypto.hcportal.eu/dashb
 
 The card is one of a group of Hungarian cipher postcards to Jolánka Tóth at Jász-Árokszállás (Jászárokszállás), several of them signed by Feri. The address side is in plain red ink: **Tóth Jolánka úrleánynak szeretettel, Jász-Árokszállás** ("To Miss Jolánka Tóth, with love"), with the plain word **Szépremény** ("fair hope") at the top. The whole left side and a strip across the bottom are in cipher. The writer also wrote eight short cipher rows on the stamp area; a stamp was later removed, leaving only fragments, so these rows are visible today.
 
-The picture side has only a printed verse (*Aranyeső*, "Huzok az ujjadra aranyos karikagyűrűt") and no cipher.
+The picture side has only a printed verse (Aranyeső, "Huzok az ujjadra aranyos karikagyűrűt") and no cipher.
 
 ![Address side with the cipher text; the eight short rows sit on the stamp area at the top right (source/address-large.jpg)](../source/address-large.jpg)
 
@@ -32,7 +32,7 @@ Word divisions, accents and normalized spellings are editorial. The cipher has n
 
 ## Key
 
-Simple monoalphabetic substitution with invented graphic signs. Dots over o and u give ö and ü, and acute accents appear only as occasional ticks.
+**Type: MASC + Steganography.** Simple monoalphabetic substitution with invented graphic signs, with part of the message hidden in the stamp box under the postage stamp. Dots over o and u give ö and ü, and acute accents appear only as occasional ticks.
 
 | Sign | Plain | Sign | Plain | Sign | Plain |
 |---|---|---|---|---|---|
@@ -107,27 +107,27 @@ Pod známkou: S Bohom, drahá, do šťastného zvidenia. [? neprečítané slovo
 
 ## What remains uncertain
 
-- **Sign-off (S6–S7).** Before *imádója* stands `{?}arsoka`, a sign hidden by a stamp fragment, and `esz`: about ten signs, one word or a short phrase. Neither solver nor reviewer could read it, and no guess is offered as a reading.
-- **Restoration.** *Ist-* of *Isten vele* is hidden by the stamp remnant and restored from the visible `en ve | le` and the family's formula.
-- **Letters supplied.** *pé[n]zbe*, *mon[d]ta*, *a kér[t]*, *viszo[n]tlátásig* and *beszé[l]gett[ünk]* (where *-ünk* is inferred from row 18). Only *a kér[t]* affects the sense.
-- **Word-sense calls.** *Pest* emends a clearly written a (`hast`). *dolgozhassak* begins with a k-shaped sign (`kolgozhassak`). Row 18 `minderöl` is read *minde[n]ről* ("about everything"); *mind erről* ("all about this") is the alternative. The h/p choice throughout rests on sense.
-- **Single signs.** S5 has a or e in *látásig*. Row 22 *héten* has a blot over one stroke of n. Row 18 *beszélünk* has an overwritten sign read as u(ü), without visible dots.
+- **Sign-off (S6–S7).** Before imádója stands `{?}arsoka` (on a recheck of 3 November 2026 the first sign has the same form as the b of boldog, giving `barsoka`, still no word), a sign hidden by a stamp fragment, and `esz`: about ten signs, one word or a short phrase. Neither solver nor reviewer could read it, and no guess is offered as a reading.
+- **Restoration.** Ist- of Isten vele is hidden by the stamp remnant and restored from the visible `en ve | le` and the family's formula.
+- **Letters supplied.** pé[n]zbe, mon[d]ta, a kér[t], viszo[n]tlátásig and beszé[l]gett[ünk] (where -ünk is inferred from row 18). Only a kér[t] affects the sense.
+- **Word-sense calls.** Pest emends a clearly written a (`hast`). dolgozhassak begins with a k-shaped sign (`kolgozhassak`). Row 18 `minderöl` is read minde[n]ről ("about everything"); mind erről ("all about this") is the alternative. The h/p choice throughout rests on sense.
+- **Single signs.** S5 has a or e in látásig. Row 22 héten has a blot over one stroke of n. Row 18 beszélünk has an overwritten sign read as u(ü), without visible dots.
 - **Unverified.** The family name Fáger (possibly Fágér) cannot be checked, and "Szépremény" may be a motto, a name or a place.
 
 ## Why it is believed correct
 
-The key from HCP 1216, applied unchanged, turns the 25 main rows into running colloquial Hungarian of the period. Long sequences such as *szórakoztatómtól is meg vagyok fosztva* and *István királyra szándékozok hazamenni* cannot arise by chance. Repeated words decode identically (*hogy*, *csak*, *most*, *vasárnap*), and Sándor, Feri, the closing formula and the formal address all fit the family.
+The key from HCP 1216, applied unchanged, turns the 25 main rows into running colloquial Hungarian of the period. Long sequences such as szórakoztatómtól is meg vagyok fosztva and István királyra szándékozok hazamenni cannot arise by chance. Repeated words decode identically (hogy, csak, most, vasárnap), and Sándor, Feri, the closing formula and the formal address all fit the family.
 
 ## Review and what changed
 
 An independent Claude Opus 5.5 agent reviewed the card. It ran the command, read all 33 rows on its own crops and decoded them with its own script, using the key table only from HCP 1216. It found no wrong key value but gave verdict REVISE with eleven findings. Its reading was not blind, since it had seen the ledger first. The changes were:
 
-- Row 22 is *a kér[t] fényképet* ("the photograph you asked for"), not *akár fényképet* ("even a photograph"): the accent tick stands over an e.
-- Row 24 is `akor` = *akkor* ("then"), not `asor`: the second sign is k, which removed a listed uncertainty.
-- Row 21 has a second three-bar sign, so it reads *Persze én azt mondtam*.
+- Row 22 is a kér[t] fényképet ("the photograph you asked for"), not akár fényképet ("even a photograph"): the accent tick stands over an e.
+- Row 24 is `akor` = akkor ("then"), not `asor`: the second sign is k, which removed a listed uncertainty.
+- Row 21 has a second three-bar sign, so it reads Persze én azt mondtam.
 - Rows 19 and S4 are transcribed as written (`monta`, `viszot`), with the letters supplied in brackets.
-- The last sign of S1 is e, so the card has ordinary *vele*.
-- Row 18 now prefers *minde[n]ről*, and the sign in S5 is left open as a or e.
-- The address now includes *szeretettel*, the gy and cs signs are recorded as the two signs they are, and the justification for *Pest* and the extent of the unread sign-off are stated more exactly.
+- The last sign of S1 is e, so the card has ordinary vele.
+- Row 18 now prefers minde[n]ről, and the sign in S5 is left open as a or e.
+- The address now includes szeretettel, the gy and cs signs are recorded as the two signs they are, and the justification for Pest and the extent of the unread sign-off are stated more exactly.
 
 After the changes the reviewer's reading and the ledger agree in every row except S5, the sign deliberately left open.

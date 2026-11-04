@@ -1,0 +1,14 @@
+# hcp-979 ciphertext, read by Claude Opus 5.5 (2026-11-03) from work/hires/..._adr.jpg (block written sideways, rotated 90 deg).
+# Numbers separated by '.', words by space/'-'. A trailing 'x' marks the writer's cross/slash stroke over a number
+# (capital marker, does not change the letter). '[1/2 VIII]' is written in plain Roman/fraction form, not enciphered:
+# it is copied through literally. One card line per row.
+12x.10.6.3.6.18 - 7x.18.10.20.26 - !
+9x.6.21.20 - 8.6.9.20 - 6.19 -
+23.10.6.5.6.18 - 3.6.19.19.6.18
+23.6.10.19.26 - 2.3.6.18 14.15.4.9 -
+14.10.4.9.20 - 23.10.6 - 6.19 - 9x.6.21.20 -
+2x.3.6.14.5 - 19.6.10.14 - 23.10.18.5 -
+8.6.19.20.6.18.14 - 9.2.20.20.6 -
+10.4.9 - 19.20.2.18.11.6 -
+7x.10.6.3.6.18 - 19x.15.12.12.20.6 -
+10.4.9 - 14.10.4.9.20 - [1/2 VIII]

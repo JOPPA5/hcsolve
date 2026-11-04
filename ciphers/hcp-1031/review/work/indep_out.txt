@@ -1,0 +1,11 @@
+A liebstesannerl.seisogut,gibmirbekannt
+B wowirunsfreitagtreffen,umunserezukün-
+C ftigelagebesprechenzukönnen.sollest
+D dudenwortlautdesabschiedsbriefesha-
+TR1 ben,sonimihnmit.
+TR2 näheresmündlich,sei
+TR3 sogutmitbestengruss
+TR4 joh.wolf.VI.engelgasse4.
+TR5 bäckerei4ekninger.
+key signs 222 literal {'lit:V': 1, 'lit:I': 1, 'lit:4': 2}
+freq [('L', 35), ('5', 22), ('N', 22), ('i', 17), ('Z', 13), ('3', 13), ('U', 12), ('+', 10), ('T', 10), ('6', 9), ('c', 9), ('0', 9), ('8', 7), ('M', 6), ('7', 6), ('X', 5), ('Q', 5), ('J', 4), ('C', 4), ('S', 2), ('lit:4', 2), ('9', 1), ('j', 1), ('lit:V', 1), ('lit:I', 1), ('lit:.', 0), ('lit:,', 0), ('lit:-', 0)]

@@ -8,7 +8,7 @@ Human solver: Tomáš Pavuk
 
 The cryptogram is record 1300 of the HC Portal (https://crypto.hcportal.eu/dashboard/cryptograms/1300), portal name cpc_--26_HU__HU_Jasz Arokszalas_jolanka-91, part of Tobias Schrödel's collection of cryptographic postcards. When it was captured on 2026-10-30 the portal listed it as **Not solved**, tagged Postcard and T. Schrödel Collection, category Substitution, date and language Unknown, location Europe, sender Unknown, recipient Tóth Jolánka, with no transcription or solution attached. A check of the AI Decipherment Register on the same day found no record for this card.
 
-The picture side is a hand-coloured photograph of a couple, with the printed title *Szeretni édes…* and a printed four-line verse beginning *Nincs boldogság másban*. It has no handwriting. The message is on the address side, in pencil, in invented signs: 27 rows, of which rows 1 to 23 fill the left half and rows 24 to 27 run the full width under the address, and 6 short rows in the stamp box, around and under a printed green triangle.
+The picture side is a hand-coloured photograph of a couple, with the printed title *Szeretni édes…* and a printed four-line verse beginning *Nincs boldogság másban*. It has no handwriting. The message is on the address side, in pencil, in invented signs: 27 rows, of which rows 1 to 23 fill the left half and rows 24 to 27 run the full width under the address, and 6 short rows in the stamp box, around and under a printed green triangle. These box rows were hidden under the postage stamp, which has since been lifted (torn residue remains at the top of the frame), so the card is typed **MASC + Steganography** (note of 2026-11-03).
 
 The address is plain pencil: *Szépreményű / Tóth Jolánka / úrleánynak / Jász Árokszállás* ("To the promising young lady Jolánka Tóth, Jászárokszállás"). The end of the first word runs into the cancel, and its reading rests on the same form on HCP 1287. The postmark shows a day 26. A figure 11 on the stamp cancel may be a month or an hour. No year is claimed.
 
@@ -25,6 +25,8 @@ The transcription is manual: Claude Opus 5.5 read every sign from enlarged crops
 The result can be reproduced from the repository root with `python3 -I ciphers/hcp-1300/work/decode.py`, which checks the hashes of the four scans, decodes the 643-token ledger and prints the literal rows and the normalized text.
 
 ## Key
+
+Cipher type: **MASC + Steganography** (monoalphabetic substitution; the closing message hidden under the stamp; type updated 2026-11-03).
 
 Monoalphabetic substitution of Hungarian, with signs named by shape:
 

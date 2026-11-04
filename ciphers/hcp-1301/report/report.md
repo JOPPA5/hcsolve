@@ -4,6 +4,8 @@ Human solver: Tomáš Pavuk
 
 Solver: OpenAI GPT-6. Independent reviewer: Claude Opus 5.5, review 1 dated 2026-10-12.
 
+Cipher type: MASC + Steganography (updated 2026-11-03: cipher message hidden under the stamp).
+
 ## Claim and scope
 The complete main cryptogram and the four-line cryptogram under the removed stamp can be read with a monoalphabetic graphic substitution. It is the same alphabet as HCP1243. This replaces the previous unsuccessful scout: that scout merged short/long strokes and misread ligatures and accents. The present result comes from visual reading across both cards, not from the old statistical score.
 
@@ -63,6 +65,17 @@ This checks the archived image hash and displays the saved manual row edition. I
 
 ## Why this is more than a plausible opening
 One graphic alphabet explains the salutation, the full 20-row narrative, the distinctive words `választmányi`, `tűzoltógyakorlat`, `mozgószínházban`, the final greeting to the mother, and the separately oriented stamp message. The same alphabet also reads HCP1243's unrelated arrival/posting narrative and love verse. The full endings were visually checked, not inferred from a successful synthetic control.
+
+## Stamp-box audit and cipher type (2026-11-03)
+Cipher type (2026-11-03): **MASC + Steganography** — monoalphabetic graphic substitution, plus a second cipher message hidden in the stamp box under the (now removed) stamp.
+
+Audit of the original 3445×2210 portal scan (`work/hires/`, crops in `work/stamp-2026-11-03/`): the stamp is lifted and four rows of cipher signs, written in the same red ink and the same alphabet as the main text, lie in the stamp box over the faint printed placement circle. The rows run at 90° to the address; rotated 90° counterclockwise they read, sign by sign with the key above: `csokol` / `ja a tá` / `volbó(l)` / `imádója`. This agrees with the reading already given above and with the reviewer's independent row reading in `review/REVIEW1.md`; no plain-Hungarian writing is present in the box.
+
+- Normalized Hungarian: Csókolja a távolból imádója.
+- English: Your admirer kisses you from afar.
+- Slovak: Z diaľky vás bozkáva váš ctiteľ.
+
+Unread / uncertain: the last sign of row 3 (`l` of `volból`) is cramped against the frame and not clearly separate from the preceding `o`; the two `a` signs in row 2 are written joined at the left; accents are partly faint. No word of the stamp message is unread. The stamp text is read by eye; the reproduction script was not changed.
 
 ## Response to review 1
 1. **Reproduction limitation:** accepted. The ledger is now called `manual-edition.json`, not “verified”. No source-to-plaintext command exists; this is stated explicitly above, taking the alternative the reviewer expressly allowed under “Required for closing”. The successful round trip is not evidence.

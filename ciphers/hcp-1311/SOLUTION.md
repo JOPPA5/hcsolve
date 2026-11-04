@@ -4,6 +4,8 @@
 
 ## Cipher type and key
 
+Type (updated 2026-11-03): **MASC + Steganography**. The closing S1–S7 is written in the cipher signs in the stamp box, under the stamp, which is now lifted (see "Stamp-box message (2026-11-03)").
+
 Hungarian, simple monoalphabetic substitution with invented graphic signs: the "Jolánka" postcard family, same key as hcp-1216, 1212, 1213, 1217, 1218, 1243, 1301 (legend in `ciphers/hcp-1216/SOLUTION.md`). Word division is not written; accents appear only occasionally, as ticks or dots. Findings specific to this card:
 
 - k has two forms: the section mark (8-like) and an S-hook. The S-hook is distinct from g (ς), and this holds on all rows.
@@ -124,3 +126,16 @@ Verdict REVISE. All findings addressed. The 28 main rows keep their reading; onl
 9. **Command — fixed.** Sign table added, and the Reproduction section says plainly that the ledger is the reading.
 
 Could not verify, as in the review: the green cursive word (item 10 said short; it runs to about ten letters and under the box, and is unread), the date, and anything under the torn stamp.
+
+## Stamp-box message (2026-11-03)
+
+Audit by Claude Opus 5.5, ordered by the human (Tomáš Pavuk) on 2026-11-03. New crops of the hires address scan: `work/stamp-2026-11-03/` (overview, `stamp_all.png` 2x, `stamp_top.png` and `stamp_bot.png` 3x, `S6_5x_R.png` 5x red channel).
+
+- **State of the box:** the stamp is lifted. Only torn perforated fragments of it remain at the top edge and the lower corners; the paper under it is bare apart from the black triangular postage-due mark, which was struck over the writing. The writing under the stamp is the 7-row block S1–S7, in green ink, **in the cipher signs only**; there is no plain-Hungarian text in the box.
+- **Reading:** the new crops confirm the reading already given above (ledger rows S1–S7, item 1); no letter was added or changed today. On the 5x red-channel crop of S6 the hooked long-tailed head and the two strokes are as described in item 1, and they still give no letter.
+- Literal: `udvö{z?}{l?}i·· | szam | talan | szor | szer{e?} | ··{k?}ed | {v?}ese{f?}{e?}ri`
+- Normalized Hungarian (tentative): Üdvözli [..] számtalanszor szere[tő?] [k?]ed[v?]ese [F?]eri.
+- English (tentative): [Your] loving sweetheart Feri greets [you] countless times.
+- Slovak (neisté): Nespočetnekrát [Vás] pozdravuje Váš milujúci milý Feri.
+- **What stays unread:** the two marks at the end of S1 (perhaps an object such as *Önt*, not visible), the two signs at the start of S6 (where *szerető* needs a *tő* that is not written visibly), and the first sign of S7; k, v, f are tentative. *Üdvözli … számtalanszor* is read from the pixels; *szerető kedvese Feri* rests on the family closing (hcp-1307) and is not proved by the signs.
+- The reproduction script is unchanged: the stamp rows were already in `work/ledger.txt`.

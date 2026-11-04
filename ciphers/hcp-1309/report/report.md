@@ -26,7 +26,7 @@ Three parts of the cipher text agree with independent clear text on the same car
 
 ## Key
 
-Hungarian, simple monoalphabetic substitution with invented graphic signs. The names below are conventional descriptions of handwritten shapes.
+Hungarian, simple monoalphabetic substitution with invented graphic signs, combined with steganography: part of the message is hidden in the stamp box under the stamp, which has since been lifted. Register type: **MASC + Steganography** (updated 2026-11-03). The names below are conventional descriptions of handwritten shapes.
 
 | Sign | Plain | Sign | Plain | Sign | Plain |
 |---|---|---|---|---|---|

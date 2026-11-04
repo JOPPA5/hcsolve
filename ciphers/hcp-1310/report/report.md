@@ -2,17 +2,17 @@
 
 Human solver: Tomáš Pavuk
 
-**Status: whole message read (all 21 main rows, the 6 rows under the stamp and the line below the address; 374 signs); one word, *Darasztin*, is not identified as a place. Independent review 1 verdict REVISE; two signs and one normalized word corrected.** Report dated 2026-10-30.
+**Status: whole message read (all 21 main rows, the 6 rows under the stamp and the line below the address; 374 signs); one word, Darasztin, is not identified as a place. Independent review 1 verdict REVISE; two signs and one normalized word corrected.** Report dated 2026-10-30.
 
 ## Origin and context
 
 The cryptogram is record 1310 of the HC Portal (https://crypto.hcportal.eu/dashboard/cryptograms/1310), portal name cpc_1912-07-03_HU__HU_Jasz Arokszalas_jolanka-28, part of Tobias Schrödel's collection of cryptographic postcards. When it was captured on 2026-10-30 the portal listed it as **Not solved**, tagged Postcard, T. Schrödel Collection, category Substitution, date 1912-07-03, language Unknown, sender Unknown, recipient Tóth Jolánka, with no transcription or solution attached. This report settles the language: it is Hungarian.
 
-The picture side is a printed song card, *Hej cigány hallod-e?* (publisher number 3077/78), with no cipher text. Everything enciphered is on the address side, in red ink: 21 rows on the left, six short rows under the stamp, and one line below the address.
+The picture side is a printed song card, Hej cigány hallod-e? (publisher number 3077/78), with no cipher text. Everything enciphered is on the address side, in red ink: 21 rows on the left, six short rows under the stamp, and one line below the address.
 
-The address and dateline are in plain writing: *Szép reményű Tóth Jolánka úrleánynak, Jász Árokszálás* and *Kelt Gyöngyös 1912 Júl. 1 reggel* ("Written at Gyöngyös, 1 July 1912, in the morning"). The dateline agrees with the postmarks, which show July 1 and a Jászárokszállás mark reading Jul 3. The writer signs himself Feri. He is the sender of many cards to Jolánka in this cipher, several of them finished in this repository (HCP 1212, 1213, 1216, 1217, 1218, 1243, 1301, 1305).
+The address and dateline are in plain writing: Szép reményű Tóth Jolánka úrleánynak, Jász Árokszálás and Kelt Gyöngyös 1912 Júl. 1 reggel ("Written at Gyöngyös, 1 July 1912, in the morning"). The dateline agrees with the postmarks, which show July 1 and a Jászárokszállás mark reading Jul 3. The writer signs himself Feri. He is the sender of many cards to Jolánka in this cipher, several of them finished in this repository (HCP 1212, 1213, 1216, 1217, 1218, 1243, 1301, 1305).
 
-Other marks, none of them cipher: a small red number in the bottom right corner, perhaps 7/27 (uncertain), and a faint pencil note under the postmark. The note starts *sziv...*, has a capital J-like form and ends *...ák hoz*; *Szívem Jolánkához* ("to my heart's Jolánka") is a hypothesis and nothing depends on it.
+Other marks, none of them cipher: a small red number in the bottom right corner, perhaps 7/27 (uncertain), and a faint pencil note under the postmark. The note starts sziv..., has a capital J-like form and ends ...ák hoz; Szívem Jolánkához ("to my heart's Jolánka") is a hypothesis and nothing depends on it.
 
 ![Picture side, printed song card with no cipher (source/picture-large.jpg)](../source/picture-large.jpg)
 
@@ -24,11 +24,11 @@ The transcription is manual. No OCR was used and the portal supplied none. Every
 
 The card was read with a **known, transferred key**; this is not a new key recovery. The key comes from the finished Jolánka cards, chiefly HCP 1216. That key was first transferred by the OpenAI GPT solver and completed by Claude Opus 5.5. On this card, the reading, ledger and interpretation are by Claude Opus 5.5; no earlier work on this number exists. The key applied without change and no sign fell outside it.
 
-The first attempt misread the chevron as d, which blocked the first row. Once d was recognised as short + tall stroke, h as tall + short, and the chevron as v, the opening *kedves egyetlen reményem* appeared and the remaining rows followed. Rotating the stamp block by 180 degrees was also tried and was wrong: the block is upright.
+The first attempt misread the chevron as d, which blocked the first row. Once d was recognised as short + tall stroke, h as tall + short, and the chevron as v, the opening kedves egyetlen reményem appeared and the remaining rows followed. Rotating the stamp block by 180 degrees was also tried and was wrong: the block is upright.
 
 ## Key
 
-Simple monoalphabetic substitution with invented graphic signs, written continuously. The names are conventional labels for handwritten shapes.
+Simple monoalphabetic substitution with invented graphic signs, written continuously. Register type: MASC + Steganography (updated 2026-11-03), because the six rows "Csókjaidra szomjazok. Hű kedvesed Feri." are hidden in the stamp box under the stamp, which has since been lifted. The names are conventional labels for handwritten shapes.
 
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|
@@ -92,23 +92,23 @@ The script uses only the Python standard library. It checks the SHA-256 of both 
 
 ## Uncertainties
 
-- **Row 18, *Darasztin*.** Every sign is read, but the word is not identified. It has a parallel on HCP 1305, row 5, `mulatharasztin` (*Hogy mulat ...?*, "how are you amusing yourself ...?"): the same eight letters after the first sign, in the same *mulat-* context. It is probably one place or jocular name. The first signs differ: d here, h/p on HCP 1305. These are the same two strokes in opposite order, so one card may contain a slip. *Darasztin* / *Harasztin* ("at Haraszt[i]") is a hypothesis; such a place could not be confirmed.
+- **Row 18, Darasztin.** Every sign is read, but the word is not identified. It has a parallel on HCP 1305, row 5, `mulatharasztin` (Hogy mulat ...?, "how are you amusing yourself ...?"): the same eight letters after the first sign, in the same mulat- context. It is probably one place or jocular name. The first signs differ: d here, h/p on HCP 1305. These are the same two strokes in opposite order, so one card may contain a slip. Darasztin / Harasztin ("at Haraszt[i]") is a hypothesis; such a place could not be confirmed.
 - **Word-sense calls.** These signs are decided by the word, not by shape alone:
-  - the h of *hű* (stamp row 5), where only one thick stroke is visible;
-  - the t of *volt* (row 11), with a doubled stroke that leans towards r;
-  - the t of *távolból* (row 19), crossed by the following a;
-  - the sixth sign of *szeretetel*, blotted and closer to r;
-  - the d of *kedvesed* (stamp row 6), with a faded right stroke.
-- **Row 7, third sign.** A 5-like section mark, read k on shape: *megtámadtak, ahogy*. The alternative s gives *megtámadta, s ahogy* and the same story.
-- **Writer's spellings.** He drops letters and sometimes writes two bars for three. Normalized: *jotek* to jöttek, *talakoztam* to találkoztam, *lovödöztek* to lövöldöztek, *a id* to az idő, *mulatas* to mulatást, *tiszteleakedvas* to tisztelem a kedves, *kadvasse* to kedvese, *szalasban* to Árokszállásban (the card has *szálás* in the plain address too). *Isten ve|edesem* rests on word sense: the writer lost `l` and one `ed`. The dropped m of *tisztelem* is an interpretation, not a hidden sign; a pink blot in row 21 lies under a sign that is still a wave.
-- **The formal *kedvese*** in row 20 sits beside informal *veled* and *kedvesed*; it is kept as written.
-- **The events** are the writer's report and could not be checked. "Him" comes from *neki*, which has no gender in Hungarian. Visznek is a village near Gyöngyös and Jászárokszállás; its exact position relative to the two towns was not checked against a map.
+  - the h of hű (stamp row 5), where only one thick stroke is visible;
+  - the t of volt (row 11), with a doubled stroke that leans towards r;
+  - the t of távolból (row 19), crossed by the following a;
+  - the sixth sign of szeretetel, blotted and closer to r;
+  - the d of kedvesed (stamp row 6), with a faded right stroke.
+- **Row 7, third sign.** A 5-like section mark, read k on shape: megtámadtak, ahogy. The alternative s gives megtámadta, s ahogy and the same story.
+- **Writer's spellings.** He drops letters and sometimes writes two bars for three. Normalized: jotek to jöttek, talakoztam to találkoztam, lovödöztek to lövöldöztek, a id to az idő, mulatas to mulatást, tiszteleakedvas to tisztelem a kedves, kadvasse to kedvese, szalasban to Árokszállásban (the card has szálás in the plain address too). Isten ve|edesem rests on word sense: the writer lost `l` and one `ed`. The dropped m of tisztelem is an interpretation, not a hidden sign; a pink blot in row 21 lies under a sign that is still a wave.
+- **The formal kedvese** in row 20 sits beside informal veled and kedvesed; it is kept as written.
+- **The events** are the writer's report and could not be checked. "Him" comes from neki, which has no gender in Hungarian. Visznek is a village near Gyöngyös and Jászárokszállás; its exact position relative to the two towns was not checked against a map.
 - **The corner mark** and the middle of the pencil note remain uncertain.
 - **Prior work.** No published solution was found or used: the portal shows Not solved with nothing attached, and the orchestrator found no record for this target in the AI Decipherment Register on 2026-10-30.
 
 ## Why the reading is believed correct
 
-The unchanged family key turns every sign into Hungarian. The sense runs across row breaks (*megérkez|tem*, *ame|lyiket*, *ne|ki*), and the stamp rows join into *csókjaidra szomjazok*. Repeated words decode identically: *találkoz-* in rows 4 and 12, *Feri* twice, *kedve-* three times. The stock phrases *egyetlen reményem* and *a távolból* match sister cards, and the places fit the dateline and the address.
+The unchanged family key turns every sign into Hungarian. The sense runs across row breaks (megérkez|tem, ame|lyiket, ne|ki), and the stamp rows join into csókjaidra szomjazok. Repeated words decode identically: találkoz- in rows 4 and 12, Feri twice, kedve- three times. The stock phrases egyetlen reményem and a távolból match sister cards, and the places fit the dateline and the address.
 
 ## Review summary
 
@@ -116,8 +116,8 @@ Reviewer: a separate Claude Opus 5.5 agent, round 1, verdict **REVISE**. The rev
 
 - **Row 13 (major).** The sign before the final l has three bars, so it is e, not a. The row reads `meolyaneberekel`. This was a misreading that had been explained as a spelling habit; the note was removed.
 - **Row 18 (major).** The ninth sign is n, not h, because the short stroke stands low, unlike this card's h. The solver's claim that no sister card helps was false, and the HCP 1305 parallel is now recorded. The word was previously left untranslated; it now appears as a marked hypothesis.
-- **Row 9 (minor).** A clear acute gives *még rá is*, not *meg rá is*.
-- **Disclosure (minor).** The h of *hű* and the t of *volt* are now listed as word-sense calls.
+- **Row 9 (minor).** A clear acute gives még rá is, not meg rá is.
+- **Disclosure (minor).** The h of hű and the t of volt are now listed as word-sense calls.
 - **Pencil note and status wording (minor).** Updated, and "between" for Visznek softened to "near".
 
 The story and the key did not change.

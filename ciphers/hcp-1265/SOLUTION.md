@@ -8,6 +8,8 @@ Credit: there is no earlier work on this number. The key was transferred from fi
 
 Hungarian, simple monoalphabetic substitution with invented graphic signs (the "Jolánka" family, same key as HCP1216, 1212, 1213, 1217, 1218, 1243, 1301), plus a plain-text address. The key was not changed for this card:
 
+Type note (2026-11-03): the card carries a hidden message in the stamp box, written in the cipher signs under the (now lifted) stamp, so the register type is **MASC + Steganography**.
+
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
 | two bars | a | section mark S | k | F-like | r |
@@ -97,6 +99,17 @@ Writer's habits (dropped and doubled letters) are as on sister cards. Every sign
 - The text runs on across line breaks with no forcing: *be|rénybe*, *töre|kedek*, *kiru|házkodhassak*, *hagy|juk*, *Haraszti|ra*, *Árokszá|lásba*, *leve|gő*, *vi|gyázon*, *megfáz|on*, *vigye|le*, *csó|kolom*, *szám|ta|lanszo*.
 - Repeated words decode identically: *hogy* ×11 (with *nehogy*), *Jolánkám* ×2, *Árokszállás* ×2, *levegő* ×2, *jó* ×3, *nem* ×3.
 - Names and places fit the family's context: cousin Ilonka, Berény, Haraszti, the addressee at Jászárokszállás, the writer Feri.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit, Claude Opus 5.5, 2026-11-03, ordered by the human. The stamp has been lifted; the box (printed dotted frame, upper right of the address side) holds eight short rows in the same red ink and the same cipher signs as the main text. No plain-Hungarian writing is in the box. The message was already read in full in the DONE1/FINAL version and is in `work/ledger.txt` (rows S1–S8), so `work/decode.py` already reproduces it; it was re-run today and still passes (597 signs in 34 rows). Fresh crops of the original at 3x: `work/stamp-2026-11-03/box_top_3x.png`, `box_bot_3x.png`, `overview.png`. The re-check found no sign to change.
+
+- Literal: `istenve | le[deleted] | dragamcso | kolom | szamta | lanszo | imadoja | feri`
+- Hungarian (normalized): Isten vele, [törölve] drágám! Csókolom számtalanszo[r]. Imádója, Feri.
+- English: Farewell, [deleted] my dear! I kiss you countless times. Your adorer, Feri.
+- Slovak: S Bohom, [prečiarknuté] moja drahá! Bozkávam Vás nespočetnekrát. Váš ctiteľ, Feri.
+
+Unread: the rest of row S2 after *le* is the writer's own heavy deletion (solid ink smear) and cannot be read; nothing is reconstructed. The r of *számtalanszor* is not written. The other irregular signs are listed under Uncertainties, item 11.
 
 ## Response to review 1
 

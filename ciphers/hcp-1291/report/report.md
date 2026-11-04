@@ -10,7 +10,7 @@ The cryptogram is record 1291 of the HC Portal (https://crypto.hcportal.eu/dashb
 
 The picture side is a tinted photograph of a couple with a printed Hungarian verse, Két szív ha földobog ("When two hearts leap"). It is ordinary print, not cipher.
 
-The address side carries the cipher text in 22 rows on the left half and 6 more rows on the place of the stamp, which has been removed. The address is in plain writing: as far as can be made out, Szépreményű Tóth Jolánka úrleánynak, Jász Árokszállás ("To the Hopeful Miss Jolánka Tóth, Jászárokszállás"); the first word lies under a postmark and is not secure.
+The address side carries the cipher text in 22 rows on the left half and 6 more rows on the place of the stamp, which has been removed. These six rows were hidden under the stamp when the card was sent (steganography); a stamp-box audit on 2026-11-03 re-read them on new crops with no change. The address is in plain writing: as far as can be made out, Szépreményű Tóth Jolánka úrleánynak, Jász Árokszállás ("To the Hopeful Miss Jolánka Tóth, Jászárokszállás"); the first word lies under a postmark and is not secure.
 
 The card has two postmarks. A round date stamp in the middle shows …SZAPÁTI (Jászapáti) 913 AUG 31. A second, larger strike sits at the stamp position, with `BU…` and `913` legible and its place and day not. So 31 August is the date of the Jászapáti strike; whether that was the day of sending, transit or arrival is not known.
 
@@ -34,7 +34,7 @@ The reviewer made an independent row-by-row transcription from its own crops and
 
 ## Key
 
-Hungarian, simple monoalphabetic substitution with invented graphic signs. Digraphs are spelt with two signs (gy = g+y, sz = s+z, ny = n+y). Accents are marks over the sign and are mostly faint.
+Hungarian, simple monoalphabetic substitution with invented graphic signs, with a steganographic part: six rows of the message are hidden in the stamp box under the stamp. Register type: **MASC + Steganography** (set 2026-11-03). Digraphs are spelt with two signs (gy = g+y, sz = s+z, ny = n+y). Accents are marks over the sign and are mostly faint.
 
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|

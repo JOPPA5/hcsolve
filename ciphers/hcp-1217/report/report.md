@@ -10,7 +10,7 @@ Solver: OpenAI GPT-6. Postcard dated 2 October 1912, addressed to Tóth Jolánka
 
 [HC Portal record](https://crypto.hcportal.eu/dashboard/cryptograms/1217) was visibly **Not solved**. General, Description and Attachments were read. Both postcard sides are preserved in `source/`; the portal supplied no transcription or solution. See `SOURCES.md` for attachment URLs and hashes.
 
-The text is Hungarian written with a graphic monoalphabetic substitution. The working alphabet was transferred from this workspace’s HCP1301/HCP1243 readings and tested manually against this separate card. Repeated greetings and unrelated coherent passages support the transfer; they do not resolve every handwritten symbol. Accents can modify the same base symbol; joined `gy` and `cs` require care.
+**Cipher type: MASC + Steganography** (updated 2026-11-03; previously MASC). The text is Hungarian written with a graphic monoalphabetic substitution. The working alphabet was transferred from this workspace’s HCP1301/HCP1243 readings and tested manually against this separate card. Repeated greetings and unrelated coherent passages support the transfer; they do not resolve every handwritten symbol. Accents can modify the same base symbol; joined `gy` and `cs` require care.
 
 The following is an editorial reading with spaces and punctuation, not an exact symbol-by-symbol transcript. Square brackets mark alternatives, supplied letters or gaps. No external plaintext was used for these passages. The AI Register search for `jolanka` returned “No matching contributions” among 37 contributions on the work date; that limited check does not prove that no historical solution exists elsewhere.
 
@@ -29,6 +29,19 @@ Under the stamp: Farewell, my darling! I wish you a pleasant time, and think som
 ## Uncertainty and remaining work
 
 All 19 main rows and eight stamp rows are covered. Row 12 reads utra; the translation keeps “I set out”. Row 16 ki is expanded only tentatively as ki[csit?]. Row 18 eze is interpreted as [Ezzel?]. The source Ujbesten (b) is normalized to Újpesten (p). Row 13 ends in a small curved sign: k is preferred to s; it is not m, and jöttek is the adopted reading. Row 17 eböl alt is normalized to Ebből állt. Row 8 has an exceptional looped initial S and an n under a pink smudge, flagged in the ledger. Accents and doubled consonants are editorial; h/p remains a near-homograph. Independent review by Claude Opus 5.5 accepted the decipherment subject to these corrections and explicitly waived another round.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit, 2026-11-03 (Claude Opus 5.5, by order of Tomáš Pavuk). The postage stamp has been lifted; only a small green corner fragment remains at the top left of the stamp box. Under it are eight short lines written in the same cipher signs as the main text (no plain Hungarian), crossed by a blue circular overprint and a smaller dark mark that obscure no letter beyond what the existing ledger already records. Crop: `work/stamp-2026-11-03/stamp-box-4x.png`. These eight lines were already fully read as ledger rows S1–S8 (and confirmed by REVIEW1); this audit re-checked them by eye against the crop and found no change.
+
+- Literal (rows S1–S8, as decoded from `work/as-seen.txt`; X = u-sign, F = r-sign): `ISTENVELE / ÉDESEMJO / MULATAST / KIVANOK / ESGONDOL / JONNEHA / RAMHŰKED / VESERE`
+- Hungarian (normalized): Isten vele, édesem! Jó mulatást kívánok, és gondoljon néha rám, hű kedvesére.
+- English: Farewell, my darling! I wish you a pleasant time, and think of me sometimes, your faithful sweetheart.
+- Slovak: Zbohom, miláčik! Prajem Vám dobrú zábavu a myslite niekedy na mňa, na svojho verného milého.
+
+Unread: nothing; accents and doubled letters (mulatást, kívánok, gondoljon, rám, kedvesére) are editorial as in the main text. The reproduction command already includes rows S1–S8; it was not changed.
+
+**Cipher type (2026-11-03):** MASC + Steganography — monoalphabetic graphic substitution, with a second ciphered message hidden in the stamp box under the (now lifted) stamp.
 
 ## Working key
 

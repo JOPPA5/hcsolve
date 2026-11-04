@@ -6,6 +6,8 @@
 
 Hungarian, simple monoalphabetic substitution with invented graphic signs (MASC): the "Jolánka" postcard family. The key was transferred unchanged from HCP1216 (also 1212, 1213, 1217, 1218, 1243, 1301).
 
+Type note (2026-11-03): the card also carries a hidden message in the cipher signs in the stamp box, under the (now lifted) stamp, so the register type is now "MASC + Steganography".
+
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
 | two bars | a | section mark S | k | F-like | r |
@@ -97,3 +99,14 @@ Verdict ACCEPT. I reread each sign on the reviewer's enlargements (`review/work/
 3. **Fixed.** Item 10 no longer says no other letter makes a word; it rests on the family formula and says *csókolok* is possible.
 4. **Fixed.** All noted in uncertainty 17; `r13i` and `r11endb` confirm the row 13 i and row 11 a.
 5. **Fixed.** `r05top` and `r09cs` do show different builds, so row 5 is now `C?`, printed `{c|cs}`. Uncertainty 6 and the key table are reworded; the table no longer says c is unused.
+
+## Stamp-box message (2026-11-03)
+
+Audit by Claude Opus 5.5 on the human's request of 2026-11-03. The stamp is lifted, and the ruled stamp box holds 7 rows of writing in the cipher signs (no plain Hungarian). The second postmark runs partly over the box. I re-checked the box on new 3x crops of the hi-res original (work/stamp-2026-11-03/box_top_3x.png, box_bot_3x.png). The 2026-11-01 reading is already complete and agrees with the pixels, so no letter changed.
+
+- Literal (ledger rows S1-S7, decoded by work/decode.py): istenvele | aviszont | latasra | holnap | csokolo[m] | szamta | lanszor
+- Normalized Hungarian: Isten vele, a viszontlátásra holnap! Csókolo[m] számtalanszor.
+- English: God be with you, until we meet tomorrow! I kiss you countless times.
+- Slovak: S Bohom, dovidenia zajtra! Bozkávam Vás nespočetnekrát.
+
+Unread: no clause. One letter is restored: the final m of csókolo[m] lies under an ink blot (uncertainty 10). Rows S1-S3 are blurred by wet ink, and some signs there are read from the word (uncertainty 9). The stamp rows were already in the ledger, and the reproduction command already prints them.

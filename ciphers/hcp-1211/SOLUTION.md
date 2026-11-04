@@ -6,6 +6,8 @@
 
 Hungarian, simple monoalphabetic substitution with invented graphic signs (the Jolánka postcard family). The key was transferred from HCP1216 / 1212 and tested on this card; one sign form differs, see below. The picture side has no writing. The address and the note under the stamp are in plain hand.
 
+2026-11-03 type note: register type is now **MASC + Steganography**, because a plain-Hungarian message is hidden in the stamp box under the (now lifted) stamp; see "Stamp-box message (2026-11-03)".
+
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
 | two bars | a | section mark with dot below | k | F-like | r |
@@ -59,6 +61,24 @@ Under the stamp: I kiss your little mouth, made for kissing. Feri
 Moja sladká jediná nádej! Vaše riadky som s vďakou dostal, prišli v očakávanom čase. Sladká moja Jolánka, od šťastia sotva dokážem odpovedať. Vo Vašich krásnych očiach pre mňa kvitne najkrajšia ruža a vo Vašom srdci aj nezábudka kvitne len pre mňa. Kvet Vášho srdca, nech nikdy nezvädne, nech je osud akokoľvek krutý, svoju sladkú Jolánku by som nikdy nedokázal zabudnúť. S Bohom, drahá, dovidenia! Feri
 
 Pod známkou: Bozkávam Vaše malé ústa stvorené na bozkávanie. Feri
+
+## Stamp-box message (2026-11-03)
+
+Audit by Claude Opus 5.5 on 2026-11-03, from crops of `work/hires/*_adr.jpg` (stamp box, rotated 90 degrees clockwise, 2x and 4x; saved in `work/stamp-2026-11-03/`). The stamp has been lifted; only torn paper edges with green printing and perforation marks remain at both ends. The box holds four short lines of writing in the same pink ink, in plain Hungarian cursive, not in the cipher signs, written along the long side of the box. No cipher signs are under the stamp.
+
+Literal reading, line by line: `csokolom a` / `csokro va-` / `ló kis sza` / `ját Feri`
+
+- In line 2 the letter after *csokr* is a closed loop like o; it is taken as the writer's a (*csókra*). The next sign is v, then a, then a hyphen, so the word is *va-ló*. This is the same reading as above, only the line break is now stated.
+- Line 3 has *ló* with a clear dot/accent; *kis* and *sza* are paler but legible.
+- Line 4 begins with a descending loop read as j (*sza-ját*), with the accent of á as a dot; *Feri* is clear.
+
+Normalized Hungarian: Csókolom a csókra való kis száját. Feri
+
+English: I kiss your little mouth, made for kissing. Feri
+
+Slovak: Bozkávam Vaše malé ústa stvorené na bozkávanie. Feri
+
+Nothing stays unread in the stamp box. The only interpretive points are the o-for-a in *csókra* and the j at the start of line 4, both read by shape plus word sense. The stamp text is read by eye; `work/decode.py` covers the cipher ledger only and was not changed.
 
 ## Uncertainties
 

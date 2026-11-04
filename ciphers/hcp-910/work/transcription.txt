@@ -1,0 +1,23 @@
+# hcp-910 transcription (Claude Opus 5.5, 2026-11-03), read from work/hires/..._adr.jpg
+# Digits are cipher signs; all other letters are plain Kurrent letters transcribed in Latin.
+# 1" = 1 with umlaut dots (ä), 4" = ä/ö/ü-style umlaut on the digit, 5" = ü.
+# Inferred, not seen: the umlaut dots on 5" in w5"9d2 (würde) lie under the postmark and rest on word sense
+#   ("wurde" is possible, same sense). The 2 in 72863ch / f92527 and all other signs are seen.
+# Lines prefixed PLAIN: are not enciphered and are printed unchanged.
+568 d27
+PLAIN: 2. [date numeral, not a cipher sign; postmark Ulm 3.8.17]
+PLAIN: Liebe Eltern!
+2372 k61372 b3tt2
+h1"tt2 3ch 74ch 177 25ch
+72863ch 20 w5"9d2
+83ch 029 f92527
+w177 J29 8329
+237 P1k2t Z5ck29
+sch3ck27 k4"7t, d277
+3ch w230 73cht w177 3ch
+37 59615b k4882.
+PLAIN: Gruß Euer Sohn
+PLAIN: Zwick
+PLAIN: (vertical, along the divider) Den Brief habe ich erhalten, besten Dank dafür.
+PLAIN: (sender, top right) Abs. M. Zwick, [rank unread, probably Musketier] [unit unread, probably J.R.] 247, Ulm a. Donau
+PLAIN: (address) An Herrn Georg Zwick, Erbenschwang, Post Ingenried b. Schongau (Bay.)

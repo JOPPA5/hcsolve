@@ -1,0 +1,5 @@
+# hcp-989 cipher signs, own transcription (Claude Opus 5.5) from work/hires/cpc_1901-10-19_AT_Wien_AT_Wien__pic.jpg,
+# left margin of the picture side, card turned 90 deg; crops in work/crops/ (line3.png, w1a.png, w1b.png, c2.png).
+# Shape codes as in work/key.json. Line 3 of the message, after "Uhr in der":
+diag b f2 x hook_l f2 x stem lam sep bolt arrow_up u_pi b x sep
+# Line 4 parenthetical (8 signs, signs 3-5 overwritten by the writer) is NOT transcribed into codes: see SOLUTION.md.

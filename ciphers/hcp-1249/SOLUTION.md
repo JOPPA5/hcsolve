@@ -8,6 +8,8 @@ Credit: all reading on this card is by Claude Opus 5.5. The key was not invented
 
 Hungarian, simple monoalphabetic substitution with invented graphic signs (Jolánka postcard family, same key as HCP1216). Digits and word spacing are plain. Word division is mostly absent or unreliable.
 
+Type note (2026-11-03): register type is now **MASC + Steganography**. The card carries a hidden seven-row message in the cipher signs in the stamp box, under the (now lifted) stamp; it is read in full below (rows S1 to S7, "Under the stamp"). See the section "Stamp-box message (2026-11-03)".
+
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
 | two bars | a | S shape, short | k | F-like | r |
@@ -84,6 +86,17 @@ Under the stamp: I can hardly wait for your kisses; believe me, [they are] sweet
 [Meretség: nevyriešené, azda „odvážna vec"], lebo to nie je ako v Árokszállási, kde ak dievča nemá známeho, môže tam presedieť do rána; a čo sa týka vašich súrodencov, ani tí proti tomu [nemôžu mať] námietky, lebo vás pozývam na dosť úctyhodnú zábavu, kam sa nedostane hocikto. Okrem toho bude ešte čas na rozmyslenie, lebo to bude až 24. a 25. júla. Drahá moja, ani nechcem myslieť na to, že neprídete, lebo tú finančnú obeť čoskoro prinesiem. Aj ja by som sa rád zabavil do sýtosti, zabával by som sa (alebo: ukázal by som [to]); to už ani nemusím písať, že sa dobre cítim tam, kde ste aj vy. Drahá moja, dúfam, že sa ešte v Árokszállási [uvidíme?]. Nič isté nemôžem napísať, lebo mne sa všetko plní naopak, čoho sa aj ja sotva dočkám. Týmto končím svoje riadky. Ostávam váš do hrobu verný milý Feri.
 
 Pod známkou: Sotva sa dočkám vašich bozkov; ver mi, [sú] sladšie než tá chvíľa. Feri.
+
+## Stamp-box message (2026-11-03)
+
+Audit at the human's request (Tóth Jolánka series: hidden message under the stamp). Fresh crops of the hi-res original, `work/stamp-2026-11-03/` (colour 2x, blue channel 4x in three bands). Finding: the stamp is **lifted, with writing under it**, seven rows in the **cipher signs** (same key), no plain Hungarian in the box. The signature row ends in the cipher signs for *Feri*. The message was already fully read in the ledger (rows S1 to S7, decoded by `work/decode.py`); the new crops agree with it and nothing was added or changed in the ledger or script.
+
+- Literal (decoder output, `[x]` = read through damage): csokjai[t] | alig[v][a] | [r][o][m][h][i][d][d] | edeseb | anal[a] | percz | n[é]lferi
+- Hungarian: Csókjait alig várom, hidd, édesebb annál a percznél. Feri.
+- English: I can hardly wait for your kisses; believe me, [they are] sweeter than that moment. Feri.
+- Slovak: Sotva sa dočkám vašich bozkov; ver mi, [sú] sladšie než tá chvíľa. Feri.
+
+Unread or weak: no clause is unread. S3 (*rom hidd*) is read through the gum blot and *hidd* stays tentative (Uncertainty 7); the vowel of S7 is read through damage.
 
 ## Uncertainties
 

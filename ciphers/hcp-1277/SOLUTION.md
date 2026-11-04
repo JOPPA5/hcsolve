@@ -8,6 +8,8 @@ Credit: all work on this number (transcription, key transfer, decipherment) is b
 
 Hungarian, simple monoalphabetic substitution with invented graphic signs (register label MASC), same key as HCP1216 unchanged. Accents are marks over the base sign.
 
+*2026-11-03 type note:* the card also carries a hidden cipher message written in the stamp box under the (now torn-away) stamp, so the register type is **MASC + Steganography**.
+
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
 | two bars | a | section mark / S | k | F-like | r |
@@ -98,3 +100,17 @@ Verdict REVISE. Reproduction re-run after the changes: `python3 -I ciphers/hcp-1
 6. **Two parts fixed, one part disputed.** The text now has *enyhébbek nem lesznek* and *szabadom*, with notes. I keep the comma in *most már visszakerültem, a régi utazási mederbe estem vissza*: with *estem vissza* now part of the sentence, *mederbe* belongs to that verb (the review's own finding 1 makes this the case), and making it one clause with *visszakerültem* would strand *estem vissza*.
 7. **Fixed.** The g-like k of *csókolo* and the last sign of S7 are in uncertainty 3; the ledger's last S7 sign is now `#`.
 8. **Partly disputed.** *Szépreményű* is recorded (uncertainty 8), and ÚJPEST is recorded. I do not accept `916`. The two legible digits read **91** with the 1 upright; "16" comes from viewing them upside down (`review/work/pm180.png`). The third digit is under the pen (`work/crops2/year.png`, `year3.png`). There is therefore no stated conflict with the portal's 1914, only an unconfirmed year 91x (uncertainty 7).
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit by Claude Opus 5.5 on the human's order of 2026-11-03. Crops: `work/stamp-2026-11-03/` (`box1x.png` the whole box; `low4x.png`, `low4x_blue.png` rows S5–S7 at 4x; `orange5x.png`, `orange5x_blue.png` the faded orange-brown signs at 5x, blue channel).
+
+**State of the box.** The stamp (green stamp, "POSTA … FILL[ÉR]" visible on the remaining frame) has been torn away over most of its face; only the frame edges and the lower-left corner remain stuck. Under it are seven short rows written **in the cipher signs** (green ink, faded to orange-brown at the right end of rows S5–S7). No plain-Hungarian writing is in the box. The dark ring at the start of row S7 is a postmark fragment, not a sign.
+
+**Literal (unchanged from the ledger, confirmed on the new crops):** `edesem | csokolo | lomsza | mtalan | szorsze | ret{?}{?}ed | s[...]er{?}`
+
+- Hungarian (normalized): Édesem, csókolom számtalanszor. Szeret[…] ked[…] […]
+- English: My sweet, I kiss you countless times. Lov[ing] sw[eetheart …]
+- Slovak: Drahá, bozkávam Vás nespočetnekrát. Milu[júci] mi[lý …]
+
+**What stays unread.** The closing formula (rows S6–S7) is only partly read: after *szeret* two signs are blotted/stained, *ed* is faint; in S7 only the first hook and a faint *e r* plus a last curved sign survive (on `orange5x_blue.png` a dot stands above-left of that last sign, which would fit the dotted i, but the dot may be a speck; I do not restore it). The expected *szerető kedvese Feri* is **not** a reading and is not printed. Nothing new was read today; the earlier reading stands.

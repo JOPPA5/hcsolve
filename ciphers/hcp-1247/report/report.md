@@ -30,7 +30,7 @@ The writer spells by ear: he loses double consonants (menyit for mennyit, akor f
 
 ## Key
 
-Hungarian simple monoalphabetic substitution with invented signs. The names are conventional descriptions of the handwritten shapes.
+Cipher type: MASC + Steganography (updated 2026-11-03). Hungarian simple monoalphabetic substitution with invented signs, with a further cipher note hidden in the stamp box under the stamp. The names are conventional descriptions of the handwritten shapes.
 
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|
@@ -84,6 +84,8 @@ Slovak translation:
 Milovaná sladká Jolánka! Moja jediná nádej! Nehnevajte sa, že som niektoré Vaše riadky nechal bez odpovede, ale som veľmi zaneprázdnený. Však áno, moja sladká, ako rýchlo letí čas. Myslím, že už to bude pekná kôpka. Ľutujem, ale zatiaľ neviem napísať, koľko ste poslali; len čo budem mať čas, hneď to všetko spočítam a napíšem. Moja sladká, čo sa týka zábavy, išiel by som len vtedy, keby som sa zabával s Vami, lebo ak to nemôžem stráviť s Vami, potom sa neoplatí míňať. Najmenej [jedno neisté slovo] asi 50 K. Nuž, radšej sa vzdám miesta v usporiadateľskom výbore; keď prídete hore, moja sladká, budem sa zabávať s Vami, ak to okolnosti dovolia. Myslím, že aj Vy prídete hore zabaviť sa, verte mi, moja sladká. Najradšej by som chcel, aby som to mohol povedať železničiarovej manželke, alebo lepšie povedané mojej sladkej malej žienke. Túto pohľadnicu som písal dva dni, môžete si predstaviť, ako som zaneprázdnený.
 
 Pod známkou: S Bohom, moja sladká! […]-dig (slovo prečítané len čiastočne) do videnia.
+
+Stamp-box audit (2026-11-03). The original scan was checked again at the stamp box: the stamp is torn away and the cipher note under it (six short rows in the same signs and pencil) was re-read from the pixels. The reading above is confirmed without change: [Is]ten vele, édesem! […]dig viszo[n]tlát[ásra] — "God be with you, my sweet! […]-dig, until we meet again." No plain Hungarian is written under the stamp. Because a message is hidden under the stamp, the register type is MASC + Steganography.
 
 ## What remains uncertain
 

@@ -11,6 +11,8 @@ Hungarian, monoalphabetic substitution with invented graphic signs: the Jolánka
 - bowl joined to "1"-hook = cs (*csak*); the same joined sign gives c in *percig*.
 - One crossed sign carries u and z (*tudja, úgy* / *azt, kérdezem*); the family's tail difference is not kept consistently, so the ledger sets the value by word (tokens Xu/Xz). This is a disclosed word-sense call.
 
+**Type note (2026-11-03, Claude Opus 5.5):** the stamp is lifted and the stamp box holds nine rows of the same cipher (see "Stamp-box message" below), so the card type is **MASC + Steganography**. The card stays PARTIAL; it has no register entry and none is created.
+
 ## Reproduction
 
 ```sh
@@ -42,6 +44,26 @@ Môj sladký Ferko, moja sladká jediná nádej! Váš lístok som dostala, za �
 5. **Row 10:** the sign before *u t o m* is a cross with a bar to the right, literally f or j; *tudom* is the sense, not a sign match.
 
 Smaller disclosed points: hidden or smeared signs restored ({x} in the ledger): a of *igaz* (row 4 blot), a of *maga* (row 17), m of *mikor* (row 22, blotted first strokes), a of *az* (row 23), a of *ha* (row 24, blot), v of *levelet* (row 25, blot), e of *beszélt*, r of *-ről*, v, h, ü at the smeared stamp left edge. Row 24 ends *percigi*: the s of *is* is not seen. Row 22 *láthatom* is followed by an extra stroke tied into the v. Row 24 start: *ma* is stacked at the left margin. Writer's spelling kept: *hallgatok* written *halgatok* and *helgatok*, *aszt*, *mer*, *Mogyarné* (o for a, normalized Magyarné), *lenék*, *tehetne(n)*, *láthatnén*, *írtem*.
+
+## Stamp-box message (2026-11-03)
+
+Audit by Claude Opus 5.5 of the original scan (work/hires/*_adr.jpg; crops in work/stamp-2026-11-03/: box.png 1.5x, top.png and bot.png 3x, row1_red4x.png red channel 4x). The stamp has been lifted; the bare paper inside the red dashed stamp frame (top right) carries **nine rows in the cipher signs**, no plain Hungarian. A grey postmark arc runs over the top row. The rows were already in the ledger (S1-S9) and decoded by `work/decode.py` (re-run 2026-11-03, unchanged, still passes); this audit re-checked every row by eye against the crops and agrees with the ledger. The stamp text continues the last main-text sentence (row 25 ends *…olyan idegen levelet*).
+
+Literal (ledger; {x} = sign restored at the smeared left edge, [..] = unread):
+
+```
+S1 {í}rtem vál[..] éde      S2 s{e}m részem       S3 {r}ől a boldig
+S4 {v}íszontlátás           S5 ra szerető         S6 {h}ű kedvese
+S7 {ü}dvözli a              S8 távolból           S9 Jolánka
+```
+
+Normalized Hungarian: *[…levelet] írtam vál[…], édesem. Részemről a boldog viszontlátásra, szerető hű kedvese üdvözli a távolból Jolánka.*
+
+English: *[…that I wrote such a strange letter] [?], darling. For my part, until a happy reunion; your loving, faithful sweetheart greets you from afar, Jolánka.*
+
+Slovak: *[…že som napísala taký cudzí list] [?], drahý. Z mojej strany do šťastného videnia, milujúca verná milá Vás pozdravuje z diaľky, Jolánka.*
+
+Stays unread: in S1, after *v á l*, two to four signs are smeared under the old stamp gum and the postmark (red-channel crop shows only a wave and blurred bars); *válasz* would fit but is not read. This leaves the word, not a whole clause, open. Restored signs: í (S1), e (S2), r (S3), v (S4), h (S6), ü (S7) at the smeared left edge, each the only letter that makes the word. Writer's forms kept: *írtem*, *boldig*, *víszontlátás*.
 
 ## Plain text on the card
 

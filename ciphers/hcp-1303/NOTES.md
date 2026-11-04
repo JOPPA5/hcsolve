@@ -8,3 +8,5 @@ Dead ends: first took row 9-10 as unclear until p for h gave "egy par hetig ... 
 Stops: not the cipher. The bottom plain lines stay partly unread (name after Holes, word after Asztalosok, right-edge word). Ledger work/ledger.txt, decoder work/decode.py, normalized text work/normalized.txt.
 
 2026-10-30 (Claude Opus 5.5, solver, after review 1): REVISE, seven context and disclosure findings, all addressed in SOLUTION.md. Ledger GY split into G Y, normalized text brackets 10-ér[e], plain line now Holes Fe[...], [4 or 8]. Cipher reading unchanged. Postmark 13 stays open between year and day.
+
+2026-11-03 (Claude Opus 5.5, stamp-box audit ordered by Tomáš Pavuk): Cropped the stamp box of the hi-res address side (work/stamp-2026-11-03/). The stamp is lifted (green remnants at two corners) and has five cipher rows under it; re-read isten|vele|edesem|imado|jaferi, which matches the ledger exactly. No plain text in the box, nothing unread there. Type changed to MASC + Steganography in SOLUTION.md, register-entry.txt and report. Ledger and decode.py unchanged.

@@ -1,0 +1,16 @@
+# hcp-998 picture side, cipher block (card turned 90 deg; read with the date line "Am 25.11.01." at top).
+# One token per sign, separated by spaces. | = long-s-like word divider, = = line-end hyphen,
+# punctuation . , and the long dash — are kept literal. X" = sign X with a diaeresis.
+# Sign codes: B loop-b | o small circle | H H | 6 six | V v | U open box with inner hook | + plus
+# I serifed I | D triangle | T T (with or without top bar) | / slanted stroke | x x | K hooked k
+# 0 slanted zero | Y v-like cup | p rho | 1 vertical stroke | ' short tick | z tilde | A lambda-like
+# \ backslash | W rounded double-cup | P pi | - short horizontal stroke | Q circle with inner loop | u raised epsilon
+B o H 6 | V U + I H 6 — D H o T o 6 |
+D H o T o 6 | / x 6 K | 0 Y" p | / o H 6 o 6
+T H o 1 o 6 | 1 p H o 0 , V U 1 x T ' |
+H \ I | z o H A | I x 1 o | V \ I p o H =
+1 o | H \ I | / H p . o H 6 V A W o H =
+P o 6 | V o H | z x" p A T H \ I | - o =
+K Q" V V A | B o H 6 | T H o 1 V A o V |
+D U 6 | / o H 6 o p | A p . 0 p o u 6 / H 6
+B x - / x .

@@ -8,11 +8,11 @@ Human solver: Tomáš Pavuk
 
 The cryptogram is record 1293 of the HC Portal (https://crypto.hcportal.eu/dashboard/cryptograms/1293), portal name cpc_--_HU__HU_Jasz Arokszalas_jolanka-76, part of Tobias Schrödel's collection of cryptographic postcards (see the HistoCrypt proceedings, https://ecp.ep.liu.se/index.php/histocrypt). When it was captured on 2026-10-30 the portal listed it as **Not solved**, tagged Postcard and T. Schrödel Collection, category Substitution, date and language unknown, recipient Tóth Jolánka, with no transcription or solution attached. The language turns out to be Hungarian. A check of the AI Decipherment Register the same day found no record for this card.
 
-The picture side is a printed tinted photograph of a young man and a young woman speaking by telephone, with printed gilt captions in Hungarian (they include *Mit kívánsz édesem?*, "What do you wish, my sweet?"). It carries no cipher text.
+The picture side is a printed tinted photograph of a young man and a young woman speaking by telephone, with printed gilt captions in Hungarian (they include Mit kívánsz édesem?, "What do you wish, my sweet?"). It carries no cipher text.
 
 ![Picture side (source/picture-large.jpg)](../source/picture-large.jpg)
 
-The address side carries the plain address, read approximately as *Szépreményű Tóth Jolánka úrleánynak, Budapest, Petőfi u. 16*, with a faint last line beginning *ház-* (perhaps *házfelügyelő*). This address was not needed for the decipherment and is not claimed exactly. Budapest differs from Jászárokszállás, the place in the portal's file name. The stamp is torn off and the postmark is cut, so the card has no legible date.
+The address side carries the plain address, read approximately as Szépreményű Tóth Jolánka úrleánynak, Budapest, Petőfi u. 16, with a faint last line beginning ház- (perhaps házfelügyelő). This address was not needed for the decipherment and is not claimed exactly. Budapest differs from Jászárokszállás, the place in the portal's file name. The stamp has been lifted (a torn green remnant stays at the lower right of the square) and the postmark is cut, so the card has no legible date. Under the place of the stamp the writer had hidden the closing rows in cipher (see Method, item 5).
 
 ![Address side with the cipher text in violet pencil (source/address-large.jpg)](../source/address-large.jpg)
 
@@ -30,13 +30,13 @@ The reading path had to be traced on the card, and it is forced by the sense:
 2. Round the corner and up the right edge (E1).
 3. An arrow at the top right leads to the top margin, written upside down, right to left (T1).
 4. That ends at a ruled box with two short rows, turned 90° (B1, B2).
-5. A signature block of six short rows stands in the stamp square (S1–S6), upright.
+5. A signature block of six short rows stands in the stamp square (S1–S6), upright: Csókolom számtalanszor. Feri ("I kiss you countless times. Feri"). It lay under the stamp, now lifted, inside the postmark ring; it is the hidden (steganographic) part of the card. Stamp-box audit 2026-11-03: fully read, no sign restored.
 
 A separate Claude Opus 5.5 agent reviewed the work. It made its own crops, wrote its own transcription by sign class, and decoded it with a key typed from the HCP 1216 table.
 
 ## Key
 
-Hungarian simple monoalphabetic substitution with invented signs. The names are conventional descriptions of the handwritten shapes.
+Hungarian simple monoalphabetic substitution with invented signs, with steganography: the closing rows are hidden in the stamp box under the stamp. Register type: **MASC + Steganography** (2026-11-03). The names are conventional descriptions of the handwritten shapes.
 
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@ On this card:
 - **gy** is written as two signs, g + y, not as the joined digraph of HCP 1216.
 - **o** (plain loop) and **i** (loop with a crossing stroke and a tick above) are close, and the mark decides.
 - **ö** has two dots.
-- The writer's **j** stands for *ly* (*ojan*, *ijen*).
+- The writer's **j** stands for ly (ojan, ijen).
 - **h** has its short tick on the right of the tall stroke and **d** on the left. That rule has three exceptions, listed under Uncertainties.
 
 ## Plaintext
@@ -92,7 +92,7 @@ Slovak translation: **Milovaná sladká, moja jediná nádej! Nehnevajte sa na m
 
 **Bozkávam Vás nespočetnekrát. Feri**
 
-The writer addresses her formally (*maga*, third-person verbs), as in the other cards of the family. The content, a long duty and a roll call, suggests a man in service; nothing on the card says what service.
+The writer addresses her formally (maga, third-person verbs), as in the other cards of the family. The content, a long duty and a roll call, suggests a man in service; nothing on the card says what service.
 
 ## Reproduction
 
@@ -108,36 +108,36 @@ The script uses only the Python standard library and writes no files. It checks 
 
 **Signs read by sense against their shape.** There are three.
 
-- Both p of row 14 (*épen*, *beléptem*) have the d shape, with the tick on the left. Taken literally they give *eden*, *beledtem*.
-- The d of row 4 *de* has the h shape, with the tick on the right. The same slip occurs on HCP 1216 row 5.
+- Both p of row 14 (épen, beléptem) have the d shape, with the tick on the left. Taken literally they give eden, beledtem.
+- The d of row 4 de has the h shape, with the tick on the right. The same slip occurs on HCP 1216 row 5.
 
 The ledger marks these three signs.
 
 ![Row 14 with the two d-shaped p signs (review/work/crops/p14.png)](../review/work/crops/p14.png)
 
-**Sentence with an open reading.** Row 23 reads k-e-r-j-e-k-i. The preferred division is *kérje ki bocsánatomat*: he asks her to apologise for him, presumably to those who went home with her, since *hazamentek* is plural. It leaves no stray sign and explains the possessive *-omat*, but *kikér* with *bocsánat* is not the usual phrase and needs a native reader's judgment. The alternative is *kérjek [i] bocsánatomat*, "let me ask your forgiveness", with one stray i and a strange *-omat*.
+**Sentence with an open reading.** Row 23 reads k-e-r-j-e-k-i. The preferred division is kérje ki bocsánatomat: he asks her to apologise for him, presumably to those who went home with her, since hazamentek is plural. It leaves no stray sign and explains the possessive -omat, but kikér with bocsánat is not the usual phrase and needs a native reader's judgment. The alternative is kérjek [i] bocsánatomat, "let me ask your forgiveness", with one stray i and a strange -omat.
 
 **Other sense readings and damaged places:**
 
-- Row 11 *de s én is*: literal *desenis*, an odd pleonasm. The blot before it is the most damaged sign of the card. If it is a cancelled sign, *hazament, édes, én is hazamentem* is possible. The signs do not decide.
-- Row 6 *mikor*: the k has a closed lower bowl, near the b sign.
-- Row 8 *kerestem*: the second e has its bars joined into a loop.
-- Row 8 *magát* and the k of row 11 *mentek* lie in moisture stains.
-- Row 21 end: rubbed. The *tt* of *alatta* cannot be counted and is a sense reading. The final a repeats the a of row 22 and is dropped.
-- Row 22 *idő*: the ő is overwritten by bar-like strokes.
-- Row 23 *maleta*: normalized *mellette*. The a-signs stand where standard spelling has e.
+- Row 11 de s én is: literal desenis, an odd pleonasm. The blot before it is the most damaged sign of the card. If it is a cancelled sign, hazament, édes, én is hazamentem is possible. The signs do not decide.
+- Row 6 mikor: the k has a closed lower bowl, near the b sign.
+- Row 8 kerestem: the second e has its bars joined into a loop.
+- Row 8 magát and the k of row 11 mentek lie in moisture stains.
+- Row 21 end: rubbed. The tt of alatta cannot be counted and is a sense reading. The final a repeats the a of row 22 and is dropped.
+- Row 22 idő: the ő is overwritten by bar-like strokes.
+- Row 23 maleta: normalized mellette. The a-signs stand where standard spelling has e.
 - S3–S5 lie partly under the green triangle.
 
 **Letters supplied or dropped in normalization:**
 
-- *vezén[y]lés*
-- *nevem[en]*
-- *el[f]uttam*, colloquial for *elfutottam*
-- *legjobb[an]*
-- *le[n]ni*
-- Row 20 *visszajöjjék* ("that you come back") could also be *visszajöjjek* ("that I come back"), because accents are not visible. The former fits the promised meeting.
-- E1 ends *mikora* and T1 starts *mikor* again: a restart or *mikorra*.
-- A wave after *valami* (*valamil*, touching the box line) makes no word; it may be a slip or a flourish.
+- vezén[y]lés
+- nevem[en]
+- el[f]uttam, colloquial for elfutottam
+- legjobb[an]
+- le[n]ni
+- Row 20 visszajöjjék ("that you come back") could also be visszajöjjek ("that I come back"), because accents are not visible. The former fits the promised meeting.
+- E1 ends mikora and T1 starts mikor again: a restart or mikorra.
+- A wave after valami (valamil, touching the box line) makes no word; it may be a slip or a flourish.
 - Most acute accents are not visible and are supplied.
 
 **Not established:** the date, the sender's full identity, the exact address. No search for a prior publication was made beyond the portal status and the AI Decipherment Register.
@@ -146,14 +146,14 @@ The ledger marks these three signs.
 
 Reviewer: a separate Claude Opus 5.5 agent, round 1, verdict **REVISE**. It ran the command, read all rows from its own crops and decoded them with its own script: 523 signs in 33 rows, all mapped, differing from the solver's ledger in four rows only. It confirmed the family key, the reading path and that the plaintext is natural colloquial Hungarian, and it agreed on most of the hard spots. Its six findings, all addressed:
 
-1. **Row 23 had one n too many in the ledger** (major). The card has *leni*, so the second n is now supplied in brackets, and the claim that no sign was restored was withdrawn.
-2. **B1 *közbe* has its ö dots** (minor). The solver had missed them.
+1. **Row 23 had one n too many in the ledger** (major). The card has leni, so the second n is now supplied in brackets, and the claim that no sign was restored was withdrawn.
+2. **B1 közbe has its ö dots** (minor). The solver had missed them.
 3. **The h/p/d statement was wrong** (minor). The solver had said the p of row 14 looked like h, but it has the d shape. The readings stand, with the correct basis stated.
-4. **Row 23 word division** (major). The solver's *kérjek i bocsánatomat* is replaced by *kérje ki bocsánatomat* as preferred reading, which removed a "meaningless sign".
-5. **Row 11** (minor). The alternative *hazament, édes* is now disclosed.
+4. **Row 23 word division** (major). The solver's kérjek i bocsánatomat is replaced by kérje ki bocsánatomat as preferred reading, which removed a "meaningless sign".
+5. **Row 11** (minor). The alternative hazament, édes is now disclosed.
 6. **vezén[y]lés** (minor). The y is now bracketed.
 
-In all, one letter was removed from the literal text, one sign gained its dots, and one sentence was re-divided and retranslated. After the corrections `work/decode.py` still runs and its hashes check out. The reviewer could not verify the accents, the date, or the native idiom of *kérje ki bocsánatomat* and *a nevem*.
+In all, one letter was removed from the literal text, one sign gained its dots, and one sentence was re-divided and retranslated. After the corrections `work/decode.py` still runs and its hashes check out. The reviewer could not verify the accents, the date, or the native idiom of kérje ki bocsánatomat and a nevem.
 
 ## Sources
 

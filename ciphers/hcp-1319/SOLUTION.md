@@ -4,7 +4,7 @@
 
 ## Cipher type and key
 
-Hungarian, simple monoalphabetic substitution with invented graphic signs (Jolánka postcard family, the same key as HCP1212, 1213, 1216, 1217, 1218, 1243, 1301). No new key was invented, and every letter value below is the family's.
+Hungarian, simple monoalphabetic substitution with invented graphic signs (Jolánka postcard family, the same key as HCP1212, 1213, 1216, 1217, 1218, 1243, 1301). No new key was invented, and every letter value below is the family's. *Type updated 2026-11-03: MASC + Steganography (plain-text note under the lifted stamp; see the stamp-box section at the end).*
 
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
@@ -92,3 +92,21 @@ Verdict REVISE; all five findings accepted and addressed. The message is unchang
 3. **Row 9 dot (minor): fixed.** On `z_r9start.png` the dab is there and in the expected position. First sign is now read `i` without a query mark in the ledger; item 4 reworded. The third sign stays on sense.
 4. **sorozat (minor): addressed.** Now checked in a period dictionary: Czuczor-Fogarasi has no recruitment sense, so the sign-level and meaning-level doubts are both stated in item 1, with *sorozás* on HCP1303/1304. English and Slovak now mark the sense as inferred. The April objection is answered only in part: the 1912 main conscription ran in August at Debrecen, but no September muster in this district was found.
 5. **"Complete reading" (minor): fixed** in the status line.
+
+## Stamp-box message (2026-11-03)
+
+Audit by Claude Opus 5.5 on the human's instruction (Tóth Jolánka cards carry a hidden note under the stamp). Crops from `work/hires/*_adr.jpg` at 2-5x, green channel autocontrast: `work/stamp-2026-11-03/` (`box.png`, `line1_5x_g.png`, `line2_3x.png`, `line2_5x_g.png`).
+
+- **State:** the stamp is lifted. The printed dotted stamp frame is empty and the postmark ring runs around it, unbroken by any stamp edge; two lines of writing sit inside the frame, i.e. under where the stamp was.
+- **Script:** plain Hungarian cursive in the same red ink as the cipher; no cipher signs.
+- **Literal reading:**
+  - line 1: `csókolo` + a final sign with a top bar, a diagonal and a long descender (a cursive z-shape; read as the m of *csókolom*, but by shape alone it could be z). The *k* and first *o* are under an ink blot.
+  - line 2: `Száz?` — a large hooked capital (S or J), a z-shape, a dark a, then a z with a descender ending in a long rising flourish. *Száz* is the only word I can make from the shapes; the capital and the last letter are uncertain.
+- **Normalized Hungarian:** *Csókolom. Száz[…]?* (tentative)
+- **English:** I kiss you. A hundred […]? (perhaps "a hundred times / a hundred kisses"; only *száz* is on the card)
+- **Slovak:** Bozkávam (ťa). Sto […]? (možno „stokrát / sto bozkov“; na karte je len *száz*)
+- **Unread:** the end of line 2. The earlier guess *százszor* is not supported: there is no *-szor* in the ink, only a flourish, and I do not restore it. Whether line 2 is the word *száz* or a short signature is not settled, so the sender stays unestablished.
+
+The decode script is not changed; the stamp text is read by eye.
+
+**Cipher type (2026-11-03):** MASC + Steganography — monoalphabetic substitution as above, plus a plain-text note hidden in the stamp box under the (now lifted) stamp.

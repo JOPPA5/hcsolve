@@ -30,6 +30,8 @@ Hungarian word division and most accents are not in the text and are the editor'
 
 ## Key
 
+Cipher type: **MASC + Steganography** (updated 2026-11-03): monoalphabetic substitution, with part of the message hidden in the stamp box under the stamp (now lifted).
+
 Monoalphabetic substitution with invented graphic signs. The names below are conventional labels for handwritten shapes.
 
 | Sign | Letter | Sign | Letter | Sign | Letter |
@@ -68,7 +70,7 @@ stamp box: gondol / jonne / haram / minen / önre / csokolom
 
 Szeretet[t] édes Jolánkám! Ne haragudjon, hogy soká írok, de nagyon el vagyok foglalva a vasút[t]al. Ma vo[l]tam orvosi vizitán, délután ka<p>om [a] <p>iros zászlót, holnap teszem le [a] fékezői vizsgát, és már csütö[r]tökön utazok is. Evvel megkezdem az új jövőt, édesem. A héten még i[tt] lakom, de jövő hét[en] Rákospalota, <d>e a címet még nem tudom megírni, majd legközelebb bővebben. Isten ve{?}desem (read as: Isten vele, édesem).
 
-In the stamp box: Gondoljon néha rám, min[t] én önre. Csókolom.
+In the stamp box (hidden under the stamp, which is now lifted; re-read from the scan on 2026-11-03, every sign confirmed): Gondoljon néha rám, min[t] én önre. Csókolom.
 
 **English.** My beloved sweet Jolánka! Do not be angry that I am so slow to write, but I am very busy with the railway. Today I was at the medical inspection; this afternoon I get the red flag, tomorrow I take the brakeman's exam, and as early as Thursday I am already leaving. With this I begin the new future, my sweet. This week I am still living here, but next week Rákospalota; but I cannot give the address yet, more next time. God be with you, my sweet.
 

@@ -8,6 +8,8 @@ Credit: transcription and reading of this card are by Claude Opus 5.5 from the p
 
 Hungarian, simple monoalphabetic substitution with invented graphic signs (MASC, Jolánka family); word divisions are not marked. Key as in `ciphers/hcp-1216/SOLUTION.md`:
 
+*Type note (2026-11-03):* the card hides a 7-row enciphered message in the stamp box, under the (now lifted) stamp, so the type is **MASC + Steganography** (register label); see "Stamp-box message (2026-11-03)".
+
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
 | two bars | a | section mark / 8 / open S | k | F-like | r |
@@ -64,6 +66,17 @@ Moja milovaná, sladká Jolánka! Nehnevajte sa, že píšem tak zriedka, ale so
 Pod známkou: Boh s Vami, do videnia, hoci to bude ešte dlho.
 
 Addressee and sender (unenciphered, see below): Szépreményű Tóth Jolánka úrleánynak, Jász Árokszállás. Sender line: Rákos Szent Mihály, "Emocn(?) Telep(?)", Bocskai utcza 3.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit at the request of Tomáš Pavuk (register type for the Tóth Jolánka cards). The stamp is lifted; under it, in the stamp box at the upper right, are 7 short rows in the same red ink and the same cipher signs (not plain Hungarian), crossing an old grey postmark ring. Crops of the un-converted original (`work/hires/*_adr.jpg`): `work/stamp-2026-11-03/stamp_box.png`, `stamp_top_3x.png`, `stamp_bot_3x.png`. I re-read every sign on these crops with the family key; the reading agrees sign for sign with ledger rows S1–S7 of 2026-11-02, so nothing was added and `decode.py` / `work/ledger.txt` were left unchanged (they already print these rows).
+
+- Literal: `istenve / leavi / szont / latas / igmely / barso / kalesz`
+- Hungarian: Isten vele a viszontlátásig, mely bár soká lesz.
+- English: God be with you until we meet again, though that will be long.
+- Slovak: Boh s Vami, do videnia, hoci to bude ešte dlho.
+
+Nothing stays unread. Restorations: none; the only soft points are the two i signs without a certain dot (*Isten*, *-ig*) and the sense of *bár* (Uncertainties 11 and 14). There is no signature in the box.
 
 ## Uncertainties
 

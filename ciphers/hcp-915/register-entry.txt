@@ -1,0 +1,1 @@
+{submitted: "2026-11-03", solver: "Tomáš Pavuk", source: "https://crypto.hcportal.eu/dashboard/cryptograms/915", name: "cpc_--_IE____", type: "MASC", model: "Anthropic Claude", version: "Claude Opus 5.5", role: "transcription, decipherment by Claude Opus 5.5; independent AI review", agents: "YES", documentation: "https://github.com/JOPPA5/hcsolve/tree/main/ciphers/hcp-915"},

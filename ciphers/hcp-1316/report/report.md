@@ -24,7 +24,7 @@ In review a separate Claude Opus 5.5 agent made its own crops (2× rows, 4–7×
 
 ## Key
 
-Hungarian, simple monoalphabetic substitution with invented graphic signs. The names are conventional descriptions of handwritten shapes.
+Hungarian, simple monoalphabetic substitution with invented graphic signs; the closing is hidden under the stamp, so the card is typed **MASC + Steganography** (2026-11-03). The names are conventional descriptions of handwritten shapes.
 
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|

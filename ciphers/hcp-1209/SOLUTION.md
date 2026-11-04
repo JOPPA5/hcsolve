@@ -70,3 +70,28 @@ Na mieste známky: Bozkáva Ťa Tvoj milujúci […] Ferike.
 ## Why no cipher
 
 Every word that can be read is plain Hungarian in normal cursive; the Jolánka signs (two bars, section mark, bowls, crosses) occur nowhere. Darker letters (*d meg* in row 3, *nem* in row 27) are local overinking on the same letters, and do not spell anything. Both edges and the picture side (equalised contrast) show no handwriting. Register: no entry; no cipher was solved and whole clauses remain unread.
+
+## Stamp-box message (2026-11-03)
+
+Audit by Claude Opus 5.5 on the hires address scan (crops in `work/stamp-2026-11-03/`, made by `st1209.py` / `st1209b.py` there; 4x, red, blue and green-minus-red channels). Read by eye; there is no reproduction script for this card.
+
+**State:** the stamp is lifted. Its orange corners and perforation outline remain, and a green triangle ghost (offset from the lost stamp) lies across rows 3-5. Under the stamp the sender wrote a six-row closing in **plain Hungarian cursive, the same green ink as the letter. No Jolánka cipher signs occur in the box.**
+
+Literal reading (`[x]` = letter under the triangle ghost, restored as the only letter that makes the word; `[?]` = unread):
+
+```
+1 [c]sókol        c covered by the orange stamp corner
+2 szerető
+3 vő[l][e]ge-     v, ő (two accent strokes), g-bowl, e, hyphen visible; l only a faint loop in the ghost, e hidden
+4 n[y]ed         n, e, d visible; y hidden in the ghost
+5 [?] Te[?]       left word (two loops, ő/ö- or ós-like) unread; a capital T-like letter + e, then ghost
+6 Ferikéd
+```
+
+- Normalized Hungarian: *Csókol szerető vőlegényed […] Ferikéd.*
+- English: *Your loving fiancé […] Ferike kisses you.*
+- Slovak: *Bozkáva Ťa Tvoj milujúci snúbenec […] Ferike.*
+
+This revises the 2026-11-02 note that *szerető vőlegényed* "does not fit cleanly": with 4x channel crops, rows 3-4 show *vő…ge- / n…ed*, and the hidden positions take exactly *l, e* and *y*. That reading is probable, not certain. **Row 5 stays unread** (one short word or two before *Ferikéd*). What survives is a greeting and signature only; nothing in it is secret beyond its placement.
+
+**Type note (2026-11-03):** a hidden message exists under the stamp, so the card uses **steganography (plain text concealed under the stamp)**. The card has no cipher, so the register label "MASC + Steganography" does **not** fit it, and it is not claimed: there is no MASC component on this card. The card stays partial / not a decipherment, with no register entry and no report.

@@ -13,3 +13,5 @@
 Crops kept in work/crops are only the key ones; crop.py regenerates the rest.
 
 2026-10-30 (Claude Opus 5.5, solver, after REVIEW1): All findings checked on the scan and accepted. The "unresolved" gyalka and oj ha above were my misreadings: az az an|gyalka (row 18-19, two bars not three) and oj ha|mar (word split over the line). Csinalom corrected to csodalom. Row 29 has no n before the e, so "konnyen ne" was wrong. Interlinear l added to feltetelezni. Row 21 derezhetne. Full a/e pass: no further change. Only ojot stays unexplained.
+
+2026-11-03 (Claude Opus 5.5, stamp-box audit on human order): stamp lifted; eight cipher rows S1-S8 under it, re-read from 3x crops of the hires original (work/stamp-2026-11-03/), identical to the ledger: Isten vele, edesem! Csokolja szamtalanszor sirig hu kedvese, Feri. No plain-Hungarian writing in the box. Type changed to MASC + Steganography in SOLUTION.md, register-entry.txt and report; decode.py unchanged and re-run OK.

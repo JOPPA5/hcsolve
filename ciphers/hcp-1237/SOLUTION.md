@@ -6,6 +6,8 @@
 
 Hungarian, simple monoalphabetic substitution with invented graphic signs (Jolánka family, register type MASC). Key transferred unchanged from HCP1216/1243. All ciphertext is on the address side (left block, a line along the whole bottom edge, and five rows on the stamp area). The picture side has only a printed poem and no handwriting.
 
+2026-11-03 type note: register type is now **MASC + Steganography**. The stamp has been lifted (only a torn remnant stays at the top of the box) and the five cipher rows sit in the stamp box below it, where the stamp would have covered them; a faint ring of the cancel shows across them. Re-checked on new crops `work/stamp-2026-11-03/box_2x.png` and `row1_3x.png`..`row5_3x.png`: the hidden message is in the cipher signs only (no plain Hungarian), already read in full above (*Üdvözlöm a távolból. Hű kedves[e].*), no letter changed; the last sign stays `[?]`.
+
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
 | two bars | a | section/S mark | k | F-like | r |

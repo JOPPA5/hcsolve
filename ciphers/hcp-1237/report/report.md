@@ -10,7 +10,7 @@ The cryptogram is record 1237 of the HC Portal (https://crypto.hcportal.eu/dashb
 
 The address is written in plain script: **Szép reményű Tóth Jolánka úrleánynak, Jász-Árokszállás** ("To Miss Jolánka Tóth, of fair hopes"). The last word is partly under the collection stamp. The date 1912-06-30 comes only from the portal file name, because the postmarks are not legible enough to confirm it.
 
-The card belongs to the Hungarian postcards sent by a man who signs himself Feri to Jolánka Tóth. Several are deciphered in this repository (for example HCP 1216, 1212, 1213, 1217, 1218, 1243 and 1301). The picture side has only a printed poem, "Fecském hova szállsz?", and no handwriting. All the ciphertext is on the address side, in red ink: a block on the left, a long line along the whole bottom edge, and five short rows in the stamp area at the top right. Only a torn remnant of a stamp stays at the top of that box.
+The card belongs to the Hungarian postcards sent by a man who signs himself Feri to Jolánka Tóth. Several are deciphered in this repository (for example HCP 1216, 1212, 1213, 1217, 1218, 1243 and 1301). The picture side has only a printed poem, "Fecském hova szállsz?", and no handwriting. All the ciphertext is on the address side, in red ink: a block on the left, a long line along the whole bottom edge, and five short rows in the stamp area at the top right. Only a torn remnant of a stamp stays at the top of that box: the stamp was lifted, and the five rows were written in the box where it would have covered them, a hidden message in the cipher signs (re-checked 2026-11-03).
 
 ![Address side: cipher block on the left, the line along the bottom edge, five rows in the stamp area (source/address-large.jpg)](../source/address-large.jpg)
 
@@ -32,7 +32,7 @@ Several first readings were corrected on the enlargements by rereading the shape
 
 ## Key
 
-Monoalphabetic substitution with invented graphic signs. The names below are conventional labels for handwritten shapes. Accents stand above the signs when they are written at all.
+Monoalphabetic substitution with invented graphic signs; register type **MASC + Steganography** (2026-11-03), because part of the message (the five rows in the stamp area) was hidden under the stamp, which has since been lifted. The names below are conventional labels for handwritten shapes. Accents stand above the signs when they are written at all.
 
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|

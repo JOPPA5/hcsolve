@@ -24,6 +24,8 @@ A separate Claude Opus 5.5 agent then cut the card into its own strips and trans
 
 ## Key
 
+Cipher type: **MASC + Steganography** (updated 2026-11-03): a simple monoalphabetic substitution, with the closing hidden in the stamp box under the stamp.
+
 Simple monoalphabetic substitution with invented signs. Word division is not written, and accents appear only occasionally.
 
 | sign | letter | sign | letter | sign | letter |
@@ -86,6 +88,7 @@ Pod známkou (neisté): Nespočetnekrát [Vás] pozdravuje Váš milujúci milý
 - **Sense calls in the main text.** Row 8 *kaptam* has the d form (literal *kadtam*). Row 12 *de* has the h/p form (literal *he*). Row 22 *írok* has an undotted loop, though the shape favours i. Row 25 *válaszolni* has an e-like blotted sign. Row 26 *Isten* begins with a compressed sign at the corner. Row 28 *Fer* begins with a tilted cross. Row 18 *irjon hogy* has a blotted patch with one stroke unaccounted for. Row 6 *elmehetem* has an overwritten m. The middle of row 27 *imádója* lies under a smudge. The h/p choices in *Pestre*, *hónap*, *nappal* rest on sense.
 - **Writer's habits normalized.** Doubles are written single (*anyi*, *lasan*, *letvolna*); a shared letter stands in *szeretetedes* and *veledesem*; *tudak* is *tud[j]ak*; *mit ir irjon* is read *mit ír[ni]. Írjon*. "[akkor]" is supplied in row 10.
 - **Date.** Nothing on the card fixes it.
+- **Stamp-box audit (2026-11-03).** The stamp box was re-checked on new crops. The stamp is lifted, and only torn fragments remain. The writing under it is the seven-row block, in the cipher signs only, with no plain text. The crops confirm the closing as printed above, and no letter was added. The end of row S1, the start of S6 and the first sign of S7 stay unread. For this reason the card is now typed MASC + Steganography.
 
 ## Review and what changed
 

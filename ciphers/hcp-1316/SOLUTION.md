@@ -10,6 +10,8 @@ Portal language is "Unknown"; the language is **Hungarian**.
 
 Hungarian, simple monoalphabetic substitution with invented graphic signs, same key as the family. All cipher text is in red ink: 19 rows on the left, 5 rows in the stamp box. The address is in clear (Szépreményű Tóth Jolanka úrleánynak, Jász Árokszállás), and is not ciphered.
 
+**Type note (2026-11-03):** the closing is hidden in the stamp box under the (now lifted) stamp, in the cipher signs, so the card is typed **MASC + Steganography** (register label). See the stamp-box section below.
+
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
 | two bars | a | section mark, open S | k | F-like | r |
@@ -104,3 +106,14 @@ Verdict REVISE, seven findings. All are accepted and checked on the reviewer's c
 5. **Row 15, first sign (minor): fixed.** Ledger M?, item 7 extended. Confirmed on `r15_start.png`.
 6. **Row 16 (minor): fixed.** Item 3 corrected on `r16_strike.png`: the lines pass the rule, and the raised 6, dotted sign and lower loop are described. Item 2 records that the reviewer could not confirm m. The false-start idea *bizo-* is new, marked as a hypothesis and not used.
 7. **Status line (minor): fixed.** The header no longer says "read letter by letter".
+
+## Stamp-box message (2026-11-03)
+
+Audit by Claude Opus 5.5 on the hires address side (crops in `work/stamp-2026-11-03/`, 2x of the box, 5x green-channel of the stain in row 1). The stamp is lifted and has left a brown-pink stain at the top centre of the box; under it are 5 rows of red cipher signs, written with this card's key (no plain Hungarian). The message was already read in full at handover; this audit re-read it sign by sign and confirms it:
+
+- Literal: `cso[k][o]lom / szamta / lanszor / hű kedves / se feri`
+- Hungarian (normalized): Csókolom számtalanszor. Hű kedvese, Feri.
+- English: I kiss you countless times. Your faithful sweetheart, Feri.
+- Slovak: Bozkávam Vás nespočetnekrát. Váš verný milý, Feri.
+
+Unread: nothing. The k and o of *csókolom* lie in the stain: on the 5x green-channel crop only an arc of the k and the arch and down-stroke of the o survive. Both are disclosed restorations of physically hidden signs (item 11); the formula *csókolom* is the only word that fits. The s of *kedves|se* is written twice across the line end (item 12). The stamp rows are in the reproduction ledger already; `work/decode.py` was not changed.

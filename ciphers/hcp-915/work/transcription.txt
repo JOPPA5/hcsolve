@@ -1,0 +1,6 @@
+# hcp-915 Ogham line (picture side, pencil, written along a drawn stem line; card turned 90 deg so the line runs left to right)
+# Notation per stroke group: H<n> = n strokes above the stem only, B<n> = n strokes below the stem only,
+# X<n> = n perpendicular strokes crossing the stem, M<n> = n slanted strokes crossing the stem,
+# P = horizontal bar above the stem (peith), suffix ^ = dot above (lenition mark), suffix ' = acute (fada) above,
+# ':' = two-dot word separator, '.' = final dot below the stem.
+H2 X1 B1^ X1 X5 M5 : H2 X2 M1 : P X2' M2 .

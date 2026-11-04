@@ -6,6 +6,8 @@ Card: picture postcard, cancelled BUDAPEST 914 APR 12 (Easter Sunday 1914), addr
 
 ## Cipher type and key
 
+**Register type: MASC + Steganography** (2026-11-03: the stamp box carries a hidden closing in the cipher signs, written under the stamp; see "Stamp-box message (2026-11-03)").
+
 Hungarian, simple monoalphabetic substitution with invented graphic signs (Jolánka family). `work/key.json` lists the sign classes; they are those of HCP1216 with these variants on this card:
 
 - **v** is a peak with a long left leg (*válaszolni, levelére, húsvét, vagyon*).
@@ -112,3 +114,18 @@ Verdict REVISE. All nine findings are accepted after I checked the reviewer's cr
 One further change of my own, not from the review: the English and Slovak now attach *Jászberénybe* to *küldtem* ("I sent a card to Jászberény in reply to your last letter"). That fits *majd meg fogja kapni Ilonkától* better; the Hungarian word order allows both, and no letter changes.
 
 The changes are limited to the points above (row 4 `b e` to `t`, one k removed in row 26, two vowels), so no second review round is needed; the review itself says so.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit by Claude Opus 5.5 on the un-converted original (`work/hires/…_adr.jpg`), crops in `work/stamp-2026-11-03/` (`box_red2x.png`, `band0-2_red3x.png`, `faint_color3x.png`). The stamp has been soaked off; only torn fragments of its frame remain (top left, right edge, bottom right with the printed "…ER"). Under it are seven rows of writing, **all in the cipher signs; no plain Hungarian**. The faint brownish strokes right of rows S3–S5 look like Latin cursive at first sight, but in colour they are the washed-out continuation of the same sign rows (the *-oldog*, *-ont*, *-sra* ends), not a second plain-text layer.
+
+The message was already read in full in the main sections above (rows S1–S7); this audit re-checked it on new crops and found no change:
+
+- Literal: `[is]tenve | {e}ledese[m] | aboldog | viszont | latasra | imado[ja] | fer[i]`
+- Hungarian: *Isten vele, édesem, a boldog viszontlátásra! Imádó[ja] Feri.*
+- English: God be with you, my sweet, until our happy reunion! Your adorer, Feri.
+- Slovak: S Bohom, zlatko, do šťastného zhľadania! Váš ctiteľ, Feri.
+
+Unread / restored (unchanged from uncertainty 13): *[is]* of S1 under a stamp fragment (restored from the family formula), final *m* of S2 at the torn edge, *-ja* of S6 not visible (supplied in normalization), *i* of S7 under the printed "…ER" of the stamp remnant. No whole clause is unread. The reproduction script was not changed; the stamp rows are in the existing ledger.
+
+Type: hidden writing exists under the stamp, so the card is typed **MASC + Steganography** (register entry type field and report updated today; nothing else in the register line changed).

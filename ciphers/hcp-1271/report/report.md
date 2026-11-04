@@ -10,7 +10,7 @@ The cryptogram is record 1271 of the HC Portal (https://crypto.hcportal.eu/dashb
 
 The picture side is a tinted photograph of a couple, turned sideways on the scan, with the printed title Akiknek a szívük fáj... ("Those whose hearts ache...") and a printed verse, series number 1376/5. It has no handwriting.
 
-The message is on the address side, in red ink: 17 rows of invented signs fill the left half. A plain line, Gyöngyös Püspöki, stands large between rows 9 and 10 and belongs to the sentence. The stamp box holds a plain greeting. The address reads Szépreményű Tóth Jolánka úrleánynak, Jász Árokszállás ("To the promising young lady Jolánka Tóth, Jászárokszállás"); its last word runs under the collector's stamp and is read partly from the family's other addresses.
+The message is on the address side, in red ink: 17 rows of invented signs fill the left half. A plain line, Gyöngyös Püspöki, stands large between rows 9 and 10 and belongs to the sentence. The stamp box holds a plain greeting, written where the stamp would cover it; the stamp has since been lifted. The address reads Szépreményű Tóth Jolánka úrleánynak, Jász Árokszállás ("To the promising young lady Jolánka Tóth, Jászárokszállás"); its last word runs under the collector's stamp and is read partly from the family's other addresses.
 
 ![Picture side (source/picture-large.jpg)](../source/picture-large.jpg)
 
@@ -29,7 +29,7 @@ The whole key is unchanged and every sign on the card maps to a key value. The r
 
 ## Key
 
-Hungarian, simple monoalphabetic substitution with invented graphic signs. Word spaces are partly kept. The sign names are conventional labels for handwritten shapes.
+**Type: MASC + Steganography** (updated 2026-11-03). Hungarian, simple monoalphabetic substitution with invented graphic signs, plus a plain message hidden under the stamp. Word spaces are partly kept. The sign names are conventional labels for handwritten shapes.
 
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|
@@ -65,6 +65,8 @@ Literal decipherment, row by row. `[x]` is a blotted sign restored by word sense
 Drága csil[l]agom! Kívánom, hogy a legjobb kedvében találja soraim. Édesem, tudatom, hogy én már ma munkába [megyek?], de most más műhelybe, tehát a czímem is megváltozik. Czímem is, és pedig: **Gyöngyös Püspöki** [plain]. Ide czímez[z]e sorait. Kedves Jolánkám, jó mulatást kívánok holnapra. Gondoljon néha rám, ki szintén gondol önr[e]. Isten ve[le], a viszontlátásra. Csókolom ezersze[r].
 
 Stamp box, plain: Üdvözlöm a távolból, hű kedvese.
+
+Stamp-box check (2026-11-03): on the original scan the stamp is lifted and the box holds five short lines of plain red cursive, read literally as üdvöz / löm a / tavol / bol hü / kedvese. No cipher signs are in the box and nothing in it is unread. Because this greeting was hidden under the stamp, the card is typed MASC + Steganography.
 
 ### English
 

@@ -6,6 +6,8 @@
 
 Hungarian (the portal says language Unknown), simple monoalphabetic substitution with invented graphic signs: the "Jolánka" postcard family, same key as HCP1216 (fullest legend; also 1212, 1213, 1217, 1218, 1243, 1301). No key element was changed and no new sign value was needed.
 
+**Type note (2026-11-03):** register type is now **MASC + Steganography**: the stamp was lifted and the stamp box holds a hidden message under it, mostly in the cipher signs with a closing in plain cursive (see "Stamp-box message (2026-11-03)").
+
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
 | two bars | a | section mark (S) | k | F-like | r |
@@ -90,6 +92,16 @@ Calls that rest on word sense:
 - The content fits the family: formal Ön address, longing for letters, *rabszolgája*, the Feri signature, and the stamp-box closing formula (*számtalanszor*), as on HCP1216 and HCP1264. The address and recipient agree with the portal.
 
 Credit: transcription and decipherment by Claude Opus 5.5; the key comes from earlier finished family cards (first worked out with the OpenAI GPT solver, see HCP1216 notes).
+
+## Stamp-box message (2026-11-03)
+
+Audit by Claude Opus 5.5, as the human ordered. I re-cropped the stamp box of the hi-res address side (`work/stamp-2026-11-03/`, enlarged 3x). The stamp has been lifted. The bare box, with its dotted outline, holds seven lines of writing that the stamp hid. Lines 1–6 start in the cipher signs; from the middle of line 6 the writing changes to plain cursive. The reading below agrees with the stamp rows already in the ledger and the decoder (S1–S7). Nothing new was found, and nothing was added to the script.
+
+- Literal: `istenvele / atavolb. / olcsoko / ljaszam / talanszo / r` + plain `egy igaz / sziv`
+- Hungarian: *Isten vele! A távolból csókolja számtalanszor egy igaz szív.*
+- English: God be with you! From afar one true heart kisses you countless times.
+- Slovak: S Bohom! Z diaľky Vás nespočetnekrát bozkáva jedno verné srdce.
+- Unread: nothing. Points that stay uncertain, already disclosed in Uncertainties item 11: the first sign of line 2 (a filled loop read *a*), and the last plain word, which could be *sziv* or *szin* and is read *szív* because that is the only reading that makes sense.
 
 ## Response to review 1
 

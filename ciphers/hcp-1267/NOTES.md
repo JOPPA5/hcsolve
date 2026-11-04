@@ -8,3 +8,5 @@ Dead ends: "hétén" (row 13), "hogy kel" (row 15) is still un-understood and tr
 Ledger work/ledger.txt, decoder work/decode.py, details in SOLUTION.md Uncertainties.
 
 2026-11-01 (Claude Opus 5.5, solver, after review 1): verdict REVISE, reading stands. Rechecked the reviewer's panels and my own crop (work/crops/resp1.png, row7-end.png). Row 7: one hook only between é and 1 0, with the flagged form of the s sign in rows 1, 9, 12, so "és 10-re", not "7.10"; the dropped-s alternative is disclosed (Uncertainty 16). Ledger fixes: row 5 A, row 9 one s, row 14 E, row 25 note on the small m. Shape notes on p/d corrected. Details in SOLUTION.md, Response to review 1.
+
+2026-11-03 (Claude Opus 5.5, stamp-box audit for Tomáš Pavuk): stamp lifted, eight rows of cipher-sign writing in the stamp box, no plain text; already fully read as S1-S8 (only the end of the S2 word lost in the tear). Re-check from work/stamp-2026-11-03/ crops agrees with the ledger. Type changed to MASC + Steganography in SOLUTION.md, register-entry.txt and the report.

@@ -10,7 +10,7 @@ The cryptogram is record 1236 of the HC Portal (https://crypto.hcportal.eu/dashb
 
 The picture side carries the printed verse "Sorrentói ábránd", a six-line sentimental poem beginning "Ez a levél az utolsó, amit hozzád irok". It has no handwriting and is not part of the message.
 
-The address side, in pink ink, has the cipher message in 18 rows on the left and a plain address on the right: **Szeretett Tóth Jolánka kisasszonynak, Jász Árokszállás** ("To the beloved Miss Jolánka Tóth, Jászárokszállás"). The stamp has been removed, and on the bare patch stands a plain note: **csokolja tavolba szamtalanszor Feri** ("Feri kisses you from afar countless times").
+The address side, in pink ink, has the cipher message in 18 rows on the left and a plain address on the right: **Szeretett Tóth Jolánka kisasszonynak, Jász Árokszállás** ("To the beloved Miss Jolánka Tóth, Jászárokszállás"). The stamp has been removed, and on the bare patch stands a plain note: **csokolja tavolba szamtalanszor Feri** ("Feri kisses you from afar countless times"). This is a hidden stamp-box message: the right postmark's ring stops at the edge of the stamp patch, so the stamp covered the note when the card was posted. It is plain Hungarian (no cipher signs), and every letter is legible.
 
 The date 1912 and day 22 come from the portal file name. The left postmark, rotated and contrast-stretched, agrees with a year ending in 912 and a day beginning with 2, but the month cannot be read. The pencil "18" at the top right is a collector's or later mark.
 
@@ -28,7 +28,7 @@ This is a **known, transferred key**, not a new key recovery. The family key of 
 
 ## Key
 
-Simple monoalphabetic substitution with invented graphic signs. The labels are descriptions of handwritten shapes.
+**Cipher type: MASC + Steganography** (updated 2026-11-03). The message body is a simple monoalphabetic substitution with invented graphic signs; a plain Hungarian note was hidden in the stamp box under the stamp. The labels are descriptions of handwritten shapes.
 
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|
@@ -65,15 +65,15 @@ Literal decipherment by written row (h stands for the h/p sign; punctuation is l
 
 **Hungarian (normalized):** Szeretett édes Jolánkám! Kívánom, hogy legjobb kedvében találja soraim. Hogy mulatott a farsangba[n], a mi engem illet, hétfőt átdolgoztam, kedden pedig elmentem az egyletbe, ahol színe[l]őadás volt. Édesem, hogy érzi magát? Gondol-e néha a távolban önért epedő szív tulajdonosára? Én csak akkor vagyok igazán boldog, ha a szép szemébe nézhetek. Isten vele, a viszontlátásra.
 
-Plain margin note: Csókolja távolba számtalanszor Feri.
+Plain stamp-box message (hidden under the stamp): Csókolja távolba számtalanszor Feri.
 
 **English:** My beloved sweet Jolánka! I wish that my lines may find you in the best of spirits. How did you enjoy yourself at the carnival? As for me, I worked all through Monday, and on Tuesday I went to the club, where there was a theatrical performance. My darling, how are you feeling? Do you sometimes think of the owner of the heart that pines for you in the distance? I am truly happy only when I can look into your beautiful eyes. Farewell, until we meet again.
 
-Margin: Feri kisses you from afar countless times.
+Stamp box: Feri kisses you from afar countless times.
 
 **Slovak:** Moja milovaná, sladká Jolánka! Želám si, aby Vás moje riadky zastihli v najlepšej nálade. Ako ste sa zabavili na fašiangoch? Čo sa mňa týka, celý pondelok som pracoval a v utorok som išiel do spolku, kde bolo divadelné predstavenie. Drahá moja, ako sa cítite? Myslíte niekedy na majiteľa srdca, ktoré za Vami v diaľke túži? Ja som naozaj šťastný len vtedy, keď sa môžem pozerať do Vašich krásnych očí. S Bohom, dovidenia.
 
-Na okraji: Bozkáva Vás z diaľky nespočetnekrát Feri.
+V poli pre známku: Bozkáva Vás z diaľky nespočetnekrát Feri.
 
 ## Reproduction
 

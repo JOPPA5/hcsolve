@@ -1,0 +1,15 @@
+# hcp-1073 message side, card rotated 90 deg counter-clockwise (on the scan the text runs top-to-bottom in columns, rightmost column first).
+# One sign per token. Digits = digit signs. Letter tokens:
+#   R = small triangle,  S = short hook (thin lead-in, thick down-stroke),  Sd = s-like sign with two dots,
+#   a = wide inverted V,  N = horizontal dash,  + = cross,  T = crossed A-like sign,  W = double loop (infinity),
+#   B = tall l-shaped stroke,  P = rho-like loop with descender,  o / u / ü = written as plain Kurrent letters,
+#   {1000} = the number 1000 written in digits.  Punctuation , . ! kept as written (the commas are the
+#   slanted strokes written under the line after most words).
+{1000} , 5 R ü S S 3 , u . 8 ü S S 3 ,
+S 3 N 2 3 T , 2 7 R ,
+2 3 7 N ,
+2 7 S S 3 9 .
+6 o 4 4 3 N T 9 7 + , 6 7 P , 2 u , 5 3 S u N 2 !
+W 3 N N , N 7 + T , 2 a N N , 9 a N 5 W 3 7 9 3 , 2 7 + ,
+B 7 T T 3 , N 7 + T , S o , u . 2 3 N 8 , 3 7 N
+6 7 Sd + 3 N , a N , 2 3 7 N 3 T R u 2 3 .

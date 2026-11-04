@@ -112,3 +112,7 @@ Verdict REVISE. I re-examined the reviewer's crops in `review/work/crops/` and a
 14. Dating: **fixed.** The postmark `913 DE` is now used; its day digits remain unread.
 
 The reading is not substantially changed: same key, same story, one word of the normalized text corrected (ez → az) and one supplied word left open. Per the reviewer's closing note, no DONE2 round is needed.
+
+## Stamp-box check (2026-11-03)
+
+Checked by Claude Opus 5.5 on the un-converted address scan in `work/hires/` (crops in `work/stamp-2026-11-03/`: `stamp_x2.png`, `tear_x4.png`, `tear_violet_x4.png`). The green 5-filler Turul stamp is **still in place**, top right, cancelled by the Budapest postmark. Its lower-left part is torn or abraded away, and the paper surface exposed there shows only postmark ink (the arc, `9`, `3`, part of a frame line) and a blue-green stain; no violet pencil and no cipher sign is visible in it, in the colour crop or the blue-minus-green channel. Whatever the sender may have written under the rest of the stamp cannot be seen on this scan. No hidden message is read or claimed. The cipher type therefore stays **MASC** (not "MASC + Steganography"); register-entry.txt and the report are unchanged.

@@ -2,13 +2,13 @@
 
 Human solver: Tomáš Pavuk
 
-**Status: deciphered in full (420 signs in 22 main rows and 5 rows round the stamp, with a few single-sign points disclosed below); independent review 1 verdict REVISE, findings addressed, last sentence corrected.** Report dated 2026-11-02.
+**Status: deciphered in full (420 signs in 22 main rows and 5 rows round the stamp, with a few single-sign points disclosed below); independent review 1 verdict REVISE, findings addressed, last sentence corrected. Type MASC + Steganography.** Report dated 2026-11-02, stamp-box section added 2026-11-03.
 
 ## Origin and context
 
 The cryptogram is record 1208 of the HC Portal (https://crypto.hcportal.eu/dashboard/cryptograms/1208), portal name cpc_1914-10-15_HU__HU_Budapest_jolanka-55, part of Tobias Schrödel's collection of cryptographic postcards (private collection). When it was captured on 2026-11-02 the portal listed it as **Not solved**, tagged Postcard, T. Schrödel Collection, category Substitution, language Unknown, sender Unknown, recipient Tóth Jolánka, with no transcription or solution attached. No published solution of this card was found.
 
-The address side carries a plain address in pencil, "Önagysága / Tóth Jolánka / úrleánynak / Budapest / István út" and a number group under the collector's stamp, tentatively 5 sz. II. e. 5 a (house, floor, door). The name and town are certain; the number group is not, and it does not bear on the message. The postmark reads BUDAPEST 914 OKT 15. The whole left half of the side and the space round the stamp are filled with cipher in violet pencil, partly under the postmark and its wavy cancellation.
+The address side carries a plain address in pencil, "Önagysága / Tóth Jolánka / úrleánynak / Budapest / István út" and a number group under the collector's stamp, tentatively 5 sz. II. e. 5 a (house, floor, door). The name and town are certain; the number group is not, and it does not bear on the message. The postmark reads BUDAPEST 914 OKT 15. The whole left half of the side is filled with cipher in violet pencil, partly under the postmark and its wavy cancellation. Five more rows of cipher are written inside the stamp box, where the stamp covered them; the stamp is now lifted (see "Message under the stamp").
 
 The picture side is a printed comic card with the caption "A szerelem hőmérője. Aztán, hogy megöleltelek lett „16" fok a meleg." ("Love's thermometer. And then, when I embraced you, the heat rose to 16 degrees.") and publisher number 34213/4. It has no handwriting.
 
@@ -30,7 +30,7 @@ To reproduce, from the repository root: `python3 -I ciphers/hcp-1208/work/decode
 
 ## Key
 
-Simple monoalphabetic substitution with invented graphic signs. Digraphs are written with two signs (c+s, s+z, g+y). Dots or strokes over a sign give ö, ü, ű, é, á.
+**Cipher type: MASC + Steganography** (updated 2026-11-03). A simple monoalphabetic substitution with invented graphic signs; part of the message is hidden in the stamp box, under the stamp. Digraphs are written with two signs (c+s, s+z, g+y). Dots or strokes over a sign give ö, ü, ű, é, á.
 
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|
@@ -59,14 +59,20 @@ Literal decipherment, row by row, with no word division (as on the card):
 09 datnomedesemhogyavona       20 bezaromsoraim
 10 tunkatlemondjakesigy        21 maradoksirighű
 11 mostmarnemtudomhogy         22 kedveseferi
-round the stamp: csokol / szam / talan / szor / ferid
+under the stamp: csokol / szam / talan / szor / ferid
 ```
 
-**Hungarian (normalized):** Szeretett édes Jolánkám! Kívánom, hogy a legjobb kedvében találja soraim. Sajnálom, hogy ezt a lapot kell küldenem, mert maga is gondolja, hogy valami különös dolog adta elő magát. Sajnálattal kell tudatnom, édesem, hogy a vonatunkat lemondják, és így most már nem tudom, hogy holnap, azaz pénteken délután szabad leszek-e, és hogy elmehetek-e magához, édesem, mivel még nem tudom, hogy hová megyünk és mikor jövünk vissza, de ha lehet, elmegyek. Ezzel bezárom soraim, maradok sírig hű kedvese, Feri. Round the stamp: Csókol számtalanszor Ferid.
+**Hungarian (normalized):** Szeretett édes Jolánkám! Kívánom, hogy a legjobb kedvében találja soraim. Sajnálom, hogy ezt a lapot kell küldenem, mert maga is gondolja, hogy valami különös dolog adta elő magát. Sajnálattal kell tudatnom, édesem, hogy a vonatunkat lemondják, és így most már nem tudom, hogy holnap, azaz pénteken délután szabad leszek-e, és hogy elmehetek-e magához, édesem, mivel még nem tudom, hogy hová megyünk és mikor jövünk vissza, de ha lehet, elmegyek. Ezzel bezárom soraim, maradok sírig hű kedvese, Feri. Under the stamp: Csókol számtalanszor Ferid.
 
-**English:** My beloved sweet Jolánka! I wish that my lines may find you in the best of moods. I am sorry to have to send this card, since you too will think that something unusual has come up. I must tell you with regret, my darling, that they are cancelling our train, and so I now do not know whether I shall be free tomorrow, that is Friday afternoon, and whether I can go to you, my darling, because I do not yet know where we are going and when we are coming back; but if it is possible, I will go. With this I close my lines; I remain, faithful unto the grave, your sweetheart, Feri. Round the stamp: Your Feri kisses you countless times.
+**English:** My beloved sweet Jolánka! I wish that my lines may find you in the best of moods. I am sorry to have to send this card, since you too will think that something unusual has come up. I must tell you with regret, my darling, that they are cancelling our train, and so I now do not know whether I shall be free tomorrow, that is Friday afternoon, and whether I can go to you, my darling, because I do not yet know where we are going and when we are coming back; but if it is possible, I will go. With this I close my lines; I remain, faithful unto the grave, your sweetheart, Feri. Under the stamp: Your Feri kisses you countless times.
 
-**Slovak:** Moja milovaná sladká Jolánka! Želám si, aby Vás moje riadky zastihli v najlepšej nálade. Mrzí ma, že musím poslať tento lístok, lebo aj Vy si pomyslíte, že sa stalo niečo zvláštne. S ľútosťou Vám musím oznámiť, drahá, že náš vlak rušia, a tak teraz neviem, či budem zajtra, teda v piatok popoludní voľný a či budem môcť prísť k Vám, drahá, lebo ešte neviem, kam pôjdeme a kedy sa vrátime; ale ak to bude možné, prídem. Týmto končím svoje riadky a zostávam až do hrobu verný Váš milý, Feri. Okolo známky: Bozkáva Vás nespočetnekrát Váš Feri.
+**Slovak:** Moja milovaná sladká Jolánka! Želám si, aby Vás moje riadky zastihli v najlepšej nálade. Mrzí ma, že musím poslať tento lístok, lebo aj Vy si pomyslíte, že sa stalo niečo zvláštne. S ľútosťou Vám musím oznámiť, drahá, že náš vlak rušia, a tak teraz neviem, či budem zajtra, teda v piatok popoludní voľný a či budem môcť prísť k Vám, drahá, lebo ešte neviem, kam pôjdeme a kedy sa vrátime; ale ak to bude možné, prídem. Týmto končím svoje riadky a zostávam až do hrobu verný Váš milý, Feri. Pod známkou: Bozkáva Vás nespočetnekrát Váš Feri.
+
+## Message under the stamp
+
+Added 2026-11-03 after a stamp-box audit. The five rows earlier described as "round the stamp" lie inside the dotted frame of the stamp box. The postmark circle stops at the frame, so the stamp was on the card when it was cancelled and these rows were hidden under it. The stamp has since been lifted; a green triangular patch of residue with a round hole remains, and three of the rows run across it. The rows are in the cipher signs, read with the same key: "csokol / szam / talan / szor / ferid", that is **Csókol számtalanszor Ferid** ("Your Feri kisses you countless times"; Slovak "Bozkáva Vás nespočetnekrát Váš Feri"). Nothing in the box is left unread. This hidden placing is why the card is typed MASC + Steganography.
+
+![The stamp box at 2x, with the cipher rows under the lifted stamp (work/stamp-2026-11-03/stamp_box_2x.jpg)](../work/stamp-2026-11-03/stamp_box_2x.jpg)
 
 ## Uncertainties
 

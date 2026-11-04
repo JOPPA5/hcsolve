@@ -10,3 +10,5 @@
 - Crop tracking in the lower rows is hard: rows slope and cross the printed line, and the portal stamp lies over the right end of rows 24-27. A next pass should cut rows 24-27 and the margin sign by sign.
 - Checks done: no published solution seen; portal status Not solved per source/metadata.md. work/hires hashes not re-verified beyond the orchestrator's list.
 - work/crops/ (360 MB) was deleted to keep the repo small. To regenerate: mkdir work/crops, then run the scripts with the PIL python, -I. Best views: lines4.py (rows straightened), cols.py (rows 22-27), marg.py (left margin), tile.py (stamp box).
+
+2026-11-03 (Claude Opus 5.5, stamp-box audit): stamp lifted, 11 rows of cipher signs under it, no plain text. Re-read on crops in work/stamp-2026-11-03/ (green channel, 3-6x). Rows 8-9 now read "csokot adt[?á]l / csokod utan" (previous "csoko[?n/d] [?hu]te[?le]n" withdrawn). Disclosed restorations on torn paper: [is]ten, éde[s], felejthe[t]etlen. Full message in SOLUTION.md "Stamp-box message (2026-11-03)". Type set to MASC + Steganography in SOLUTION.md; no report and no register entry exist for this partial card, none created. Main text remains PARTIAL.

@@ -18,13 +18,13 @@ The address is in plain writing: Szépremény[ű] Tóth Jolánka úrleánynak, J
 
 ![Address side: 24 cipher rows at the left, 8 rows in the stamp field, plain address at the right (source/address-large.jpg)](../source/address-large.jpg)
 
-The card belongs to the family of cipher postcards to Jolánka Tóth, several of which are finished in this repository (for example HCP 1212, 1213, 1216, 1217, 1218, 1243, 1252, 1301). The same address and signature recur. The sender signs as Feri, and on this card as her *imádója* ("adorer"); his full identity is not established.
+The card belongs to the family of cipher postcards to Jolánka Tóth, several of which are finished in this repository (for example HCP 1212, 1213, 1216, 1217, 1218, 1243, 1252, 1301). The same address and signature recur. The sender signs as Feri, and on this card as her imádója ("adorer"); his full identity is not established.
 
 ## Method
 
 This card was read with a **known, transferred key**, not a new key recovery. The key and sign classes come unchanged from HCP 1216. No plaintext of this card was available beforehand.
 
-The transcription is manual, not OCR. The rows were cropped from the un-converted original scan of the address side, enlarged and enhanced (a green-channel image separates the ink from the orange seal), and read sign by sign into a ledger of 570 tokens, one per written sign (work/ledger.txt). A script decodes the ledger with the key; it does not read pixels. Rows slope upward to the right, and rows 4/5 and 12/13 were confused at first until the crops were aligned by x position. That correction also removed false readings (*mohol nép* in row 5, *mester* in row 17).
+The transcription is manual, not OCR. The rows were cropped from the un-converted original scan of the address side, enlarged and enhanced (a green-channel image separates the ink from the orange seal), and read sign by sign into a ledger of 570 tokens, one per written sign (work/ledger.txt). A script decodes the ledger with the key; it does not read pixels. Rows slope upward to the right, and rows 4/5 and 12/13 were confused at first until the crops were aligned by x position. That correction also removed false readings (mohol nép in row 5, mester in row 17).
 
 To reproduce, from the repository root:
 
@@ -36,7 +36,7 @@ It checks the SHA-256 of the four scans, decodes the ledger, and prints the lite
 
 ## Key
 
-Simple monoalphabetic substitution with invented graphic signs; the labels are conventional names for handwritten shapes.
+**Cipher type: MASC + Steganography** (updated 2026-11-03). Simple monoalphabetic substitution with invented graphic signs; the labels are conventional names for handwritten shapes. The steganography is the stamp box: 8 rows of the message (Szép kedvesem, gondoljon néha rám. Viszo[n]tlátásra. Feri.) were written where the stamp would cover them. The stamp is now lifted. A new check of the stamp box on 2026-11-03 found only cipher signs there and agreed with the reading below.
 
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@ Simple monoalphabetic substitution with invented graphic signs; the labels are c
 | open loop | g | dotted crossed curve | i | tailed cross | z |
 | inverted T | j | | | | |
 
-Dots over o and u give ö and ü. On this card *gy* is two signs (open loop + y-sign), *sz* is s + z, and *ly* is written with j. The tall-and-short sign serves both h and p; they cannot be separated on the pixels, so that choice rests on word sense. Long-vowel accents are written only now and then: clear ticks stand over bars in row 12 (*hatnánk*), row 15 (*enyém*), row 22 and stamp row 4 (*né-*). Other accents are supplied in normalization.
+Dots over o and u give ö and ü. On this card gy is two signs (open loop + y-sign), sz is s + z, and ly is written with j. The tall-and-short sign serves both h and p; they cannot be separated on the pixels, so that choice rests on word sense. Long-vowel accents are written only now and then: clear ticks stand over bars in row 12 (hatnánk), row 15 (enyém), row 22 and stamp row 4 (né-). Other accents are supplied in normalization.
 
 ## Plaintext
 
@@ -94,41 +94,41 @@ Pole známky: Moja krásna drahá, myslite na mňa niekedy. Dovidenia. Feri.
 
 Restorations of hidden signs (two):
 
-- **Row 17, the l of *egymástól*.** The sign lies under a heavy ink blot with about three legs joined at the top. The pixels cannot choose between a wave and three strokes; the l rests on the word (*nem választ el egymástól semmi*).
-- **Stamp row 5, the a of *ha*.** It falls on the printed seal and shows only as faint pink bars. Restored from *néha rám*.
+- **Row 17, the l of egymástól.** The sign lies under a heavy ink blot with about three legs joined at the top. The pixels cannot choose between a wave and three strokes; the l rests on the word (nem választ el egymástól semmi).
+- **Stamp row 5, the a of ha.** It falls on the printed seal and shows only as faint pink bars. Restored from néha rám.
 
 Calls that rest on word sense:
 
-- **h/p:** p in *holnap*, *párom*, *szép*; h elsewhere. Before the p of *párom* (row 22) stands a separate wedge-shaped blob, a blot or a cancelled sign, unexplained and not counted as a sign.
-- **Row 14 vowel of *míg*:** three bars with a long crossing stroke, apparently a correction. *Addig tart, míg…* requires "until".
-- **d/n:** in *mondhatom*, *mondja*, *gondoljon*, *minden* the d has a short first stroke, close to n. The word settles each.
-- **Row 18–19 `bez|unk`:** three bars (e) after the b, normalized *bízunk*. No other word fits *…az Istenben*.
-- **Row 19, the s of *Istenben*:** hollow, abraded top; it reads as a right bowl only with some allowance.
-- **Row 24 *imádója*:** the i looks more like a dotted loop. **Row 23 *amit*:** the t is rounded and hooked.
-- **Row 2 and row 7:** the m of *kívánom* and *nélkülöznöm* has one short extra stroke, which no word uses.
-- **Stamp row 1, the vowel after k:** smudged. It is tokenized as a but cannot be told from e, so *kadvesem* may be a writer's error or just a smudged *kedvesem*. The word stands either way.
+- **h/p:** p in holnap, párom, szép; h elsewhere. Before the p of párom (row 22) stands a separate wedge-shaped blob, a blot or a cancelled sign, unexplained and not counted as a sign.
+- **Row 14 vowel of míg:** three bars with a long crossing stroke, apparently a correction. Addig tart, míg… requires "until".
+- **d/n:** in mondhatom, mondja, gondoljon, minden the d has a short first stroke, close to n. The word settles each.
+- **Row 18–19 `bez|unk`:** three bars (e) after the b, normalized bízunk. No other word fits …az Istenben.
+- **Row 19, the s of Istenben:** hollow, abraded top; it reads as a right bowl only with some allowance.
+- **Row 24 imádója:** the i looks more like a dotted loop. **Row 23 amit:** the t is rounded and hooked.
+- **Row 2 and row 7:** the m of kívánom and nélkülöznöm has one short extra stroke, which no word uses.
+- **Stamp row 1, the vowel after k:** smudged. It is tokenized as a but cannot be told from e, so kadvesem may be a writer's error or just a smudged kedvesem. The word stands either way.
 
 Editorial readings:
 
-- **Row 6 `rais`:** normalized *rá[m] is* ("of me too"), taking the m as one more dropped letter, because *mert* then keeps its usual sense and the stamp field has *gondoljon néha rám*. The literal *rá is* ("of this too, that…") is the alternative. The signs are the same.
-- **Row 5 `kivano`:** *kívánó[k]*; *kívánom* with the m dropped gives the same sense.
-- **Rows 3–4 *Mi sajnos ritkán van mostanába[n]*** can attach to the health wish or stand alone. The sentence division there is editorial, though a short oblique stroke before *jó* in row 4 is probably a comma and supports a break. *De jól mulat* as "but when you are having a good time" is an interpretation.
-- **Letters not on the card:** *[a]zt* (row 19), *mé[g]* (row 21), *viszo[n]t* (stamp), *kel[l]*, *mostanába[n]* (colloquial -ba for -ban is also possible).
-- **Writer's spellings normalized:** *közeleb*, *hozam* (hozzám), *talkozhatnank* (találkozhatnánk, *ál* omitted across rows 11–12), *ojhoszu* (oly hosszú), *adig*, *mest-* (mást-), *semi*, *tertom* (tartom), *enek*.
-- The letter mixes formal address (*találja, gondoljon*) with *te leszel a párom* inside the reported song line. It is kept as written. The song is not identified.
+- **Row 6 `rais`:** normalized rá[m] is ("of me too"), taking the m as one more dropped letter, because mert then keeps its usual sense and the stamp field has gondoljon néha rám. The literal rá is ("of this too, that…") is the alternative. The signs are the same.
+- **Row 5 `kivano`:** kívánó[k]; kívánom with the m dropped gives the same sense.
+- **Rows 3–4, "Mi sajnos ritkán van mostanába[n]"** can attach to the health wish or stand alone. The sentence division there is editorial, though a short oblique stroke before jó in row 4 is probably a comma and supports a break. De jól mulat as "but when you are having a good time" is an interpretation.
+- **Letters not on the card:** [a]zt (row 19), mé[g] (row 21), viszo[n]t (stamp), kel[l], mostanába[n] (colloquial -ba for -ban is also possible).
+- **Writer's spellings normalized:** közeleb, hozam (hozzám), talkozhatnank (találkozhatnánk, ál omitted across rows 11–12), ojhoszu (oly hosszú), adig, mest- (mást-), semi, tertom (tartom), enek.
+- The letter mixes formal address (találja, gondoljon) with te leszel a párom inside the reported song line. It is kept as written. The song is not identified.
 - The Hungarian judgement is an AI's, not a native speaker's.
 
 ## Review summary
 
 Reviewer: a separate Claude Opus 5.5 agent, round 1, verdict **ACCEPT**. The reviewer ran the reproduction command, read all 24 main rows and all 8 stamp rows from its own crops into its own transcription, decoded that with its own key table written from the HCP 1216 sign list, and compared it with the ledger: 570 signs, no row differing, after treating h/p as one sign and leaving the three unreadable signs as unknown. That reading was made after seeing the ledger, so it was a check against the pixels and not a blind reading. It found eight minor findings and no blockers. All were accepted:
 
-- **Row 6:** the normalized text changed from *rá is* to *rá[m] is*, with English and Slovak changed to match; the old reading stays as the alternative.
-- **Row 4:** *mostanában* now shows its missing n in brackets, and the oblique stroke is disclosed.
+- **Row 6:** the normalized text changed from rá is to rá[m] is, with English and Slovak changed to match; the old reading stays as the alternative.
+- **Row 4:** mostanában now shows its missing n in brackets, and the oblique stroke is disclosed.
 - **Row 17:** the claim that only a wave fits the blot was withdrawn.
 - **Stamp row 1:** the vowel after k is now marked uncertain, not a sure writer's error.
 - **Row 22 and row 19:** the wedge before the p and the damaged s are now disclosed.
 - **Accents:** the statement was softened and the clear ticks are named.
-- **Translations:** "with us" and "u nás" were removed, and the Slovak of *alig várom* was corrected.
+- **Translations:** "with us" and "u nás" were removed, and the Slovak of alig várom was corrected.
 
 No sign value and no ledger token changed.
 

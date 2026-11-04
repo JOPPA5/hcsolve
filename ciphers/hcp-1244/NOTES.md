@@ -13,3 +13,5 @@
 2026-11-01, Claude Opus 5.5, after review 1 (REVISE):
 - Row 14 last sign re-examined in green and blue channels (work/crop_r14.py, work/crops2/): gamma top has a firm pen core inside the smear, base bar also real. Token 7T, printed {j|t}. Chose maradj; the stanza rhymes on lines 2 and 4 only, so the rhyme is no argument for t. Stroke order not provable from the scan.
 - Marks added to the ledger (<ap>, <,>, <.>). vel[e] a keeps the a on the card. úr lányaitól is two words. Translations and items updated; see SOLUTION.md, Response to review 1.
+
+2026-11-03, Claude Opus 5.5, stamp-box audit (human order): stamp lifted, plain Hungarian under it. The unread word is szeretettel (line 3 "az e" re-read as pointed s + z + e = "sze", cf. kisasszonynak in the address; line 4 retet; line 5 tel). Message: Csókolom a távolból szeretettel, Feri. Holes Ferencz. Type now MASC + Steganography (SOLUTION.md, register-entry.txt, report). Crops in work/stamp-2026-11-03/.

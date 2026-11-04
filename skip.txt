@@ -398,3 +398,5 @@
 1736 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
 1737 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
 1738 # pc_hcp_198-460: user runs key transfer here and Max Egorov worked part of it; user asked to skip, 2026-10-30.
+958 # published solution: Klaus Schmeh blog, 2019-08-20/24 (princess Wrede card); found 2026-11-03.
+1129 # published solution: Klaus Schmeh blog, 2019-11-11 (21-letter postcard); found 2026-11-03.

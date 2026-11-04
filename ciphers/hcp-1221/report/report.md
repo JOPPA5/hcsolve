@@ -32,7 +32,7 @@ python3 -I ciphers/hcp-1221/work/decode.py
 
 ## Key
 
-Simple monoalphabetic substitution with invented graphic signs; word divisions are not marked. The names below are conventional descriptions of the handwritten shapes.
+Type: **MASC + Steganography** (updated 2026-11-03). Simple monoalphabetic substitution with invented graphic signs; word divisions are not marked. The steganographic part is the 7-row enciphered message written in the stamp box and hidden under the stamp (now lifted); it is fully read below ("Under the stamp") and was re-checked on enlarged crops of the original on 2026-11-03. The names below are conventional descriptions of the handwritten shapes.
 
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|

@@ -4,7 +4,11 @@
 
 ## Cipher type and key
 
-Hungarian, simple monoalphabetic substitution with invented graphic signs (the "Jolánka" postcard family). Sign classes:
+Hungarian, simple monoalphabetic substitution with invented graphic signs (the "Jolánka" postcard family).
+
+*Type note 2026-11-03:* the card also hides an 8-row cipher message in the stamp box, under the (now lifted) stamp, so the register type is **MASC + Steganography**.
+
+Sign classes:
 
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
@@ -66,6 +70,17 @@ Stamp corner: God be with you, my darling! Your loving sweetheart kisses you cou
 Moja milovaná sladká Jolánka! Moja sladká jediná nádej! Želám si, aby Vás moje riadky zastihli v najlepšej nálade. Ako ste sa zabavili v nedeľu? Dúfam, že dobre. Čo sa mňa týka, prišiel som domov o pol deviatej, ľahol som si a spal som. Spánok ma uchránil pred starosťami, že túto nedeľu nemôžem stráviť s Vami. Pravda, nebolo najlepšie počasie, ale do izby nezaprší. Teraz už viac nepíšem, týmto končím svoje riadky a zostávam Váš do hrobu verný ctiteľ, Feri. Teda v stredu.
 
 V rohu pod známkou: S Bohom, drahá moja! Nespočetnekrát Vás bozkáva Váš milujúci milý, Feri.
+
+## Stamp-box message (2026-11-03)
+
+Audit of the stamp box on the un-converted original (`work/hires/…_adr.jpg`; crops in `work/stamp-2026-11-03/`, e.g. `box_2x.png`, `box_rot180_3x.png`). The stamp has been lifted: torn remnants of the stamp paper remain at the top-right and left edges of the dotted stamp frame. Under it are eight short rows **in the cipher signs**, overprinted by the printed green triangle; no plain-Hungarian writing was found in the box. The message was already read in full on 2026-10-30 (ledger rows s1-s8, decoded by the reproduction command above); this audit re-read it by eye from the pixels and confirms that reading sign by sign (e.g. s1 i-s-t-e-n-v-e, s7 t-o-k-e-d-v-e, s8 s-e-n-f-e-r-i). Nothing was changed in the ledger or the script.
+
+- Literal: istenve | l?eedesem | [s]zamta | lan[s]zor? | csok?o?l? | [s]zer{a|e} | tokedve | s{a|e}nf?eri
+- Hungarian (normalized): Isten vele, édesem! [S]zámtalan[s]zor csókol [s]zerető kedvese⟨n⟩ Feri.
+- English: God be with you, my darling! Your loving sweetheart kisses you countless times, Feri.
+- Slovak: S Bohom, drahá moja! Nespočetnekrát Vás bozkáva Váš milujúci milý, Feri.
+
+Unread or weak: no whole word or clause is unread. Three s are restored (s3, s4, s6, each the only letter making the word, on the tear or under the triangle); the l of *vele*, the r of *-szor*, k-o-l of *csókol*, the last sign of s6 and the f of *Feri* are weak; the stray n in s8 (*kedvesen* / *kedvesem* alternatives) is discussed in item 10 below.
 
 ## Uncertainties (all disclosed)
 

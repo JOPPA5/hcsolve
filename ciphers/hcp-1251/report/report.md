@@ -28,6 +28,8 @@ The result is 770 signs recorded in `work/ledger.txt`, one character per written
 
 ## Key
 
+**Cipher type (register): MASC + Steganography.** Besides the main text, a closing message is hidden in the stamp box, written in the same cipher signs under the stamp (stamp-box audit, 2026-11-03): **Isten vele, édesem, a boldog viszontlátásra! Imádó[ja] Feri.** ("God be with you, my sweet, until our happy reunion! Your adorer, Feri."). It contains no plain-text layer.
+
 Hungarian, simple monoalphabetic substitution with invented graphic signs. Labels are descriptions of the handwritten shapes.
 
 | Sign | Plain | Sign | Plain | Sign | Plain |

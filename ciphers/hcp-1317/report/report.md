@@ -8,9 +8,9 @@ Human solver: Tomáš Pavuk
 
 The cryptogram is record 1317 of the HC Portal (https://crypto.hcportal.eu/dashboard/cryptograms/1317), portal name cpc_1913--_HU__HU_Jasz Arokszalas_jolanka-110, part of Tobias Schrödel's collection of cryptographic postcards. When captured on 2026-10-30 the portal listed it as **Not solved**, tagged Postcard and T. Schrödel Collection, category Substitution, date and language Unknown, location Europe, recipient Tóth Jolánka, with no transcription or solution attached.
 
-The picture side carries only print: *Szerelem törvénye. 5. §.* ("Law of love, § 5") and *Csókolni nem bűn-engem!* (roughly "Kissing is no sin: me!"). It has no cipher text.
+The picture side carries only print: Szerelem törvénye. 5. §. ("Law of love, § 5") and Csókolni nem bűn-engem! (roughly "Kissing is no sin: me!"). It has no cipher text.
 
-The message is on the address side, in green ink, in invented signs: 24 rows on the left half, one long row (25) along the whole bottom edge, the signature *Feri* above its right end (row 26), and a further seven short rows (S1 to S7) in the place where the stamp was stuck. The stamp has been removed, leaving tears that hide a few signs. The address is in plain cursive: *Szépreményű / Tóth Jolánka / úrleánynak / Jászárokszállás* (first and last words read at reduced confidence, the last partly under the portal stamp). The cancellation shows a year ending *913*. A clear B and a following stroke at its top and an F at its bottom are visible, but no place name is claimed.
+The message is on the address side, in green ink, in invented signs: 24 rows on the left half, one long row (25) along the whole bottom edge, the signature Feri above its right end (row 26), and a further seven short rows (S1 to S7) in the place where the stamp was stuck. The stamp has been removed, leaving tears that hide a few signs. The address is in plain cursive: Szépreményű / Tóth Jolánka / úrleánynak / Jászárokszállás (first and last words read at reduced confidence, the last partly under the portal stamp). The cancellation shows a year ending 913. A clear B and a following stroke at its top and an F at its bottom are visible, but no place name is claimed.
 
 The card belongs to the family of Hungarian cipher postcards from Feri to Jolánka Tóth, several of which are read in this repository (for example HCP 1212, 1213, 1216, 1217, 1218, 1243, 1301). This card was read with a **known key transferred from that family**; this is not a new key recovery.
 
@@ -24,7 +24,7 @@ The transcription is **manual**, not OCR. The solver enlarged crops of the un-co
 
 ## Key
 
-Simple monoalphabetic substitution with invented graphic signs. It is the family key of HCP 1216, unchanged. Words are mostly spaced. Accents are written as ticks and dots over the base sign.
+**Type: MASC + Steganography** (updated 2026-11-03). The main text is a simple monoalphabetic substitution with invented graphic signs, and its closing (seven rows, also in cipher) was hidden under the postage stamp, which has since been lifted. It is the family key of HCP 1216, unchanged. Words are mostly spaced. Accents are written as ticks and dots over the base sign.
 
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@ Slovak translation: **Moja milovaná, sladká, jediná nádej! Želám si, aby V
 
 **Pod známkou: S Bohom, drahá! Bozkáva Vás nespočetnekrát Váš ctiteľ Feri.**
 
-The polite third-person address (*találja, küldje, magához*) is rendered with "you" in English and with Vy-forms in Slovak.
+The polite third-person address (találja, küldje, magához) is rendered with "you" in English and with Vy-forms in Slovak.
 
 ## Reproduction
 
@@ -90,33 +90,33 @@ The script uses only the Python standard library and writes no files. It checks 
 
 ## Uncertainties
 
-- **Row 10, `kihe` / `kipe`: unresolved.** After *írni kéne* come k, i, the h/p sign, e, then a gap and *azt*. No fitting word was found, so it stays literal and untranslated, and the link of that sentence is uncertain. One unadopted hypothesis is *írni kéne [ne]ki, de azt várom* ("I ought to write to her, but I am waiting…"). It suits the sense but costs two writer's errors (*ne* dropped at the row break, the tick of d on the wrong side), and the sign itself is h/p, not d.
-- **Restorations under the stamp (5 signs).** The t of *Isten* (S1), the e before m in *édesem* (S2), the i of *imádója* (S6, only its dot shows), and f and e of *Feri* (S7, two bar ends of the e show). In each case one letter gives the word.
-- **Faint signs read with word sense under the stamp.** The first sign of S1; the third sign of S2 (only two short bars show, so literally a, read as e of *vele édesem*); the z of S4; *la* of S5; the last sign of S5 (top bar and stem show, no mid-bar, so literally t, read as r of *számtalanszor*); the last sign of S7 (a cross taken as i). *Csókol* is third person: clean paper follows the l.
-- **h/p calls resting on word sense.** *fényképet* (rows 5, 11) and *megkapjam* (row 11) take p; *hogy, tehát, Hatvanba, magához, hű* take h.
-- **u/z.** The heavy and thin crosses are normally distinct; the calls were also confirmed by sense. Row 13 *küldje* shows no dots; the ü is supplied.
-- **Row 12 `t` of *tehát*:** a tall gamma whose stem crosses the bar, close to a cross; read t from word sense.
-- **Row 26 `r` of *Feri*:** an F with a curled stem; read r from word sense and the family signature.
-- **Writer's slips, normalized editorially.** Row 4 *edes-es*: the s is an over-inked blot and the writer restarted. Row 18 *szetnek* → *sze[re]tnék*. Row 20 *ijjol* → *i[s] jól*, taken as a slip (s dropped, j doubled), with no phonetic explanation claimed. Row 25 *ezze* → *ezze[l]*, and *kedvesse* → *kedvese*. Also *szeretet edes* → szeretett édes, *ileti* → illeti, *majnem* → majdnem, *ot* → ott, *meszevolnek* → messze volnék, *barakoris* → bár akkor is. Accents are supplied where ticks are not clear; the ledger does not transcribe them.
-- **Small writing accidents.** A short fourth stroke after the m at the end of row 12 is not in the ledger and may be a comma-like mark. The k of row 11 *megkapjam* is a heavy blot and the o of row 24 *volnék* is overwritten; both are readable.
+- **Row 10, `kihe` / `kipe`: unresolved.** After írni kéne come k, i, the h/p sign, e, then a gap and azt. No fitting word was found, so it stays literal and untranslated, and the link of that sentence is uncertain. One unadopted hypothesis is írni kéne [ne]ki, de azt várom ("I ought to write to her, but I am waiting…"). It suits the sense but costs two writer's errors (ne dropped at the row break, the tick of d on the wrong side), and the sign itself is h/p, not d.
+- **Restorations under the stamp (5 signs).** The t of Isten (S1), the e before m in édesem (S2), the i of imádója (S6, only its dot shows), and f and e of Feri (S7, two bar ends of the e show). In each case one letter gives the word.
+- **Faint signs read with word sense under the stamp.** The first sign of S1; the third sign of S2 (only two short bars show, so literally a, read as e of vele édesem); the z of S4; la of S5; the last sign of S5 (top bar and stem show, no mid-bar, so literally t, read as r of számtalanszor); the last sign of S7 (a cross taken as i). Csókol is third person: clean paper follows the l.
+- **h/p calls resting on word sense.** fényképet (rows 5, 11) and megkapjam (row 11) take p; hogy, tehát, Hatvanba, magához, hű take h.
+- **u/z.** The heavy and thin crosses are normally distinct; the calls were also confirmed by sense. Row 13 küldje shows no dots; the ü is supplied.
+- **Row 12 `t` of tehát:** a tall gamma whose stem crosses the bar, close to a cross; read t from word sense.
+- **Row 26 `r` of Feri:** an F with a curled stem; read r from word sense and the family signature.
+- **Writer's slips, normalized editorially.** Row 4 edes-es: the s is an over-inked blot and the writer restarted. Row 18 szetnek → sze[re]tnék. Row 20 ijjol → i[s] jól, taken as a slip (s dropped, j doubled), with no phonetic explanation claimed. Row 25 ezze → ezze[l], and kedvesse → kedvese. Also szeretet edes → szeretett édes, ileti → illeti, majnem → majdnem, ot → ott, meszevolnek → messze volnék, barakoris → bár akkor is. Accents are supplied where ticks are not clear; the ledger does not transcribe them.
+- **Small writing accidents.** A short fourth stroke after the m at the end of row 12 is not in the ledger and may be a comma-like mark. The k of row 11 megkapjam is a heavy blot and the o of row 24 volnék is overwritten; both are readable.
 - **Row 25 start.** The first e and the second z are cut by the corner or smudged, but their outlines are visible.
-- **People and places.** *Újvár* is not identified (several Hungarian towns carry the name). *Hatvan* is near the addressee's Jászárokszállás, which fits *közel*. *Ilonka* is unidentified, and Feri is known only as the family's sender.
-- **Date.** The card has no written date; the cancellation year ending *913* and the portal file name point to 1913.
+- **People and places.** Újvár is not identified (several Hungarian towns carry the name). Hatvan is near the addressee's Jászárokszállás, which fits közel. Ilonka is unidentified, and Feri is known only as the family's sender.
+- **Date.** The card has no written date; the cancellation year ending 913 and the portal file name point to 1913.
 - **Limits of the check.** Hungarian usage was judged without a dictionary or corpus. Solver and reviewer are the same model, and the reviewer's reading was not blind.
 - No prior publication was searched beyond the portal status (Not solved, nothing attached) and the AI Decipherment Register (no record, 2026-10-30).
 
 ## Why the reading is believed
 
 - The HCP 1216 key, unchanged, turns all 491 ledger signs into Hungarian with no sign left without a value; only one word has no meaning found.
-- Repeated words decode identically in separate places: *hogy* ×4, *fényképet* ×2, *édesem* ×4, *soraim* ×2, *küldje* ×2, *már* ×3, *volnék* ×2.
-- The prose is coherent, and its formulas (*legjobb kedvében találja soraim*, *mit előre is köszönök*, *sírig hű kedvese*, *Isten vele*, *imádója*) match the family. The sense runs across row breaks (*re|ményem, raj|ta, köszö|nök, gyak|ran*).
+- Repeated words decode identically in separate places: hogy ×4, fényképet ×2, édesem ×4, soraim ×2, küldje ×2, már ×3, volnék ×2.
+- The prose is coherent, and its formulas (legjobb kedvében találja soraim, mit előre is köszönök, sírig hű kedvese, Isten vele, imádója) match the family. The sense runs across row breaks (re|ményem, raj|ta, köszö|nök, gyak|ran).
 
 ## Review summary
 
-Reviewer: a separate Claude Opus 5.5 agent, round 1, verdict **REVISE**. The reviewer ran the reproduction command, read all 33 rows sign by sign from its own crops, counted bars on every a/e sign, and decoded its reading with its own key script. Of 33 rows, 29 were identical. It confirmed the key, the restorations, *csókol* in the third person and the repetition counts. What changed because of the review:
+Reviewer: a separate Claude Opus 5.5 agent, round 1, verdict **REVISE**. The reviewer ran the reproduction command, read all 33 rows sign by sign from its own crops, counted bars on every a/e sign, and decoded its reading with its own key script. Of 33 rows, 29 were identical. It confirmed the key, the restorations, csókol in the third person and the repetition counts. What changed because of the review:
 
-- **Row 16, last sign (major).** It has two bars, so it is a, not e. The solver had misread it; the card has *Újvárba* correctly spelled, and a claimed misspelling was withdrawn.
-- **Comma in rows 19-20.** Now *…menni, már az érzés is jól esne*; the second *már* opens the next clause. The translations already meant this.
+- **Row 16, last sign (major).** It has two bars, so it is a, not e. The solver had misread it; the card has Újvárba correctly spelled, and a claimed misspelling was withdrawn.
+- **Comma in rows 19-20.** Now …menni, már az érzés is jól esne; the second már opens the next clause. The translations already meant this.
 - **Disclosures added.** The S2 third sign and S5 last sign as word-sense calls; the row 12 fourth stroke and two blots; the visible letters of the cancellation; 486 signs seen and 5 restored rather than a flat 491.
 - **Row 10.** The reviewer's unadopted hypothesis is recorded with its costs. The word stays unresolved.
 - **`ijjol`.** The unsupported phonetic explanation was replaced by "writing slip".

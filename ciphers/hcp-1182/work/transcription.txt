@@ -1,0 +1,33 @@
+# hcp-1182 Morse transcription (Claude Opus 5.5, 2026-11-03), read from enlarged crops of
+# work/hires/cpc_1909-10-16_DE_Berlin_DE_Lichtenrade__adr.jpg (left half of address side).
+# One card line per row. Tokens: Morse group (one letter, between the writer's slanted strokes);
+# "|" = writer's double/heavy stroke (word end); "=" = the writer's Latin hyphen at line end;
+# "*2" = horizontal bar over the group (Kurrent doubling bar: m-bar = mm); "-dash-" = a lone
+# dash standing between strokes (read as punctuation, see SOLUTION.md);
+# "[u" ... "u]" = groups underlined by the writer.
+# Round 2 (response to review 1): L07 has no word stroke between LANG and the lone dash (only a
+# thin letter stroke closes G); the dash is followed by thin + heavy strokes. The token order now
+# says so; reading the dash as a Gedankenstrich rests on sense.
+L01: .-.. .. . -... . | .- -. -. .- | -.- =
+L02: --- -- -- . | -.. --- ----
+L03: -... .. - - . | -... . ... - .. --*2 -
+L04: .. ---- | -... .-.. . .. -... . | -.-- =
+L05: ..- | .... .- ..- ... . | -.. .. . | -.-- . .. -
+L06: .--. .. .-. -.. | -- .. .-. | . .--. =
+L07: .. --. | .-.. .- -. --. -dash- | [u -... =
+L08: .-. .. -. --. . | -... .. - - .
+L09: -.. . -. | .-. .. -. --. | -- .. - u] |
+L10: .-.. .. . -... .-. | ... ---- .- - =
+L11: -.-- | .. ---- | .... --- ..-. ..-. .
+L12: ... - .- .-. -.- | .- ..- ..-. | -.. . =
+L13: .. -. | . .-. ... ---- . .. -. . -.
+L14: -. ..- -. | .--. .. .-.. .-.. | .. ----
+L15: ... ---- .-.. .. . ...*2 . -.
+L16: . ... | --. .-. ..-- ... - | -.. .. ---- | .... . =
+L17: .-. -.-- .-.. .. ---- | -.. | .... ..- --. ---
+
+# Second text (found by the reviewer, read in round 2): faint grey Morse written along the printed
+# divider line, card turned 90 degrees (reads from the top edge downwards), card x ~1560-1600,
+# y ~130-1880 of work/hires/..._adr.jpg. Crops: work/strip/w*.png, z*.png (rotated 90 deg CCW, 4-5x,
+# card y marked in red). Card-y positions of the marks are given in NOTES.md.
+V01: ... ..-- ... ... . .-. | ... ---- .-.. .. -. --. . .-..

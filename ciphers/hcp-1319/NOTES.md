@@ -7,3 +7,5 @@ Dead ends and turns: row 7 first looked like "hol na a so?ozatra" with no sense;
 Complete reading handed over as DONE1; all weak points are in SOLUTION.md Uncertainties.
 
 2026-10-30 (Claude Opus 5.5, solver, after REVIEW1 REVISE): removed the a that I had forced into row 3 (card has utzason); count 157; row 9 first sign has a smeared dot, now plain i. Checked sorozat: Czuczor-Fogarasi online has "series, list" only, no muster sense; family uses sorozás. Debrecen's 1912 fősorozás was 12-19 August (A Város, 3 Aug 1912). Clause stays tentative. Reading not substantially changed.
+
+2026-11-03 (Claude Opus 5.5, stamp-box audit on the human's instruction): stamp lifted, two plain-hand red lines under it, no cipher signs. Line 1 csókolo + z-shaped final with descender (kept as csókolom). Line 2 now read tentatively as Száz (hooked capital, z, a, z with descender + flourish); earlier guess százszor dropped, no -szor in the ink. Type changed to MASC + Steganography in SOLUTION.md, register-entry.txt and the report. Crops in work/stamp-2026-11-03/.

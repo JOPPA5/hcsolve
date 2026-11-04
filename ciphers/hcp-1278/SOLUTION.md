@@ -16,6 +16,8 @@ Hungarian, simple monoalphabetic substitution with invented graphic signs: the "
 | open C with a tail at the foot | g | tall stroke + tick on the right (high = h, low = p) | h / p | crossed diagonal | z |
 | same loop, straight arm, dot above | i | inverted T | j | C + y joined | gy |
 
+**Type note (2026-11-03):** register type changed to **MASC + Steganography**, because the stamp was lifted and a plain Hungarian message stands in the stamp box, written to be hidden under the stamp (see "Stamp-box message (2026-11-03)").
+
 Dots over o/u give ö/ü. The sign for f does not occur with certainty (see item 3). y and cs occur only as parts of gy and as c + s.
 
 ## Reproduction (one command, from the repository root)
@@ -110,3 +112,16 @@ Verdict REVISE. Every finding was rechecked on the reviewer's crops and addresse
 8. **küldök / küldöm (minor): fixed.** Item 10 and "Why it is correct" now keep the two apart.
 
 The reproduction command was re-run after these changes and passes all four hash checks; its output is the literal block above.
+
+## Stamp-box message (2026-11-03)
+
+Audit by Claude Opus 5.5 of the stamp box on the high-resolution address scan (`work/hires/..._adr.jpg`), crops in `work/stamp-2026-11-03/` (`box_2x.png`, `box_rot_green_3x.png`, `line3_green_5x.png`, `line3_color_5x.png`).
+
+- **State:** the stamp is lifted. The printed stamp box (blue dashed frame, blue "R.A." wreath roundel) is bare paper, and red-ink writing stands in it, turned 90° and read from the bottom up. A second, unread cancellation rings the box (item 12).
+- **Script:** plain Hungarian hand, not the cipher signs. No cipher sign stands in the box.
+- **Literal reading (three lines):** `[c]sokolom` / `a tavol-` / `bol` + a heavily inked group. The first letter is under a pink blot; c is restored as the only letter that makes the word. No accents are visible on ó/á/ó.
+- **Normalized Hungarian:** Csókolom a távolból.
+- **English:** I kiss you from afar.
+- **Slovak:** Bozkávam Vás z diaľky.
+- **What stays unread:** after `bol` of line 3 stands a heavily overinked group shaped like o + a tall l (darker ink, overwritten); I read it as a retrace of the ending, not as more text, and give it no value. The two small pen marks to the lower right (one pale y-like, one darker 5/H-like) stay unread, as in item 11. No clause of the message is unread.
+- This message was already given in the sections above (item 11); this audit confirms it from the pixels and adds only the overinked group. The reproduction script covers the cipher ledger only and is unchanged; the stamp text is read by eye.

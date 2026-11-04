@@ -34,6 +34,8 @@ python3 -I ciphers/hcp-1248/work/decode.py
 
 Hungarian text in a simple monoalphabetic substitution with invented graphic signs. The names below are conventional descriptions of handwritten shapes.
 
+Cipher type (updated 2026-11-03): **MASC + Steganography**. Part of the message, seven cipher rows, was hidden in the stamp box under the stamp, which has since been lifted.
+
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
 | two bars | a | section mark / S-shape | k | F-like | r |

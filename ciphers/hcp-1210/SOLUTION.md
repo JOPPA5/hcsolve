@@ -45,3 +45,13 @@ Normalized: Túrkeve, 1913. V. 7. Szeretett kedves Jolánkám! Lapját megkaptam
 ## Why no cipher is claimed
 
 Every line reads directly as Hungarian with no key. None of the Jolánka family's signs (two bars = a, three bars = e, and so on, hcp-1216) occur here, and the text is a polite reply by "Andor", a sender not otherwise known in the family's solutions I checked. Applying the family key is meaningless since the signs are not there.
+
+## Stamp-box audit (2026-11-03, Claude Opus 5.5)
+
+Checked at the human's request (Tóth Jolánka cards often carry a hidden message under the stamp). Crops of the original address side are in `work/stamp-2026-11-03/` (`stamp_2x.png`, `stamp_center_4x.png`, `stamp_center_pink_4x.png`, `stamp_lowleft_4x.png`, red-channel variants).
+
+- **The stamp is still in place.** It is the green 5-fillér Turul (MAGYAR KIR. POSTA / FILLÉR), cancelled TÚRKEVE. Its centre is skinned (the paper surface is abraded, not lifted), so the card under it cannot be seen. Earlier wording in this file ("partly torn away") means this abrasion.
+- In the abraded centre there are a few faint pinkish curved traces. With red-minus-green separation at 4x they form no letter shapes and no cipher signs; they may be stamp or paper fibres showing through. I read nothing from them.
+- One brown-ink figure like a `3` sits on the stamp face beside the postmark date line. It is a single sign, possibly a hand-added digit; it is not a message.
+- Nothing is written around the stamp outside its edges.
+- **Result:** no stamp-box message can be read from the scan; any writing under the stamp is unknowable without lifting it. Type unchanged: this card still has no cipher (plain Hungarian), so it is **not** "MASC + Steganography" and gets no register entry.

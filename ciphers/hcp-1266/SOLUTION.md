@@ -6,6 +6,8 @@
 
 Hungarian, simple substitution with invented graphic signs: the Jolánka postcard family key, with the same letter values as finished HCP1216 (also 1213, 1217, 1218, 1243, 1301); the writing of digraphs and the shape of g differ (see below the table). The key was transferred, not reconstructed.
 
+*Type note (2026-11-03):* the stamp is lifted and a 6-row message in the same cipher stands in the stamp box (hidden under the stamp), so the card is typed **MASC + Steganography** (register label).
+
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
 | two bars | a | section mark (S shape) | k | F-like | r |
@@ -107,3 +109,14 @@ Verdict REVISE. All eight findings accepted and fixed. No sign value changed; th
 8. **"Unchanged": softened** in the key section and in "Why it is correct".
 
 The reviewer's unverified points stay open and are disclosed: the row 15 marks and the *tt* emendation, the row 21 sign, the date, the first purple line, the sender's identity, and the railway sense of *piros zászló*. The command was re-run after the edits: all four hashes OK, and the output matches this file.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit at the human's request (Claude Opus 5.5). The stamp is lifted (a torn green paper remnant sits at the upper-left corner of the printed box); under it, inside the red dashed box, stand 6 rows in the card's cipher signs, green ink, no plain-text writing. These rows were already in the ledger (S1-S6) and in the plaintext above; I re-read them from new crops of `work/hires/*_adr.jpg` (`work/stamp-2026-11-03/box.png`, `half0.png`, `half1.png`, 3x) with this card's key and confirm every sign of the ledger rows:
+
+- Literal: gondol / jonne / haram / minen / önre / csokolom (S2 *jonne* = *jo n ne*, word break editorial; S4 e carries an accent mark, *mi n én*)
+- Normalized Hungarian: Gondoljon néha rám, min[t] én önre. Csókolom.
+- English: Think of me sometimes, as I do of you. I kiss you.
+- Slovak: Myslite niekedy na mňa, ako ja na Vás. Bozkávam.
+
+Unread: nothing. The only supplied letter is the t of *min[t]* (not written; disclosed in Uncertainties item 7). The reproduction command already prints these rows; `work/decode.py` was not changed.

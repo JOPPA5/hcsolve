@@ -11,3 +11,5 @@
 2026-10-14: Addressed REVIEW1 after viewing the reviewer source crops. See Response to review 1 in SOLUTION.md for all numbered findings, adopted readings and retained uncertainties. Previous claims/ledger/PDF archived in work/before-review1/. Source and review files unchanged; no watcher or external submission.
 
 Closure: all required review corrections incorporated; four-page English PDF rendered and visually inspected. Decoder output matches the saved literal rows, and 41 protected source/review/marker files across 1213/1217 are unchanged. Local register entry prepared with solver TODO and UTC date 2026-10-13 (local date 2026-10-14); not externally submitted. No second review requested by reviewer. FINAL is the last write.
+
+2026-11-03: Stamp-box audit (Claude Opus 5.5, human-ordered). Stamp lifted (green corner fragment left); eight cipher-sign lines under it, already read as S1–S8 and unchanged on re-check (crop work/stamp-2026-11-03/). Type changed to MASC + Steganography in SOLUTION.md, report and register-entry.txt; PDF re-rendered. Markers untouched.

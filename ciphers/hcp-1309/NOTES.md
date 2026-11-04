@@ -13,3 +13,5 @@
 - Tool note: a stray shell `cat` with no input hung my first crop command; I cleared it with `pkill -x cat`, which could also have ended any other bare `cat` on the machine. No effect on this card's files; the crop script was rewritten afterwards.
 
 2026-10-30, Claude Opus 5.5 (solver), after REVIEWED1 (REVISE): all seven findings addressed, see SOLUTION.md "Response to review 1". Surname now Holes (H from the clear *cím Holes* of HCP1303; J is excluded here because cipher j is the inverted T). Ledger row 4 gained the tick of *már*; normalization now has *bőven*. No decoded letter changed.
+
+2026-11-03, Claude Opus 5.5, stamp-box audit (human's order): stamp lifted, six cipher rows under it (no plain text), already fully read as S1–S6 except the disclosed S2 smear; re-checked on hi-res crops in work/stamp-2026-11-03/. Type changed to MASC + Steganography in SOLUTION.md, register-entry.txt and report. No decoded letter changed.

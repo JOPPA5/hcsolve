@@ -1,0 +1,38 @@
+# hcp-993 ciphertext, transcribed by Claude Opus 5.5 from work/hires/..._pic.jpg (card turned 90 deg
+# counter-clockwise so the lines run left to right; the last two lines sit upside down in the right
+# half of the picture side, under the date line).
+# One token per sign, tokens separated by spaces, words separated by " / ".
+# Sign names:
+#   0-9   the digits as written
+#   arc   an arch with a dot under it (like an inverted u with a dot)
+#   hook  a C-shaped hook with a blob at the foot (looks like a reversed 6 / italic C)
+#   revc  a reversed c
+#   Ibar  a capital I with serifs
+#   U     a u-shaped cup (sometimes with a small loop)
+#   V     a pointed v
+#   phi   an oval crossed by a long vertical stroke
+#   plus  a + cross
+#   neq   a + with two bars (like a crossed equals sign)
+#   w2o   a z-like stroke joined to an 0 (one sign, written as a ligature)
+#   vbar  an 0 with a bar above
+#   Uuml  U with two dots
+#   ouml  0 with two dots
+# Markers:  (x)  restored sign hidden by the ink smear or the card edge (x = sign restored)
+#           {x}  sign written by the writer as shown but read as another (see SOLUTION.md)
+#           <x>  sign omitted by the writer, supplied (not on the card)
+#           [18] a plain boxed numeral, kept literal
+#           | line break on the card, - hyphen written on the card, punctuation kept as written
+L1: 3 4 arc 2 / 8 4 hook Ibar arc 2 2 arc 9 9 4 1 arc 4 6 7 4 5 / 8 4 hook Ibar 4 2 5 ....!
+L2: [plain Kurrent German: Deinen lieben Brief habe ich erhalten. Bin kern=]
+L3: [plain Kurrent German: gesund.] w2o 4 hook V 4 / vbar 0 2 / 7 phi 9 / Ibar U / 7 phi 9 / U 2 9 4 V U 1 <V> -
+L4: arc 9 4 hook / V arc revc 8 / 6 phi 1 V / w2o arc 4 V 4 hook , / arc 2 / V arc 4 / phi hook 3 4 / 5 revc 8 1 arc 4
+L5: 5 4 2 / Ibar U / neq ouml 2 2 4 2 . / 2 U 2 / 5 arc 2 V / 4 5 / 2 0 revc 8 / [18] / 7 phi 9 4 / 6 arc (5)
+L6: V phi {6=8} arc 2 . / (6) arc 2 / 2 U hook / plus hook 0 8 / V phi 5 5 / 3 arc hook / V arc 4 5 3 phi 1 / neq 4 arc 2
+L7: plus 4 1 V w2o 4 (6) 4 1 / 4 arc 2 4 2 / 5 7 hook arc revc 8 / V U hook revc 8 / V arc 4 / hook 4 revc 8 2 U 2 9 / 3 phi -
+L8: revc 8 4 2 / neq phi 2 2 . / 1 arc 4 6 ! / V 4 arc 2 / 4 / w2o arc hook V / V arc revc 8 / 9 phi 2 Ibar / U 2 V
+L9: 9 phi hook / phi U plus (4) (5) 5 4 2 / w2o 4 2 2 / 4 hook / neq 0 3 3 7 . / V 0 revc 8 / 2 U 2 / 1 4 6 4
+L10: hook 4 revc 8 7 / w2o 0 (8) 1. / U 2 V / 9 hook Uuml 5 5 4 / phi 1 1 4 / 1 arc 4 6 4 2 / hook 4 revc 8 7 / 8 4 hook Ibar =
+L11: 1 arc revc 8 . / V arc revc 8 / phi 6 4 hook / U 3 phi hook 3 7 / 3 arc 7 / arc 2 2 arc 9 5 7 4 2 , / 9 hook Uuml 5 5 4 2 .
+L12 (upside down, right half): U 2 V / neq Uuml 5 5 4 2
+L13 (upside down, right half): V 4 arc 2 / 4 hook arc revc 8
+L14 (upside down, right half): [two rows of dots: .... ....]

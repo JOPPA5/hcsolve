@@ -1,0 +1,120 @@
+{
+ "_note": "Manual transcription of the Morse block on the address side (work/hires/cpc_--_USA__USA___adr.jpg), read from 3-5x enlargements. Card rows are given in order. Each word is a list of letters; each letter is its mark pattern: '.' dot, '-' dash, '=' long dash (American Morse L), a space inside a pattern is an internal (spaced-dot) gap. Commas drawn on the card are the word separators. Letters marked * in 'flags' rest partly on word sense (see SOLUTION.md).",
+ "card_rows": [
+  "R E C D , Y O",
+  "U R , C A R D ,",
+  "T H I S , A M ,",
+  "I* W I L* L* , W R",
+  "I T E , S O O* N , M",
+  "Y* , A D [^D] R E S S , I S ,",
+  "4 5 7 , C A R R O L L ,",
+  "S T , A K R O N O H I O"
+ ],
+ "words": [
+  [
+   ". ..",
+   ".",
+   ".. .",
+   "-.."
+  ],
+  [
+   ".. ..",
+   ". .",
+   "..-",
+   ". .."
+  ],
+  [
+   ".. .",
+   ".-",
+   ". ..",
+   "-.."
+  ],
+  [
+   "-",
+   "....",
+   "..",
+   "..."
+  ],
+  [
+   ".-",
+   "--"
+  ],
+  [
+   ".."
+  ],
+  [
+   ".--",
+   "..",
+   "=",
+   "="
+  ],
+  [
+   ".--",
+   ". ..",
+   "..",
+   "-",
+   "."
+  ],
+  [
+   "...",
+   ". .",
+   ". .",
+   "-."
+  ],
+  [
+   "--",
+   ".. .."
+  ],
+  [
+   ".-",
+   "-..",
+   "-..",
+   ". ..",
+   ".",
+   "...",
+   "..."
+  ],
+  [
+   "..",
+   "..."
+  ],
+  [
+   "....-",
+   "---",
+   "--.."
+  ],
+  [
+   ".. .",
+   ".-",
+   ". ..",
+   ". ..",
+   ". .",
+   "=",
+   "="
+  ],
+  [
+   "...",
+   "-"
+  ],
+  [
+   ".-",
+   "-.-",
+   ". ..",
+   ". .",
+   "-."
+  ],
+  [
+   ". .",
+   "....",
+   "..",
+   ". ."
+  ]
+ ],
+ "flags": {
+  "word 6 (I)": "two dots with intermediate gap (~60 hi-res px between centres; this writer's I elsewhere ~30, O ~90-105). Read I (I WILL); the card has no comma between I and WILL. O is not excluded by the pixels alone.",
+  "word 7 letters 3-4 (WILL)": "the two dashes are ~95-100 px at display scale, between this writer's T (65-105) and L (145-150): read L L by word sense (WITT is not a word).",
+  "word 9 letter 3 (SOON)": "the second O is written with a tight gap (~40 px), I-like; literally S O I N, transcribed as O by word sense.",
+  "word 10 letter 2 (MY)": "two pairs of dots, the first pair wider than usual; read Y (.. ..); M + O + I is not a word.",
+  "word 11 letter 3 (ADDRESS)": "the second D is written above the line and inserted with a caret by the writer."
+ }
+}

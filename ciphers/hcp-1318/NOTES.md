@@ -7,3 +7,5 @@ Dead ends: first read rows 17-18 as "mert merel/meral mos": solved as dittograph
 Stain: rows 7-9 have five hidden or faint signs, see SOLUTION.md items 2-4. Status: complete, DONE1.
 
 2026-10-30 (Claude Opus 5.5, solver, after REVIEWED1, verdict REVISE): row 16 sign 8 corrected to e (three bars, my ledger error; the "nem" slip of item 12 withdrawn). Row 5 "el" is the prefix of vesztek, not a false start. "mert már álmos" disclosed as a live alternative. Stain traces and the address line Szépremény[ű] added to SOLUTION.md. See "Response to review 1".
+
+2026-11-03 (Claude Opus 5.5, stamp-box audit on the human's instruction): stamp lifted (torn edges remain), 7 rows of cipher signs under it, no plain text. Re-read from work/hires address scan (crops in work/stamp-2026-11-03/): identical to ledger s1-s7, "Csókolom számtalanszor. Imádója Feri." Type changed to MASC + Steganography in SOLUTION.md, register-entry.txt and report; PDF re-rendered.

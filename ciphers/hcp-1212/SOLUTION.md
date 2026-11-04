@@ -12,6 +12,8 @@ Portal: https://crypto.hcportal.eu/dashboard/cryptograms/1212 (status *Not solve
 
 Hungarian **graphic monoalphabetic substitution** (one sign per letter, word spaces mostly kept, accents written as marks over the cipher signs). It is the same key as the other Tóth Jolánka cards from Feri (HCP1213, 1216, 1217, 1218, 1243, 1301).
 
+*2026-11-03 type note:* register type changed from "Graphic MASC" to **MASC + Steganography**, because a plain-Hungarian message is written in the stamp box under the (now lifted) stamp; see "Stamp-box message (2026-11-03)" below.
+
 | Sign | Letter | Sign | Letter |
 |---|---|---|---|
 | two bars `=` | a | wave `~` | l |
@@ -142,3 +144,16 @@ Verdict ACCEPT, five minor findings. All were checked on the reviewer's enlargem
 5. **Row 1 accents – fixed.** `review/work/band0.png` shows ticks over both two-bar signs of Jolánkám; recorded as A:acute in the ledger.
 
 No change to the reading beyond `a` → `e` in row 12; the solution is otherwise unchanged.
+
+## Stamp-box message (2026-11-03)
+
+Audit ordered by the human (Tomáš Pavuk) for the Tóth Jolánka series, where the sender often wrote a hidden message under the stamp.
+
+- **Stamp state: lifted, with writing under it.** On the full-resolution original (`work/hires/cpc_1912-02-17_HU__HU_Jasz-Arokszalas_jolanka-05_adr.jpg`, 3445×2210, fetched from the portal media store 2026-11-03) the GYÖNGYÖS postmark is cut off along a straight vertical edge just right of "GYÖ" and resumes only along the bottom of its circle: the right part of the strike fell on the stamp, which has since been removed. The bare paper inside that rectangle (top-right corner) carries the red-ink note and no postmark ink, so the note lay under the stamp. Crops: `work/stamp-2026-11-03/corner.png` (1×), `note3x.png` (3×), `corner_blue_contrast.png` (blue channel, contrast-stretched to show the footprint). The rest of the footprint (below the note) is blank at this resolution; no cipher signs were found in the stamp box.
+- **Script: plain Hungarian (Latin cursive), not cipher.** Five short lines, broken mid-word.
+- **Literal reading** (no accents visible on the pixels): `szamta / lanszor / csokol / szeretet / tel Feri`
+- **Normalized Hungarian:** Számtalanszor csókol szeretettel Feri.
+- **English:** Kisses you countless times, with love, Feri.
+- **Slovak:** Nespočetnekrát ťa bozkáva s láskou Feri.
+- **Unread:** nothing; every letter is legible. Accents (á, ó) are editorial. This is the same text already recorded as the "stamp-corner note" in uncertainty 8 and in the response to review 1; what is new is the finding that it sat under the stamp, i.e. it is a hidden (steganographic) message. The line above the postmark ("Egy kis nefelejcsnek", probable) lies outside the stamp box.
+- The reproduction script `work/decode.py` covers only the cipher ledger and is unchanged; the stamp text is read by eye.

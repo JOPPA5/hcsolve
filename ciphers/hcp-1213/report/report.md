@@ -10,6 +10,8 @@ The HC Portal record was marked Not solved when acquired. General, Description a
 
 Hungarian graphic monoalphabetic substitution; the working key was transferred from HCP1301/1243 and applied directly to this separate card. Manual shape tokens cover 27 main rows and seven stamp rows. This was not a blind transcription: earlier readings were known. The computer decodes these tokens; it does not read pixels.
 
+Cipher type: MASC + Steganography (updated 2026-11-03): a hidden cipher-sign message is written in the stamp box under the lifted stamp; the key is unchanged.
+
 ## Hungarian editorial reading
 
 Szeretet[t] édes Jolánkám! Kívánom, hogy a legjobb egésségben találja soraim. Hogy telt el a húsvéti ünnepek? Remélem jól, jobban mint nekem. Első nap voltam Szolnokon, második napon szabad voltam, és [víg?] voltam öntözköd[ni] a szomszédoknál és Szentmihályon. Ez volt az összes húsvé[ti] öntözködés. Azt sajnálom, édesem, hogy magát nem öntözhettem meg, de majd, édesem, ha feljön, el fogom végezni. Nekünk, édesem, akkor is jó lesz.
@@ -31,6 +33,17 @@ Under the stamp: Your sweetheart, faithful until death, kisses you countless tim
 Row 11 now includes its formerly omitted ending: öntözködés azt; the suffix gap is resolved. Row 21 ends in a small s/k-like sign, preferred s, yielding a kis lakás; the former invented kiklakás gloss is withdrawn. Row 8 has an explicit UNKNOWN token for a large symmetric caret (v or insertion mark), followed by ig. Víg (“cheerful”) is preferred but qualified; the earlier így interpretation remains an alternative if the caret is nonalphabetic and the following form is gy. Row 7 reads második and szbad, with sz[a]bad editorial. Single n/b are preferred in rows 4/5; exact duplication remains uncertain. Row 15 has a blot and dot after végezni, followed by a new sentence Nekünk, édesem… . Other source forms edig, nagyosokat, akor and kozeleb remain. Pest[re] supplies a case ending. The main signature is Feri; the abbreviated stamp signature [F…i?] remains uncertain. Accents and h/p near-homographs remain qualified. Review 2 accepted the corrected decipherment; these localized uncertainties remain open.
 
 Accents, spaces and punctuation are editorial where not plainly present. The original period spelling egésség is retained. Easter sprinkling is supported by the repeated source öntöz-/öntözköd- forms, not an imported poem. The opening question reads hogy telt el. The closing line reads viszontlatasra imadja feri. The accommodation phrase is now a kis lakás, with a disclosed s/k ambiguity in its final small sign; no invented compound is translated.
+
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit of the original address scan (work/hires/, crops in work/stamp-2026-11-03/). The stamp is lifted; seven short rows are written under it in the same cipher signs as the main text (no plain Hungarian). This message was already read in the 2026-10 edition and is covered by the decoder ledger (rows S1-S7); the audit re-checked it by eye and changes no letter.
+
+- Literal (decoder output): szamtalan / szorcso / kolja / sirig / {h|p}uked / vese{?} / fi
+- Normalized Hungarian: Számtalanszor csókolja sírig hű kedvese, [F…i?].
+- English: Your sweetheart, faithful until death, kisses you countless times, [F…i?].
+- Slovak: Nespočetnekrát ťa bozkáva tvoj až do hrobu verný milý, [F…i?].
+- Unread: the last sign of row S6 is a dark blot over a three-bar-like sign (possibly a cancelled start of the name); row S7 is clearly cross + i = "Fi". The signature is therefore left as [F…i?]; expanding it to Feri would need more than one hidden letter and is not done. The h/p near-homograph in hű is read by sense. Everything else in the stamp message is read.
 
 ## Working key
 

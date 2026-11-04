@@ -11,3 +11,6 @@
 Dead end: no date on the postmark. Marker DONE1 written after SOLUTION.md.
 
 2026-11-01 (Claude Opus 5.5, solver, after review 1 REVISE): added row 28 a. Row 29 tail rechecked on crops2/: hooked sign = s form of row 29 opening, not k, so kezé[t] dropped. Small cross compared with u (row 24), z, f of fiatal (row 28): closest to tilted f, so Fe[ri] with doubt. Tried csalja: excluded by the o signs. Ledger rewritten as sign-class tokens (ledger-signs.txt) so the command applies a key.
+
+2026-11-03 (Claude Opus 5.5, stamp-box audit): the stamp is lifted and the box holds 7 rows of cipher signs (s1–s7). They were already read in full and are in the ledger. Made new 3x crops in work/stamp-2026-11-03/ and re-ran decode_opus.py: output unchanged. Type changed to MASC + Steganography in SOLUTION.md, register-entry.txt and report.md.
+Also removed the single-asterisk italics from report.md, because md2pdf.py printed them as literal asterisks. Re-rendered report.pdf; it now has no asterisks.

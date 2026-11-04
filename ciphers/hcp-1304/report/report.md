@@ -14,7 +14,7 @@ The address is in plain writing: Szépreményű Tóth Jolánka úrleánynak, Já
 
 ![Picture side (source/picture-large.jpg)](../source/picture-large.jpg)
 
-![Address side with the cipher text, the two cancels and the empty stamp box (source/address-large.jpg)](../source/address-large.jpg)
+![Address side with the cipher text, the two cancels and the stamp box with the hidden rows, stamp lifted (source/address-large.jpg)](../source/address-large.jpg)
 
 The card belongs to the "Jolánka" family of Hungarian cipher postcards to Jolánka Tóth, signed by Feri, several of which are deciphered in this repository (HCP 1216, 1212, 1213, 1217, 1218, 1243, 1301). They share one key. This card was therefore read with a **known, transferred key**, not by a new key recovery. No earlier work exists on this number, and no reading of this card was supplied or consulted.
 
@@ -36,7 +36,7 @@ The script checks the SHA-256 of both scans in `source/` and both originals in `
 
 ## Key
 
-Hungarian simple monoalphabetic substitution with invented signs. Word spaces are partly kept; dots and double marks over vowels are written, acute marks mostly not. The names are conventional descriptions of the handwritten shapes.
+Cipher type: MASC + Steganography (updated 2026-11-03). Hungarian simple monoalphabetic substitution with invented signs; the closing five rows are hidden in the stamp box, under the stamp, in the same cipher signs. Word spaces are partly kept; dots and double marks over vowels are written, acute marks mostly not. The names are conventional descriptions of the handwritten shapes.
 
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|

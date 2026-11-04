@@ -12,3 +12,5 @@
 All tokens in work/ledger.txt; work/decode.py verifies hashes and decodes. SOLUTION.md written; DONE1 follows.
 
 2026-11-01 (Claude Opus 5.5, solver, after REVIEWED1, verdict REVISE): confirmed all four reviewer corrections on the pixels (row 6 aval, row 8 sokszor elgondoltam, row 10 one m: enyem, row 11 mar). Lesson: these were miscounts toward imagined words, so a/e bar counts of all rows were rechecked on the crops; no further change. Adopted ulese, s e miatt; egyletbe(n) as a proposal. Fixed caption spelling after viewing the picture side.
+
+2026-11-03 (Claude Opus 5.5, stamp-box audit on human request): stamp lifted (empty frame, gum, green stamp fragments, postmark ring stops at frame); plain Hungarian cursive under it. Reread on crops in work/stamp-2026-11-03/: "hű szere / tetje", not "pene / ketse"; kedvese guess withdrawn, szeretője only a candidate, the noun stays unread. Type -> MASC + Steganography in SOLUTION.md, register-entry.txt, report (re-rendered; single-asterisk italics removed from report.md). decode.py unchanged; stamp text read by eye.

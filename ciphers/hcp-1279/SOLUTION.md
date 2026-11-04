@@ -4,7 +4,7 @@
 
 ## Cipher type and key
 
-Hungarian, monoalphabetic substitution with invented graphic signs: the Jolánka family key of HCP1216 and its sisters, used unchanged. Register type label: MASC.
+Hungarian, monoalphabetic substitution with invented graphic signs: the Jolánka family key of HCP1216 and its sisters, used unchanged. Register type label: MASC + Steganography (2026-11-03: changed from MASC, because the closing rows are written in the stamp box, under the now lifted stamp; see "Stamp-box message (2026-11-03)").
 
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
@@ -66,6 +66,18 @@ By the stamp: [row lost] ... For your kisses I am (?) your sweetheart, Feri.
 
 Pozrite, kým nezískam rodinný krb, musím veľa bojovať (voľne: na lístku *hogy* ... *addig*). Často strácam trpezlivosť, prečo ešte nemám aspoň [toľko] peňazí, koľko je na to treba, ale dôverujem v Boha, že sa aj toho raz dožijem. Tak sa teším, moja drahá, že ma už len tri týždne (?) delia od toho, aby som Vás znova videl, aby bol niekto, kto ma povedie, a od koho si môžem pýtať dobré rady; lebo ja chcem žiť len tak, ako si Vy želáte, alebo lepšie povedané, budem žiť len pre Vás a pre svoju prácu. Kiežby už tu bola tá chvíľa, keď Vás uvidím! Čo sa týka mojich rodičov, zatiaľ to neposielam, lebo peniaze treba na iné: teraz si chcem dať ušiť aj šaty, a to za hotové. Ale ak si to želáte, pošlem to prvého. To závisí len od Vás, ale ja by som sa chcel najprv nanovo obliecť. Týmto končím svoje riadky a zostávam Váš milujúci milý, Feri.
 Pri známke: [riadok stratený] ... Za Vaše bozky som (?) Váš milý, Feri.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit of 2026-11-03 (Claude Opus 5.5), from the hi-res address side `work/hires/..._adr.jpg`, crops in `work/stamp-2026-11-03/` (`stampbox.png` at 2x, `top_R.png` and `bot_R.png` at 3x, red channel).
+
+- **State:** the stamp is lifted. Only a torn strip of its top frame ("MAGYAR KIR[ÁLYI POSTA]" lettering, green), a torn corner at its upper right and a small green fragment on its left edge remain on the card. The paper below the strip, where the stamp sat, carries cipher writing in the same green ink as the letter. So the hidden message is in the cipher signs, not in plain Hungarian; I see no plain-text writing in the box.
+- **Already read:** the stamp rows S0-S4 are already in the ledger and printed by the reproduction command (re-run today, 647 signs, unchanged): `og | csokjai | év{a|e}gyo | kedvesse | feri`. My crops agree with that reading sign by sign; nothing new was added.
+- **Literal:** `[...]og` / `csokjai` / `év{a|e}gyo` / `kedvesse` / `feri`
+- **Hungarian (normalized):** [...]og. Csókjaié[rt] vagyo[k] (?) kedvese Feri.
+- **English:** [...] For your kisses I am (?) your sweetheart, Feri.
+- **Slovak:** [...] Za Vaše bozky som (?) Váš milý, Feri.
+- **Unread:** row S0 except its last two signs (o, g/y) runs under the stamp strip that is still glued on and cannot be read; it is at most one short row. The choice *vagyo[k]* vs *vágyó* (uncertainty 6) stays open. S4 sign 1 is written slanted, close to the plain cross (u); *feri* (upright cross = f) is kept because *ueri* makes no word and the signature Feri recurs on the family cards.
 
 ## Uncertainties
 

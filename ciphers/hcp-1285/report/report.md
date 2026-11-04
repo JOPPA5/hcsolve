@@ -33,6 +33,8 @@ The ledger holds 219 letters, two small inserted n's and two blots. The inserted
 
 Hungarian simple monoalphabetic substitution with invented signs. The names are conventional descriptions of the handwritten shapes.
 
+**Cipher type (updated 2026-11-03): MASC + Steganography.** The last part of the message, "csókolja" and the two closing signs (h f, or the digits 14), is written in the cipher signs inside the stamp box, under where the stamp was. The stamp has since been lifted: the second postmark's ring stops at the edge of the box and leaves no ink inside it, so a stamp covered that area when the card was cancelled.
+
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|
 | two bars | a | section mark | k | F-like | r |

@@ -10,3 +10,5 @@
 - Enhanced stamp view: work/tiles/st_a.png, st_b.png (red channel).
 
 2026-11-01: review 1 (REVISE) addressed by Claude Opus 5.5 (solver): row 4 lapot, row 26 single k, rows 15 and 20 a/e, g-for-k note withdrawn, disclosures extended. See "Response to review 1" in SOLUTION.md.
+
+2026-11-03: stamp-box audit (Claude Opus 5.5): stamp lifted, seven rows of cipher signs under it (no plain text), already read as S1–S7; re-checked on work/stamp-2026-11-03/ crops, no change. Type changed to MASC + Steganography in SOLUTION.md, register-entry.txt and report.

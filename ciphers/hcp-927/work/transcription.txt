@@ -1,0 +1,32 @@
+# hcp-927 transcription of the Morse on the address side (read by Claude Opus 5.5, 2026-11-03)
+# from enlarged rotated strips of work/hires/..._adr.jpg (work/strips2.py, strips3.py, zoom.py; crops in work/crops/).
+# One letter per token, "/" = word gap (a "/" at line end = the word ends with the line), "," = slanted comma stroke, "//" = double stroke (line-break hyphen),
+# "{...}" = literal note copied to the output, "[?...]" = sign groups that are read but not understood.
+#
+# PART A: 19 vertical lines, read top->bottom, lines taken from the right edge of the message field to the left.
+C01: --. .-. .- ..- -.. . -. --.. , / -.. . -. / {19.6.10} /
+C02: .-.. .. . -... . .-. / ..-. .-. . ..- -. -.. /
+C03: -... . -.. .- -. -.-. -.- . / -- .. ---- /
+C04: .... . .-. --.. .-.. .. ---- / ..-. ..--
+C05: .-. / -.. . .. -. . -. / ... ---- ---.
+C06: -. . -. / -... .-. .. . ..-. / ..- -. -.. /
+C07: -.. . -. / ... ---- ---. -. . -. / .-
+C08: -. ... ---- -. .- ..- --.. . .-. /
+C09: -.. ..- / .... .- - - . ... - /
+C10: .--- .- / .-. . ---- - / .- -...
+C11: . .-. / .. ---- / .... .- -... / - .-.
+C12: --- - --.. -.. . -- / . .. -. / .--.
+C13: .- .-. / - .- --. . / --. . .-- .-
+C14: .-. - . - / -- .. - / -.. . .-. /
+C15: .- -. - .-- --- .-. - / -... .. ... /
+C16: -.. .. . ... . / -.- .- .-. - . -. /
+C17: ..-. . .-. - .. --. / .-- .-
+C18: .-. . -. / . ... / --. .-. //
+C19: ..-- ... --.. - / ..-. .-. .- -. --..
+#
+# PART B: 4 horizontal rows along the top edge, written upside down: read with the card turned 180 degrees,
+# i.e. bottom row (row 4) first, each row right->left, each letter's elements right->left.
+R4: .-. . ... . .-. . ...- . / ....
+R3: .- - / -. --- ---- /
+R2: ---.. ....- / - .- --.
+R1: . / [?...----] / [?-...] [?-...] / [?.--]

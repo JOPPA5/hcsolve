@@ -6,11 +6,15 @@ Credit: all reading here is by Claude Opus 5.5 on 2026-11-01. There is no earlie
 
 ## The card
 
-Filename date 1913-06-13 (the postmarks are not legible enough to confirm it). Address side has three parts: a **cipher block** (top left, 8 rows), then **plain Hungarian handwriting** in the same green ink running on under it and across the bottom of the card, then the plain address and a plain greeting around the stamp. The picture side (a couple, printed song text "Cigányprímás / Lári-Fári", Amag 60681/5) has no handwriting. So only part of the message is enciphered.
+Filename date 1913-06-13 (the postmarks are not legible enough to confirm it). Address side has three parts: a **cipher block** (top left, 8 rows), then **plain Hungarian handwriting** in the same green ink running on under it and across the bottom of the card, then the plain address and a plain greeting written inside the stamp box, under the (now lifted) stamp. The picture side (a couple, printed song text "Cigányprímás / Lári-Fári", Amag 60681/5) has no handwriting. So only part of the message is enciphered.
 
 ## Cipher type and key
 
-Hungarian, simple monoalphabetic substitution with invented graphic signs (MASC), key transferred unchanged from hcp-1216. Sign classes used on this card:
+Hungarian, simple monoalphabetic substitution with invented graphic signs (MASC), key transferred unchanged from hcp-1216. 
+
+**Type update (2026-11-03): MASC + Steganography.** The stamp was stuck over a plain Hungarian greeting written inside the stamp box; the stamp is now lifted and the greeting is exposed (see "Stamp-box message (2026-11-03)").
+
+Sign classes used on this card:
 
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
@@ -62,7 +66,7 @@ men/mer menem kel 10 órára rendezö(i)nkbe lenem
 majd legközelebb bővebben isten vele édesem
 más külömben jó dolgom van
 ```
-Beside the stamp: *Csókolom számtalanszor Feri*. Address: *Szépreményű Tóth Jolánka úrleánynak, Jászárokszállás*.
+In the stamp box, under the lifted stamp: *Csókolom számtalanszor Feri*. Address: *Szépreményű Tóth Jolánka úrleánynak, Jászárokszállás*.
 
 ## Hungarian (normalized)
 
@@ -70,7 +74,7 @@ Cipher: Szeretett édes Jolánkám! Becses sorait megkaptam, melyet igen köszö
 
 Plain: 9-én indultam 4.30 p-kor Érsekújvárra, érk. 10-én éjjel 1 ó 30 p. {vigas} in. {18 ól. u} 1 ó 11 p. rendezőre érk. 11[-én] éjjel 1 ó 30 p. Kedvesem, számítsa ki, mit kerestem! Csináltam 23[7?] km-t, fizetne 6 tized fillért kilométerenkint, és 33 órát a 8 fillér, és 2 korona napidíj. Most mást nem írok, mer[t] mennem kell, 10 órára rendezőnkbe lennem. Majd legközelebb bővebben. Isten vele, édesem. Máskülönben jó dolgom van.
 
-Beside the stamp: Csókolom számtalanszor. Feri
+In the stamp box (under the stamp): Csókolom számtalanszor. Feri
 
 ## English
 
@@ -78,7 +82,7 @@ Cipher: Beloved sweet Jolánka of mine! I have received your precious lines, for
 
 Plain: I left on the 9th at 4.30 for Érsekújvár, arrived on the 10th at 1.30 at night; {vigas} dep.(?) {18 ól. u} 1.11, arrived at the yard on the 11th at 1.30 at night. Darling, work out what I earned! I did 23[7?] km; it would pay six tenths of a fillér per kilometre, and 33 hours at 8 fillér, and a 2-crown daily allowance. I write nothing else now, because I have to go, I must be at our yard by 10 o'clock. More next time. Farewell, my sweet. Otherwise I am doing well.
 
-Beside the stamp: I kiss you countless times. Feri
+In the stamp box (under the stamp): I kiss you countless times. Feri
 
 ## Slovak
 
@@ -86,7 +90,7 @@ Beside the stamp: I kiss you countless times. Feri
 
 Nezašifrované: Deviateho som odišiel o 4.30 do Nových Zámkov, prišiel som desiateho v noci o 1.30; {vigas} odch.(?) {18 ól. u} 1.11, na zoraďovaciu stanicu som prišiel jedenásteho v noci o 1.30. Drahá, vypočítajte, čo som zarobil! Urobil som 23[7?] km, platili by šesť desatín halierika (fillér) za kilometer, a 33 hodín po 8 fillérov, a 2 koruny denné. Teraz viac nepíšem, lebo musím ísť, o desiatej musím byť na našej stanici. Nabudúce viac. S Bohom, drahá. Inak sa mám dobre.
 
-Pri známke: Bozkávam Vás nespočetnekrát. Feri
+V políčku na známku (pod známkou): Bozkávam Vás nespočetnekrát. Feri
 
 ## Uncertainties
 
@@ -112,7 +116,7 @@ Plain handwriting (not enciphered; an ordinary cursive reading):
 15. **fizetne** is literal; **csináltam** could be *csináltan*.
 16. **Máskülönben jó dolgom van**: the last row is faint and the final word runs into a blot; *dolgom* uses his *cl*-shaped d, and *van* is the best fit for a smudged word.
 
-The sender is "Feri" (signature by the stamp), matching the name on hcp-1216; I claim nothing further. The portal lists Sender Unknown.
+The sender is "Feri" (signature in the stamp box, under the stamp), matching the name on hcp-1216; I claim nothing further. The portal lists Sender Unknown.
 
 ## Why it is correct
 
@@ -131,3 +135,18 @@ Verdict ACCEPT, four minor findings, all in the wording. All are addressed here 
 4. **"Every one of the 180 tokens" (accepted).** "Why it is correct" now says 174 key signs plus 6 digits and punctuation marks.
 
 Not verifiable, as the reviewer notes: the third digit of 23[7?], the date 1913-06-13 (from the filename only), and the supplied accents. All three stay disclosed.
+
+## Stamp-box message (2026-11-03)
+
+Audit by Claude Opus 5.5 on 2026-11-03 at the request of Tomáš Pavuk, from the original work/hires/cpc_1913-06-13_HU__HU_Jasz-Arokszalas_jolanka-37_adr.jpg (crops at 2x, 3x and 5x red channel in work/stamp-2026-11-03/).
+
+- **State of the stamp box:** the stamp has been lifted. Torn perforated fragments of it still stick to the card (the top-left corner with the green frame and lattice, a strip at the top, small pieces at the right edge and the bottom corners), and the red printed circle of the card's stamp box shows through. The greeting lies inside the outline of the stamp, so it was covered by the stamp when the card was posted. The first letters of rows 1 and 2 run under the curled left fragment.
+- **Script:** plain Hungarian in the same green ink, no cipher signs.
+- **Literal reading (4 rows):** `[C]sokolom / szamta / lanszor / Feri`
+- **Normalized Hungarian:** Csókolom számtalanszor. Feri
+- **English:** I kiss you countless times. Feri
+- **Slovak:** Bozkávam Vás nespočetnekrát. Feri
+- **Restoration disclosed:** the initial *C* of *Csókolom* is mostly under the stamp fragment; only its entry stroke is visible before the *s*. *Cs* is the only letter that makes a word here. The accent of *ó* is not visible.
+- **Unread:** nothing else; the four rows are read in full.
+
+This greeting was already read on 2026-11-01 but recorded as "beside the stamp"; the audit corrects its position to under the stamp. The reading itself is unchanged. The reproduction script (work/decode_opus.py) covers only the cipher block and is not changed; the stamp-box text is read by eye.

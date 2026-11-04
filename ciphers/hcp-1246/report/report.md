@@ -8,7 +8,7 @@ Human solver: Tomáš Pavuk
 
 The cryptogram is record 1246 of the HC Portal (https://crypto.hcportal.eu/dashboard/cryptograms/1246), portal name cpc_1913-09-_HU__HU_Jasz Arokszalas_jolanka-115, part of Tobias Schrödel's collection of cryptographic postcards (private collection; see the HistoCrypt paper https://ecp.ep.liu.se/index.php/histocrypt/article/view/166). When it was captured on 2026-11-01 the portal listed it as **Not solved**, tagged Postcard and T. Schrödel Collection, category Substitution, language Unknown, recipient Tóth Jolánka, with no transcription or solution attached. No published solution was found.
 
-The picture side is a tinted photograph of a courting couple, printed no. 3244, with a printed Hungarian verse headed *Oh csak még egyszer összejönnénk* ("Oh, if only we could meet once more"). It carries no cipher text. The message is on the address side in green ink: 28 rows of invented signs running around the address, one row up the right edge and seven short rows in the stamp box. The address itself is in clear: *Nagysága Tóth Jolánka úrleánynak, Jász Árokszállás*. The postmark reads 913 SEP, that is September 1913.
+The picture side is a tinted photograph of a courting couple, printed no. 3244, with a printed Hungarian verse headed Oh csak még egyszer összejönnénk ("Oh, if only we could meet once more"). It carries no cipher text. The message is on the address side in green ink: 28 rows of invented signs running around the address, one row up the right edge and seven short rows in the stamp box. The address itself is in clear: Nagysága Tóth Jolánka úrleánynak, Jász Árokszállás. The postmark reads 913 SEP, that is September 1913.
 
 ![Picture side (source/picture-large.jpg)](../source/picture-large.jpg)
 
@@ -24,7 +24,7 @@ The writer spells loosely: he drops letters, repeats syllables and marks acute a
 
 ## Key
 
-Hungarian simple monoalphabetic substitution with invented signs. The names are conventional descriptions of the handwritten shapes.
+**Cipher type: MASC + Steganography** (updated 2026-11-03): Hungarian simple monoalphabetic substitution with invented signs, and part of the message (7 rows) is hidden in the stamp box under the stamp, which is now lifted. The names are conventional descriptions of the handwritten shapes.
 
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@ Hungarian simple monoalphabetic substitution with invented signs. The names are 
 | open hooked loop | g | crossed curve | i | crossed diagonal with tail | z |
 | inverted T | j | | | | |
 
-One sign serves for both h and p, so that call always rests on word sense (*kaptam, szépen, Pestre, lapját* = p; *hogy, haragszom* = h). Digraphs are written as letter pairs on this card (gy = g+y, sz = s+z, cs = c+s). Dots over o and u give ö and ü. The sound ly is written j (*mijen*, *ijesmit*, *gujas*).
+One sign serves for both h and p, so that call always rests on word sense (kaptam, szépen, Pestre, lapját = p; hogy, haragszom = h). Digraphs are written as letter pairs on this card (gy = g+y, sz = s+z, cs = c+s). Dots over o and u give ö and ü. The sound ly is written j (mijen, ijesmit, gujas).
 
 ## Plaintext
 
@@ -96,11 +96,11 @@ Pole na známku: Váš verný milý Feri. Bozkáva Vás nespočetnekrát Feri.
 
 ## What remains uncertain
 
-- **Row 28, *avatatla[n] kéz*.** The fifth sign of the row is cut by the lower edge of the card. Two strokes are visible, so a is possible, and only the set phrase settles it. The n of *avatatlan* is not on the card. *Lap* is taken as "card"; it could mean "page".
-- **Row 23, `jöm`.** The strokes after jö are heavily over-inked, so the count of three is less firm than elsewhere. The word could be *jön* ("you are coming") or a slip for *jöjjek* ("I should come"). The literal form is kept and both senses are given. *Én [m]aga előtt* is a broken construction; the m is not on the card.
-- **Row 25, *jobb állású r[u]hát*.** The signs a l a s u r h a t are clear, but the u of *ruhát* is taken as omitted, and the sense "better-fitting" is an interpretation that no sister card or period dictionary confirms.
-- **Row 17, *f[o]glalkozni*.** The o lies under an ink blot and is a restoration; it is the only letter that makes a word.
-- **Row 20, first sign.** A blotted crossed curve, read i from its shape and from *is*. Its accent in *ígérnem* rests on word sense.
+- **Row 28, avatatla[n] kéz.** The fifth sign of the row is cut by the lower edge of the card. Two strokes are visible, so a is possible, and only the set phrase settles it. The n of avatatlan is not on the card. Lap is taken as "card"; it could mean "page".
+- **Row 23, `jöm`.** The strokes after jö are heavily over-inked, so the count of three is less firm than elsewhere. The word could be jön ("you are coming") or a slip for jöjjek ("I should come"). The literal form is kept and both senses are given. Én [m]aga előtt is a broken construction; the m is not on the card.
+- **Row 25, jobb állású r[u]hát.** The signs a l a s u r h a t are clear, but the u of ruhát is taken as omitted, and the sense "better-fitting" is an interpretation that no sister card or period dictionary confirms.
+- **Row 17, f[o]glalkozni.** The o lies under an ink blot and is a restoration; it is the only letter that makes a word.
+- **Row 20, first sign.** A blotted crossed curve, read i from its shape and from is. Its accent in ígérnem rests on word sense.
 - **Row 5, Gulyás.** Taken as a surname; the common noun "herdsman" is possible. Mocsárné is spelled two ways on the card (`mocsar-`, `mocz ar-`).
 - **Right edge (row 29).** Read after rotating; `sz` is faint and crossed by a flourish of the address.
 - **Stamp box.** The reading order is taken top to bottom.
@@ -110,8 +110,8 @@ Pole na známku: Váš verný milý Feri. Bozkáva Vás nespočetnekrát Feri.
 
 An independent reviewer (a separate Claude Opus 5.5 agent) ran the reproduction command, checked that every sign class belongs to the family key, diffed the ledger against the normalized text, and read the rows on its own enhanced crops of the scan. Some rows were zoomed only at 2.2×. Its verdict was REVISE. It confirmed the cipher type, the key and the reading and made eight findings, all accepted:
 
-- The one group left unread at handover, `a vetatlakez` (row 28), is the set phrase *avatatla[n] kéz*. The card is complete because of this finding.
-- The word *előtte* (row 14) had been dropped from the normalized text and translations and was restored.
+- The one group left unread at handover, `a vetatlakez` (row 28), is the set phrase avatatla[n] kéz. The card is complete because of this finding.
+- The word előtte (row 14) had been dropped from the normalized text and translations and was restored.
 - Two signs were misread in the ledger and first listed as writer's errors: `mondanim` is `mondanom` (row 27), and `tenacsolom` is `tanacsolom` (row 12). The other doubtful spellings were then re-read and stand as written.
-- `jöm` (row 23) had been silently normalized to *jöjjek*; it is now kept literal, with both senses.
-- Smaller changes: *felkeresem* with one s, two more spellings disclosed, two Slovak corrections, and a firmer caveat on *állású r[u]hát*.
+- `jöm` (row 23) had been silently normalized to jöjjek; it is now kept literal, with both senses.
+- Smaller changes: felkeresem with one s, two more spellings disclosed, two Slovak corrections, and a firmer caveat on állású r[u]hát.

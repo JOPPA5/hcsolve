@@ -6,6 +6,8 @@
 
 Hungarian, simple monoalphabetic substitution with invented graphic signs (Jolánka postcard family). Key transferred unchanged from HCP1216 (same table on HCP1212, 1213, 1217, 1218, 1243, 1301). The address side (Szépreményű Tóth Jolánka úrleánynak, Jász-Árokszállás) is in clear. The picture side has no writing.
 
+2026-11-03: register type is **MASC + Steganography**: part of the message (seven rows, in the same cipher signs) was written in the stamp box and hidden under the stamp, which is now lifted.
+
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
 | two bars | a | section mark / s-shape | k | F-like | r |
@@ -102,3 +104,13 @@ Verdict REVISE. I rechecked each finding on the reviewer's enlargements and the 
 
 The reviewer's open point, the sense of *a mi ám jóban lettünk*, stays disclosed as uncertainty 1: it is one phrase, all its signs are read, and only the division is editorial.
 
+## Stamp-box message (2026-11-03)
+
+Audit on the hires address scan (crops in `work/stamp-2026-11-03/`): the stamp has been lifted, and the stamp box holds seven short rows in red ink in the cipher signs, with no plain-Hungarian writing. These rows were already in the ledger (S1–S7) and are decoded by `work/decode.py`. Re-checked sign by sign at 3x, no change.
+
+- Literal: gondolj / nehaata / volban / epedö / szivre / hüima / dodferi
+- Hungarian: Gondolj néha a távolban epedő szívre. Hű imádód Feri.
+- English: Think sometimes of the heart pining in the distance. Your faithful adorer, Feri.
+- Slovak: Mysli niekedy na srdce túžiace v diaľke. Tvoj verný ctiteľ Feri.
+
+Nothing in the stamp box stays unread. The uncertainties already listed still apply: the a+t+a call in row 2, the H:p/H:d calls, and the undotted i in *imádód*.

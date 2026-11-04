@@ -4,7 +4,9 @@
 
 ## Cipher type and key
 
-Hungarian, simple monoalphabetic substitution with invented graphic signs: the "Jolánka" postcard family. The key is transferred unchanged from hcp-1216 (also 1212, 1213, 1217, 1218, 1243, 1301). Every letter sign below occurs on this card except where noted; no new sign was needed.
+Hungarian, simple monoalphabetic substitution with invented graphic signs: the "Jolánka" postcard family.
+
+**Type (2026-11-03): MASC + Steganography.** The cipher body is MASC; a plain Hungarian note was written in the stamp box and hidden under the stamp (see "Stamp-box message (2026-11-03)"). The key is transferred unchanged from hcp-1216 (also 1212, 1213, 1217, 1218, 1243, 1301). Every letter sign below occurs on this card except where noted; no new sign was needed.
 
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
@@ -112,3 +114,15 @@ Verdict REVISE. All six findings accepted; none changes the sense of the message
 6. **minor, bracket: fixed.** Now `színe[l]őadás` in work/normalized.txt and the text, and item 5.
 
 After the fixes `python3 -I ciphers/hcp-1236/work/decode.py` passes all four hash checks and prints the corrected rows. The change is one letter value plus editorial notes, so the reading is not substantially changed and no second review round is needed.
+
+## Stamp-box message (2026-11-03)
+
+Audit of the stamp box on the hi-res address side (work/hires/..._adr.jpg), crops in work/stamp-2026-11-03/ (stampbox_1x.png, rows12_3x.png, rows35_3x.png).
+
+- **State: stamp lifted, writing under it.** The stamp is gone; its perforated outline remains as a clean pale rectangle at top right. The right postmark's ring stops at the edge of that rectangle, so the stamp was in place when the card was cancelled and the note inside the rectangle was covered by it.
+- **Script: plain Hungarian only**, pink ink, five lines. No cipher signs in the box.
+- **Literal reading (every letter read from the pixels, no restoration):** `csokolja / tavolba / szamta- / lanszor / Feri` (no accents written; *számta-lanszor* divided across lines 3–4).
+- **Normalized Hungarian:** Csókolja távolba számtalanszor Feri. (*távolba* = *távolból/a távolban*, colloquial.)
+- **English:** Feri kisses you from afar countless times.
+- **Slovak:** Bozkáva Vás z diaľky nespočetnekrát Feri.
+- **Unread:** nothing; every letter is clear. This note was already in this file and in the report as the "margin note"; it is now identified as the hidden stamp-box message. The stamp text is read by eye and is not in work/ledger.txt or work/decode.py, which cover the cipher rows only (left unchanged).

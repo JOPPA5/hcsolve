@@ -4,6 +4,8 @@
 
 ## Cipher type and key
 
+**Type (2026-11-03): MASC + Steganography.** The cipher text is MASC; the closing in clear is hidden in the stamp box under the (now lifted) stamp, see "Stamp-box message (2026-11-03)".
+
 Hungarian, monoalphabetic substitution with invented signs, the Jolánka family key unchanged (same recipient, same hand and red ink, "Feri"). Sign classes as in `ciphers/hcp-1216/SOLUTION.md`: a two bars, b six, c left bowl, d long+short stroke, e three bars, f cross, g open loop with descender, h/p tall stroke + companion (near-homographs), i dotted crossed curve, j inverted T, k section mark, l wave, m three strokes, n two strokes, o cursive loop, r F-like, s right bowl, t gamma, u x-cross, v chevron, y low descender, z crossed diagonal, gy joined.
 
 Observed on this card, not in the legend: (a) a plain cross stands twice where the sense needs **j** (*újság*, *gondoljön*); (b) the capital of *Ilona* and *Irma* is either a clear cursive capital I (cf. the J of "Jolanka" in the address) or the family y sign used as a capital (the shapes are close, and the names stand either way); (c) *k* looks like a cursive S; (d) three short free strokes (rows 7, 10, 14) and one blob (row 12) stand at sentence breaks and carry no letter. They are recorded as `|` and `·`, and are most likely punctuation; only their position suggests that.
@@ -84,3 +86,26 @@ Verdict REVISE. All ten findings were checked on the reviewer's crops and accept
 10. **Stamp box: fixed.** The inconsistent *sze[r]elmese* is withdrawn; lines 4–6 are stated as tentative (uncertainty 10).
 
 The changes touch a handful of words and leave the key and the content of the letter as it was, so the card goes to FINAL and not to a second review round.
+
+## Stamp-box message (2026-11-03)
+
+Audit by Claude Opus 5.5 on the human's order. The stamp is lifted: the box shows the printed P.R.A. wreath, the edge of the Jászárokszállás postmark at its right, and six short lines of the same red ink, written where the stamp sat. The writing is plain Hungarian, not cipher signs. Crops of the hi-res original: `work/stamp-2026-11-03/` (`box_2x.png` whole box; `l1`–`l6` lines at 5–7x, `*_rg.png` with the teal print suppressed by red-minus-green).
+
+Literal, line by line:
+
+```
+1 csokolom
+2 szamta
+3 lanszor
+4 hű s?.. -        (hyphen at line end is clear)
+5 ?e?[m/n]es       (first letter two arches, m/n-like; -es clear)
+6 ?? Feri          (two letters: an s-like sign, then a letter with an ascender)
+```
+
+- Normalized Hungarian: *Csókolom számtalanszor. Hű [unread word, broken by a hyphen over lines 4–5] [two unread letters] Feri.*
+- English: I kiss you countless times. Your faithful [unread], Feri.
+- Slovak: Bozkávam Vás nespočetnekrát. Váš verný [neprečítané], Feri.
+
+What stays unread: the word after *hű* (lines 4–5) and the two letters of line 6. The new observation is the hyphen at the end of line 4, so lines 4–5 hold one word ending in *-es*, and the letter count fits *sze-relmes* ("lover", *hű szerelmes* "faithful lover"). It is not adopted: line 5's first letter has two arches like m/n and does not match this writer's r (closed loop, as in *lanszor*), and the line 4 letters sit on the teal wreath. The family formula *hű kedvese* (HCP1216) does not fit the *-es* ending of line 5. Line 6 may be an abbreviation (e.g. *s.k.*), not proven. So the clause after *hű* stays unread; *csókolom számtalanszor* and *Feri* are secure. The stamp text is read by eye; `work/decode.py` and the ledger do not cover it and were not changed.
+
+Type note (2026-11-03): writing under the lifted stamp, so the card is typed **MASC + Steganography** (register entry updated, type field only).

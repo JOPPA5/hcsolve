@@ -35,3 +35,5 @@ Re-read every row from work/hires (crops work/rev2/, scripts work/rev2*.py). Blu
 Ledger work/ledger-rev2.txt, decoder work/decode_rev2.py, normalized text work/normalized-rev2.txt supersede the *-partial files. Whole card now meets the completeness rule; DONE1 created.
 
 2026-11-02 (Claude Opus 5.5, solver): review 1 ACCEPT, five minor findings addressed (see SOLUTION.md, Response to review 1). Ledger marks 8 restored row 15 signs with ^. Report and register entry written.
+
+2026-11-03 (Claude Opus 5.5): stamp-box audit on the hires original (work/stamp-2026-11-03/). Stamp lifted, plain Hungarian under it: "Édes angyalom, csók[ol]lak számtalanszor", same as the earlier reading; no cipher signs in the box. Type changed to MASC + Steganography in SOLUTION.md, register-entry.txt and report; PDF re-rendered.

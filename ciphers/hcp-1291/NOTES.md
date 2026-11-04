@@ -8,3 +8,5 @@ Dead ends: *haragu+on* with f gives no word; *szefogok* as a word in itself give
 work/crops/ is an unused first set of crops: a cleanup with rm was stopped by the sandbox check, so it stays; it can be deleted by hand.
 
 2026-10-30 (Claude Opus 5.5, solver, after review 1): rechecked the review's findings on crops and accepted them all. Row 4 *talalja* (l restored to the ledger), row 11 *varo* without m, row 13 *negyedsze* (d, not n), row 12 *fekhe|ehez*: the sign after fek is h-shaped, so the earlier division *lefek / de ehez* is dropped as main reading in favour of *lefekhe[ssek]. Ehhez…*, which supersedes the note above. Row 21 slash is the t stem. Row 3 probable faint a. d (short then tall) differs in shape from h/p (tall then short) on this card; only h/p needs word sense, and row 18 min{d} is the exception, by sense.
+
+2026-11-03 (Claude Opus 5.5, stamp-box audit): stamp lifted, six cipher rows under it (S1-S6), already fully read; re-checked on new 3x crops in work/stamp-2026-11-03/, no change. Type changed to MASC + Steganography in SOLUTION.md, register-entry.txt and the report.

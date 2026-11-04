@@ -8,7 +8,7 @@ Human solver: Tomáš Pavuk
 
 The cryptogram is record 1312 of the HC Portal (https://crypto.hcportal.eu/dashboard/cryptograms/1312), portal name cpc_1912-04-_HU__HU_Jasz Arokszalas_jolanka-104, part of Tobias Schrödel's collection of cryptographic postcards. When captured on 2026-10-30 the portal listed it as **Not solved**, tagged Postcard, T. Schrödel Collection, category Substitution, date and language Unknown, sender Unknown, recipient Tóth Jolánka, with no transcription or solution attached.
 
-The picture side carries only printed text, verses beginning "Sirassatok engem orgonavirágok..." and "Csak egy kislányt hagyok itthon...". All the handwriting is on the address side, in pink ink. Fifteen cipher rows fill the left panel, and the last row runs along the bottom edge, crosses the divider and rises as it goes. The ink has washed out badly at the bottom of the card, so rows 14 and 15 are faint. In the stamp box a short message stands in plain writing, and the address is also plain: **Szépreményű / Tóth Jolánka / úrleánynak / Jász-Árokszállás**. The town line is washed out too.
+The picture side carries only printed text, verses beginning "Sirassatok engem orgonavirágok..." and "Csak egy kislányt hagyok itthon...". All the handwriting is on the address side, in pink ink. Fifteen cipher rows fill the left panel, and the last row runs along the bottom edge, crosses the divider and rises as it goes. The ink has washed out badly at the bottom of the card, so rows 14 and 15 are faint. In the stamp box a short message stands in plain writing. The stamp itself has been lifted (a torn scrap of it remains beside the frame, and the postmark strokes stop at the frame), so this message was hidden under the stamp when the card was posted. It reads **Édes angyalom, csók[ol]lak számtalanszor** (Sweet angel, I kiss you countless times), checked again on the original on 2026-11-03, and the address is also plain: **Szépreményű / Tóth Jolánka / úrleánynak / Jász-Árokszállás**. The town line is washed out too.
 
 The postmark cannot be read. The date 1912-04 and the town come from the scan's file name. The card does not name its sender. It belongs to the family of cipher postcards to Jolánka Tóth of Jászárokszállás, Hungary, several of which are finished in this repository (for example HCP 1212, 1213, 1216, 1217, 1218, 1243 and 1301). No identification with a writer on those cards is claimed here.
 
@@ -30,7 +30,7 @@ All 243 signs fall into 25 sign classes of the key, with no change from row to r
 
 ## Key
 
-Simple monoalphabetic substitution with invented graphic signs. The labels are conventional names for the handwritten shapes.
+Simple monoalphabetic substitution with invented graphic signs. Register type (2026-11-03): **MASC + Steganography**, because the stamp has been lifted and a plain Hungarian message was written under it in the stamp box. The labels are conventional names for the handwritten shapes.
 
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|

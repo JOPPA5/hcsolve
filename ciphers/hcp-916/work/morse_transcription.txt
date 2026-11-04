@@ -1,0 +1,17 @@
+# hcp-916 Morse transcription (picture side). Read from work/hires/..._pic.jpg.
+# Orientation: rotate the scan 90 deg counter-clockwise (dateline "Tv. 904 III/1." at top).
+# '/' = slanted separator stroke the writer puts after every letter.
+# Line 4 of the bottom block begins with a non-Morse hooked mark with a dot above it
+# (see SOLUTION.md); it is transcribed as the token 'HOOK'.
+[B] bottom block, 4 horizontal lines (opening of the message)
+../.-../..-/.../-.-/.-.--/--/-../.-./.-.--/--./.-/
+--/../-.-/---/.-./.-../.-.--/-/..../.-/-/---/--/?
+# Line 3: a small stray dot below the separator before the R of ARANYOM and an ink blob on the
+# separator after that R are not Morse elements and are not transcribed (review 1, finding 1).
+-.-/..-../.-./ ./--/.-/.-./.-/-./-.--/---/--/
+HOOK/.-./.---/---/-./
+[T] top-right block, 3 diagonal lines (rotate a further 53 deg), before the monogram
+# Line 2 ends with K (-.-) and no closing separator stroke on the card (review 1, finding 2).
+--/../.-../.-../../---/..-./---/.-./
+.-./---/.-.-/.../---/-.-
+..-../-../ ./.../ ./--/-./ ./-.-/

@@ -1,0 +1,30 @@
+# hcp-1132 - transcription of the Morse message on the address side (left half).
+# Read from work/hires/cpc_--_HU_Debrecen_HU___adr.jpg (3468x2298) with enlarged crops, Claude Opus 5.5, 2026-11-03.
+# Layout: 21 vertical columns of pen dots and dashes. Turn the card 90 degrees anticlockwise
+# (printed "Copyright Hafa ..." then reads normally): columns become lines. Read the RIGHT-most column first,
+# each column from top to bottom; then a short line along the bottom edge, left to right.
+# Tokens: Morse letters separated by spaces; "/" = word break (editorial, not marked by the writer);
+# "," = short stroke beside the column (comma); "!" = stroke plus dot beside the column;
+# "[X]" = section struck through by the writer (unread). y = pixel rows in the hires scan.
+C1  y134-1846 : ..-.. -.. . ... / .--- --- / -.- .. ...
+C2  y139-2017 : ..- .-. .- -- ! / -.- . -.. ...- . ...
+C3  y93-1782  : ... --- .-. .- .. -.. / -- . --.
+C4  y83-1917  : -.- .- .--. - .- -- ! / -... ---
+C5  y88-2066  : -.-. ... .--.- ... / -- . --. / ..-..
+C6  y88-1918  : -.. . ... . -- / .... --- --. -.--
+C7  y86-2026  : ..-.. -. / -. . -- / ...- .--.- .-.. .-
+C8  y79-2039  : ... --.. --- .-.. - .- -- / ... ---
+C9  y82-2104  : .-. .- .. -.. .-. .- / -.. . / ... --- -.-
+C10 y89-2040  : ... --- -.- / -- .. -. -.. . -. , [X]
+C11 y90-2100  : ..-.. .-. - / -- --- ... - .- -. .--.-
+C12 y90-2044  : -... .- , / -- .- .--- -.. / .-. ---.
+C13 y73-2110  : ...- .. -.. . ... . -. / . .-.. -- --- -.
+C14 y70-1814  : -.. --- -- , / ... --- -.- .- - ,
+C15 y97-2065  : --. --- -. -.. --- .-.. ...- .-
+C16 y78-2028  : .-. .--.- -.. , / ... --.. .--.- --
+C17 y86-1983  : - .- .-.. .- -. ... --.. --- .-.
+C18 y87-2042  : -.-. ... --- -.- --- .-.. / -.- ..
+C19 y118-2045 : ... / ..-. . .-.. . ... ..-.. --. . -..
+C20 y118-2101 : .- -. -.-- .- / . ... - . / ...- .--.-
+C21 y93-2085  : .-. .-.. .- -.- !! / - .--.- -. -.-. ---
+BL  y2076-2106 x167-786 : .-.. ..- -. -.-

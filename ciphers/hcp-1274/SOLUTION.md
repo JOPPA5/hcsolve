@@ -6,6 +6,8 @@
 
 Hungarian, monoalphabetic substitution with invented graphic signs (register type MASC), red ink, no word division. Same key as HCP1216:
 
+*2026-11-03 (Claude Opus 5.5, stamp-box audit): register type changed to **MASC + Steganography**, because a plain Hungarian message is written inside the stamp box where a stamp would hide it (see "Stamp-box message (2026-11-03)" below).*
+
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
 | two bars | a | section mark / loop with hook | k | F-like | r |
@@ -62,6 +64,18 @@ Stamp box: I kiss you countless times. Faithful unto the grave, Feri.
 
 Milá moja Jolánka! S ľútosťou Vám musím oznámiť, že radosti zo stretnutia som nútený o týždeň odložiť. Drahá, teraz robíme zariadenie pre obchodníka s látkami a dnes to malo byť hotové, preto som nútený odložiť to šťastie, ktoré som si mohol užiť po Vašom boku. Dobre sa zabávajte, drahá, a myslite na mňa, ktorý ešte pracujem aj vtedy, keď by sa malo ísť na prechádzku. S Bohom, drahá! Pozdrav z diaľky.
 V rámčeku na známku: Bozkávam Vás nespočetnekrát. Do hrobu verný Feri.
+
+## Stamp-box message (2026-11-03)
+
+Audit by Claude Opus 5.5 on the un-converted scan `work/hires/cpc_--_HU__HU_Jasz-Arokszalas_jolanka-73_adr.jpg`, crops at 2x and 4x in `work/stamp-2026-11-03/` (`stamp_full.png`, `w1_csokolom.png`, `w5_sirig_hu_feri.png`).
+
+- State of the box: no stamp is on the card now. The dotted stamp box shows clean paper, a printed publisher's circle mark, and handwriting in the same red ink across the whole box; no glue stain, paper tear or postmark is visible, so the scan cannot tell whether a stamp was ever stuck on. Either way the message was written where a stamp would cover it.
+- Writing: plain Hungarian only, six lines; no cipher signs in the box.
+- Literal reading (six lines): *csokolom / szam / talan / szor / sirig / hü Feri*. The first sign of line 1 is the writer's closed c (it looks like an o), as read before; no letter was restored.
+- Normalized Hungarian: Csókolom számtalanszor. Sírig hű Feri.
+- English: I kiss you countless times. Faithful unto the grave, Feri.
+- Slovak: Bozkávam Vás nespočetnekrát. Do hrobu verný Feri.
+- Unread: nothing. The reading is the one already given above and confirmed in review 1; this audit confirms it again by eye. The stamp text is read by eye and is not part of `work/decode.py`.
 
 ## Uncertainties
 

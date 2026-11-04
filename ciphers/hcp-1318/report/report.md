@@ -31,7 +31,7 @@ The writer spells carelessly and drops letters. The literal decipherment is kept
 
 ## Key
 
-Hungarian simple monoalphabetic substitution with invented signs. The names are conventional descriptions of the handwritten shapes.
+Cipher type: **MASC + Steganography** (updated 2026-11-03). This is a Hungarian simple monoalphabetic substitution with invented signs. The closing of the message (rows s1–s7, "Csókolom számtalanszor. Imádója Feri.") was hidden in the stamp box under the stamp, which has since been torn off. A stamp-box audit on 2026-11-03 re-read these rows from the original scan and confirmed them sign by sign. The names in the table are conventional descriptions of the handwritten shapes.
 
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|

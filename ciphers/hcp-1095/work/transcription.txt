@@ -1,0 +1,25 @@
+# hcp-1095 - sign-by-sign transcription of the Morse on the picture side
+# (read by Claude Opus 5.5 on 2x-3x enlargements of work/hires/*_pic.jpg, 2026-11-03).
+# Notation: '.' dot, '-' short dash, '_' long dash (American Morse L),
+# a space INSIDE a letter = the wide internal gap of American Morse spaced letters
+# (O = '. .', R = '. ..', C = '.. .', Y = '.. ..').
+# ',' on the card = end of letter (written as a comma); '/' on the card = end of word.
+# '?' = a hand-written question mark (curl with its dot below).
+# Lines starting with '#' are comments. Card line numbers in brackets.
+[1] -.. , . , .- , . .. / . .. , .- , .. .. , -- , . . , -. , -.. /
+[2] -- , .. .. / .- , -. , ... , .-- , . , . .. / .-- , .... , .- , - /
+[3] ... , .... , .- , _ , _ / .. , - / -... , . , ? / ... , .... , .- ,
+[4] _ , _ / .. / .- , --. , . .. , . , . / .-- , .. , - ,
+[5] .... / - , .... , . , . , ? / - , .... , . , -. / _ , . , - /
+[6] .. , - / -... , . / .. .. , . , ... /
+# line 6 "YES" is written with very large dots (emphasis).
+# --- after the cursive "Yours without a shuddr," ---
+[7] .. . , .- , . .. , . . , _ , .. .. , -. , -. /
+[8] .-- , .... , .- , _ /
+# line 8 ends with a heavy blot on the final slash and then a free-standing full stop '.' (punctuation, not a Morse E).
+# Notes on single signs: line 1 the separator between A and Y of RAYMOND, and line 4 the separator between W and I of WITH,
+# are slashes overwritten with a heavy blot (read as corrected letter separators, since the words run on).
+# Line 2: the separator between A and N of ANSWER lies in a damaged (abraded) spot and looks tall, like a slash.
+# Line 3: the two L of the first SHALL are drawn no longer than a T dash; L is read from word sense (SHATT is not a word).
+# Line 1: the first dash of D is long; D read as '-..' since L,I is meaningless.
+# Line 8: the four dots after W are spaced pair-gap-single-gap-single; read as H (alternatives Y '.. ..' or C+E) - surname uncertain.

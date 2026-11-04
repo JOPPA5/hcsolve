@@ -8,6 +8,8 @@ The [HC Portal record](https://crypto.hcportal.eu/dashboard/cryptograms/1218), j
 
 The cipher is a Hungarian graphic monoalphabetic substitution. The key transferred from HCP1301/HCP1243 was tested across all 22 main rows, seven stamp rows and the address annotation. Transcription is manual, with earlier hypotheses known, not blind transcription or OCR. Independent review 1 resolved the last unread clause as “csak a pénz fogyott” (“only the money ran out”). The solver adopted this after inspecting the actual signs.
 
+Cipher type update (2026-11-03): the card carries a hidden message in the stamp box under the lifted stamp, written in the same cipher signs, so the register type is **MASC + Steganography**.
+
 Spacing, punctuation and most accents are editorial. Brackets show significant supplied letters. Source spellings such as egésségben and tánczolni are retained. The literal ledger takes precedence for exact character claims; Hungarian normalization and English translation are interpretive editions.
 
 ## Hungarian editorial reading
@@ -31,6 +33,18 @@ Under the stamp, source-assisted translation: I am yours, this heart, this soul;
 After decoding the phrases, the solver identified Sándor Petőfi’s Honfidal through its [published text](https://www.magyarirok.hu/petofi-sandor/h/honfidal). The public-domain poem opens: “Tied vagyok, tied, hazám! / E szív, e lélek; / Kit szeretnék, ha tégedet / Nem szeretnélek?” This literary source assisted interpretation; it is not a published solution of this postcard.
 
 The card adapts the stanza to a personal addressee, omitting tied, hazám and using téged instead of tégedet. The unchanged S02/S03 letters divide as the end of vagyok followed by e szív, e lélek. S05 now reads ha by its two-bar sign as well as by context. S07 has no visible re: sze[re]tnélek restores the intended verb, with a copying or enciphering slip as an interpretation. The card is not silently replaced by the printed poem.
+
+
+## Stamp-box message (2026-11-03)
+
+Audit on 2026-11-03 against the full-resolution original (work/hires/cpc_1912-09-_HU__HU_Jasz-Arokszalas_jolanka-106_adr.jpg, crops in work/stamp-2026-11-03/): the stamp has been lifted. The box holds seven rows of red cipher signs (no plain Hungarian), partly overprinted by a blue impression. The rows match the existing S01–S07 ledger, and the single reproduction command already decodes them (re-run 2026-11-03, output unchanged).
+
+- Literal (key applied): tiedvagy / okesziv / elelek / kitszeret / nek{h|p}ate / gednem / szetnelek
+- Normalized Hungarian: Tiéd vagyok, e szív, e lélek; kit szeretnék, ha téged nem sze[re]tnélek?
+- English: I am yours, this heart, this soul; whom would I love if I did not love you?
+- Slovak: Som tvoj, toto srdce, táto duša; koho by som miloval, keby som ťa nemiloval?
+
+Still unread or restored: S07 has no visible "re"; sze[re]tnélek restores it from the Petőfi Honfidal parallel. The S05 h/p sign is resolved to "ha" by its shape and context. No whole clause stays unread.
 
 ## Remaining uncertainty and historical interpretation
 

@@ -8,6 +8,8 @@ Portal status: Not solved, no attached transcription or solution. No published s
 
 Hungarian (the portal says Unknown), simple monoalphabetic substitution with invented graphic signs, the Jolánka family key without change:
 
+*2026-11-03 type note:* register type is now **MASC + Steganography**, because the last part of the message is written in the cipher signs in the stamp box, where the (now lifted) stamp hid it. See "Stamp-box message (2026-11-03)" below.
+
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
 | two bars | a | section mark | k | F-like | r |
@@ -51,6 +53,20 @@ Dear sweet Jolánka! I have received your esteemed lines, which make me very gla
 ## Slovak
 
 Milá sladká Jolánka! Vaše vážené riadky som dostal a veľmi sa z nich teším a prosím Boha, aby táto ruža dlho kvitla pre mňa. Čo sa mňa týka, sotva sa môžem dočkať nášho stretnutia. Na oplátku Vám želám také šťastie, aké vidno na tomto obrázku. S Bohom, drahá moja. Vrúcne(?) a [horúco](?) [rámček pre známku:] bozkáva Vás, h f(?) alebo 14(?)
+
+## Stamp-box message (2026-11-03)
+
+Audit by Claude Opus 5.5 from the hires original (`work/hires/..._adr.jpg`), crops in `work/stamp-2026-11-03/` (`stampbox_context.png`, `stampbox_x6.png`, `stampbox_x6_green.png` green channel).
+
+- **State:** the stamp is lifted. The printed blue dashed stamp box with its small printed emblem is bare. The ring of the second (black) postmark runs up to the box and along its lower edge but leaves no ink inside it, so a stamp covered that area when the card was cancelled and has since been removed. Under it stand three short rows in red ink.
+- **Script:** cipher signs only, same family key, read upright (the main text is read after turning the card). No plain Hungarian in the box.
+- **Literal reading** (unchanged from the ledger; re-checked sign by sign on the new crops): `cso / kol / ia h f` (left bowl + right bowl = cs, loop o; section mark k, loop o, wave l; dotted crossed curve i with its dot standing between rows 2 and 3, two bars a; then a tall stroke with a tick, and a short sign with a crossbar).
+- **Normalized Hungarian:** *csókolja, h f(?)* (or *csókolja, 14(?)*), continuing the conjectural closing of rows 10–11: *Hőn(?) és f[orrón](?) csókolja …*
+- **English:** "kisses you, h f(?)" (or "… 14(?)").
+- **Slovak:** "bozkáva Vás, h f(?)" (alebo "… 14(?)").
+- **What stays unread:** the last two signs. They read as h f in the key but look just as much like the digits 14 (the card is postmarked the 14th); no abbreviation dots. Whether they are a signature, a date, or nothing is open (uncertainty 1). The word *csókolja* itself is read from the pixels, with `ia` for *-ja*.
+
+No new letters were added; the reproduction script already covers the box rows and was not changed.
 
 ## Other text on the card (plain, not enciphered)
 

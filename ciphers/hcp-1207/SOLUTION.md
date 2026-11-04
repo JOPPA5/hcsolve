@@ -17,6 +17,8 @@ Hungarian, simple monoalphabetic substitution with invented graphic signs (regis
 | hooked stroke with descender | g | dotted crossed curve | i | crossed diagonal | z |
 | inverted T | j | joined hook + descender | gy | | |
 
+Type update (2026-11-03): register type is now **MASC + Steganography**, because six cipher rows were hidden in the stamp box under the (now lifted) stamp; see "Stamp-box message (2026-11-03)" below.
+
 Dots over o give ö. Row 9 also holds uncoded matter: the digits 7 0 and the plain cursive word "orakor".
 
 Layout: 23 rows in the left half; row 23 runs on along the bottom edge under the address, to the right corner. Six more rows stand in the stamp square.
@@ -98,3 +100,14 @@ Verdict REVISE; all five findings are addressed. No sign and no key value change
 3. **Count claim (minor): fixed.** *édesem* ×4 plus *édes*.
 4. **Address disclosure (minor): fixed.** Item 1 now gives both unread items, the last pencil line and the corner mark. I looked at the hires scan and at the reviewer's colour separation and could not read them either. They remain unread and are carried into the report. They are plain address matter of one short line, not a message clause.
 5. **Wording (minor): fixed.** Item 5 is rewritten with all h/p calls in one place: p in *pihenőm* and *Pásztori-*, h elsewhere.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit by Claude Opus 5.5 on the hires original `work/hires/cpc_--_HU__HU_Budapest_jolanka-62_adr.jpg` (crops in `work/stamp-2026-11-03/`: `stamp_box_2x.png`, `stamp_half0_3x.png`, `stamp_half1_3x.png`). The printed dotted stamp box at the top right is bare paper: the stamp has been lifted, and the postmark (BUD…, 13) stops at the box's left edge, so a stamp covered the box when the card was cancelled. Under it the sender wrote six short rows **in the cipher signs** (no plain Hungarian in the box). These rows were already in the round-1 reading and ledger (rows S1–S6 of `work/ledger-opus.txt`, decoded by the reproduction command); this audit re-read every sign from the pixels with the card's key and confirms them unchanged.
+
+- Literal: `csoko / lomsza / mtalan / szo{r|h}ű / kedvese / feri`
+- Hungarian (normalized): Csókolom számtalanszor, hű kedvese Feri.
+- English: I kiss you countless times, your faithful sweetheart, Feri.
+- Slovak: Bozkávam Vás nespočetnekrát, Váš verný milý Feri.
+
+Unread: nothing; every sign in the box has a value. The one uncertain sign is still row 4's reduced tall stroke with a foot (r or h, item 8 above); the normalization is the same either way. Cursive variants (k as a loop shape in row 1, t in row 3, r and i in row 6) are read with word sense, as disclosed in item 8.

@@ -1,0 +1,4 @@
+# hcp-983 ciphertext, read by Claude Opus 5.5 from work/hires/cpc_--___DE_Endsee__adr.jpg (card rotated 90 deg CCW)
+# one line per written line; '/' marks the wider word gaps
+9.14.8. / 8.5.17.2.18.19.
+18.3.8.17.5.9.2.5. / 2.1.11.4.

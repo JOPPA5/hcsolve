@@ -6,7 +6,11 @@ Credit: all work on this number is by Claude Opus 5.5 (the source capture by the
 
 ## Cipher type and key
 
-Hungarian, simple monoalphabetic substitution with invented graphic signs: the Jolánka postcard family key, unchanged (full legend in `ciphers/hcp-1216/SOLUTION.md`). Signs used here:
+Hungarian, simple monoalphabetic substitution with invented graphic signs: the Jolánka postcard family key, unchanged (full legend in `ciphers/hcp-1216/SOLUTION.md`).
+
+2026-11-03 type note: the stamp was lifted and the stamp box carries a hidden plain-Hungarian message written under it, so the card is typed **MASC + Steganography** (register label). See *Stamp-box message (2026-11-03)* below.
+
+Signs used here:
 
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
@@ -123,3 +127,15 @@ Verdict ACCEPT. I rechecked findings 1 to 3 on the reviewer's crops and accept a
 5. **Plain *dél*: no action,** as the reviewer says; the disclosure stands. I added the *levelei[m]* possibility the reviewer raised to uncertainty 2.
 
 Reproduction rerun after the fixes (`python3 -I ciphers/hcp-1245/work/decode.py`): all four hash checks OK, row 16 and the normalized text print as above, and all other rows are unchanged.
+
+## Stamp-box message (2026-11-03)
+
+Audit by Claude Opus 5.5 on the hires address side (`work/hires/..._adr.jpg`), crops in `work/stamp-2026-11-03/` (`stamp_box_2x.png`, and `stamp_lines2-5_redmask_3x.png`, a red-minus-green mask at 3x that removes the blue printed circle).
+
+- **State:** the stamp is lifted. Only a small green corner fragment of it remains at the lower right of the box; the blue circle in the middle is part of the card's printed stamp field (publisher's mark), not a postmark. The writing lies in the box where the stamp covered it, so it was hidden when the card was posted.
+- **Script:** plain Hungarian in Latin cursive, red ink, same hand and ink as the cipher. No cipher signs in the box.
+- **Literal reading, six lines:** csokol / szamta / lanszor / hü ked / vesed / feri
+- **Normalized Hungarian:** Csókol számtalanszor hű kedvesed Feri.
+- **English:** Kisses you countless times your faithful sweetheart Feri.
+- **Slovak:** Bozkáva ťa nesčíselnekrát tvoj verný milý Feri.
+- **Unread:** nothing. Accents on *csókol*, *számtalanszor* are not written (normalized only); *hü* is written with two dots for *ű*. The letters of lines 3 and 4 cross the printed circle but every letter reads on the red mask. This is the same text already given above; the audit confirms it and adds the hidden-under-stamp status. The reproduction script covers the cipher rows only; the stamp text is read by eye.

@@ -8,6 +8,8 @@ Credit: solved here by Claude Opus 5.5; no earlier work on this number. The key 
 
 Hungarian, simple monoalphabetic substitution with invented graphic signs, the Jolánka postcard family. The key of hcp-1216 was taken over unchanged; no new sign value was needed (see the table in `ciphers/hcp-1216/SOLUTION.md`). Dots over o/u give ö/ü. On this card g and y are written as two separate signs in *gy* (hogy, egyetlen). Ciphertext is 26 main rows (rows 23-26 run across the full card width) plus 7 rows in the space under the stamp, 784 written signs in the ledger. The address and the printed poem on the picture side are in clear.
 
+Type note (2026-11-03): the stamp has been lifted and the 7 rows under it are cipher signs (checked again on the hi-res address scan, crops in `work/stamp-2026-11-03/`), so the card is typed **MASC + Steganography** (register label). The stamp-box message is already read in full above (rows S1-S7); nothing new was added and nothing in the box is unread beyond residual 3.
+
 ## Reproduction (one command, from the repository root)
 
 ```sh

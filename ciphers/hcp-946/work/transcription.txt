@@ -1,0 +1,6 @@
+# hcp-946 address side, cipher in Roman numerals (read by Claude Opus 5.5, 2026-11-03)
+# tokens separated by spaces, "/" = word break (comma + dash on the card), line break kept as comment
+I XII /
+XVIII XIV XIII XIII
+XIX I VII /
+I II V XIII IV

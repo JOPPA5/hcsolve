@@ -6,7 +6,9 @@ Credit: transcription and decipherment of this card by Claude Opus 5.5, 2026-11-
 
 ## Cipher type and key
 
-Hungarian, simple monoalphabetic substitution with invented graphic signs (the Jolánka postcard family). Portal language "Unknown" is resolved: Hungarian. Sign classes as in HCP1216:
+Hungarian, simple monoalphabetic substitution with invented graphic signs (the Jolánka postcard family).
+
+Type update 2026-11-03: register type is **MASC + Steganography**, because six rows of cipher signs are hidden in the stamp box under the (now lifted) stamp; see "Stamp-box message (2026-11-03)". Portal language "Unknown" is resolved: Hungarian. Sign classes as in HCP1216:
 
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
@@ -80,6 +82,17 @@ Nežiadam nič nemožné, len aby si ma milovala, a to je nevyhnutne potrebné, 
 S Bohom, dovidenia. Tvoj ctiteľ Feri.
 
 Pod známkou: Nech viera, nádej a láska spoja naše srdcia. Tvoj ctiteľ Feri.
+
+## Stamp-box message (2026-11-03)
+
+Audit by Claude Opus 5.5 on the hires address scan (`work/stamp-2026-11-03/stamp_box_1x.png`, `stamp_box_2x.png`, `overview.png`). The stamp has been lifted; the box below it holds six short rows in the same cipher signs and brown ink as the main text, no plain Hungarian. The rows were already read in full on 2026-11-02 (they are rows S1–S6 of `work/ledger.txt`, decoded by `work/decode.py`); the 2026-11-03 crop was checked against that reading sign by sign and agrees, so the script is unchanged.
+
+- Literal: hit remeny / és szeretet / kösse össze / szivonket / imadoja / feri
+- Hungarian (normalized): Hit, remény és szeretet kösse össze szívünket. Imádója Feri.
+- English: May faith, hope and love bind our hearts together. Your adorer, Feri.
+- Slovak: Nech viera, nádej a láska spoja naše srdcia. Tvoj ctiteľ Feri.
+
+Nothing in the stamp box stays unread. Only the known shape doubt of the second bowl of *össze* (uncertainty 14) and the plain o in *szivonket* remain, both settled by the word.
 
 ## Uncertainties (none changes the sense)
 

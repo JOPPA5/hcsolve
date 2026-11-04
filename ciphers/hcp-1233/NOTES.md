@@ -17,3 +17,5 @@
 - Reading changed in meaning, so DONE2, not FINAL.
 
 2026-11-02 (solver, Claude Opus 5.5, after REVIEWED2): accepted all findings. Ledger token [L] removed (it is the arm of the i/o sign); l of hál' is unwritten and marked as supplied. lefeksz[o/e]m left open. Corner v-mark listed. Report and register entry written; meaning unchanged, so FINAL.
+
+2026-11-03 (Claude Opus 5.5, stamp-box audit ordered by Tomáš Pavuk): stamp lifted (green corner with cancellation left at lower left of the box); rows 22-26 in cipher signs were under it: "Csókolja számtalanszor Feri", already fully read, reconfirmed from crops in work/stamp-2026-11-03/. No plain writing in the box. Type changed to MASC + Steganography in SOLUTION.md, register-entry.txt and report; decode.py and ledger unchanged.

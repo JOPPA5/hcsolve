@@ -1,0 +1,15 @@
+# hcp-1186 cipher transcription (address side, message panel), read by Claude Opus 5.5 from work/hires/*adr.jpg
+# One line per manuscript line; groups separated by "." or "," on the card are separated by spaces here.
+# Sign codes: digits as written; y = Y-shaped sign; a = round a; v = a-shaped sign with raised right stem;
+# w = w-shaped sign; u = u-shaped sign; e = e-shaped sign; o = filled oval; n = n-shaped sign;
+# i = dotted iota-like sign; k = l/k-shaped sign; t = hooked t/E-like sign; M = 2-like sign with long hooked stroke;
+# R = any short stroke/hook carrying an overbar (written like 5-bar, 6-bar or 1-bar); & is a plain ampersand.
+# Text in [brackets] is written in plain English on the card and is copied, not decoded.
+4y 4a a1wu 6 2385
+y4M9 a48w9 4 a98y i31
+6 w6Rn yu6y 4 896R2i
+o3R53y u3e y3 eR4y9 k1y
+6a 2385 6a 4 u6v9 83y
+o3R53y98 u3e y3 t4aa &
+u15 [hope to see you at Weymouth this afternoon]
+868

@@ -11,6 +11,8 @@ Hungarian, simple monoalphabetic substitution with invented graphic signs: the J
 - The plain cross is u, the tailed cross is z, and s + tailed cross is sz.
 - The picture side has only printed text (Asszonykám adj egy kis kimenőt; four lines naming Petőfi: Szabadság, szerelem...). It has no cipher.
 
+**Type note (2026-11-03, Claude Opus 5.5):** register type changed from `MASC` to **`MASC + Steganography`**: the stamp was lifted and five rows of cipher signs plus a cursive word were written in the stamp box, hidden under the stamp (see "Stamp-box message (2026-11-03)" below).
+
 ## Reproduction (one command, from the repository root)
 
 ```sh
@@ -77,6 +79,18 @@ Accents are not transcribed in the ledger and are supplied in normalization; dot
 - Unforced phrases emerge across row breaks: *sajná-lom*, *te-hetek róla*, *feke-te ruhában*, *meg-hívtam*, *biszta-tó válaszát*, *tisz-telője*, *tisz-teletemet*. The writer's own hyphen in row 3 falls exactly in *sajná-lom*.
 - Móczár recurs on sister cards, spelt the same way: "mondja meg Moczárnak" (HCP1295) and *hazamegy moczarhoz* (HCP1232, row 11).
 - The formulas match the family: *Becses sorait köszönettel megkaptam* (HCP1212), *Isten vele*, *csókolom számtalanszor* (HCP1216). The addressee, town and 1912 date fit the card's clear text and postmark.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit, Claude Opus 5.5, 2026-11-03, on fresh crops of `work/hires/*_adr.jpg` (`work/stamp-2026-11-03/`, 2-5x, green channel where the blue printed emblem crosses the red ink). The stamp is lifted; the paper is bare inside the dashed box apart from the printed blue emblem and brown glue staining at the top. Under the stamp the sender wrote five rows in the family cipher signs and one cursive word in plain script. The signs were read again from the pixels and agree with ledger rows S1-S5 (already printed by `work/decode.py`, which still passes; nothing was changed in the script).
+
+- Literal: `csokolom | szamta | lanszor | istenve | le | [cursive word]`
+- Signs: opposed bowls + loop + section + loop + wave + loop + three strokes (cs o k o l o m); right bowl + tailed cross, two bars, three strokes, gamma, two bars (sz a m t a); wave, two bars, two strokes, right bowl + tailed cross, loop, F (l a n sz o r); dotted i, right bowl, gamma, three bars, two strokes, chevron, three bars (i s t e n v e); wave, three bars (l e).
+- Hungarian: Csókolom számtalanszor. Isten vele. [signature unread]
+- English: I kiss you countless times. God be with you. [signature unread]
+- Slovak: Bozkávam Vás nespočetnekrát. S Bohom. [podpis neprečítaný]
+
+Unread: only the cursive word after *le*: a looped capital like H or F, then three or four connected small letters ending in a descender. It is not forced (Feri is not confirmed). Every cipher sign in the box is read; no clause is left unread.
 
 ## Response to review 1
 

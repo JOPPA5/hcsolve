@@ -17,6 +17,8 @@ Hungarian, simple monoalphabetic substitution with invented graphic signs: the "
 | open loop with descender | g | dotted crossed curve | i | inverted T | j |
 | joined loop + descender | gy | | | | |
 
+**Type note (2026-11-03):** register type is now **MASC + Steganography**: besides the cipher, the card carries a hidden plain-Hungarian message in the stamp box, written where the stamp was stuck over it (the stamp has since been lifted). See "Stamp-box message (2026-11-03)".
+
 Two marks over o/u give ö/ő, ü/ű. The text over the stamp box and the address are in plain writing, and the verse on the picture side is printed: none of these is ciphertext.
 
 ## Reproduction (one command, from the repository root)
@@ -62,6 +64,18 @@ Over the stamp box: I kiss you countless times. Loving heart.
 Milá Jolánka! Vaše vzácne riadky som s vďakou dostal, očakával som ich s túžiacim srdcom. Naozaj ľutujem, že ste si nedávali pozor, ale upokojuje ma, že to už prechádza. Tu nie je nič nové. Sladká Jolánka, v nedeľu určite {len len lan} prídem dolu. Myslím, že aj môj otec príde dolu. Týmto končím svoje riadky. S Bohom, dovidenia. Pozdravujem Vás z diaľky. Váš až do hrobu verný ctiteľ, Feri. Sladká Jolán, už je neskoro, viac nepíšem. Viac v nedeľu.
 
 Cez políčko na známku: Bozkávam Vás nespočetnekrát. Milujúce srdce.
+
+## Stamp-box message (2026-11-03)
+
+Audit by Claude Opus 5.5 on the un-converted original `work/hires/cpc_1912-03-11_HU__HU_Jasz-Arokszalas_jolanka-08_adr.jpg`; crops at 2-4x in `work/stamp-2026-11-03/` (`stampbox_2x.png`, `band0-2_3x.png`, `corner_4x.png`).
+
+- **State:** the stamp has been lifted. The dashed stamp box is empty except for the printed publisher wreath (P. R. A.); just below its lower right corner a torn green stamp fragment remains on the card, with a paper scar around it, and the right postmark runs onto that spot. So the writing in the box lay under (or at) the stamp: a hidden message, steganography.
+- **Script:** plain Hungarian in the same red ink, not cipher signs.
+- **Literal reading (6 lines):** `csokolom / szamta / lan / szor / szerető / sziv`. Every letter is read from the pixels; *szamta* and *lan* run over the printed wreath but stay legible; *szerető* has the two marks of ő. Nothing restored.
+- **Normalized Hungarian:** Csókolom számtalanszor. Szerető szív.
+- **English:** I kiss you countless times. Loving heart.
+- **Slovak:** Bozkávam Vás nespočetnekrát. Milujúce srdce.
+- **Unread:** nothing. This is the same text already given above; the audit only confirms it and records that it sat under the stamp. The ledger script does not cover it; it is read by eye.
 
 ## Uncertainties
 

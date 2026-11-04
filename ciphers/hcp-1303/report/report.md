@@ -14,7 +14,7 @@ The card belongs to the "Jolánka" family, postcards to Jolánka Tóth in one Hu
 
 ![Address side: cipher rows at left and bottom, cipher in the stamp box, plain address at right (source/address-large.jpg)](../source/address-large.jpg)
 
-**Date evidence.** The portal gives no date. The text gives only *Ápr. 10*, a future date for the writer. The card has two postmarks. The round postmark at the upper centre, upside down, reads …ÁROKSZÁ… in the ring and shows a clear `13` at the right end of its date band; the rest of the band is under the pencil word *Szépreményű*. A second, heavy cancellation rings the torn stamp, with an E-like letter and an A in its arcs; its office is not established. `13` may be a year or a day. The portal name `cpc_--13_` points to a day, because sister names hold the date in that slot as year-month-day (`cpc_1912-05-17_`, `cpc_1913--_`), but that is only the cataloguer's reading. No year is claimed here.
+**Date evidence.** The portal gives no date. The text gives only Ápr. 10, a future date for the writer. The card has two postmarks. The round postmark at the upper centre, upside down, reads …ÁROKSZÁ… in the ring and shows a clear `13` at the right end of its date band; the rest of the band is under the pencil word Szépreményű. A second, heavy cancellation rings the torn stamp, with an E-like letter and an A in its arcs; its office is not established. `13` may be a year or a day. The portal name `cpc_--13_` points to a day, because sister names hold the date in that slot as year-month-day (`cpc_1912-05-17_`, `cpc_1913--_`), but that is only the cataloguer's reading. No year is claimed here.
 
 ![Upper postmark turned upright: ÁROKSZÁ in the ring and 13 in the date band (review/work/crops/pm1rot.png)](../review/work/crops/pm1rot.png)
 
@@ -22,13 +22,13 @@ The card belongs to the "Jolánka" family, postcards to Jolánka Tóth in one Hu
 
 The key was **transferred** from the finished family cards, chiefly the legend in ciphers/hcp-1216/SOLUTION.md; it was not recovered from this card. The legend also holds for HCP 1212, 1213, 1217, 1218, 1243 and 1301.
 
-The transcription is **manual**, read sign by sign from enlarged crops of the un-converted original scan, and recorded in work/ledger.txt. It was made while reading for sense, so it is not blind. The first rows gave *szeretet édes Jo|lánka kívánom hogy a legjobb* at once. Harder passages were settled by rereading the crops: taking the h/p sign as p gave *egy pár hétig … ápr.*, and the end of row 14 resolved to *ha valaki*. The signs under the portal watermark stay visible through it.
+The transcription is **manual**, read sign by sign from enlarged crops of the un-converted original scan, and recorded in work/ledger.txt. It was made while reading for sense, so it is not blind. The first rows gave szeretet édes Jo|lánka kívánom hogy a legjobb at once. Harder passages were settled by rereading the crops: taking the h/p sign as p gave egy pár hétig … ápr., and the end of row 14 resolved to ha valaki. The signs under the portal watermark stay visible through it.
 
 The reviewer made its own crops, including a red-channel version to weaken the brown watermark, wrote its own sign-class transcription and its own statement of the key, and decoded them with its own script: 275 signs, all 21 rows equal to the ledger apart from accents and plain insertions. That check was not blind either, since the reviewer had read the ledger first, but each row was compared with crops.
 
 ## Key
 
-Simple monoalphabetic substitution with invented graphic signs. The labels are conventional names for the handwritten shapes.
+**Type: MASC + Steganography** (updated 2026-11-03). This is simple monoalphabetic substitution with invented graphic signs. The farewell is hidden in the stamp box, under the stamp, which has since been lifted. The labels are conventional names for the handwritten shapes.
 
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@ Simple monoalphabetic substitution with invented graphic signs. The labels are c
 | open loop with descender | g | dotted crossed curve | i | crossed diagonal | z |
 | inverted T | j | | | | |
 
-Dots over x and over the loop give ü and ö; a tick marks an accent. *gy* is written g + y. Word spaces are not written. Plain, unenciphered parts are the address, `10 er` inside row 10, the two bottom pencil lines, and a short word up the right edge.
+Dots over x and over the loop give ü and ö; a tick marks an accent. gy is written g + y. Word spaces are not written. Plain, unenciphered parts are the address, `10 er` inside row 10, the two bottom pencil lines, and a short word up the right edge.
 
 ## Plaintext
 
@@ -65,6 +65,8 @@ Normalized Hungarian (word division, accents, spelling and bracketed restoration
 
 **Isten vele, édesem! Imádója, Feri.** (stamp box)
 
+**Stamp-box audit (2026-11-03).** The stamp has been lifted; only torn bits of green stamp paper remain at two corners of the printed box. Under where it sat, the writer put five rows in the cipher signs (no plain writing): "Isten vele, édesem! Imádója, Feri" ("Farewell, my darling! Your adorer, Feri"). A fresh 2x to 3x crop of the original confirms every sign of the earlier reading, and nothing in the box is left unread. That is why the register type is MASC + Steganography.
+
 Plain pencil: Cím: Holes Fe[...], [4 or 8] Népszínház u. 16, Asztalosok szak[...]
 
 English translation: **My beloved sweet Jolánka! I hope my lines find you in the best of spirits. I am now staying in Pest. There is no work here either, but I shall still stroll about for a couple of weeks. By 10 April I am going home, because there will be the draft (army conscription). I quite forgot: the book, if you can, please send it in to my parents when someone goes in to Gyöngyös. What is new in Árokszállás? If there is anything, write.**
@@ -81,8 +83,8 @@ Adresa: Holes Fe[...], [4 alebo 8] Népszínház u. 16, stolári, odb[or...].
 
 Notes on the reading:
 
-- *Sorozás* is the army recruitment levy. Gyöngyös is a real town near Jász-Árokszállás, and *Árokszáláson* in cipher agrees independently with the plain address.
-- *Cím* ("address") introduces the writer's return address. HCP 1309 has the same formula with the cipher signature *Holes Feri*, so Holes is in all likelihood his surname. There the first letter is open and rests on this card, and here the capital is itself uncertain, so the two cards support each other without proving it.
+- Sorozás is the army recruitment levy. Gyöngyös is a real town near Jász-Árokszállás, and Árokszáláson in cipher agrees independently with the plain address.
+- Cím ("address") introduces the writer's return address. HCP 1309 has the same formula with the cipher signature Holes Feri, so Holes is in all likelihood his surname. There the first letter is open and rests on this card, and here the capital is itself uncertain, so the two cards support each other without proving it.
 
 ## Reproduction
 
@@ -98,22 +100,22 @@ It checks the SHA-256 of the four image files, decodes the ledger, and prints th
 
 Calls resting on word sense, not on shape alone:
 
-- **h/p sign.** p in *Pesten*, *pár* and *ápr.*; h elsewhere.
-- **Row 8 *de*.** The first sign is of the h/p class, not the d of *édes*. *De azért* is the only sense; HCP 1216 has the same irregularity.
-- **Row 14, first sign.** A hooked variant of h, read from *ha teheti*.
-- **Row 13.** The sign before *a könyvet* is read as m. The n of *könyvet* is a dark overwritten blot of two strokes, and the o shows no dots.
-- **Row 16.** The first sign, a wave running into a long descender, is taken as l of *Árokszá|láson*. The j of *írjon* is overstruck, with its base stroke visible.
-- **Both f signs.** The f of *elfe-* (row 12) and of *Feri* (stamp box) are not the upright cross of the table but a slanted x with an arm or a tilted cross. Both are read from the word.
-- **Under the watermark.** The a of *Árok-*, the h of *ha valaki* and the run r-o-k-s-z-a stay visible through the print; the bar count in *Árok-* rests partly on the name.
-- **Stamp box.** The first sign of *Imádója* is faint and undotted, and the bottom bar of the e of *Feri* is broken.
+- **h/p sign.** p in Pesten, pár and ápr.; h elsewhere.
+- **Row 8 de.** The first sign is of the h/p class, not the d of édes. De azért is the only sense; HCP 1216 has the same irregularity.
+- **Row 14, first sign.** A hooked variant of h, read from ha teheti.
+- **Row 13.** The sign before a könyvet is read as m. The n of könyvet is a dark overwritten blot of two strokes, and the o shows no dots.
+- **Row 16.** The first sign, a wave running into a long descender, is taken as l of Árokszá|láson. The j of írjon is overstruck, with its base stroke visible.
+- **Both f signs.** The f of elfe- (row 12) and of Feri (stamp box) are not the upright cross of the table but a slanted x with an arm or a tilted cross. Both are read from the word.
+- **Under the watermark.** The a of Árok-, the h of ha valaki and the run r-o-k-s-z-a stay visible through the print; the bar count in Árok- rests partly on the name.
+- **Stamp box.** The first sign of Imádója is faint and undotted, and the bottom bar of the e of Feri is broken.
 
-Editorial changes: *szeretet* → szeretett, *it* → itt, *lejtetem* → -ttem, *tehti* → teh[e]ti, *külj* → küld[je] (the form is not certain), stray dots dropped, accents mostly supplied. The plain `10 er` is at least *10 ér*; the final e of 10-ér[e] is supplied.
+Editorial changes: szeretet → szeretett, it → itt, lejtetem → -ttem, tehti → teh[e]ti, külj → küld[je] (the form is not certain), stray dots dropped, accents mostly supplied. The plain `10 er` is at least 10 ér; the final e of 10-ér[e] is supplied.
 
 Plain text not fully read (not cipher text):
 
-- The capital of *Holes* has a crossbar and foot stroke, closer to this writer's J than to an obvious H. The next word begins *Fe…*, plausibly *Ferencz* or similar, with its ending lost under the portal stamp.
-- The mark before *Népszínház* is a 4 or 8. Népszínház utca lies in Budapest's district VIII from general knowledge, so 8 is a candidate; this was not checked in a source.
-- After *Asztalosok* comes *szak…*, overwritten; a trades section is plausible, not established. A short word up the right edge (T, o, then uncertain) is unresolved.
+- The capital of Holes has a crossbar and foot stroke, closer to this writer's J than to an obvious H. The next word begins Fe…, plausibly Ferencz or similar, with its ending lost under the portal stamp.
+- The mark before Népszínház is a 4 or 8. Népszínház utca lies in Budapest's district VIII from general knowledge, so 8 is a candidate; this was not checked in a source.
+- After Asztalosok comes szak…, overwritten; a trades section is plausible, not established. A short word up the right edge (T, o, then uncertain) is unresolved.
 
 Context: the full postmark date, the office of the second cancellation, and the year of the card are not established. That this Feri is the Feri of the other family cards is suggested, not proved. No search for a prior publication was made beyond the portal status and the AI Decipherment Register (no record on 2026-10-30).
 
@@ -122,9 +124,9 @@ Context: the full postmark date, the office of the second cancellation, and the 
 Reviewer: a separate Claude Opus 5.5 agent, round 1, verdict **REVISE**. The reviewer ran the reproduction command, read every row from its own crops and decoded its own transcription; it found no sign that changes a word. Its findings concerned context and disclosure, and all were addressed:
 
 - **Postmarks (major).** The solver had wrongly written that the card has no date evidence. Both postmarks and the `13` are now described.
-- **Surname.** The cross-reference to *Holes Feri* on HCP 1309 is added.
-- **Plain lines.** *Holes* is now capital-uncertain, the next word is *Fe[...]*, and the mark before *Népszínház* is 4 or 8.
-- **Sign notes.** The f of *elfe-* is disclosed as sense-based, and *gy* is recorded as two signs instead of one (ledger changed, decoded text the same).
+- **Surname.** The cross-reference to Holes Feri on HCP 1309 is added.
+- **Plain lines.** Holes is now capital-uncertain, the next word is Fe[...], and the mark before Népszínház is 4 or 8.
+- **Sign notes.** The f of elfe- is disclosed as sense-based, and gy is recorded as two signs instead of one (ledger changed, decoded text the same).
 - **10 er.** The supplied final e is now bracketed.
 
 No letter of the cipher reading changed. The portal-name point on the date was added by the solver after the review.

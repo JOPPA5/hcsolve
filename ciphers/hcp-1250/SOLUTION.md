@@ -6,6 +6,8 @@
 
 Hungarian, simple monoalphabetic substitution with invented graphic signs (MASC): the "Jolánka" postcard family. The key was transferred unchanged from HCP1216; the text is the sender's usual Feri-to-Jolánka letter. All ciphertext is on the address side: 24 rows on the left half (row 24 runs along the bottom edge to the right edge) and 8 rows in the stamp field, where the stamp is gone and the rows stand upright over the printed seal. The picture side has only print (Cigányprímás / Lári-Fári verse).
 
+**Type note (2026-11-03):** the card is now typed **MASC + Steganography**, because part of the message (8 rows, from *Szép kedvesem* to *Feri*) was written in the stamp box, hidden under the stamp, which is now lifted. The key and the reading are unchanged.
+
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
 | two bars | a | section mark S or 8 | k | F-like | r |
@@ -114,3 +116,16 @@ Verdict ACCEPT, eight minor findings. I rechecked the reviewer's zooms (`review/
 8. **Translations: fixed.** "with us" and "u nás" removed; Slovak now *čoho sa sotva, sotva dočkám*; the row 6 sentence changed in both.
 
 The reproduction command was re-run after these edits: four hashes OK, 570 signs, and the normalized text prints the two changed words.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit, Claude Opus 5.5, ordered by the human on 2026-11-03. The stamp box at the top right of the address side was cropped again from the original scan (work/hires/..._adr.jpg) at about 2x of the hi-res file (about 7x the source/ image), in colour and as an auto-contrast green channel (work/stamp-2026-11-03/stamp_rgb.png, top_g.png, bot_g.png). The stamp is **lifted** and the box holds **8 upright rows in the cipher signs**, written over the printed seal. There is no plain Hungarian in the box. The sender hid this part under the stamp, so the card is steganographic as well as enciphered.
+
+The message was already read in full on 2026-11-01 (the "stamp field" lines above, tokens in work/ledger.txt). The new crops agree with it sign by sign: row 1 *szepkad*, row 2 *vesem*, rows 3 to 5 *gondol jon ne*, row 6 *h[a]ram*, row 7 *viszot*, row 8 *latasra*, last row *feri*. Nothing new was read and nothing changed.
+
+- Literal: `szepkad vesem gondol jonne h[a]ram viszot latasra feri`
+- Hungarian: Szép kedvesem, gondoljon néha rám. Viszo[n]tlátásra. Feri.
+- English: My beautiful darling, think of me sometimes. Until we meet again. Feri.
+- Slovak: Moja krásna drahá, myslite na mňa niekedy. Dovidenia. Feri.
+
+Still uncertain, as before: the a of *ha* (row 5/6) lies on the seal and is restored (uncertainty 2); the vowel after k in row 1 is smudged, a or e (uncertainty 18); the n of *viszont* is not written. No clause is unread. The reproduction script already covers these rows and was not changed.

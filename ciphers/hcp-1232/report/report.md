@@ -8,7 +8,7 @@ Human solver: Tomáš Pavuk
 
 The cryptogram is record 1232 of the HC Portal (https://crypto.hcportal.eu/dashboard/cryptograms/1232), part of Tobias Schrödel's cryptographic postcard collection (private collection). When captured on 2026-11-02 the portal listed it as **Not solved**, tagged Postcard, T. Schrödel Collection, category Substitution, language Unknown, location Europe, sender Unknown, recipient Tóth Jolánka, with no transcription or solution attached. The portal links a Histocrypt article (https://ecp.ep.liu.se/index.php/histocrypt/article/view/166); it was not opened, and no published solution of this card was found or used.
 
-The picture side carries only the publisher's printed poem and the caption Aranyeső (Golden rain), with no handwriting. The address side is plain script in red ink: **Szépreményű Tóth Jolánka úrhölgynek, Jász Árokszállás** ("To the promising young lady Jolánka Tóth, Jászárokszállás", a town in Hungary). The whole left half of that side is filled with 23 rows of cipher, and five more short rows stand in the stamp field at top right.
+The picture side carries only the publisher's printed poem and the caption Aranyeső (Golden rain), with no handwriting. The address side is plain script in red ink: **Szépreményű Tóth Jolánka úrhölgynek, Jász Árokszállás** ("To the promising young lady Jolánka Tóth, Jászárokszállás", a town in Hungary). The whole left half of that side is filled with 23 rows of cipher, and five more short rows stand in the stamp field at top right, written where the stamp would hide them; the stamp has since been lifted (a stamp-box audit on 2026-11-03 confirmed this and found nothing further).
 
 Two postmarks can be seen: a fragment ending PEST, and an Árokszállás postmark in which the number 24 is clear. It is not claimed as the day, and month and year are not readable, so the year is unknown. The mention of Úrnap (Corpus Christi) points to late May or June.
 
@@ -28,7 +28,7 @@ The writer's spelling is close to speech, and he drops letters. Accents are most
 
 ## Key
 
-Simple monoalphabetic substitution with invented graphic signs. The labels describe the handwritten shapes.
+**Type: MASC + Steganography** (updated 2026-11-03). Simple monoalphabetic substitution with invented graphic signs, plus a hidden message: the stamp was stuck over five cipher rows in the stamp box, now visible because the stamp has been lifted. The labels describe the handwritten shapes.
 
 | Shape | Plain | Shape | Plain |
 |---|---|---|---|

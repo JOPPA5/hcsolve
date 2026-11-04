@@ -8,7 +8,7 @@ Human solver: Tomáš Pavuk
 
 The cryptogram is record 1268 of the HC Portal (https://crypto.hcportal.eu/dashboard/cryptograms/1268), part of Tobias Schrödel's cryptographic postcards collection (private collection). When captured on 2026-11-01 the portal listed it as **Not solved**, tagged Postcard and T. Schrödel Collection, category Substitution, language Unknown, sender Unknown, recipient Tóth Jolánka, with no transcription or solution attached. The portal links a HistoCrypt article as the collection reference (https://ecp.ep.liu.se/index.php/histocrypt/article/view/166); it was not consulted for this card.
 
-The picture side is a tinted photographic postcard of a young couple among ivy, with the printed Hungarian verse "Hulló falevél…". The address side has the whole message in red ink: fifteen rows of invented signs at the left and four short rows in the printed stamp box at the top right. No stamp is on the box. The address is in plain red longhand: **Szépreményű Tóth Jolánka kisasszony saját kezeiben, Jász-Árokszállás, Alszög** ("To the promising Miss Jolánka Tóth, into her own hands"). The town line is partly overwritten. Jászárokszállás is in Hungary. The bottom line, al szög, is read as Alszög, a part of the village.
+The picture side is a tinted photographic postcard of a young couple among ivy, with the printed Hungarian verse "Hulló falevél…". The address side has the whole message in red ink: fifteen rows of invented signs at the left and four short rows in the printed stamp box at the top right. No stamp is on the box now; the postmark is struck at the box's left edge, so a stamp was most probably stuck over these four rows and later lifted. The stamp-box rows, in the cipher signs, read **Csókolom a kis szájat** ("I kiss the little mouth"); this was re-checked on 2026-11-03. The address is in plain red longhand: **Szépreményű Tóth Jolánka kisasszony saját kezeiben, Jász-Árokszállás, Alszög** ("To the promising Miss Jolánka Tóth, into her own hands"). The town line is partly overwritten. Jászárokszállás is in Hungary. The bottom line, al szög, is read as Alszög, a part of the village.
 
 The postmark reads 912 JAN 17, and the portal file name gives the same date: Wednesday 17 January 1912. A second cancel is partly legible. Which of the two is origin or arrival was not determined.
 
@@ -32,7 +32,7 @@ python3 -I ciphers/hcp-1268/work/decode.py
 
 ## Key
 
-Simple monoalphabetic substitution with invented graphic signs, Hungarian. The labels below describe handwritten shapes.
+Simple monoalphabetic substitution with invented graphic signs, Hungarian, with a hidden part: register type **MASC + Steganography** (set 2026-11-03). Four short cipher rows were written in the stamp box, where the stamp would cover them. The labels below describe handwritten shapes.
 
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|

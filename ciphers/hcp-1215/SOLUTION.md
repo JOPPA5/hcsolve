@@ -80,3 +80,28 @@ Moja zbožňovaná sladká malá snúbenica! Ver mi, drahá, že to, čo k tebe 
 
 - Jolánka is addressed as fiancée by "Feri", and *helyben* (local post) puts them in one town at this date. HCP1216 is also signed Feri, but I claim no identification beyond the shared first name; the hands were not compared formally.
 - The card gives no crib for the graphic key.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit by Claude Opus 5.5 on the hires original (`work/hires/…_adr.jpg`); crops at 1.5–6x, colour and red-channel, in `work/stamp-2026-11-03/` (scripts `st*.py` there).
+
+**State of the box.** The orange Magyar stamp was torn away; only its upper-left and lower-left margins (with "MAGYAR" and "…FILL…") remain stuck to the card. The bare paper under it carries six rows in the same plain Hungarian cursive and green-grey ink as the message. A dark-green triangular sunburst mark lies over the middle of rows 3–5. On the 2026-11-03 crops it looks like an inked hand-stamp impression laid over the writing, not a piece of the postage stamp as NOTES.md said earlier. Either way it hides the writing beneath it, and green-minus-red channel separation does not lift the handwriting out from under it, because both inks are green. **No cipher signs occur in the box; the hidden writing is plain Hungarian only.**
+
+Literal reading (row by row; nothing restored):
+
+```
+S1 [..]en   (first letters under the upper stamp remnant; -en or -on)
+S2 veled l  (a tall looped l, then bare paper)
+S3 szi[...] (rest under the triangle; a long final up-stroke leaves its right edge)
+S4 hű[...]  (h, u with marks above it, rest under the triangle)
+S5 Im[...]l (Im, middle under the triangle, ends in a looped l, or in d drawn o+l as in this hand)
+S6 Feri
+```
+
+Normalized Hungarian (readable part only): *…[szombat]on(?) veled … szi… hű… Im… Feri.*
+English: "…[on Saturday](?) with you … [unread] … faithful(?) … [unread] … Feri."
+Slovak: "…[v sobotu](?) s tebou … [neprečítané] … verný(?) … [neprečítané] … Feri."
+
+Still unread: the beginning of S1, the end of S2 after *l*, and most of S3, S4 and S5 under the triangle, which is the core of the hidden clause. *hű* ("faithful") is read only from its first two letters. *Imádód* ("your adorer") would fit S5 and this hand's d, but three or more letters are hidden, so I do not restore it. Joining S1 to *szombat-* at the end of row 26 stays a conjecture, as above. This audit adds no letters to the 2026-11-02 reading. It confirms that reading, gives the box's physical state, and records that the triangle looks like an inked mark rather than a stamp fragment.
+
+**Type note (2026-11-03).** The card has a steganographic element: a plain-text message written in the stamp box and hidden under the stamp. It still carries **no cipher**, so the "MASC + Steganography" label that applies to the enciphered Jolánka cards does not fit here. The status stays "no cipher found"; descriptively it is plain text with stamp-box steganography. The card has no register entry, and none is created (whole clauses are unread and there is no decipherment). No report exists for this card, so there is nothing to re-render.

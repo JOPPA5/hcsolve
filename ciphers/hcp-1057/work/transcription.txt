@@ -1,0 +1,14 @@
+# hcp-1057 cipher block (address side, lines 4-14 of the message), read from work/hires/*_adr.jpg
+# Digits are cipher signs; Latin letters stand for the Kurrent letters the writer left plain.
+# Notation: ch, ck, ss(=ß), St kept as written; 1" = digit 1 with umlaut dots (ä); [h] = Kurrent h ligatured onto the 2 of 829.
+# The final word after B93f is plain Kurrent, not enciphered; it is given as ? (tentative 'nebst').
+H1tt2 g291d2 73cht
+82[h]9 d32 z23t 83ch z5 b2-
+d17k27, d1 85ßt2
+G2f17g272 3ch g623ch
+1b h4627
+83t 23728 T917sp49t.
+B3s z59 St57d2 30t 74ch
+16620 b238 16t27.
+S27d2 71"ch0t270
+23727 B93f ?

@@ -6,6 +6,8 @@
 
 Hungarian, simple monoalphabetic substitution with invented graphic signs: the "Jolánka" postcard family, same key as HCP1212, 1213, 1216, 1217, 1218, 1243, 1301 (transferred from the legend in `ciphers/hcp-1216/SOLUTION.md`, not re-derived). The key is known from those cards; only the reading of this card is new.
 
+**Type note (2026-11-03):** the register type is now **MASC + Steganography**: the five cipher rows in the stamp box were written where the stamp would cover them, and the stamp has since been lifted (see the stamp-box section below).
+
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
 | two bars | a | section mark / S-curve | k | F-like | r |
@@ -111,3 +113,17 @@ Verdict REVISE, no sign of the cipher reading challenged. I viewed the reviewer'
 7. **Plain *10 er* (minor): fixed.** `crops/r10er.png` shows the tail after the r. Item 9 says so, and the normalized text is now *10-ér[e]*.
 
 Also corrected in passing: `work/normalized.txt` had *haza[ ]megyek* against *hazamegyek* in this file; both now read *hazamegyek*.
+
+## Stamp-box message (2026-11-03)
+
+Audit ordered by Tomáš Pavuk on 2026-11-03 for the Jolánka postcard series. I cropped the stamp box of the hi-res original `work/hires/cpc_--13_HU__HU_Jasz-Arokszalas_jolanka-84_adr.jpg` (box 2608,123 to 3125,713) at 2x and 3x into `work/stamp-2026-11-03/` and read it again by eye.
+
+- **Stamp state: lifted, with writing under it.** Only torn bits of the green stamp paper are left, at the top-right and bottom-left corners of the printed red box. The heavy cancellation strikes only the box's outer edges and the card around it. The five pencil rows fill the inside of the box, where the stamp would have covered them.
+- **Script: cipher signs only.** There is no plain writing in the box. The signs decode with this card's key (table above).
+- **Literal reading** (one row per line, same as the ledger): `isten | vele | edesem | imado | jaferi`. The new crops confirm every sign of the 2026-10-30 reading. Nothing new is added and nothing is restored.
+- **Normalized Hungarian:** Isten vele, édesem! Imádója, Feri.
+- **English:** Farewell (God be with you), my darling! Your adorer, Feri.
+- **Slovak:** Zbohom (Boh s vami), moja drahá! Váš ctiteľ Feri.
+- **What stays unread:** nothing in the box. The open points are the ones already listed in Uncertainty 8: the first sign of *Imádója* is faint and has no visible dot, and the f of *Feri* is a tilted cross read from the word. Accents are not written in the cipher. The stamp rows were already in `work/ledger.txt` and `decode.py`, so the script is unchanged.
+- **Type:** MASC + Steganography (register type field changed on 2026-11-03).
+

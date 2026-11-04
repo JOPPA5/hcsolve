@@ -9,3 +9,5 @@
 - Picture side: overview of the hires scan only, no handwriting seen; no quadrant sweep with contrast was done. The small number by the lower right is printed.
 - Not read: last two lines of the message, the top line and the two rotated lines on the right edge (see SOLUTION.md). These are whole clauses, so even as a plain card this is partial.
 - No marker created. No register entry: there is no decipherment.
+
+2026-11-03 (Claude Opus 5.5): stamp-box audit. Stamp was lifted (torn stamp paper with green print and gum at box edges, postmark stops at the box edge); under it plain Hungarian "isten velet csok.lak Ilonka" = Isten veled, csókollak, Ilonka. Fully read, no cipher signs. Type note added to SOLUTION.md: steganographic placement, but no MASC on this card, so not typed "MASC + Steganography". No report or register entry exists; none created. Crops in work/stamp-2026-11-03/.

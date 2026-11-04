@@ -30,7 +30,7 @@ The reviewer read all rows from its own crops and decoded them with its own scri
 
 ## Key
 
-Hungarian, monoalphabetic substitution with invented graphic signs. Letter names are conventional descriptions of handwritten shapes.
+Type: **MASC + Steganography** (updated 2026-11-03). Hungarian, monoalphabetic substitution with invented graphic signs; part of the message (five lines, s1-s5) is hidden in the stamp box, under the stamp, which is now lifted. Letter names are conventional descriptions of handwritten shapes.
 
 | Sign | Plain | Sign | Plain | Sign | Plain |
 |---|---|---|---|---|---|
@@ -72,28 +72,28 @@ Kedves Jolánkám! Becses sorait megkaptam, melyet [n]agyon köszönök, kedves 
 
 Under the stamp: Csókolom számtalanszor. Hű kedvese[n?] Feri.
 
-**English.** Dear Jolánka! I received your esteemed lines, for which I thank you very much, my dear good one! You understood my words very badly if you think that my parents may perhaps be angry with you; [rows 9–10 unresolved: literally "this ... thus you think", the expected sense is probably "do not think of it this way", but no negation is on the card]. As for the journey, I am not afraid of it, because your spirit protects me from every harm. My sweet, I can hardly wait for the time when I can have fun with Jolánka again. In three weeks there will be a Népszava festival; about *majer* more by word of mouth. I wish good fun for Sunday {Béladak?}. I shall write on Sunday. God be with you. My respects to your dear mother. From afar, your adorer, Feri. I am sorry that you did not come in.
+**English.** Dear Jolánka! I received your esteemed lines, for which I thank you very much, my dear good one! You understood my words very badly if you think that my parents may perhaps be angry with you; [rows 9–10 unresolved: literally "this ... thus you think", the expected sense is probably "do not think of it this way", but no negation is on the card]. As for the journey, I am not afraid of it, because your spirit protects me from every harm. My sweet, I can hardly wait for the time when I can have fun with Jolánka again. In three weeks there will be a Népszava festival; about majer more by word of mouth. I wish good fun for Sunday {Béladak?}. I shall write on Sunday. God be with you. My respects to your dear mother. From afar, your adorer, Feri. I am sorry that you did not come in.
 
 Under the stamp: I kiss you countless times. Faithfully and lovingly [?], Feri.
 
-**Slovak.** Milá Jolánka! Vaše vážené riadky som dostal, za čo veľmi ďakujem, moja milá dobrá! Veľmi zle ste pochopili moje slová, ak si myslíte, že moji rodičia sa na Vás azda hnevajú; [riadky 9–10 nevyriešené: doslova „toto ... takto si myslíte“, očakávaný zmysel je asi „tak to neberte“, no zápor na lístku nie je]. Čo sa týka cesty, tej sa nebojím, lebo Váš duch ma ochráni pred každým zlom. Moja sladká, sotva sa dočkám času, keď sa budem môcť znova zabávať s Jolánkou. O tri týždne bude slávnosť Népszavy; o *majeri* viac ústne. Želám dobrú zábavu na nedeľu {Béladak?}. V nedeľu napíšem. S Bohom. Pozdravujem Vašu milú mamu. Z diaľky Váš ctiteľ Feri. Ľutujem, že ste neprišli dnu.
+**Slovak.** Milá Jolánka! Vaše vážené riadky som dostal, za čo veľmi ďakujem, moja milá dobrá! Veľmi zle ste pochopili moje slová, ak si myslíte, že moji rodičia sa na Vás azda hnevajú; [riadky 9–10 nevyriešené: doslova „toto ... takto si myslíte“, očakávaný zmysel je asi „tak to neberte“, no zápor na lístku nie je]. Čo sa týka cesty, tej sa nebojím, lebo Váš duch ma ochráni pred každým zlom. Moja sladká, sotva sa dočkám času, keď sa budem môcť znova zabávať s Jolánkou. O tri týždne bude slávnosť Népszavy; o majeri viac ústne. Želám dobrú zábavu na nedeľu {Béladak?}. V nedeľu napíšem. S Bohom. Pozdravujem Vašu milú mamu. Z diaľky Váš ctiteľ Feri. Ľutujem, že ste neprišli dnu.
 
 Pod známkou: Bozkávam Vás nespočetnekrát. Verne a láskyplne [?] Feri.
 
 ## Uncertainties
 
-- **Row 22 *bela/ak*.** The signs b e l a, a single slash, a k are clear, but no secure word results. It may be a name or a family form of Béla. An alternative, *vasárnap a Bélának* ("on Sunday, to Béla"), would take the slash as a reduced n, though it is a single stroke, unlike n elsewhere.
-- **Row 20 *majer*.** The signs are clear, the meaning is not: a form of *major* (farmstead), a place name or the surname Majer. Left untranslated.
-- **Rows 9–10.** The signs *ezt a így gondolja* are confirmed, but the clause gives no good sense as written.
-- **Row 25 *jött be*.** The first sign is read j on shape plus sense, not shape alone: the bar is low on the stem, as on inverted T, but a tiny foot shows below it. The subject is not written; "you" follows the formal address.
-- **Row 6 *[be]szédemet*.** The literal text is *erteteteszedemet*; the restoration assumes a repeated *-te-* or a dropped *be*. The last sign lies on the postmark, so t rather than r is by sense.
-- **Rows 8–9 *magá[ra ha]ragszanak*.** The writer seems to have skipped from one *ra* to the next. The supplied letters are a restoration; the accent tick on the last a of *maga* supports it.
-- **Row 3 *angyon*** is normalized *nagyon* (transposed letters), by sense.
-- **Row 19 *Népszava*.** The p is by sense. Népszava was the Social Democratic daily; a festival of that name is an inference and was not checked against any source. *nép szava* ("voice of the people") would be the same letters.
-- **Rows 20 and 24.** In *ünnepély* and *imádója* the j lies over a t-like top, apparently a correction. Row 24 also has a blot on the d.
-- **Row 23 and row 14.** Blots and a smudged stroke; *vasárnap* is by sense there, and two marks have no letter value.
-- **Under the stamp.** Only *csokol* is firm on the washed-out first line, and the *sz* of *számta-* is a restoration. *hű kedvesen* or a slip for *hű kedvese* cannot be decided. Where this block belongs in the letter is not known.
-- **Spelling as written.** Double letters are often single (*roszul*, *ileti*, *atol*, *szeleme*, *jöt*), letters are dropped (*utazst*, *mer*, *ujr*), and ly appears as j (*mejet*, *ünepej*). Acute accents are supplied.
+- **Row 22 bela/ak.** The signs b e l a, a single slash, a k are clear, but no secure word results. It may be a name or a family form of Béla. An alternative, vasárnap a Bélának ("on Sunday, to Béla"), would take the slash as a reduced n, though it is a single stroke, unlike n elsewhere.
+- **Row 20 majer.** The signs are clear, the meaning is not: a form of major (farmstead), a place name or the surname Majer. Left untranslated.
+- **Rows 9–10.** The signs ezt a így gondolja are confirmed, but the clause gives no good sense as written.
+- **Row 25 jött be.** The first sign is read j on shape plus sense, not shape alone: the bar is low on the stem, as on inverted T, but a tiny foot shows below it. The subject is not written; "you" follows the formal address.
+- **Row 6 [be]szédemet.** The literal text is erteteteszedemet; the restoration assumes a repeated -te- or a dropped be. The last sign lies on the postmark, so t rather than r is by sense.
+- **Rows 8–9 magá[ra ha]ragszanak.** The writer seems to have skipped from one ra to the next. The supplied letters are a restoration; the accent tick on the last a of maga supports it.
+- **Row 3 angyon** is normalized nagyon (transposed letters), by sense.
+- **Row 19 Népszava.** The p is by sense. Népszava was the Social Democratic daily; a festival of that name is an inference and was not checked against any source. nép szava ("voice of the people") would be the same letters.
+- **Rows 20 and 24.** In ünnepély and imádója the j lies over a t-like top, apparently a correction. Row 24 also has a blot on the d.
+- **Row 23 and row 14.** Blots and a smudged stroke; vasárnap is by sense there, and two marks have no letter value.
+- **Under the stamp (re-checked 2026-11-03).** The stamp is lifted; all five hidden lines are in the cipher signs, none in plain Hungarian. Only csokol is firm on the washed-out first line, and the sz of számta- is a restoration. hű kedvesen or a slip for hű kedvese cannot be decided. Where this block belongs in the letter is not known.
+- **Spelling as written.** Double letters are often single (roszul, ileti, atol, szeleme, jöt), letters are dropped (utazst, mer, ujr), and ly appears as j (mejet, ünepej). Acute accents are supplied.
 - **Not verified.** The identity of Feri and the postmark date.
 
 ## Review and what changed
@@ -104,12 +104,12 @@ An independent Claude Opus 5.5 reviewer reran the decoder, read all rows from it
 
 ![Row 20: the final wave l that the first transcription missed (review/work/crops/r20w.png)](../review/work/crops/r20w.png)
 
-- **Row 25 (major).** The first sign is j, not f. The closing sentence is now *nem jött be* ("you did not come in"), replacing the forced *nem fért be* ("it did not fit").
-- **Row 20 (major).** A final wave had fallen outside the solver's crop. The row now ends *szoval*, and the count goes from 459 to 460 signs.
+- **Row 25 (major).** The first sign is j, not f. The closing sentence is now nem jött be ("you did not come in"), replacing the forced nem fért be ("it did not fit").
+- **Row 20 (major).** A final wave had fallen outside the solver's crop. The row now ends szoval, and the count goes from 459 to 460 signs.
 - **Row 20 normalization.** An article and an r that are not on the card were removed or bracketed.
-- **Row 22.** The *vasárnap a Bélának* alternative was added.
-- **Rows 4–5.** Punctuation is now *kedves jó! Ön nagyon…*, with no letter change.
+- **Row 22.** The vasárnap a Bélának alternative was added.
+- **Rows 4–5.** Punctuation is now kedves jó! Ön nagyon…, with no letter change.
 - **Rows 9–10.** The clause is marked unresolved instead of smoothed over.
 - **Ledger.** The block over the stamp was split into its five lines, and the legend was completed.
 
-The reviewer could not verify the Népszava festival, the meaning of *majer*, Feri's identity, the postmark date, or the washed-out first line sign by sign.
+The reviewer could not verify the Népszava festival, the meaning of majer, Feri's identity, the postmark date, or the washed-out first line sign by sign.

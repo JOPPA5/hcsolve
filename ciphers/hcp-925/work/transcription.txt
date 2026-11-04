@@ -1,0 +1,13 @@
+# hcp-925 picture side, transcribed by Claude Opus 5.5 from work/hires/..._pic.jpg (enlarged 2.5-3x).
+# One line per written line. Groups separated by '.'; '1|3' = digits 1 and 3 written with no visible dot (see SOLUTION.md).
+# The line marked CIRCLED is the circled group 8.19.5 under the end of line 1 (continuation of line 1).
+25.20.12.7.5.2.20.19.18.19.1.7.5
+1.11.18.9.3.8.8.5.20.19.5.6.17.20.8.5.17.20.8.5.17.22.1|3
+CIRCLED 8.19.5
+20.13.4.1.13.12.5.9.13.5.13.11.9.5.2.11.9.13.7.4.1.3.8.19.5
+6.9.5.11.12.9.17.4.5.17.7.5.4.1.13.10.5.5.9.13
+8.5.20.19.12.20.18.18.5.9.13.7.5.2.20.19.18.19.1.7.18.5.9.13
+18.5.13.4.5.19
+4.5.9.13
+11.9.5.2.11.9.13.7
+10.1.19.3.8.5.13.8.14.19.19.20.12

@@ -1,0 +1,8 @@
+L: S1 T T V1 T / O J V2 X O K / Z T / S2 X P B2
+TOP: Q V2 S1 / C3 / A J / A V2 B2 / V1 I I V1 / A P / W O S2
+D: W O S2 / I V2 A A V1 W / O K K V2 S2
+C: O J / B2 I P O B2 Q W O Z / V2 A V1
+B: Q Z V1 S1 O J / V2 J O X
+A1: A P A
+A2: N9 N6 N9 X O I
+BOT: H1 V2 / V1 B2 O O S1 / H1 O Z

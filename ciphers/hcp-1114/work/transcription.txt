@@ -1,0 +1,4 @@
+# hcp-1114 picture side, lower right (written in black ink over the printed clouds); read from work/hires/..._pic.jpg, crops in work/crops/
+# one token per written sign; '|' = word gap
+line1: 3 o 2 o I(overlined, lighter ink) o III(underlined in black, overlined in lighter ink) , | a
+line2: 9 i c i x a 5 a 5(overlined) .

@@ -30,7 +30,7 @@ python3 -I ciphers/hcp-1298/work/decode.py
 
 ## Key
 
-Hungarian, simple monoalphabetic substitution with invented graphic signs, unchanged from the family.
+**Type: MASC + Steganography** (changed 2026-11-03). Hungarian, simple monoalphabetic substitution with invented graphic signs, unchanged from the family. The closing six rows (Csókolja szám. Sírig hű kedvese, Feri.) were written in the stamp box and hidden under the stamp, which has since been lifted; this hidden placement is the steganographic part.
 
 | Sign | Letter | Sign | Letter |
 |---|---|---|---|

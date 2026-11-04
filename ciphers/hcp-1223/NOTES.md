@@ -7,3 +7,5 @@ Dead ends and steps: first took row 10 as "le he le késtem"; sign is the h/p sh
 Signature ends "fr" at the stamp remnant; not expanded in the ledger. See SOLUTION.md uncertainties.
 
 2026-11-02 (Claude Opus 5.5, solver, after review 1): the "ma len" conclusion above was wrong. Row 19 has three strokes after the e of le, not five; two were counted twice at the overlap of the L and R crops (same slip as B3/B4). Ledger corrected, count 414. Row 21 gondolt d is the h/p shape (long stroke, tick on its right); ordinary d has the short stroke on the left (crops zr01, zr14, z21word). Marked HD.
+
+2026-11-03 (Claude Opus 5.5, stamp-box audit): stamp lifted, six cipher rows S1-S6 under it (isten vele édesem csokol jahüked vessefr), already in ledger; re-checked at 3x (work/stamp-2026-11-03/), agrees; decode.py re-run OK. Type changed to MASC + Steganography in SOLUTION.md, report and register-entry.txt.

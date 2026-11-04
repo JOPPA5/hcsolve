@@ -11,3 +11,5 @@
 2026-11-02 (Claude Opus 5.5, solver, after REVIEWED1): Own green-suppressed crop (work/crop2.py, work/crops2/) confirms the reviewer's S3 `semabol` and S4 `dogvi`, so *a boldog viszontlátásra*. Row 27 sign a confirmed; the corrected run ends in plain *talán*, so the "elégetalan" hypotheses (mine and the reviewer's) are dropped in favour of *elege talán*. New division, hence DONE2 rather than FINAL.
 
 2026-11-02 (Claude Opus 5.5, solver, after REVIEWED2): Adopted the reviewer's division of row 27, *modorom[mal] meg lesznek elége[dve] talán*. My *lesz nek[ik] elege* broke a complete word and treated *elege* as *elég*: dead end. Signs and ledger unchanged. Report and register entry written.
+
+2026-11-03 (Claude Opus 5.5, stamp-box audit): the stamp is lifted (fragments and perforation traces remain) and the stamp box holds 7 rows of violet cipher signs (S1–S7, already in the ledger) under where the stamp was: "Isten vele, édesem, a boldog viszontlátásra. Feri". Crops in work/stamp-2026-11-03/. Type changed to MASC + Steganography in SOLUTION.md, report and register-entry.txt; ledger and decode.py unchanged.

@@ -8,6 +8,8 @@ Credit: reading and decoding by Claude Opus 5.5. There was no earlier work on th
 
 Hungarian, simple monoalphabetic substitution with invented graphic signs (Jolánka postcard family). Accents are marks over the base sign. No nulls, no homophones.
 
+Type note (2026-11-03): register type is now **MASC + Steganography**, because part of the message (six rows in the cipher signs) was written in the stamp box and hidden under the stamp. See "Stamp-box message (2026-11-03)".
+
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
 | two bars | a | section-mark S | k | F-shape | r |
@@ -65,6 +67,17 @@ Under the stamp: I kiss you countless times. Your loving sweetheart, Feri.
 
 Moja milovaná sladká Jolánka! Dlho očakávané riadky som dostal, za čo veľmi pekne ďakujem, drahá. Ešte nikdy som na Vaše riadky nečakal tak úzkostlivo ako teraz, drahá, tak ma bolelo srdce, anjel môj, že som Vaše riadky nedostal ani v utorok ako obyčajne. Hneď som si pomyslel, drahá, že sa hneváte, že som neprišiel dolu. Naozaj, drahá, len v takej chvíli človek cíti, ako veľmi Vás milujem, drahá, lebo aj tá myšlienka ma tak roztrpčila, že som nemal chuť do ničoho. Chráň Boh, na to sa ani neodvážim pomyslieť, ale [keby] som Vás stratil, bola by to moja istá smrť. Prosím Vás, drahá, nežiadam viac, len aby ste mi aspoň napísali lístok v nedeľu, lebo keby ste vedeli, ako ťažko čakám na Vaše riadky. Túto moju prosbu splníte.
 Pod známkou: Bozkávam Vás nespočetnekrát. Váš milujúci milý, Feri.
+
+## Stamp-box message (2026-11-03)
+
+Audit by Claude Opus 5.5 on the un-converted original (`work/hires/*_adr.jpg`), crops in `work/stamp-2026-11-03/` (box at 2x, rows at 3x, rows 4 and 5 at 4x in the red channel). The stamp has been lifted; a torn green fragment of it remains at the right edge of the box, and a pale blue printed triangle overlaps rows 3 to 5. Under it are six short rows in the cipher signs, in the same green ink as the main text. No plain-Hungarian writing is in the box (the clear word "Szép…" stands outside it, above the cancel). The six rows were already in the ledger and in this file; the audit re-read every sign from the pixels and agrees with them sign for sign:
+
+- literal: csokolo[m] / szamta / lanszor / szeretö / kedvese / feri
+- Hungarian: Csókolo[m] számtalanszor. Szerető kedvese, Feri.
+- English: I kiss you countless times. Your loving sweetheart, Feri.
+- Slovak: Bozkávam Vás nespočetnekrát. Váš milujúci milý, Feri.
+
+Unread: nothing beyond the one hidden sign already listed (the final m of *csókolom*, of which only one stroke shows at the torn edge of the stamp fragment). The stamp rows are covered by `work/decode.py` through the ledger; the script was not changed.
 
 ## Uncertainties
 

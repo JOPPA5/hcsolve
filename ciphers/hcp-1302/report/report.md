@@ -28,7 +28,7 @@ The reading is a manual ledger from the pixels, not OCR, and it is not blind, si
 
 ## Key
 
-Hungarian simple monoalphabetic substitution with invented signs. The names are conventional descriptions of the handwritten shapes.
+Cipher type: **MASC + Steganography** (type updated 2026-11-03). Hungarian simple monoalphabetic substitution with invented signs; the closing six rows are hidden in the stamp box, under the stamp (now lifted), in the same cipher signs. The names are conventional descriptions of the handwritten shapes.
 
 | Sign | Letter | Sign | Letter | Sign | Letter |
 |---|---|---|---|---|---|

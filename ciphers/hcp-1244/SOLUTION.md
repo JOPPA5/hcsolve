@@ -1,12 +1,14 @@
 # HCP1244 — Feri (Holes Ferenc) to Jolánka Tóth: safe arrival at Gyöngyös, Easter sprinkling
 
-**Status: the whole enciphered text is read (17 rows plus one word below the address), with the small residual points listed below. One word of the separate plain note in the stamp box stays unread. Handed over as DONE1; revised after review 1 (see the end).** 2026-11-01, Claude Opus 5.5.
+**Status: the whole enciphered text is read (17 rows plus one word below the address), with the small residual points listed below. The separate plain note in the stamp box is read in full since 2026-11-03 (see the end). Handed over as DONE1; revised after review 1 (see the end).** 2026-11-01, Claude Opus 5.5.
 
 Credit: all reading on this number is by Claude Opus 5.5. There is no earlier work on this card. The key comes from the finished Jolánka cards (HCP1216 and others, partly solved earlier by the OpenAI GPT solver). The portal shows *Not solved* with no transcription or solution, and no published solution of this card turned up.
 
 ## Cipher type and key
 
 Hungarian, simple monoalphabetic substitution with invented graphic signs (Jolánka family), the key of HCP1216 unchanged. Word division is not marked. Tokens are those of `work/ledger-opus.txt`.
+
+Type note (2026-11-03): the card also hides a plain-Hungarian message in the stamp box, under the (now lifted) stamp, so the register type is **MASC + Steganography**. See "Stamp-box message (2026-11-03)".
 
 | sign (token) | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
@@ -51,7 +53,7 @@ Kedves Jolánkám! Tudatom, hogy szerencsésen megérkeztünk. A gyöngyösi ál
 
 Below the address, enciphered: Szeretettel.
 
-Plain hand, in the stamp box (not enciphered): Csókolom a távolból az e… …tel Fe[?]ri. Holes Ferencz.
+Plain hand, in the stamp box (not enciphered; read in full 2026-11-03, see the end): Csókolom a távolból szeretettel, Feri. Holes Ferencz.
 
 Address, plain: Szépreményű Tóth Jolánka kisasszonynak, Jászárokszállás. Picture side: printed verse *Szerenád. Ábránd.*, not cipher.
 
@@ -59,13 +61,13 @@ Address, plain: Szépreményű Tóth Jolánka kisasszonynak, Jászárokszállás
 
 Dear Jolánka of mine! I let you know that we arrived safely. At Gyöngyös station father and my mother were waiting for us. Sweet Jolánka of mine, has anyone sprinkled you yet? As for me, from the master's daughters [I got] so much water that I was soaked to the skin. God be with you, until we meet again. But that will be a long time; it will be hard enough to bear. Never stay in debt, a kiss never does harm. If you get a kiss, my baby, just give it back at once.
 Below the address: With love.
-Stamp box: I kiss you from afar … [one word unread] … Feri. Holes Ferencz.
+Stamp box: I kiss you from afar with love, Feri. Holes Ferencz.
 
 ## Slovak
 
 Milá moja Jolánka! Oznamujem Vám, že sme šťastne docestovali. Na stanici v Gyöngyösi nás čakal otec a moja mama. Sladká moja Jolánka, už Vás niekto polial? Ja [som dostal] od dcér pána majstra toľko vody, že som zmokol do nitky. S Bohom, dovidenia. Ale to bude dlho, bude ťažké to vydržať. Nikdy nezostávaj dlžný, bozk nikdy neuškodí. Ak dostanete bozk, zlatko, hneď ho vráť.
 Pod adresou: S láskou.
-V rámčeku známky: Bozkávam Vás z diaľky … [jedno slovo neprečítané] … Feri. Holes Ferencz.
+V rámčeku známky: Bozkávam Vás z diaľky s láskou, Feri. Holes Ferencz.
 
 ## Uncertainties
 
@@ -86,7 +88,7 @@ V rámčeku známky: Bozkávam Vás z diaľky … [jedno slovo neprečítané] �
     - Against j: the gamma top is really there, and *soh(a)sem* with an imperative is colloquial (*sohase* is the usual form). If the sign is t, the reading is *Adós sohsem maradt* ("a debtor he never stayed", or a slip for *maradtam*). The division *Adós sohsem maradt a csók*, with the kiss as subject, leaves *soha sem árt* without one. It reads worse. The sense of the verse (jesting advice) stays the same in both readings.
 11. **Row 15 [s].** The first sign of *soha* is filled by a blot. Its outline still has the top-left hook and bottom-left foot of the right bowl, with a thin slit inside. No letter other than s gives a word (*csoha* does not exist). Treat it as a disclosed restoration. Row 16 *kap* has the h/p sign, read p by sense, likewise *ha* as h. In row 15 the h of *soha* is heavily inked and blobbed; its tall and short strokes are still separate (`review/work/crops/r15h.png`). **Rows 16–17, person:** *kap* is third person or formal, *add* is informal second person. I take *babám* as a vocative and *kap* as the formal "you" Feri uses earlier on the card (*magát*), with a slide to *te* in the verse. *Ha csókot kap babám* can also mean "if my baby gets a kiss". The English cannot show the switch; the Slovak keeps it (*dostanete … vráť*).
 12. **Date.** The date 1912-04-10 comes from the portal's file name. Turned 180° (`review/work/crops/pm180.png`), the postmark shows `91…`, then `APR`, then `10` or `16`. The month is April and the year's last digit is not legible. The ring text is not read. Easter 1912 fell on 7 April by calculation, so sprinkling (Easter Monday, 8 April) fits *kiöntözte-e*, and the writer had just travelled. Calling *kiöntözte* an Easter custom is my interpretation of the context.
-13. **Stamp box (plain, not cipher), one unread word.** The stamp has gone, the paper is torn at line 2, and the text lies over the printed stamp-box emblem. Lines read: *csokolom* | *a t…vol* | *ból az e-* | ?*n/r-e-l/d-e-t* | *te/tel + F/Sz-e? + ri*. *a távolból* rests on the same formula on HCP1278 *csókolom a távolból*; the t and á are in the tear and only the top of a stroke shows, so those two letters are a restoration. The first letter of *ból* looks like h or b; b by sense. The word begun with *e-* and running over two lines to *-tel* is not read. I do not offer a guess. The line-end *ri* is in purple over red, so the name's first letters may be of a different ink stage; *Feri* is likely, not certain.
+13. **Stamp box (plain, not cipher); superseded 2026-11-03: the word is read as *szeretettel*, see "Stamp-box message (2026-11-03)".** The stamp has gone, the paper is torn at line 2, and the text lies over the printed stamp-box emblem. Lines read: *csokolom* | *a t…vol* | *ból az e-* | ?*n/r-e-l/d-e-t* | *te/tel + F/Sz-e? + ri*. *a távolból* rests on the same formula on HCP1278 *csókolom a távolból*; the t and á are in the tear and only the top of a stroke shows, so those two letters are a restoration. The first letter of *ból* looks like h or b; b by sense. The word begun with *e-* and running over two lines to *-tel* is not read. I do not offer a guess. The line-end *ri* is in purple over red, so the name's first letters may be of a different ink stage; *Feri* is likely, not certain.
 14. **Signature, purple.** *Holes Fe…* is clear; the rest fades under the postmark and I read *Ferencz* only with the help of sister cards (HCP1268 *Holes Ferenc*, HCP1303, HCP1309 *holes feri*). The capital reads H. The F has its top bar visibly detached.
 15. Pencil marks at the top right corner (about "17") look like a later dealer or collector mark. They are not read as text. A dot at the left of row 2 is taken as a stray.
 16. Accents in the literal text show what is visible; they are not reliable as phonetic evidence. In rows 3, 5 and 13 ticks near a sign could belong to the row above or below.
@@ -111,3 +113,24 @@ Verdict REVISE. All findings are addressed. One letter of the normalized text ch
 5. **minor, translation details: fixed.** *kiöntözte* is noted as singular in item 5, and the translations now say "anyone" / *niekto*. The switch from *kap* to *add* and the third-person alternative are in item 11. The Slovak keeps the switch.
 6. **minor, item descriptions: fixed.** The wedge is described in item 5, the blobbed h of row 15 in item 11, and the postmark month APR in item 12.
 7. **Stamp box: no change.** The reviewer had no objection. The one word stays unread and I add no guess. It is alone, in a plain note, and the card is complete with it unread.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit, Claude Opus 5.5, ordered by the human (Tomáš Pavuk). The stamp is lifted (paper torn at line 2); the writing under it is plain Hungarian, red ink, with the signature in purple. No cipher signs are in the box. Crops: `work/stamp-2026-11-03/` (`box2x.png`, `line3.png`, `line4.png`, `line5.png` with `_g` green-channel versions, `sz_compare.png`).
+
+The one word left unread on 2026-11-01 (item 13) is now read: **szeretettel**, divided over lines 3–5 as *sze | retet | tel*.
+
+- Line 3, after *ból*: the sign read before as *a* is the writer's pointed s: it has a peak and a hooked return, like the s of *kisasszonynak* in the address (`sz_compare.png`), and unlike the round a of line 2 (*a t…vol*). With the following z and e it gives *sze*. So the earlier *az e-* is withdrawn.
+- Line 4: r (the n-like r of *Szépreményű*), e, a tall looped stroke, e, a tall stroke with a bowl. The tall strokes were read earlier as l/d and t; in this hand t is also a tall looped stroke (compare the t opening line 5), so the line reads *retet*. That the third sign is t and not l is a reading, not a pixel certainty: *relet* gives no word.
+- Line 5: *tel*, then the red F-like sign with a stroke over it and purple *ri* (*Feri*, as before).
+- Support, not proof: the enciphered word below the address on this same card decodes, with the key, to *szeretettel*.
+
+Literal (line by line): *csokolom | a t[á]vol | ból sze | retet | tel F(e)ri* ; signature *Holes Fe…* (purple).
+
+Normalized Hungarian: **Csókolom a távolból szeretettel, Feri. Holes Ferencz.**
+
+English: I kiss you from afar with love, Feri. Holes Ferencz.
+
+Slovak: Bozkávam Vás z diaľky s láskou, Feri. Holes Ferencz.
+
+What stays unread or restored: the t and á of *távolból* lie in the tear and remain a disclosed restoration (formula of HCP1278). The e of *Feri* is not seen apart from the overwritten red/purple sign; *Feri* stays likely, not certain. *Ferencz* is completed from sister cards, as in item 14. No whole clause is unread. The reproduction script covers only the cipher ledger; the stamp text is read by eye and was not added to it.

@@ -6,7 +6,9 @@ The card ends with the plain words **"folyt. köv."** ("to be continued"), so th
 
 ## Cipher type and key
 
-Hungarian, simple monoalphabetic substitution with invented graphic signs (MASC): the Jolánka postcard family. The key was transferred unchanged from HCP1216 (also 1212, 1213, 1217, 1218, 1243, 1301); no new sign values were needed.
+Hungarian, simple monoalphabetic substitution with invented graphic signs (MASC): the Jolánka postcard family.
+
+**Type note (2026-11-03):** register type changed to **MASC + Steganography**: the stamp was lifted and a six-row cipher message is written in the stamp box under it (see "Stamp-box message (2026-11-03)"). The key was transferred unchanged from HCP1216 (also 1212, 1213, 1217, 1218, 1243, 1301); no new sign values were needed.
 
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
@@ -96,6 +98,17 @@ Pod známkou: Pozdravuje Vás z diaľky Váš milujúci milý, Feri.
 - The text is coherent connected prose over long runs that could not be forced: *igazán sajnálom, hogy továbbra is azon kell gondolkoznom*, *felettem más rendelkezik*, *meggyőződik róla… hogy mennyi szabadom van*, *nem akarom munkájába zavarni*, *abból ne gondoljon minden rosszat*. Rendel|kezik and meggyőző|dik cross row breaks.
 - Repeated words decode identically (*hogy* 11 times, *édesem* 5 times, *sorai-* several times).
 - The family's formulas recur: *ha feljön… Pestre*, signature Feri, formal address, *kedvese* under the stamp as on HCP1216, Pest as on the family's other cards. The plain *folyt. köv.* fits a letter running beyond the card.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit by Claude Opus 5.5 on the human's instruction. The stamp is lifted; the stamp box (upper right of the address side, faint ruled outline) holds six short rows in the green-ink cipher signs, no plain Hungarian. A black postmark triangle lies over rows 3–5. Crops: `work/stamp-2026-11-03/` (3x of the whole box, 5x of row 3 with a green-minus-red channel separation). The reading already in the ledger and above was re-read sign by sign and stands unchanged:
+
+- Literal: `üdvozli / atavol / bo{?}ze / retőked / vesse / feri`
+- Hungarian (normalized): Üdvözli a távolból szerető kedvese Feri.
+- English: Greetings from afar from your loving sweetheart, Feri.
+- Slovak: Pozdravuje Vás z diaľky Váš milujúci milý, Feri.
+
+Unread: one sign in row 3, under the postmark triangle. In the channel-separated crop it is a diagonal stroke with a short hook at the top, not matching a key sign with certainty; *távolból szerető* needs l and sz here, so the restoration is disclosed (item 6), and one sign cannot give both, so the writer also dropped a letter. Row 5 `vesse` is normalized *kedvese*. Nothing else in the box is unread. The reproduction script already decodes these stamp rows from the ledger; it was not changed.
 
 ## Response to review 1
 

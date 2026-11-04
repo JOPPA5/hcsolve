@@ -2,7 +2,7 @@
 
 Human solver: Tomáš Pavuk
 
-**Status: all 157 cipher signs in 13 rows are assigned and the message reads as coherent Hungarian; the meaning of one word (*sorozat*) is unverified, and a plain-hand note in the stamp field is only partly read. Independent review 1 verdict REVISE; all findings addressed, with no change to the sense of the message.** Report dated 2026-10-30.
+**Status: all 157 cipher signs in 13 rows are assigned (type MASC + Steganography) and the message reads as coherent Hungarian; the meaning of one word (*sorozat*) is unverified, and a plain-hand note in the stamp field is only partly read. Independent review 1 verdict REVISE; all findings addressed, with no change to the sense of the message.** Report dated 2026-10-30.
 
 ## Origin and context
 
@@ -18,7 +18,9 @@ The card belongs to the Jolánka family: Hungarian postcards to the same address
 
 ![Address side: thirteen cipher rows on the left, plain address on the right, the stamp field with two handwritten lines top right (source/address-large.jpg)](../source/address-large.jpg)
 
-Other marks, none of them cipher: the address, the printed verses, the postmark, the HCPortal watermark, and two plain-hand lines in the stamp field. Line 1 of those reads *csókolom* ("I kiss you"); line 2 is unread, and neither solver nor reviewer could read it.
+Other marks, none of them cipher: the address, the printed verses, the postmark, the HCPortal watermark, and two plain-hand lines in the stamp field.
+
+**Stamp-box message (added 2026-11-03).** The stamp has been lifted: the printed stamp frame is empty and the postmark ring runs around it. Under where the stamp sat are two lines in plain Hungarian cursive, in the same red ink as the cipher, so the card hides a second message by steganography. Line 1 reads "csókolo" plus a z-shaped final with a long descender, taken as "csókolom" ("I kiss you"; the k and first o are under a blot). Line 2 is read tentatively as "Száz" ("a hundred"): a hooked capital (S or J), a z, a dark a, and a z with a descender ending in a long flourish. Normalized: "Csókolom. Száz[…]?" The end of line 2 is unread; the earlier guess "százszor" is dropped because no "-szor" is in the ink. Slovak: "Bozkávam (ťa). Sto […]?"
 
 ## Method
 
@@ -28,7 +30,7 @@ The reviewer read every row from its own crops, wrote its ledger in shape codes 
 
 ## Key
 
-Simple monoalphabetic substitution with invented graphic signs. The labels are conventional names for the shapes.
+**Cipher type: MASC + Steganography** (updated 2026-11-03): simple monoalphabetic substitution with invented graphic signs, plus a plain-text note hidden under the stamp. The labels are conventional names for the shapes.
 
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
@@ -95,7 +97,8 @@ The script checks the SHA-256 of the two scans in source/ and the two originals 
 - **Row 3, *halaszt-*:** a blot may hide a third bar (a vs e); sense and the two clear bars of row 4 favour a. The l and s there are irregular in shape.
 - **Row 5:** the dots of ü may be ink or spatter from the nearby stain; *szüretre* either way.
 - **Accents and spelling:** accents are supplied in normalization; *hetel* → héttel, *kesobre* → későbbre.
-- **Not read:** stamp line 2, the postmark place and day, the rotated printed lines. The sender is not established.
+- **Stamp box:** line 1's final letter (m by sense, z-shaped by form); line 2 only tentatively "Száz", its capital and ending uncertain, and it may be a short signature.
+- **Not read:** the end of stamp line 2, the postmark place and day, the rotated printed lines. The sender is not established.
 
 ## Review summary
 

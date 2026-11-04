@@ -4,7 +4,9 @@
 
 ## Cipher type and key
 
-Hungarian, simple monoalphabetic substitution with invented graphic signs: the "Jolánka" postcard family. The key was transferred unchanged from the finished card HCP1216 (also 1213, 1217, 1218, 1243, 1301); nothing was reconstructed here. The card has no word division. Accents stand above the signs as marks.
+Hungarian, simple monoalphabetic substitution with invented graphic signs: the "Jolánka" postcard family.
+
+*Type note (2026-11-03): register type is now **MASC + Steganography**: seven rows of the message are written in the stamp box, under the (now lifted) stamp; see "Stamp-box message (2026-11-03)" below.* The key was transferred unchanged from the finished card HCP1216 (also 1213, 1217, 1218, 1243, 1301); nothing was reconstructed here. The card has no word division. Accents stand above the signs as marks.
 
 | sign | letter | sign | letter | sign | letter |
 |---|---|---|---|---|---|
@@ -115,3 +117,16 @@ Verdict REVISE. I checked the signs of row 27 again on `review/work/r2/m2627.png
 3. **Spelling list: fixed.** Item 7 now lists *kel* → kell (row 4) and the two supplied endings.
 
 Re-ran `python3 -I ciphers/hcp-1226/work/decode.py`: four hashes OK; the literal rows are unchanged and the normalized text prints the new clause.
+
+## Stamp-box message (2026-11-03)
+
+Stamp-box audit by Claude Opus 5.5 on 2026-11-03, from crops of `work/hires/*_adr.jpg` (`work/stamp-2026-11-03/stamp_2x.png`, `stamp_rows_4x.png`). The stamp has been **lifted**. Green paper fragments with perforation traces remain at its lower left and bottom edge, and the ÉRSEK… postmark breaks off where the stamp edge was. The stamp box holds a printed green triangle (letters N, B, C around a sun), and over it, where the stamp covered them, are **seven short rows in violet cipher signs** (no plain Hungarian). This writing was hidden under the stamp, so the card is steganographic as well as enciphered.
+
+The rows were already read in full as S1–S7 of `work/ledger.txt` (decoded by the reproduction command above, after reviews 1 and 2). Today's crops agree with the ledger (S1 `) T E N V E` after the first sign, S6 `L A T A ) F A`, S7 tilted cross, three bars, F, dotted curve). The ledger and script are unchanged.
+
+- Literal: istenve | leedes | semabol | d{o}gvi | szont | latasra | {f}eri
+- Hungarian (normalized): Isten vele, édesem, a boldog viszontlátásra. Feri
+- English: God be with you, my darling, until the happy reunion. Feri
+- Slovak: S Bohom, drahá, do šťastného zhľadania. Feri
+
+Unread: nothing. Two signs remain soft, as disclosed earlier: the first o of *boldog* (S4) is partly lost under the printed triangle, and the S7 tilted cross is read f (*Feri*).

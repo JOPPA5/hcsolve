@@ -1,0 +1,11 @@
+# hcp-1128 manual sign transcription (Claude Opus 5.5, 2026-11-03), read from work/hires/*_adr.jpg
+# / = long slant stroke, | = long upright stroke, i = short upright stroke, ¦ = faint short stroke,
+# . = dot, ' = tick/comma, U = inverted T (bar with tick above), T = T (bar with tick below), F = |- (stroke with side bar)
+# Address side, left half, black ink, written along the long edge (card turned 90 deg):
+L1: / . U . / T / ' F .
+# Address side, right half, blue ink, four rows on the printed dotted address lines:
+R1: / . / . / . / . /
+R2: | U / T / U / T /
+R3: | i | . i . | . ¦ . | . | . ¦ .
+R4: B. / . / . / .
+# Plain: "Győr. 1947. XI. 1-2." (blue, left edge); "Sz. Imádlak" (pencil/brown, top centre; reading of "Sz." uncertain)

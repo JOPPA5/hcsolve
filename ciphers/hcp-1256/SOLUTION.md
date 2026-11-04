@@ -8,6 +8,8 @@ Credit: solved by Claude Opus 5.5 with the Jolánka-family key taken from the fi
 
 Hungarian, simple monoalphabetic substitution with invented graphic signs (Jolánka family), the key and sign classes of HCP1216 unchanged; this card's text confirms them. Sign classes: two bars a; six b; left bowl c; long + short tick d; three bars e; upright cross f; open loop with descender g; tall stroke + short tick h/p; dotted crossed curve i; inverted T j; section mark k; wave l; three short strokes m; two short strokes n; cursive loop o; F-shape r; right bowl s; corner t; plain cross u; chevron v; low descender y; crossed diagonal z. The digraphs have no sign of their own on this card: gy is written as two separate signs, g + y, and cs as left bowl + right bowl, i.e. c + s. Dots over o/u give ö/ü; acute marks are supplied in normalization.
 
+**Type (2026-11-03):** MASC + Steganography. The sender hid an eight-row cipher message in the stamp box, under the postage stamp (since lifted, only fragments remain); see the section "Stamp-box message (2026-11-03)" below.
+
 Observations on this hand: a corner t may be written in two pen lifts (row 21 *tudom*); the k appears both as a large section mark and as a small "5"; the d is often short tick + long stroke.
 
 The red word **Szépremény** at the top of the address side is unenciphered ("fair hope"), as are the address (*Tóth Jolánka úrleánynak szeretettel, Jász-Árokszállás*; *szeretettel*, "with love", is partly under the collection stamp) and the printed verse on the picture side (*Aranyeső*, "Huzok az ujjadra aranyos karikagyűrűt"). No cipher on the picture side.
@@ -99,3 +101,16 @@ Verdict REVISE. I rechecked every finding on the reviewer's crops and on my own 
 11. **Sign-off: fixed.** The status line and uncertainty 1 now say "one word or short phrase". I could not read it either.
 
 Also corrected, not raised in the review: the bracket in row 16 now follows the written `-gett` (*beszé[l]gett[ünk]*). The command `python3 -I ciphers/hcp-1256/work/decode_opus.py` was re-run after all changes: four hashes OK, output as printed above.
+
+## Stamp-box message (2026-11-03)
+
+Audit by Claude Opus 5.5 on 2026-11-03, at the request of Tomáš Pavuk. Crops: `work/stamp-2026-11-03/` (overview 1x, rows S6–S7 at 4x and 6x, S3 *boldog* at 5x for comparison).
+
+- **State of the stamp box:** the stamp is lifted. Paper fragments and green frame pieces of the stamp ("…LÉR" in the bottom frame) remain on the left edge and along the bottom; the inverted cancellation is to the left. Under it the writer put eight short rows **in the cipher signs** (red ink, same hand and key as the main text). No plain-Hungarian writing in the box.
+- **Coverage before this audit:** already transcribed and decoded as rows S1–S8 in `work/ledger-opus.txt` and in the reproduction command; nothing added to the ledger or the script today.
+- **Literal (as in the ledger):** `[i][s][t]enve / leedesem / aboldog / viszot / lat{a/e}sig / {?}arsoka / {-}eszimado / jaferi`
+- **New observation today:** the first sign of S6 is the same "6" form as the b of *boldog* in S3 (`s3_b_5x.png` vs `s6s7_left_6x.png`), so I read it b: literal `barsoka`. This does not produce a word. The S7 start is a short bar emerging from under a green stamp fragment, then e s z; the bar may be the end of a hidden sign or the first stroke of the e. Still unread.
+- **Hungarian (normalized):** [Ist]en vele, édesem, a boldog viszo[n]tlátásig. {barsoka [?] ész – unread} imádója Feri.
+- **English:** God be with you, darling, until the happy reunion. [unread word or short phrase] your admirer, Feri.
+- **Slovak:** S Bohom, drahá, do šťastného zvidenia. [neprečítané slovo alebo krátke slovné spojenie] Váš ctiteľ Feri.
+- **Unread:** the stretch `barsoka [?] esz` before *imádója* (one word or a short phrase in the sign-off, about ten signs); *Ist-* of S1 is a disclosed restoration (hidden under a stamp flap). No guess is offered for the sign-off stretch.

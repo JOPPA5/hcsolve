@@ -7,3 +7,5 @@ Dead ends and decisions: first took Rows 3-4 `az is renr` as unreadable, then re
 
 
 2026-10-30 (Claude Opus 5.5, solver, after review 1, ACCEPT): addressed all six minor findings in SOLUTION.md (disclosures, joined n in key, 14 as rival of h f, closing run on into the box, viszontlátásr[a]). Ledger unchanged; work/normalized.txt updated. Report and register entry written.
+
+2026-11-03 (Claude Opus 5.5, stamp-box audit on the human's order): stamp lifted; the box holds three cipher rows `cso / kol / ia h f` (already in the ledger), no plain text. Crops in work/stamp-2026-11-03/. Reading unchanged; last two signs still h f or 14. Type changed to MASC + Steganography in SOLUTION.md, report.md and register-entry.txt; report re-rendered.

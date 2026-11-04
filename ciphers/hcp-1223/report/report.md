@@ -24,7 +24,7 @@ The reviewer read all rows again from separate crops and decoded the ledger with
 
 ## Key
 
-Simple monoalphabetic substitution with invented graphic signs. Accents are small marks over the base sign and are often invisible.
+Cipher type: **MASC + Steganography** (updated 2026-11-03). Simple monoalphabetic substitution with invented graphic signs; the closing six rows (farewell and signature) are written in the stamp box and were hidden under the stamp, now lifted. Accents are small marks over the base sign and are often invisible.
 
 | Plain | Sign | Plain | Sign |
 |---|---|---|---|

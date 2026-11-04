@@ -11,3 +11,5 @@
 Ledger in work/ledger.txt; decoder work/decode.py. Complete reading, DONE1.
 
 2026-11-01 (Claude Opus 5.5, solver, after review 1): verdict ACCEPT. All six minor findings addressed (see SOLUTION.md, Response to review 1). bővebben replaces bővebbet in the normalized text. The ledger gained word-sense tokens R:g and F:x; literal output is unchanged. Report and register entry written.
+
+2026-11-03 (Claude Opus 5.5, stamp-box audit on human request): stamp lifted, 7 cipher rows under it (already in ledger S1-S7, fully read: Isten vele, édesem! Csókolom számtalanszor. Feri). Type changed to MASC + Steganography in SOLUTION.md, report and register-entry.txt. Crop: work/stamp-2026-11-03/stampbox_x3.png.

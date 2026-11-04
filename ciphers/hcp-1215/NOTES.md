@@ -8,3 +8,4 @@
 - Picture side: printed title and verse only (pic_full.png, contrast-stretched), no handwriting found.
 - Top "Önagysága": plain, isolated word (onagy.png).
 - Stops at: rows 5-6, where a clause is lost under the cancel and postmark; even as plain text this is a whole unread clause. Details and full transcription in SOLUTION.md. No register entry justified.
+- 2026-11-03 (Claude Opus 5.5): stamp-box audit (crops and scripts in work/stamp-2026-11-03/). Stamp torn off, margins remain; six rows of plain Hungarian under it, no cipher signs: [..]en / veled l / szi[..] / hű[..] / Im[..]l(d) / Feri. The green triangle over S3–S5 looks like an inked hand-stamp mark, not a stamp fragment, and channel separation cannot lift writing from under it (both inks green). No new letters gained. Type unchanged (no cipher, so not MASC + Steganography); noted in SOLUTION.md. No report or register entry exists; none created.
